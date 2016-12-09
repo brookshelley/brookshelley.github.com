@@ -1,8 +1,5 @@
----
-layout: page
-title: Brook Shelley
-tagline: Some Links
----
+#Brook Shelley
+
 ## Writing
 
 ### Oregon Humanities
