@@ -15,6 +15,9 @@
 
 [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
+### Medium
+[All of my Medium posts](https://medium.com/me/stories/public)
+
 ### Little Red Tarot
 [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
