@@ -1,6 +1,7 @@
 # Brook Shelley
 
 ## Writing
+---
 
 ### Oregon Humanities
 [Also Fire](http://oregonhumanities.org/magazine-extras/identity/also-fire/1897/)
