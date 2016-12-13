@@ -1,8 +1,7 @@
 # Brook Shelley
-
-## Writing
+[@brookshelley](https://twitter.com/brookshelley)
 ---
-
+## Writing
 ### Oregon Humanities
 [Also Fire](http://oregonhumanities.org/magazine-extras/identity/also-fire/1897/)
 
