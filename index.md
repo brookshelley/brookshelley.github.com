@@ -1,7 +1,5 @@
-# Brook Shelley
 [@brookshelley](https://twitter.com/brookshelley)
-
-##### noted sapphist. lives in portland with her cat.
+[about](about.md)
 ---
 
 ## Writing
