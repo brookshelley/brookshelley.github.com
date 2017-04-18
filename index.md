@@ -1,6 +1,7 @@
 # Brook Shelley
 [@brookshelley](https://twitter.com/brookshelley)
 
+##### noted sapphist. lives in portland with her cat.
 ---
 
 ## Writing
@@ -18,7 +19,7 @@
 [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
 ### Medium
-[All of my Medium posts](https://medium.com/me/stories/public)
+[All of my Medium posts](https://medium.com/@brookshelley/)
 
 ### Little Red Tarot
 [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
