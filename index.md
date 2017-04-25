@@ -6,7 +6,7 @@
 
 ### Oregon Humanities
 
-[Also Fire](http://oregonhumanities.org/magazine-extras/identity/also-fire/1897/)
+[Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
 ### The Toast
 
