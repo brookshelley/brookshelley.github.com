@@ -1,4 +1,4 @@
-[about](about.md) & [photos](http://vsco.co/brookshelley/images/1) & [things i've read](books.md)
+[writing](index.md) & [about](about.md) & [photos](http://vsco.co/brookshelley/images/1) & [things i've read](books.md)
 
 ---
 
