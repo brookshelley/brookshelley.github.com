@@ -1,6 +1,6 @@
 [about](about.md) & [photos](http://vsco.co/brookshelley/images/1) & [things i've read](books.md)
 
---- 
+---
 
 # books i've read
 
@@ -17,6 +17,7 @@
 5. **The Remedy** – Zena Sherman
 
 6. **Texts from Jane Eyre** – Mallory Ortberg
+
   I didn't understand half of this, because Mallory & I have divergent tastes, but she gave me a European paperback, so I read it finally after it being sold out in a bunch of places. Love her.
 
 7. **Freedom is a Constant Struggle** – Angela Davis
