@@ -8,87 +8,87 @@
 
 1. **Reaquainted with Life** – Kokumo
 
-- **The Kingdom of Gods** – NK Jemison
+2. **The Kingdom of Gods** – NK Jemison
 
-- **Slice Harvester** – Colin Atrophy Hagendorf
+3. **Slice Harvester** – Colin Atrophy Hagendorf
 
-- **The Inheritance Trilogy** – NK Jemison
+4. **The Inheritance Trilogy** – NK Jemison
 
-- **The Remedy** – Zena Sherman
+5. **The Remedy** – Zena Sherman
 
-- **Texts from Jane Eyre** – Mallory Ortberg
+6. **Texts from Jane Eyre** – Mallory Ortberg
   - I didn't understand half of this, because Mallory & I have divergent tastes, but she gave me a European paperback, so I read it finally after it being sold out in a bunch of places. Love her.
 
-- **Freedom is a Constant Struggle** – Angela Davis
+7. **Freedom is a Constant Struggle** – Angela Davis
   - This was a coven book club book. It was lovely, but also super repetative, because most of the talks/essays were written/given around the same time, so the themes & topics are the same. Important, but I probably didn't need to read them all.
 
-- **The Small Backs of Children** – Lydia Yuknavitch
+8. **The Small Backs of Children** – Lydia Yuknavitch
 
-- **Objects in Mirror are Closer...** – Kate Carroll deGates
+9. **Objects in Mirror are Closer...** – Kate Carroll deGates
 
-- **Magician King** – Lev Grossman
+10. **Magician King** – Lev Grossman
 
-- **Magician's Land** – Lev Grossman
+11. **Magician's Land** – Lev Grossman
 
-- **100 Crushes** – Elisha Lim
+12. **100 Crushes** – Elisha Lim
 
-- **Wet Moon Vol. 1** – Sophie Campbell
+13. **Wet Moon Vol. 1** – Sophie Campbell
 
-- **The Mirror Empire: Worldbreaker Saga 1** – Kameron Hurley
+14. **The Mirror Empire: Worldbreaker Saga 1** – Kameron Hurley
 
-- **Fire** – Elizabeth Hand
+15. **Fire** – Elizabeth Hand
 
-- **Home** – Nnedi Okafor
+16. **Home** – Nnedi Okafor
 
-- **A Conjuring of Light** – VE Schwab
+17. **A Conjuring of Light** – VE Schwab
 
-- **Women's Barracks** - Tereska Torres
+18. **Women's Barracks** - Tereska Torres
 
-- **Theresa + Isabelle** – Violette LeDuc
+19. **Theresa + Isabelle** – Violette LeDuc
 
-- **For Your Own Good** – Leah Horlick
+20. **For Your Own Good** – Leah Horlick
 
-- **Difficult Women** – Roxanne Gay
+21. **Difficult Women** – Roxanne Gay
 
-- **Exit West** – Moisin Hamid
+22. **Exit West** – Moisin Hamid
   - Another book club book. This was a really neat exploration of immigration, family, and place. I super loved this book.
 
-- **Sex Object** – Jessica Valenti
+23. **Sex Object** – Jessica Valenti
 
-- **The Long Way to a Small, Angry Planet** – Becky Chambers
+24. **The Long Way to a Small, Angry Planet** – Becky Chambers
 
-- **A Herstory of Transmasculine Identities** – Michael Eric Brown
+25. **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
-- **Literally Show Me a Healthy Person** – Darcie Wilder
+26. **Literally Show Me a Healthy Person** – Darcie Wilder
 
-- **Saga Vol. 7** – Fiona Staples
+27. **Saga Vol. 7** – Fiona Staples
 
-- **A Closed and Common Orbit** – Becky Chambers
+28. **A Closed and Common Orbit** – Becky Chambers
 
-- **The Border of Paradise** – Esme Wang
+29. **The Border of Paradise** – Esme Wang
 
-- **I'm in Friend Love with You** – Yumi Sakugawa
+30. **I'm in Friend Love with You** – Yumi Sakugawa
 
-- **Borne** – Jeff Vandemeer
+31. **Borne** – Jeff Vandemeer
 
-- **Where the Words End & My Body Begins** – Amber Dawn
+32. **Where the Words End & My Body Begins** – Amber Dawn
 
-- **Because They Wanted to: Stories** – Mary Gaitskill
+33. **Because They Wanted to: Stories** – Mary Gaitskill
 
-- **Pony Castle** – Sofia Banzhaf
+34. **Pony Castle** – Sofia Banzhaf
 
-- **The Slow Fix** – Ivan Coyote
+35. **The Slow Fix** – Ivan Coyote
 
-- **x-23 Collection** – Marjorie Liu
+36. **x-23 Collection** – Marjorie Liu
 
-- **APOSIMZ 1-4** – Nihei Tsutomu
+37. **APOSIMZ 1-4** – Nihei Tsutomu
 
-- **Murcielago 1** – Yoshinarakana
+38. **Murcielago 1** – Yoshinarakana
 
-- **Moshi Moshi** – Banana Yoshimoto
+39. **Moshi Moshi** – Banana Yoshimoto
 
-- **The Wicked & Divine** – Kieron Gillen
+40. **The Wicked & Divine** – Kieron Gillen
 
-- **The Ornge Eats Creeps** – Grace Krilanovich
+41. **The Ornge Eats Creeps** – Grace Krilanovich
 
-- **Nine Cuts** – Audrey Chin
+42. **Nine Cuts** – Audrey Chin
