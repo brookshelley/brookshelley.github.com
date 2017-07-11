@@ -60,3 +60,35 @@
 - **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
 - **Literally Show Me a Healthy Person** – Darcie Wilder
+
+- **Saga Vol. 7** – Fiona Staples
+
+- **A Closed and Common Orbit** – Becky Chambers
+
+- **The Border of Paradise** – Esme Wang
+
+- **I'm in Friend Love with You** – Yumi Sakugawa
+
+- **Borne** – Jeff Vandemeer
+
+- **Where the Words End & My Body Begins** – Amber Dawn
+
+- **Because They Wanted to: Stories** – Mary Gaitskill
+
+- **Pony Castle** – Sofia Banzhaf
+
+- **The Slow Fix** – Ivan Coyote
+
+- **x-23 Collection** – Marjorie Liu
+
+- **APOSIMZ 1-4** – Nihei Tsutomu
+
+- **Murcielago 1** – Yoshinarakana
+
+- **Moshi Moshi** – Banana Yoshimoto
+
+- **The Wicked & Divine** – Kieron Gillen
+
+- **The Ornge Eats Creeps** – Grace Krilanovich
+
+- **Nine Cuts** – Audrey Chin
