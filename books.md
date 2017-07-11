@@ -1,3 +1,7 @@
+[about](about.md) & [photos](http://vsco.co/brookshelley/images/1) & [things i've read](books.md)
+
+--- 
+
 # books i've read
 
 ## 2017
