@@ -17,11 +17,10 @@
 5. **The Remedy** – Zena Sherman
 
 6. **Texts from Jane Eyre** – Mallory Ortberg
-
-  I didn't understand half of this, because Mallory & I have divergent tastes, but she gave me a European paperback, so I read it finally after it being sold out in a bunch of places. Love her.
+  - I didn't understand half of this, because Mallory & I have divergent tastes, but she gave me a European paperback, so I read it finally after it being sold out in a bunch of places. Love her.
 
 7. **Freedom is a Constant Struggle** – Angela Davis
-  This was a coven book club book. It was lovely, but also super repetative, because most of the talks/essays were written/given around the same time, so the themes & topics are the same. Important, but I probably didn't need to read them all.
+  - This was a coven book club book. It was lovely, but also super repetative, because most of the talks/essays were written/given around the same time, so the themes & topics are the same. Important, but I probably didn't need to read them all.
 
 8. **The Small Backs of Children** – Lydia Yuknavitch
 
@@ -50,4 +49,4 @@
 20. **Difficult Women** – Roxanne Gay
 
 21. **Exit West** – Moisin Hamid
-  Another book club book. This was a really neat exploration of immigration, family, and place. I super loved this book.
+  - Another book club book. This was a really neat exploration of immigration, family, and place. I super loved this book.
