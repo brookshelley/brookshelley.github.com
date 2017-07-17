@@ -9,9 +9,7 @@
 
 **The Toast**
 - [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
-
 - [Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
-
 - [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
 **Medium**
@@ -22,7 +20,6 @@
 
 ### Books
 - [Transfigure](http://transfigureproject.com/brook-shelley/)
-
 - [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
 ### Zines
