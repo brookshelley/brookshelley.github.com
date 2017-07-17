@@ -1,5 +1,4 @@
 [@brookshelley](https://twitter.com/brookshelley)
-
 [writing](index.md) & [about](about.md) & [photos](http://vsco.co/brookshelley/images/1) & [things i've read](books.md)
 
 ---
