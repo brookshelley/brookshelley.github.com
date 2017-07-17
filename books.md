@@ -92,3 +92,5 @@
 41. **The Ornge Eats Creeps** – Grace Krilanovich
 
 42. **Nine Cuts** – Audrey Chin
+
+43. **Monstress Vol.2: The Blood** – Marjorie Liu
