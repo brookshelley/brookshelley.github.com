@@ -10,7 +10,7 @@ _this list is super truncated because i forgot keep it until July_
 
 1. Alien Covenant
 
-  Aliens rule. This movie ruled. Kenny Powers flies a spaceship, and new Ridley is solid. Also Magneto is creepy AF in this.
+    Aliens rule. This movie ruled. Kenny Powers flies a spaceship, and new Ridley is solid. Also Magneto is creepy AF in this.
 
 2. Logan
   - It's like Wolverine, but better, because he's old. Also this has Rictor, who was gay in the comics with Shatterstar. Super entertaining.
