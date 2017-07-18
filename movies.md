@@ -118,6 +118,6 @@ _this list is super truncated because i forgot keep it until July_
 
 ## 2016
 
-1. Nine Lives
+1. **Nine Lives**
 
     Nothing could redeem this absolute shitpile. We thought it would be funny to watch a movie about Kevin Spacey as a cat, but it was _unbearably_ bad. Avoid.
