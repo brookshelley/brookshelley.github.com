@@ -1,4 +1,4 @@
-[writing](index.md) & [about](about.md) & [things i've read](books.md) & [photos](http://vsco.co/brookshelley/images/1) 
+[writing](index.md) & [about](about.md) & [things i've read](books.md) & [photos](http://vsco.co/brookshelley/images/1)
 
 ---
 
@@ -83,7 +83,7 @@
 
 37. **APOSIMZ 1-4** – Nihei Tsutomu
 
-38. **Murcielago 1** – Yoshinarakana
+38. **Murcielago Vol.1** – Yoshinarakana
 
 39. **Moshi Moshi** – Banana Yoshimoto
 
@@ -94,3 +94,5 @@
 42. **Nine Cuts** – Audrey Chin
 
 43. **Monstress Vol.2: The Blood** – Marjorie Liu
+
+44. **Murcielago Vol.2** – Yoshinarakana
