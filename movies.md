@@ -10,9 +10,15 @@ _this list is super truncated because i forgot keep it until July_
 
 1. **Life**
 
+    Everyone forgets their training, acts like an ass, and gets munched by aliens. It was entertaining in a schadenfreude way.
+
 2. **Moonlight**
 
+    Cried through most of this. It's about growing up black & gay, with a neurodiverse mom. It's beautiful, intense, and in my top five movies I've ever seen. Incredible.
+
 3. **Get Out**
+
+    At times hilarious, and others biting AF. I really loved this movie. A pitch-perfect callout of "good white folks", like we often are.
 
 2. **Alien Covenant**
 
