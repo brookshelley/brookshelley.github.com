@@ -6,7 +6,7 @@
 
 ## 2017
 
-_this list is super truncated because i forgot keep it until July_
+_this list is super truncated because i forgot keep it until july_
 
 1. **Life**
 
