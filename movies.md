@@ -71,3 +71,53 @@ _this list is super truncated because i forgot keep it until July_
 14. **Tremors**
 
     "Featuring Kevin Bacon from Footloose" as the least convincing outdoor working man in a movie, ever. He and his boyfriend can't leave town, so they end up fighting giant worms. This movie is super euphemistic, hilarious, and the best role Reba has ever had.
+
+15. **Shin Godzilla**
+
+    A fantastic look at how modern bueracracy and posturing can get in the way of stopping a giant lizard. Too bad they don't show the environmental devastation wrought by eschewing safety checks.
+
+16. **Your Name**
+
+    A super cute, super straight story of love through time. Imagine if the Lake House was better, and didn't have Keanu. It's basically this.
+
+17. **The Girl with All the Gifts**
+
+    Another great zombie movie, with a super cute protagonist. Cute kid zombies are great.
+
+18. **Raw**
+
+    This is literally what happens if you break vegan.
+
+19. **Prometheus**
+
+    Had to rewatch this after Covenant. Still perfect. Naomi Rapace could do her taxes on film, and I'd probably be riveted. She rules.
+
+20. **Justice League Dark**
+
+    I wanted this to be better. It was so-so, and seriously, _Swamp Thing_?
+
+21. **The Heat**
+
+    A send-up of Lethal Weapon + every buddy cop film. Mcarthy and Bullock are fantastic in this.
+
+22. **Keanu**
+
+    I will watch this yearly, as it's one of the 4 movies I own. Get high, and watch this movie about a kitten, and the men who love him.
+
+23. **Wicker Man**
+
+    Nick Cage at his most unhinged. Well, close to it. My roommate hadn't seen this, so I introduced her to this hilarious hellride.
+
+24. **Neon Demon**
+
+    Don't get into modelling. It'll end badly. This movie was beautiful, gory, and wild.
+
+25. **Kubo**
+
+    I've enjoyed other movies from this studio more – Coraline for one – but this was still fun.
+
+## 2016
+
+1. Nine Lives
+
+    Nothing could redeem this absolute shitpile. We thought it would be funny to watch a movie about Kevin Spacey as a cat, but it was _unbearably_ bad. Avoid.
