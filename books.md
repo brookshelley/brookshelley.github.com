@@ -99,3 +99,7 @@
 43. **Monstress Vol.2: The Blood** – Marjorie Liu
 
 44. **Murcielago Vol.2** – Yoshinarakana
+
+45. **Motor Crush Vol.1** – Babs Tarr
+
+    I'm really stoked on this queer lady motorcycle racing comic. Like, damn. I can't wait for the next one. The art is fantastic, and the story is a little light, but hints at a lot more. The world seems interesting. Why do the motorcyles get addicted?
