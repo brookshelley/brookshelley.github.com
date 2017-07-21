@@ -24,7 +24,7 @@
 
 7. **Freedom is a Constant Struggle** – Angela Davis
 
-    This was a coven book club book. It was lovely, but also super repetative,
+    This was a coven book club book. It was lovely, but also super repetitive,
     because most of the talks/essays were written/given around the same time,
     so the themes & topics are the same. Important, but I probably didn't need
     to read them all.
@@ -113,4 +113,6 @@
     little light, but hints at a lot more. The world seems interesting. Why do
     the motorcyles get addicted?
 
-46.
+46. **The Idiot** – Elif Batuman
+
+47. **My Lesbian Experience with Loneliness** – Kabi Nagata
