@@ -98,7 +98,7 @@
 
 40. **The Wicked & Divine** – Kieron Gillen
 
-41. **The Ornge Eats Creeps** – Grace Krilanovich
+41. **The Orange Eats Creeps** – Grace Krilanovich
 
 42. **Nine Cuts** – Audrey Chin
 
