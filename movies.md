@@ -120,6 +120,10 @@ _this list is super truncated because i forgot keep it until july_
 
     I'd avoided watching this because I hadn't read great things about it, save for [this review by Matt Haughey](https://15minutes.inthemorni.ng/baby-driver-was-fantastic-2acd21be54ba). While I agree with him that the opening action scene was stellar, so were the short films BMW made with greats like Wong Kar Wai a few years ago to sell cars. I liked watching this film, but it's unfortunate that the men were two-dimensional, and the women collapsed in on themselves, with no characterization, or much motivation. I'd expected a bit more of Edgar Wright, but on the upside, the musical cues were also quite good. I'm not fully sure if this is a tribute to old McQueen movies, or what, but it was alright, but I can't co-sign the _fantastic_ from the above. It was exciting, but the stakes weren't ever high, because I never cared much about the protagonist, because I was given no reason to care. We've seen chases before, parkour, car work. This movie could've elevated them further, but it chose not to. I never believed there really was jeopardy, because as the movie, and the news of the day makes clear, "he's such a good boy," is something that will always apply to the white male criminal.
 
+27. **Valerian**
+
+    The short version is that this was very targetted towards a Chinese release, partially due to the studio financing, and even Besson was [promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty dang ridiculous, and had super traditional and boring gender roles and "marriage is the best" kind of crap. Still, the visuals were incredible, and it was a fun space romp. Recommended.
+
 ## 2016
 
 1. **Nine Lives**
