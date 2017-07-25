@@ -116,3 +116,8 @@
 46. **The Idiot** – Elif Batuman
 
 47. **My Lesbian Experience with Loneliness** – Kabi Nagata
+
+48. **Hard Boiled & Hard Luck** – Banana Yoshimoto
+
+    A nice slice-of life, that's sad in a way that is very refreshing in the
+    summmer. These books are about losses, and how to cope and move forward. I'm really enjoying rediscovering Banana Yoshimoto's writing.
