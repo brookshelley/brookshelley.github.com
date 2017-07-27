@@ -5,3 +5,6 @@
 # about
 a noted sapphist, Brook travels often, writes, and speaks about
 queer issues, tech, and witchcraft.
+
+and _now there's a merge conflict
+i think. let's see
