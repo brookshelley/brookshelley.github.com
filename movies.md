@@ -124,6 +124,10 @@ _this list is super truncated because i forgot keep it until july_
 
     The short version is that this was very targetted towards a Chinese release, partially due to the studio financing, and even Besson was [promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty dang ridiculous, and had super traditional and boring gender roles and "marriage is the best" kind of crap. Still, the visuals were incredible, and it was a fun space romp. Recommended.
 
+28. **Secret Life of Pets**
+
+    I blame my friend Andy – they wanted to watch this because they were tired and we thought it'd be cute. It was very cute, but also pretty silly. I dunno. Kids probably loved it. There's some good cats.
+
 ## 2016
 
 1. **Nine Lives**
