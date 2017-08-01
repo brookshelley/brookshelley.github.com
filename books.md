@@ -22,7 +22,7 @@
     tastes, but she gave me a European paperback, so I read it finally after it
     being sold out in a bunch of places. Love her.
 
-7. **Freedom is a Constant Struggle** – Angela Davis (Ghost Club)
+7. **Freedom is a Constant Struggle** – Angela Davis**
 
     This was a coven book club book. It was lovely, but also super repetitive,
     because most of the talks/essays were written/given around the same time,
@@ -31,7 +31,7 @@
 
 8. **The Small Backs of Children** – Lydia Yuknavitch
 
-9. **Objects in Mirror are Closer...** – Kate Carroll deGates (Lesbian Book Club)
+9. **Objects in Mirror are Closer...** – Kate Carroll deGates*
 
 10. **Magician King** – Lev Grossman
 
@@ -57,14 +57,14 @@
 
 21. **Difficult Women** – Roxanne Gay
 
-22. **Exit West** – Moisin Hamid (Ghost Club)
+22. **Exit West** – Moisin Hamid**
 
     Another book club book. This was a really neat exploration of immigration,
     family, and place. I super loved this book.
 
 23. **Sex Object** – Jessica Valenti
 
-24. **The Long Way to a Small, Angry Planet** – Becky Chambers (Ghost Club)
+24. **The Long Way to a Small, Angry Planet** – Becky Chambers**
 
 25. **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
@@ -123,7 +123,7 @@
     summmer. These books are about losses, and how to cope and move forward.
     I'm really enjoying rediscovering Banana Yoshimoto's writing.
 
-50. **Bittersweet** – Nevada Barr (Lesbian Book Club)
+50. **Bittersweet** – Nevada Barr*
 
     An easy-enough read, but the story was too "femme danger & butch power" for
     me. The "love" story takes place between a late-20s/early-30s woman and a
@@ -134,3 +134,6 @@
     strange. Weird shit happens in this, and maybe it's worth reading if you're
     super into the 19th century "west," but the adult on teen predatory love
     and the bullshit masc > femme stuff is really not my bag.
+
+    * Lesbian Book Club
+    ** Ghost Book Club
