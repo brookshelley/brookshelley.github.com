@@ -135,5 +135,8 @@
     super into the 19th century "west," but the adult on teen predatory love
     and the bullshit masc > femme stuff is really not my bag.
 
-    * Lesbian Book Club
-    ** Ghost Book Club
+## Footnotes
+
+[*]() Lesbian Book Club
+
+[**]() Ghost Book Club
