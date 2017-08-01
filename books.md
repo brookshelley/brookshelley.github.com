@@ -22,7 +22,7 @@
     tastes, but she gave me a European paperback, so I read it finally after it
     being sold out in a bunch of places. Love her.
 
-7. **Freedom is a Constant Struggle** – Angela Davis
+7. **Freedom is a Constant Struggle** – Angela Davis (Ghost Club)
 
     This was a coven book club book. It was lovely, but also super repetitive,
     because most of the talks/essays were written/given around the same time,
@@ -31,7 +31,7 @@
 
 8. **The Small Backs of Children** – Lydia Yuknavitch
 
-9. **Objects in Mirror are Closer...** – Kate Carroll deGates
+9. **Objects in Mirror are Closer...** – Kate Carroll deGates (Lesbian Book Club)
 
 10. **Magician King** – Lev Grossman
 
@@ -45,26 +45,26 @@
 
 15. **Fire** – Elizabeth Hand
 
-16. **Home** – Nnedi Okafor
+16. **Home** – Nnedi Okafor (Ghost Club)
 
 17. **A Conjuring of Light** – VE Schwab
 
-18. **Women's Barracks** - Tereska Torres
+18. **Women's Barracks** - Tereska Torres (Lesbian Book Club)
 
-19. **Theresa + Isabelle** – Violette LeDuc
+19. **Theresa + Isabelle** – Violette LeDuc (Lesbian Book Club)
 
 20. **For Your Own Good** – Leah Horlick
 
 21. **Difficult Women** – Roxanne Gay
 
-22. **Exit West** – Moisin Hamid
+22. **Exit West** – Moisin Hamid (Ghost Club)
 
     Another book club book. This was a really neat exploration of immigration,
     family, and place. I super loved this book.
 
 23. **Sex Object** – Jessica Valenti
 
-24. **The Long Way to a Small, Angry Planet** – Becky Chambers
+24. **The Long Way to a Small, Angry Planet** – Becky Chambers (Ghost Club)
 
 25. **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
@@ -74,7 +74,7 @@
 
 28. **A Closed and Common Orbit** – Becky Chambers
 
-29. **The Border of Paradise** – Esme Wang
+29. **The Border of Paradise** – Esme Wang (Ghost Club)
 
 30. **I'm in Friend Love with You** – Yumi Sakugawa
 
@@ -120,4 +120,17 @@
 48. **Hard Boiled & Hard Luck** – Banana Yoshimoto
 
     A nice slice-of life, that's sad in a way that is very refreshing in the
-    summmer. These books are about losses, and how to cope and move forward. I'm really enjoying rediscovering Banana Yoshimoto's writing.
+    summmer. These books are about losses, and how to cope and move forward.
+    I'm really enjoying rediscovering Banana Yoshimoto's writing.
+
+50. **Bittersweet** – Nevada Barr (Lesbian Book Club)
+
+    An easy-enough read, but the story was too "femme danger & butch power" for
+    me. The "love" story takes place between a late-20s/early-30s woman and a
+    teenager (gross), and at a certain point they basically agree that if a man
+    tries to marry Sarah, she'll just go along – bc obviously femme women are
+    just waiting for a man, and butches have to fight those men off bc we have
+    no agency. I dunno. This author is also, AFAIK straight... which is doubly
+    strange. Weird shit happens in this, and maybe it's worth reading if you're
+    super into the 19th century "west," but the adult on teen predatory love
+    and the bullshit masc > femme stuff is really not my bag.
