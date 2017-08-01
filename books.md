@@ -22,7 +22,7 @@
     tastes, but she gave me a European paperback, so I read it finally after it
     being sold out in a bunch of places. Love her.
 
-7. **Freedom is a Constant Struggle** – Angela Davis**
+7. **Freedom is a Constant Struggle** – Angela Davis [**](#ghost)
 
     This was a coven book club book. It was lovely, but also super repetitive,
     because most of the talks/essays were written/given around the same time,
@@ -31,7 +31,7 @@
 
 8. **The Small Backs of Children** – Lydia Yuknavitch
 
-9. **Objects in Mirror are Closer...** – Kate Carroll deGates*
+9. **Objects in Mirror are Closer...** – Kate Carroll deGates [*](#les)
 
 10. **Magician King** – Lev Grossman
 
@@ -57,14 +57,14 @@
 
 21. **Difficult Women** – Roxanne Gay
 
-22. **Exit West** – Moisin Hamid**
+22. **Exit West** – Moisin Hamid [**](#ghost)
 
     Another book club book. This was a really neat exploration of immigration,
     family, and place. I super loved this book.
 
 23. **Sex Object** – Jessica Valenti
 
-24. **The Long Way to a Small, Angry Planet** – Becky Chambers**
+24. **The Long Way to a Small, Angry Planet** – Becky Chambers [*](#ghost)
 
 25. **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
@@ -74,7 +74,7 @@
 
 28. **A Closed and Common Orbit** – Becky Chambers
 
-29. **The Border of Paradise** – Esme Wang (Ghost Club)
+29. **The Border of Paradise** – Esme Wang [**](#ghost)
 
 30. **I'm in Friend Love with You** – Yumi Sakugawa
 
@@ -123,7 +123,7 @@
     summmer. These books are about losses, and how to cope and move forward.
     I'm really enjoying rediscovering Banana Yoshimoto's writing.
 
-50. **Bittersweet** – Nevada Barr*
+50. **Bittersweet** – Nevada Barr [*](#les)
 
     An easy-enough read, but the story was too "femme danger & butch power" for
     me. The "love" story takes place between a late-20s/early-30s woman and a
@@ -137,6 +137,6 @@
 
 ## Footnotes
 
-[*]() Lesbian Book Club
+[*](#les) <a name="les"></a>Lesbian Book Club
 
-[**]() Ghost Book Club
+[**](#ghost) <a name="ghost"></a> Ghost Book Club
