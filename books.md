@@ -135,6 +135,12 @@
     super into the 19th century "west," but the adult on teen predatory love
     and the bullshit masc > femme stuff is really not my bag.
 
+51. **Zodiac Starforce: By the Power of Astra** – Kevin Panetta
+
+    Cute sailor-moon-style girl team of fighters. Really enjoyed how this was
+    drawn, and the queerness of a few of the characters. If you need something
+    lighthearted, it's worth a read.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
