@@ -1,4 +1,4 @@
-[writing](index.md) & [about](about.md) & [things i've read](books.md) & [movies i watched](movies.md) & [photos](http://vsco.co/brookshelley/images/1)
+[writing](index.md) & [about](about.md) & [books i read](books.md) & [movies i watched](movies.md) & [photos](http://vsco.co/brookshelley/images/1)
 
 ---
 ### Online
