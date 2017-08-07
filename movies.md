@@ -126,6 +126,13 @@ _this list is super truncated because i forgot keep it until july_
 
     I blame my friend Andy – they wanted to watch this because they were tired and we thought it'd be cute. It was very cute, but also pretty silly. I dunno. Kids probably loved it. There's some good cats.
 
+29. **Atomic Blonde**
+
+    Charlize Theron as a queer badass assassin/spy? Sold. Because this is
+    mainstream Hollywood, of course that doesn't last, but still... this was a
+    fun romp. A summer movie devoid of substance, but thick and heavy with
+    style and silliness. 
+
 ## 2016
 
 1. **Nine Lives**
