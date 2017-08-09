@@ -139,6 +139,11 @@
     drawn, and the queerness of a few of the characters. If you need something
     lighthearted, it's worth a read.
 
+52. **Generation Loss** – Elizabeth Hand
+
+    I'd only read Fire, a short story collection by Hand, before and wasn't
+    sure what to expect. It was exciting expecting this to be odd literary fiction, then discovering it's a moody mystery. Definitely fun, and odd, and great.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
