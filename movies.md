@@ -131,7 +131,14 @@ _this list is super truncated because i forgot keep it until july_
     Charlize Theron as a queer badass assassin/spy? Sold. Because this is
     mainstream Hollywood, of course that doesn't last, but still... this was a
     fun romp. A summer movie devoid of substance, but thick and heavy with
-    style and silliness. 
+    style and silliness.
+
+30. **Flatliners**
+
+    Kiefer oozes weird attraction in this classic about chasing the meaning of
+    life by dying for minutes. I saw a trailer for the _sequel_ to this, I
+    guess, with Ellen Page, so I had to revisit the original. I loved it all
+    over again. Spooky and silly. And, to quote my roommate, "how many Baldwins are there?!"
 
 ## 2016
 
