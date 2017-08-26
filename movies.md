@@ -195,10 +195,28 @@ _this list is super truncated because i forgot keep it until july_
 
 31. **They're Watching**
 
-    This was goofy as hell, and was sort of a comedic Blair
-    Witch in Moldova thing. Near the end it takes a sharp
-    left, and we were cracking up. Worth watching on
-    Netflix, perhaps?
+    This was goofy as hell, and was sort of a comedic Blair Witch in Moldova
+    thing. Near the end it takes a sharp left, and we were cracking up. Worth
+    watching on Netflix, perhaps?
+
+32. **2012**
+
+    A beautifully terrible film by the guy who brought us
+    The Day After Tomorrow. I love a movie where we're led to believe that John
+    Cusack is the best driver in the world, and a writer-cum-action hero. I
+    love watching this movie when I'm camping, or hiking for a few days,
+    because it's so ridiculous, and also it's wild to watch the world end,
+    however silly the movie.
+
+33. **In This Corner of the World**
+
+    SO. MANY. TEARS. My friends and I sobbed through a lot of this film about
+    the atrocities of World War 2, especially the destruction the United States
+    caused in Japan. The movie follows a woman living in Hiroshima, then Kure,
+    who grows up in the 30s and 40s, and sees her friends and loved ones suffer
+    during the war. It's beautiful, hilarious at times, and sad. This movie is
+    a shift on the view that Grave of the Fireflies offers, but definitely in
+    similar territory.
 
 ## 2016
 
