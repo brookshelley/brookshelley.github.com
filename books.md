@@ -142,20 +142,26 @@
 52. **Generation Loss** – Elizabeth Hand
 
     I'd only read Fire, a short story collection by Hand, before and wasn't
-    sure what to expect. It was exciting expecting this to be odd literary fiction, then discovering it's a moody mystery. Definitely fun, and odd, and great.
+    sure what to expect. It was exciting expecting this to be odd literary
+    fiction, then discovering it's a moody mystery. Definitely fun, and odd,
+    and great.
 
 53. **Witches, Sluts, Feminists** – Kristen J. Sollee **
 
-    This was a decent non-fiction exploration of witches &
-    to a degree, sluts & feminists through the ages. It
-    focuses primarily on the Americas, and despite my usual
-    disinterest in non-fiction this was fun and informative
-    enough to carry me through on a camping trip during the
-    eclipse. Time to find some DMT for my flying broom.
+    This was a decent non-fiction exploration of witches & to a degree, sluts &
+    feminists through the ages. It focuses primarily on the Americas, and
+    despite my usual disinterest in non-fiction this was fun and informative
+    enough to carry me through on a camping trip during the eclipse. Time to 
+    find some DMT for my flying broom.
 
 54. **God's War** – Kameron Hurley
 
-    Queer bounty hunters, devout magicians, and so much sand intermingled in this fun ride through a Islam-based religion colonized planet where organs are bought and sold, and a war between two countries rages on pointlessly. I wanted to stay in this world for longer, as new wrinkles kept being added. Luckily, there's a sequel.
+    Queer bounty hunters, devout magicians, and so much sand intermingled in
+    this fun ride through a Islam-based religion colonized planet where organs
+    are bought and sold, and a war between two countries rages on pointlessly.
+    I wanted to stay in this world for longer, as new wrinkles kept being
+    added. Luckily, there's a sequel.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
