@@ -218,6 +218,12 @@ _this list is super truncated because i forgot keep it until july_
     a shift on the view that Grave of the Fireflies offers, but definitely in
     similar territory.
 
+34. **The Visit**
+
+    Guessed the twist about 20 minutes into this movie and i'm really proud of
+    that because I'm usually the worst at figuring out where bad movies are
+    headed. Don't trust your grandparents. Don't send your kids anywhere. Don't ever clean your oven.
+
 ## 2016
 
 1. **Nine Lives**
