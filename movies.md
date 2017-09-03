@@ -222,7 +222,19 @@ _this list is super truncated because i forgot keep it until july_
 
     Guessed the twist about 20 minutes into this movie and i'm really proud of
     that because I'm usually the worst at figuring out where bad movies are
-    headed. Don't trust your grandparents. Don't send your kids anywhere. Don't ever clean your oven.
+    headed. Don't trust your grandparents. Don't send your kids anywhere. Don't
+    ever clean your oven.
+
+35. **The Conjuring**
+
+    This was great, until the witch didn't win. I can't help but think these
+    movies are trying to get me to follow their lord and savior.
+
+36. **The Conjuring 2**
+
+    Yep, these are definitely witnessing. A cool demon has a hard time with
+    some very awful british people. Watched both of these in quick succession
+    to get to see Annabelle 2 or whatever later on tonight.
 
 ## 2016
 
