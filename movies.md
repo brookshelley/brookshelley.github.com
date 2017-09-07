@@ -236,6 +236,18 @@ _this list is super truncated because i forgot keep it until july_
     some very awful british people. Watched both of these in quick succession
     to get to see Annabelle 2 or whatever later on tonight.
 
+37. **Annabelle: Creation**
+
+    This was a very silly movie with children making terrible choices. I don't
+    think dolls themselves are very scary, but Catholocism is definitely scary.
+    Everyone who gets hunted by the demon or whatever was also a practicing
+    Catholic, so maybe being a satanist or atheist would be some kinda ghost
+    protection.
+
+38. **Wall-E**
+
+    One of the best movies ever, and it's held up super well in animation and craft. I love this robot.
+
 ## 2016
 
 1. **Nine Lives**
