@@ -264,6 +264,12 @@ _this list is super truncated because i forgot keep it until july_
     beautiful god trash. Eat a pound of desert pudding and cry about humanity.
     "I'm gonna give you... a math riddle."
 
+41. **IT**
+
+    Hadn't seen it, and wow what a silly joy. Not scary at all, but I'm
+    definitely even less trustworthy of Tim Curry now, I guess? Everyone is
+    giving their all in this movie.
+
 ## 2016
 
 1. **Nine Lives**
