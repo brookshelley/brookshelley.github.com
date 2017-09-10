@@ -246,7 +246,22 @@ _this list is super truncated because i forgot keep it until july_
 
 38. **Wall-E**
 
-    One of the best movies ever, and it's held up super well in animation and craft. I love this robot.
+    One of the best movies ever, and it's held up super well in animation and
+    craft. I love this robot.
+
+39. **I think I watched a movie about a plague**
+
+    I was on a LOT of drugs for surgery, so I have no idea what this was
+    called, but I'm pretty sure I saw it before?
+
+40. **The Happening**
+
+    This fucking movie is straight-up incredible. Mark Wahlberg at his best
+    "I'm just happy to be here," and a whole lot of incredibly banal deaths.
+    Zooey "Literal Beige Person" Deschanel is also in this for some reason.
+    Anyways, I love that this was one of the movies we all saw, hoping for the
+    return of that GOOD GOOD Sixth Sense action, and instead we got this
+    beautiful god trash. Eat a pound of desert pudding and cry about humanity.
 
 ## 2016
 
