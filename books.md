@@ -47,9 +47,9 @@
 
 17. **A Conjuring of Light** – VE Schwab
 
-18. **Women's Barracks** - Tereska Torres (Lesbian Book Club)
+18. **Women's Barracks** - Tereska Torres [*](#les)
 
-19. **Theresa + Isabelle** – Violette LeDuc (Lesbian Book Club)
+19. **Theresa + Isabelle** – Violette LeDuc [*](#les)
 
 20. **For Your Own Good** – Leah Horlick
 
@@ -62,7 +62,7 @@
 
 23. **Sex Object** – Jessica Valenti
 
-24. **The Long Way to a Small, Angry Planet** – Becky Chambers [*](#ghost)
+24. **The Long Way to a Small, Angry Planet** – Becky Chambers [**](#ghost)
 
 25. **A Herstory of Transmasculine Identities** – Michael Eric Brown
 
@@ -146,12 +146,12 @@
     fiction, then discovering it's a moody mystery. Definitely fun, and odd,
     and great.
 
-53. **Witches, Sluts, Feminists** – Kristen J. Sollee **
+53. **Witches, Sluts, Feminists** – Kristen J. Sollee [**](#ghost)
 
     This was a decent non-fiction exploration of witches & to a degree, sluts &
     feminists through the ages. It focuses primarily on the Americas, and
     despite my usual disinterest in non-fiction this was fun and informative
-    enough to carry me through on a camping trip during the eclipse. Time to 
+    enough to carry me through on a camping trip during the eclipse. Time to
     find some DMT for my flying broom.
 
 54. **God's War** – Kameron Hurley
