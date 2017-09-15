@@ -43,7 +43,7 @@
 
 15. **Fire** – Elizabeth Hand
 
-16. **Home** – Nnedi Okafor (Ghost Club)
+16. **Home** – Nnedi Okafor [**](#ghost)
 
 17. **A Conjuring of Light** – VE Schwab
 
@@ -167,7 +167,7 @@
     Wow, this was a fantastic ending to a delightful trilogy. Loved this story
     of family, world-rending powers, and ecology. Seriously one of the best
     things I've read in years, in fantasy or literature.
-    
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
