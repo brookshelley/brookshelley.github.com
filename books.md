@@ -162,6 +162,12 @@
     I wanted to stay in this world for longer, as new wrinkles kept being
     added. Luckily, there's a sequel.
 
+55. **The Stone Sky** – NK Jemison
+
+    Wow, this was a fantastic ending to a delightful trilogy. Loved this story
+    of family, world-rending powers, and ecology. Seriously one of the best
+    things I've read in years, in fantasy or literature.
+    
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club

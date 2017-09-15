@@ -270,6 +270,14 @@ _this list is super truncated because i forgot keep it until july_
     definitely even less trustworthy of Tim Curry now, I guess? Everyone is
     giving their all in this movie.
 
+42. **Wonder Woman**
+
+    Ok, I finally saw it. I literally couldn't stop thinking about Gal being
+    part of an anti-Palestian army, but once Chris Pine made me laugh by doing
+    a bad German accent. This movie bravely asks the question: "she's a
+    goddess, but when will she become super saiyan?" Not particularly into this
+    movie.
+
 ## 2016
 
 1. **Nine Lives**
