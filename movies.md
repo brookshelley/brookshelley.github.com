@@ -278,6 +278,16 @@ _this list is super truncated because i forgot keep it until july_
     goddess, but when will she become super saiyan?" Not particularly into this
     movie.
 
+43. **Spiderman: Homecoming**
+
+    This is the kind of superhero film that makes me smile. I think this is the
+    best reboot of the Spiderman franchise, and it is filled with silly, fun
+    moments, that emphasize the more joyful aspects of the character. I'm
+    looking forward to the next few. Marvel seems like they're just going to
+    keep making better movies than DC, save for the Nolan Batman movies.
+    Speaking of Batman – the second best modern Batman (Michael Keaton) also
+    plays the Vulture in this movie. Go figure. Anyways, this was a fun romp.
+
 ## 2016
 
 1. **Nine Lives**
