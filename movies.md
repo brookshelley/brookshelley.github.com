@@ -288,6 +288,12 @@ _this list is super truncated because i forgot keep it until july_
     Speaking of Batman – the second best modern Batman (Michael Keaton) also
     plays the Vulture in this movie. Go figure. Anyways, this was a fun romp.
 
+44. **Ingrid Goes West**
+
+    Everyone besides Dan is terrible in this movie, and Dan is hella
+    co-dependent. This is a biting satire of the lives folks live in pursuit of
+    Instagram perfection. #blessed #wow_millenials #the_other_olsen
+
 ## 2016
 
 1. **Nine Lives**
