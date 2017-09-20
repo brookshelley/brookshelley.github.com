@@ -3,4 +3,3 @@
 # about
 a noted sapphist, Brook travels often, writes, and speaks about
 queer issues, tech, and witchcraft.
-i occasionally blog at blog.brookshelley.com
