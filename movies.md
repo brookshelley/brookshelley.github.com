@@ -294,6 +294,13 @@ _this list is super truncated because i forgot keep it until july_
     co-dependent. This is a biting satire of the lives folks live in pursuit of
     Instagram perfection. #blessed #wow_millenials #the_other_olsen
 
+45. **Death Becomes Her**
+
+    Bruce Willis, with _hair_! Wow. Everything about this movie is perfect.
+    Women seeking eternal youth. Isabella Rossilini just oozing charisma and
+    power. Inexplicable wrestling manservants. Mincing Bruce Willis. The
+    prothesis in this movie is _hella_ Beetlejuice. I loved it.
+
 ## 2016
 
 1. **Nine Lives**
