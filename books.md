@@ -168,6 +168,10 @@
     of family, world-rending powers, and ecology. Seriously one of the best
     things I've read in years, in fantasy or literature.
 
+56. **The Merry Spinster** – Mallory Ortberg
+
+    Review forthcoming when this book actually comes out.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
