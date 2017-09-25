@@ -301,6 +301,11 @@ _this list is super truncated because i forgot keep it until july_
     power. Inexplicable wrestling manservants. Mincing Bruce Willis. The
     prothesis in this movie is _hella_ Beetlejuice. I loved it.
 
+46. **Friend Request**
+
+    Wow, this movie was garbage. I ended up skipping through it because the
+    first 20 minutes were so painful. 0 thumbs out of 20.
+
 ## 2016
 
 1. **Nine Lives**
