@@ -316,6 +316,11 @@ _this list is super truncated because i forgot keep it until july_
 
 48. **The Hitman's Bodyguard**
 
+    Samuel L Jackson at 68 in The Hitman's Bodyguard is doing a better job than
+    most action guys half his age. What a goofy, fun movie. It's not
+    particularly smart, but it was a wonderful romp. A summer action movie
+    through and through.
+
 ## 2016
 
 1. **Nine Lives**
