@@ -301,10 +301,20 @@ _this list is super truncated because i forgot keep it until july_
     power. Inexplicable wrestling manservants. Mincing Bruce Willis. The
     prothesis in this movie is _hella_ Beetlejuice. I loved it.
 
-46. **Friend Request**
+46. **New IT**
+
+    I think I'm broken inside, because jump scares and all of the "scary" bits
+    of this film didn't phase me. It was at times pretty cute, but the misogyny
+    and against the only girl in the group was the scariest thing of all. I'm
+    interested to see what they do with the second part of this movie. The
+    visuals were kinda neat and well-done.
+
+47. **Friend Request**
 
     Wow, this movie was garbage. I ended up skipping through it because the
     first 20 minutes were so painful. 0 thumbs out of 20.
+
+48. **The Hitman's Bodyguard**
 
 ## 2016
 
