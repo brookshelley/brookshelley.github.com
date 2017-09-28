@@ -321,6 +321,14 @@ _this list is super truncated because i forgot keep it until july_
     particularly smart, but it was a wonderful romp. A summer action movie
     through and through.
 
+49. **Ghost in the Shell (with ScarJo & white-washing)**
+
+    The fashion was kinda neat, and some of the visuals were cool. The story
+    seemed worse than the anime though, and I can't tell if ScarJo can't act,
+    or just collected a paycheck. Bonus points to Beat Takeshi for just
+    speaking Japanese the entire time, unlike the rest of the characters. He's
+    great. I hope he got paid for this trash.
+
 ## 2016
 
 1. **Nine Lives**
