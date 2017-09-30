@@ -172,6 +172,12 @@
 
     Review forthcoming when this book actually comes out.
 
+57. **Notes from a Crocodile**
+
+    This book was such a lovely combination of melanchholy feelings, and
+    slightly obsessive lesbian love. I loved all of the Abe references.
+    
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
