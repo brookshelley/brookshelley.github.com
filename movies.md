@@ -329,6 +329,16 @@ _this list is super truncated because i forgot keep it until july_
     speaking Japanese the entire time, unlike the rest of the characters. He's
     great. I hope he got paid for this trash.
 
+50. **xXx: The Return of Xander Cage**
+
+    Wow, this movie was over-the-top ridiculous. And the terrible coat was back
+    from the first movie. I think this canonically takes place in the Marvel
+    universe, because of Samuel L. Jackson. I have no idea why xXx uses
+    "extreme sports" people, soccer stars, and a DJ(?), but here we are. I love
+    this very, very goofy series, and bought this movie with a big grin when it
+    was no longer available for rent. Everyone is having a blast, and it's a
+    multi-cutural cast that is filled with neat folks.
+
 ## 2016
 
 1. **Nine Lives**
