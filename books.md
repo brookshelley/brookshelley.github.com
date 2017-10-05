@@ -172,7 +172,7 @@
 
     *Review forthcoming when this book actually comes out.*
 
-57. **Notes from a Crocodile**
+57. **Notes from a Crocodile** – Qiu Miaojin
 
     This book was such a lovely combination of melanchholy feelings, and
     slightly obsessive lesbian love. I loved all of the Abe references.
