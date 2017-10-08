@@ -339,6 +339,17 @@ _this list is super truncated because i forgot keep it until july_
     was no longer available for rent. Everyone is having a blast, and it's a
     multi-cutural cast that is filled with neat folks.
 
+51. **Blade Runner: 2046**
+
+    Damn. This was definitely one of my favorite movies this year. Every scene
+    was so beautiful, and skillfully art-directed. I loved that Mackenzie Davis
+    (also from the San Junipero, the Martian, & Halt & Catch Fire) was in this
+    too. Harrison Ford was spectacular, and somehow Ryan Reynolds didn't bother
+    me. The outfits ruled, and even though I wish there'd been more central
+    roles for women, the women that were in the film were neat. I'll own this,
+    and watch it more than once, for sure. Now, to find some of the outfits in
+    the film...
+
 ## 2016
 
 1. **Nine Lives**
