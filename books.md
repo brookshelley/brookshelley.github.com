@@ -177,6 +177,12 @@
     This book was such a lovely combination of melanchholy feelings, and
     slightly obsessive lesbian love. I loved all of the Abe references.
 
+58. **Fried Green Tomatoes at the Whistle Stop Cafe** – Fannie Flagg
+
+    This was very much like a long conversation with an old woman in the south,
+    like say, a grandma. I had a great time reading this, but there was a long,
+    slow burn until I was crying, from my intitial "meh, this is ok."
+
 
 ## Footnotes
 
