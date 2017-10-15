@@ -183,7 +183,6 @@
     like say, a grandma. I had a great time reading this, but there was a long,
     slow burn until I was crying, from my intitial "meh, this is ok."
 
-
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
