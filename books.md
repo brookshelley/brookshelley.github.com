@@ -191,7 +191,7 @@
 
     Trans women were paid to consult on this volume, and it shows. I'm super 
     curious to see where the women on thr prison planet wind up. The art in
-    this isn't my favorite, but it feed well-written at least.
+    this isn't my favorite, but it seems well-written at least.
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
