@@ -183,6 +183,15 @@
     like say, a grandma. I had a great time reading this, but there was a long,
     slow burn until I was crying, from my intitial "meh, this is ok."
 
+59. **Paper Girls: Vol. 3**
+
+    I still have no idea where this is going, but so far it's still a fun ride.
+
+60. **Bitch Planet: Vol. 2**
+
+    Trans women were paid to consult on this volume, and it shows. I'm super 
+    curious to see where the women on thr prison planet wind up. The art in
+    this isn't my favorite, but it feed well-written at least.
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
