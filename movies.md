@@ -350,6 +350,13 @@ _this list is super truncated because i forgot keep it until july_
     and watch it more than once, for sure. Now, to find some of the outfits in
     the film...
 
+52. **What Happened to Monday**
+
+    A movie with Noomi Rapace playing 7 different women? I'm in. Willem Dafoe
+    was in this too. Mostly this movie was a neat dystopia with lots of twists,
+    and even though Noomi Rapace wasn't quite up to Tatiana Maslany's Orphan
+    Black performance, it's still really, really well edited.
+
 ## 2016
 
 1. **Nine Lives**
