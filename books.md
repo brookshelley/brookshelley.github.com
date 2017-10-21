@@ -183,15 +183,22 @@
     like say, a grandma. I had a great time reading this, but there was a long,
     slow burn until I was crying, from my intitial "meh, this is ok."
 
-59. **Paper Girls: Vol. 3**
+59. **Paper Girls: Vol. 3** – Brian K Vaughn
 
     I still have no idea where this is going, but so far it's still a fun ride.
 
-60. **Bitch Planet: Vol. 2**
+60. **Bitch Planet: Vol. 2** – Kelly Sue DeConnick
 
     Trans women were paid to consult on this volume, and it shows. I'm super
     curious to see where the women on thr prison planet wind up. The art in
     this isn't my favorite, but it seems well-written at least.
+
+61. **Ink & Bone** – Rachel Caine
+
+    This is the first in a series I'll probably read the rest of. It was a cute
+    and occasionally brutal story about the flow of information, and what might
+    have occurred if the library of Alexandria had become a world-controlling
+    organization. There's a YA/Harry Potter vibe to the whole thing.
 
 ## Footnotes
 
