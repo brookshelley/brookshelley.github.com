@@ -357,6 +357,20 @@ _this list is super truncated because i forgot keep it until july_
     and even though Noomi Rapace wasn't quite up to Tatiana Maslany's Orphan
     Black performance, it's still really, really well edited.
 
+53. **Landline**
+
+    From the same creators as Obvious Child, which ruled, comes this movie
+    about a family in the 90s trying to keep from imploding. Jenny Slate is
+    great in this, and the sisterhood on display is pretty adorable. John
+    Turturro does a great job too.
+
+54. **Colossal**
+
+    Oh, great, a movie about white people working out their alcoholism and
+    relationship issues while murdering folks in Korea. I dunno. This wasn't
+    great. Also damn girl, those bangs are LONG.
+
+
 ## 2016
 
 1. **Nine Lives**
