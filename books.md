@@ -200,6 +200,14 @@
     have occurred if the library of Alexandria had become a world-controlling
     organization. There's a YA/Harry Potter vibe to the whole thing.
 
+62. **Ash** – Malinda Lo [*](#les)
+
+    Retelling and retooling the Cinderalla tale into a lesbian romance, Ash is
+    a pretty fun read. I blazed through this quickly, and am curious to read
+    more from Lo. Compared to most books we read for Lesbian Book Club, this
+    was a very light, but we-written book, and that's a nice respite. I'm
+    always here for books where the protagonist falls in love with a huntress.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
