@@ -370,6 +370,26 @@ _this list is super truncated because i forgot keep it until july_
     relationship issues while murdering folks in Korea. I dunno. This wasn't
     great. Also damn girl, those bangs are LONG.
 
+55. **Beyond the Gates**
+
+    Very silly movie about a VCR-based horror game that... is really happening.
+    A fun time for the spooky holidays.
+
+56. **Pitch Black**
+
+    Vin's other, other series. Vin Diesel plays the same character, but this
+    time, he's in a _space_ black tank top, and his eyes glow because he can
+    see in the dark, I guess? There's a genderqueer-ish person in this film,
+    but I checked and the actress is definitely a straight and
+    feminine-presenting woman now. Was hoping Jack grew up to be a
+    genderfucking weirdo cool kid.
+
+57. **Fried Green Tomatoes**
+
+    This was charming and cute. It wasn't as gay as I wanted it to be, but was
+    gayer than most. RIP Smokey. RIP other characters. I read the book before I
+    saw this movie, somehow, and I missed some of the book scenes, but overall
+    this was fun.
 
 ## 2016
 
