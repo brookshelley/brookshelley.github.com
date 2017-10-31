@@ -391,6 +391,12 @@ _this list is super truncated because i forgot keep it until july_
     saw this movie, somehow, and I missed some of the book scenes, but overall
     this was fun.
 
+58. **The Babysitter**
+
+    If I'd watched this alone I would've turned it off after a few minutes. It
+    was garbage. It's like the creators of Scary Movie read Ready Player One,
+    and thought, yea, we can do that. Terrible.
+
 ## 2016
 
 1. **Nine Lives**
