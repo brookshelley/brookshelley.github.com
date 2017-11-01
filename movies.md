@@ -397,6 +397,12 @@ _this list is super truncated because i forgot keep it until july_
     was garbage. It's like the creators of Scary Movie read Ready Player One,
     and thought, yea, we can do that. Terrible.
 
+59. **The VVitch**
+
+    This movie rules. It's about jettisoning a sex-negative, shitty family for
+    the loving embrace of Satan and a coven of witches. The vibe is sullen AF,
+    and very stark. I think I've seen this movie five times, three of those in
+    the theater.
 ## 2016
 
 1. **Nine Lives**
