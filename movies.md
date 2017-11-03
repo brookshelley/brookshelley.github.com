@@ -402,7 +402,8 @@ _this list is super truncated because i forgot keep it until july_
     This movie rules. It's about jettisoning a sex-negative, shitty family for
     the loving embrace of Satan and a coven of witches. The vibe is sullen AF,
     and very stark. I think I've seen this movie five times, three of those in
-    the theater.
+    the theater. This was a perfect movie to watch during Samhain.
+
 ## 2016
 
 1. **Nine Lives**
