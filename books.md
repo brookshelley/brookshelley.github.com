@@ -208,8 +208,18 @@
     was a very light, but we-written book, and that's a nice respite. I'm
     always here for books where the protagonist falls in love with a huntress.
 
+63. **The Witch's Daughter** – Paula Brackston [***](#scifi)
+
+    A fun tale told in the present and past of a witch on the run, and her new
+    apprentice. This book drew me in and kept me awake late so I could find out
+    what happened next. I'm excited to read the second one. A definite
+    improvement over the first book for this club, which I quit part-way
+    through.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
 
 [**](#ghost) <a name="ghost"></a> Ghost Book Club
+
+[***](#scifi) <a name="scifi"></a> Sci-fi/Fantasy Book Club
