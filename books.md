@@ -121,7 +121,7 @@
     summmer. These books are about losses, and how to cope and move forward.
     I'm really enjoying rediscovering Banana Yoshimoto's writing.
 
-50. **Bittersweet** – Nevada Barr [*](#les)
+49. **Bittersweet** – Nevada Barr [*](#les)
 
     An easy-enough read, but the story was too "femme danger & butch power" for
     me. The "love" story takes place between a late-20s/early-30s woman and a
@@ -133,20 +133,20 @@
     super into the 19th century "west," but the adult on teen predatory love
     and the bullshit masc > femme stuff is really not my bag.
 
-51. **Zodiac Starforce: By the Power of Astra** – Kevin Panetta
+50. **Zodiac Starforce: By the Power of Astra** – Kevin Panetta
 
     Cute sailor-moon-style girl team of fighters. Really enjoyed how this was
     drawn, and the queerness of a few of the characters. If you need something
     lighthearted, it's worth a read.
 
-52. **Generation Loss** – Elizabeth Hand
+51. **Generation Loss** – Elizabeth Hand
 
     I'd only read Fire, a short story collection by Hand, before and wasn't
     sure what to expect. It was exciting expecting this to be odd literary
     fiction, then discovering it's a moody mystery. Definitely fun, and odd,
     and great.
 
-53. **Witches, Sluts, Feminists** – Kristen J. Sollee [**](#ghost)
+52. **Witches, Sluts, Feminists** – Kristen J. Sollee [**](#ghost)
 
     This was a decent non-fiction exploration of witches & to a degree, sluts &
     feminists through the ages. It focuses primarily on the Americas, and
@@ -154,7 +154,7 @@
     enough to carry me through on a camping trip during the eclipse. Time to
     find some DMT for my flying broom.
 
-54. **God's War** – Kameron Hurley
+53. **God's War** – Kameron Hurley
 
     Queer bounty hunters, devout magicians, and so much sand intermingled in
     this fun ride through a Islam-based religion colonized planet where organs
@@ -162,45 +162,45 @@
     I wanted to stay in this world for longer, as new wrinkles kept being
     added. Luckily, there's a sequel.
 
-55. **The Stone Sky** – NK Jemison
+54. **The Stone Sky** – NK Jemison
 
     Wow, this was a fantastic ending to a delightful trilogy. Loved this story
     of family, world-rending powers, and ecology. Seriously one of the best
     things I've read in years, in fantasy or literature.
 
-56. **The Merry Spinster** – Mallory Ortberg
+55. **The Merry Spinster** – Mallory Ortberg
 
     *Review forthcoming when this book actually comes out.*
 
-57. **Notes from a Crocodile** – Qiu Miaojin [**](#ghost)
+56. **Notes from a Crocodile** – Qiu Miaojin [**](#ghost)
 
     This book was such a lovely combination of melanchholy feelings, and
     slightly obsessive lesbian love. I loved all of the Abe references.
 
-58. **Fried Green Tomatoes at the Whistle Stop Cafe** – Fannie Flagg [*](#les)
+57. **Fried Green Tomatoes at the Whistle Stop Cafe** – Fannie Flagg [*](#les)
 
     This was very much like a long conversation with an old woman in the south,
     like say, a grandma. I had a great time reading this, but there was a long,
     slow burn until I was crying, from my intitial "meh, this is ok."
 
-59. **Paper Girls: Vol. 3** – Brian K Vaughn
+58. **Paper Girls: Vol. 3** – Brian K Vaughn
 
     I still have no idea where this is going, but so far it's still a fun ride.
 
-60. **Bitch Planet: Vol. 2** – Kelly Sue DeConnick
+59. **Bitch Planet: Vol. 2** – Kelly Sue DeConnick
 
     Trans women were paid to consult on this volume, and it shows. I'm super
     curious to see where the women on thr prison planet wind up. The art in
     this isn't my favorite, but it seems well-written at least.
 
-61. **Ink & Bone** – Rachel Caine
+60. **Ink & Bone** – Rachel Caine
 
     This is the first in a series I'll probably read the rest of. It was a cute
     and occasionally brutal story about the flow of information, and what might
     have occurred if the library of Alexandria had become a world-controlling
     organization. There's a YA/Harry Potter vibe to the whole thing.
 
-62. **Ash** – Malinda Lo [*](#les)
+61. **Ash** – Malinda Lo [*](#les)
 
     Retelling and retooling the Cinderalla tale into a lesbian romance, Ash is
     a pretty fun read. I blazed through this quickly, and am curious to read
@@ -208,13 +208,23 @@
     was a very light, but we-written book, and that's a nice respite. I'm
     always here for books where the protagonist falls in love with a huntress.
 
-63. **The Witch's Daughter** – Paula Brackston [***](#scifi)
+62. **The Witch's Daughter** – Paula Brackston [***](#scifi)
 
     A fun tale told in the present and past of a witch on the run, and her new
     apprentice. This book drew me in and kept me awake late so I could find out
     what happened next. I'm excited to read the second one. A definite
     improvement over the first book for this club, which I quit part-way
     through.
+
+63. **The Witches of New York** – Ami McKay [**](#ghost)
+
+    This book was great. I read a lot of witch books this month, but this was
+    by far my favorite. It captured the New York or yore well, and delightfully
+    set up for a few more stories about these women and their tea and sympathy
+    shop. The magic in this book was better fleshed-out than The Witch's
+    Daughter, and I enjoyed the church being the enemy, though demons vs.
+    wtiches was an odd choice.
+
 
 ## Footnotes
 
