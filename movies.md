@@ -404,7 +404,7 @@ _this list is super truncated because i forgot keep it until july_
     and very stark. I think I've seen this movie five times, three of those in
     the theater. This was a perfect movie to watch during Samhain.
     
-60. **Thor: Ragnarok*
+60. **Thor: Ragnarok**
     
     A+ super hero movie. Silly and unpretentious.
     
