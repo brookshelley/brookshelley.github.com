@@ -403,16 +403,16 @@ _this list is super truncated because i forgot keep it until july_
     the loving embrace of Satan and a coven of witches. The vibe is sullen AF,
     and very stark. I think I've seen this movie five times, three of those in
     the theater. This was a perfect movie to watch during Samhain.
-    
+
 60. **Thor: Ragnarok**
-    
+
     A+ super hero movie. Silly and unpretentious.
-    
+
 61. **Lady Bird**
-    
+
     The truest old millenial movie. I cried a lot.
 
-60. **The Room**
+62. **The Room**
 
     Terrible movie. Great rewatch. This movie is epically bad, and I hope
     everyone has had a chance to see the copious softcore sex scenes, and
