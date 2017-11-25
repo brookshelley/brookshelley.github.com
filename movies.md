@@ -418,6 +418,15 @@ _this list is super truncated because i forgot keep it until july_
     everyone has had a chance to see the copious softcore sex scenes, and
     confusing "american man" football rituals.
 
+63. **Okja**
+
+    A sometimes cute, sometimes very grim movie about the evils of capitalism
+    and factory farming. The protagonist is the cutest, and is really giving
+    her all in every scene, and Paul Dano and Jake Gylenhall manage to not
+    spoil the movie with their characters. Steven Yuen is pretty great, and
+    Tilda Swinton continues in her consistent "I'm definitely not an alien in
+    human skin" character from movies of yore.
+
 ## 2016
 
 1. **Nine Lives**
