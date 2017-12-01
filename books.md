@@ -234,15 +234,12 @@
     make even a Copenhagen/Portland winter happy. I was happy to find that I'm
     already living a hella hygge life, but got some further tips on hyggeligt.
 
-65. **Rose of No Man's Land** – Michelle TEARS
+65. **Rose of No Man's Land** – Michelle Tea
 
     This is a lesser-known Tea book, but also one of her few true fiction
     books. This was kinda cute, and definitely an intense slice of life of a
     young _maybe_ lesbian near Boston, complete with mall life, and scoring
     drugs and alcohol. It's a short book, but I really liked it.
-
-
-
 
 ## Footnotes
 
