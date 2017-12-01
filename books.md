@@ -225,6 +225,24 @@
     Daughter, and I enjoyed the church being the enemy, though demons vs.
     wtiches was an odd choice.
 
+64. **The Little Book of Hygge** – Meik Wiking
+
+    Broke my rule about reading white guys to read this random book about
+    Hygge. TBH I thought the author was a woman for most of the book. Oh well.
+    This is a book all about candles, coziness, and of course, hygge. Turn the
+    lights down low, light some tallow, and drink some gløgg this winter to
+    make even a Copenhagen/Portland winter happy. I was happy to find that I'm
+    already living a hella hygge life, but got some further tips on hyggeligt.
+
+65. **Rose of No Man's Land** – Michelle TEARS
+
+    This is a lesser-known Tea book, but also one of her few true fiction
+    books. This was kinda cute, and definitely an intense slice of life of a
+    young _maybe_ lesbian near Boston, complete with mall life, and scoring
+    drugs and alcohol. It's a short book, but I really liked it.
+
+
+
 
 ## Footnotes
 
