@@ -241,6 +241,13 @@
     young _maybe_ lesbian near Boston, complete with mall life, and scoring
     drugs and alcohol. It's a short book, but I really liked it.
 
+66. **Oranges Are Not the Only Fruit** – Jeaneatte Winterson
+
+    This was a re-read, but dang. I'm excited to read the more real-life
+    version of her story _Why Be Happy When You Can Be Normal_ soon. Growing up
+    in a religious home, albeit a fortunately less zealous one as a queer woman
+    this book meant a lot. 
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
