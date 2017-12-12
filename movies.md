@@ -427,6 +427,15 @@ _this list is super truncated because i forgot keep it until july_
     Tilda Swinton continues in her consistent "I'm definitely not an alien in
     human skin" character from movies of yore.
 
+64. **The Disaster Artist**
+
+    Wow. This movie is a parade of actors and actresses who loved the Room in
+    all it's weirdness. This movie falls somewhere between a tribute, a satire,
+    and a dramatic reinterpretation documentary. I loved it. Saw this with
+    another long-time The Room fan, and we both were in tears laughing. I will
+    see this again. The podcast [How Did This Get Made?](http://www.earwolf.com/episode/the-disaster-artist/) has a [great episode](http://www.earwolf.com/episode/the-disaster-artist/) for 
+    this movie too that begins with their The Room episode.
+
 ## 2016
 
 1. **Nine Lives**
