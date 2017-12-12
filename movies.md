@@ -433,8 +433,15 @@ _this list is super truncated because i forgot keep it until july_
     all it's weirdness. This movie falls somewhere between a tribute, a satire,
     and a dramatic reinterpretation documentary. I loved it. Saw this with
     another long-time The Room fan, and we both were in tears laughing. I will
-    see this again. The podcast [How Did This Get Made?](http://www.earwolf.com/episode/the-disaster-artist/) has a [great episode](http://www.earwolf.com/episode/the-disaster-artist/) for 
+    see this again. The podcast [How Did This Get Made?](http://www.earwolf.com/episode/the-disaster-artist/) has a [great episode](http://www.earwolf.com/episode/the-disaster-artist/) for
     this movie too that begins with their The Room episode.
+
+65. **It Follows**
+
+    This is my second viewing, and this movie was still unbelievably creepy. I
+    made my friend watch American Vandal with me after this to get less scared.
+    It's a horror film about an STI haunting. I dunno. It's wild. Watch this,
+    but be ready to always watch for a single, slowly-walking person in a crowd.
 
 ## 2016
 
