@@ -257,6 +257,20 @@
     with anticipation of more work from Machado. This is probably the best
     thing I've read this year.
 
+68. **Are You My Mother?** – Alison Bechdel
+
+    A messy tangle of a book and metabook about a mother and therapy. I liked
+    this, but it's coming from such a strange distant place I wasn't able to
+    immediately connect to it in the way I did with Fun Home. I'm going to keep
+    thinking about this one.
+
+69. **Basic Witches** – Jaya Saxena & Jess Zimmerman
+
+    A series of spells, and a lot of nice discussion of how to care for oneself
+    with witchcraft, presence of mind, and good friends. I liked this a lot,
+    but it was fairily, well, basic. This would be a great introduction to give
+    to a younger person.
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
