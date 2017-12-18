@@ -443,6 +443,10 @@ _this list is super truncated because i forgot keep it until july_
     It's a horror film about an STI haunting. I dunno. It's wild. Watch this,
     but be ready to always watch for a single, slowly-walking person in a crowd.
 
+66. **Rare Exports**
+
+    A perfectly weird holiday movie about the real santa.
+
 ## 2016
 
 1. **Nine Lives**
