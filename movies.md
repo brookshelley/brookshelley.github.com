@@ -447,6 +447,12 @@ _this list is super truncated because i forgot keep it until july_
 
     A perfectly weird holiday movie about the real santa.
 
+67. **Die Hard**
+
+    It's a wonderful holiday time for everyone, except german models turned
+    "terrorist". Points to this one for accurately pointing out that white
+    people are the bad guys though.
+
 ## 2016
 
 1. **Nine Lives**
