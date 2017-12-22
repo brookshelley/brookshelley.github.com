@@ -1,8 +1,12 @@
 [writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # movies i've watched
+(previous years: [2017](#2017)
 
-## 2017
+## [2018](#2018)<a name="2018"></a>
+
+## [2017](#2017)<a name="2017"></a>
+
 
 _this list is super truncated because i forgot keep it until july_
 
