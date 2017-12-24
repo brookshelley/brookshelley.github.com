@@ -271,6 +271,12 @@
     but it was fairily, well, basic. This would be a great introduction to give
     to a younger person.
 
+70. **Caraval** — Stephanie Garber
+
+    Some light-hearted YA to close out the year. This was a well-told, if
+    sometimes upsetting story. A lot of this had me wondering: straight people,
+    are you ok?
+
 ## Footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club

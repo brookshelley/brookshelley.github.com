@@ -457,6 +457,12 @@ _this list is super truncated because i forgot keep it until july_
     "terrorist". Points to this one for accurately pointing out that white
     people are the bad guys though.
 
+68. **Star Wars: The Last Jedi**
+
+    Here for this. Love the porgs, and love Luke punking Kylo. This was a great
+    combination of ridiculous and fun. I like that Rian brought more humor into
+    the world of the star war.
+
 ## 2016
 
 1. **Nine Lives**
