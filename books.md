@@ -1,8 +1,11 @@
 [writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # books i've read
+years: [2017](#2017) [2018](#2018)
 
-## 2017
+## 2018 <a name="#2018"></a>
+
+## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
 
