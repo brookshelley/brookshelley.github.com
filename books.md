@@ -1,7 +1,7 @@
 [writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # books i've read
-years: [2017](#2017) [2018](#2018)
+_years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="#2018"></a>
 
