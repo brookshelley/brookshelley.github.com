@@ -248,7 +248,7 @@
     in a religious home, albeit a fortunately less zealous one as a queer woman
     this book meant a lot.
 
-67. **Her Body and Other Stories** — Carmen Maria Machado
+67. **Her Body and Other Parties** — Carmen Maria Machado
 
     Wow. This short-story collection knocked me back with the depth and power
     of its often odd stories. The midsection of the book satirically and
