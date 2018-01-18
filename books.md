@@ -5,6 +5,29 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="#2018"></a>
 
+1. **On Such a Full Sea** – Chang-Rae leave
+
+    Really enjoyed this futuristic look at America and the fall of our current
+    system. Lots of disucssion of class, immigration, and identity. The
+    narrator was a little distracting, but it was an interesting narrative
+    conceipt.
+
+2. **Autonomous** – Annalee Newitz
+
+    Drug piracy, copyright, and queerness. I really loved this story, save for
+    the happy ending for the cops.
+
+3. **Infomocracy** – Malka Older
+
+    This techno political thriller ruled. This story created the kind of world
+    I want to dig around in for some time to come, so I'm glad there's at least
+    one more.
+
+4. **Null States** – Malka Older
+
+    A nice sequel to Infomocracy that explored some new characters while still
+    letting Mishma and Ken run around a bit. Much of this book was a build-up that never seemed to deliver, but it feels like the story will come to a head a bit more in the potential next book.
+    
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
@@ -251,7 +274,7 @@ _years: [2017](#2017) [2018](#2018)_
     in a religious home, albeit a fortunately less zealous one as a queer woman
     this book meant a lot.
 
-67. **Her Body and Other Parties** — Carmen Maria Machado
+67. **Her Body and Other Parties2** — Carmen Maria Machado
 
     Wow. This short-story collection knocked me back with the depth and power
     of its often odd stories. The midsection of the book satirically and
