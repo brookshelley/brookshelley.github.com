@@ -13,6 +13,24 @@
     make it slightly better, and pre-roll video that repeated "NO NO NO" in
     English to admonish us for even considering texting or talking.
 
+2. **Battle of the Sexes**
+
+    I'd heard good things, and this was pretty fun to watch. The lesbian
+    storyline was surprisingly compelling, and very well-done. I'm mad that
+    Adidas didn't reissue BJK's signature shoe when this movie came out though.
+    It's a good shoe. Steve Carrell seemed like many of his other charcters in
+    this, but whatever... Billy Riggs was an ass, and they do a good job of
+    showing that.
+
+3. **The Foreigner**
+
+    Jackie Chan vs Irish James Bond. This movie kinda ruled. Jackie Chan is
+    fantastic, even at 63, at just dominating the screen with his personality
+    and action. This is definitely a more subdued and serious role than many of
+    his more famous films, but he shows up and is great. Parts of this reminded
+    me of taken, and others of _name a political thriller_, but overall I
+    really enjoyed this movie.
+
 ## [2017](#2017)<a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_

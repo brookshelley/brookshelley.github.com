@@ -27,7 +27,17 @@ _years: [2017](#2017) [2018](#2018)_
 
     A nice sequel to Infomocracy that explored some new characters while still
     letting Mishma and Ken run around a bit. Much of this book was a build-up that never seemed to deliver, but it feels like the story will come to a head a bit more in the potential next book.
-    
+
+5. **Binti: Night Masquerade** – Nnedi Okafor
+
+    The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
+    first one has that handily covered). Additionally, the pacing was wacky.
+    There was a _lot_ of time spent building up to a conflict that doesn't go
+    very far, then an unsatisfying conclusion. The main character ends up
+    having so much thrown at her with little-to-no consequence, that the whole
+    thing gets to a comic level of ridiculousness.
+
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
