@@ -31,6 +31,14 @@
     me of taken, and others of _name a political thriller_, but overall I
     really enjoyed this movie.
 
+4. **The Raid**
+
+    My second viewing of this movie since I saw it in theaters in Berkeley. I
+    love how rad and amazing this tower-escape film is. The fight scenes and
+    film style is so kinetic, and carries you through the film. There's not a
+    lot in the way of plot, but some of it feels like a Die Hard homage. 
+
+
 ## [2017](#2017)<a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
