@@ -37,6 +37,8 @@ _years: [2017](#2017) [2018](#2018)_
     having so much thrown at her with little-to-no consequence, that the whole
     thing gets to a comic level of ridiculousness.
 
+6. **Girls on Fire** – Robin Wasserman
+
 
 ## 2017 <a name="2017"></a>
 
