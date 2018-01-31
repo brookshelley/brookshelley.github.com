@@ -39,6 +39,9 @@ _years: [2017](#2017) [2018](#2018)_
 
 6. **Girls on Fire** – Robin Wasserman
 
+    Fantastic coming-of-age book. I really loved all the grunge, and
+    surrepitious drinking, and peer-pressure.
+
 
 ## 2017 <a name="2017"></a>
 
