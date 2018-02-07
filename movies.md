@@ -36,7 +36,19 @@
     My second viewing of this movie since I saw it in theaters in Berkeley. I
     love how rad and amazing this tower-escape film is. The fight scenes and
     film style is so kinetic, and carries you through the film. There's not a
-    lot in the way of plot, but some of it feels like a Die Hard homage. 
+    lot in the way of plot, but some of it feels like a Die Hard homage.
+
+5. **Hunt for the Wilderpeople**
+
+    Ahhh, this ruled! Sam Neil, and the kid are spectacular. Taika has a lovely
+    cameo as a bizarre priest. This might end up being the best movie I see
+    this year, and it had me laughing pretty consistently throughout.
+
+6. **I Don't Feel at Home in This World Anymore**
+
+    Elijah Wood is doing his all in this movie, as is Melanie Lynskey. This
+    goes off the rails midway through, and becomes a thrillride, but keeps up
+    the laughs. Also, yay for a movie that's set in Portland.
 
 
 ## [2017](#2017)<a name="2017"></a>

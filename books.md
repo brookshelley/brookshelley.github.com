@@ -5,30 +5,30 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="#2018"></a>
 
-1. **On Such a Full Sea** – Chang-Rae leave
+1. **On Such a Full Sea** — Chang-Rae leave
 
     Really enjoyed this futuristic look at America and the fall of our current
     system. Lots of disucssion of class, immigration, and identity. The
     narrator was a little distracting, but it was an interesting narrative
     conceipt.
 
-2. **Autonomous** – Annalee Newitz
+2. **Autonomous** — Annalee Newitz
 
     Drug piracy, copyright, and queerness. I really loved this story, save for
     the happy ending for the cops.
 
-3. **Infomocracy** – Malka Older
+3. **Infomocracy** — Malka Older
 
     This techno political thriller ruled. This story created the kind of world
     I want to dig around in for some time to come, so I'm glad there's at least
     one more.
 
-4. **Null States** – Malka Older
+4. **Null States** — Malka Older
 
     A nice sequel to Infomocracy that explored some new characters while still
     letting Mishma and Ken run around a bit. Much of this book was a build-up that never seemed to deliver, but it feels like the story will come to a head a bit more in the potential next book.
 
-5. **Binti: Night Masquerade** – Nnedi Okafor
+5. **Binti: Night Masquerade** — Nnedi Okafor
 
     The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
     first one has that handily covered). Additionally, the pacing was wacky.
@@ -37,11 +37,18 @@ _years: [2017](#2017) [2018](#2018)_
     having so much thrown at her with little-to-no consequence, that the whole
     thing gets to a comic level of ridiculousness.
 
-6. **Girls on Fire** – Robin Wasserman
+6. **Girls on Fire** — Robin Wasserman
 
     Fantastic coming-of-age book. I really loved all the grunge, and
     surrepitious drinking, and peer-pressure.
 
+7. **The Language of Power** — Rosemary Kirstein
+
+    A great fourth book in a series I've really loved. This book furthers the
+    "what the fuck are the wizards, and what're they doing" plotline. A lot of
+    suspicions from the past few books have led me here. There's some really
+    neat stuff left to figure out, so I hope that in a few years we'll have
+    book 5 & 6.
 
 ## 2017 <a name="2017"></a>
 
@@ -298,14 +305,14 @@ _years: [2017](#2017) [2018](#2018)_
     with anticipation of more work from Machado. This is probably the best
     thing I've read this year.
 
-68. **Are You My Mother?** – Alison Bechdel
+68. **Are You My Mother?** — Alison Bechdel
 
     A messy tangle of a book and metabook about a mother and therapy. I liked
     this, but it's coming from such a strange distant place I wasn't able to
     immediately connect to it in the way I did with Fun Home. I'm going to keep
     thinking about this one.
 
-69. **Basic Witches** – Jaya Saxena & Jess Zimmerman
+69. **Basic Witches** — Jaya Saxena & Jess Zimmerman
 
     A series of spells, and a lot of nice discussion of how to care for oneself
     with witchcraft, presence of mind, and good friends. I liked this a lot,
