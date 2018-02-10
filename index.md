@@ -1,8 +1,8 @@
 [writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
-## writing
+# writing
 
-### online
+## online
 **Oregon Humanities**
 - [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
@@ -18,13 +18,13 @@
 **Little Red Tarot**
 - [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
-### books
+## books
 - [Transfigure](http://transfigureproject.com/brook-shelley/)
 - [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
-### podcast
+## podcast
 
 - [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
-### zines
+## zines
 - [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
