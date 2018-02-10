@@ -1,9 +1,9 @@
 [writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # movies i've watched
-_years: [2017](#2017) [2018](#2018)_
+_years: [2016](#2016)[2017](#2017) [2018](#2018)_
 
-## [2018](#2018)<a name="2018"></a>
+## 2018 <a name="2018"></a>
 
 1. **Murder on the Orient Express**
 
@@ -51,7 +51,7 @@ _years: [2017](#2017) [2018](#2018)_
     the laughs. Also, yay for a movie that's set in Portland.
 
 
-## [2017](#2017)<a name="2017"></a>
+## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
 
@@ -508,7 +508,7 @@ _this list is super truncated because i forgot keep it until july_
     combination of ridiculous and fun. I like that Rian brought more humor into
     the world of the star war.
 
-## 2016
+## 2016 <a name="2016"></a>
 
 1. **Nine Lives**
 
