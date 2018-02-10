@@ -3,7 +3,7 @@
 # books i've read
 _years: [2017](#2017) [2018](#2018)_
 
-## 2018 <a name="#2018"></a>
+## [2018](#2018)<a name="2018"></a>
 
 1. **On Such a Full Sea** — Chang-Rae leave
 
