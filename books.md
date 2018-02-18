@@ -49,6 +49,12 @@ _years: [2017](#2017) [2018](#2018)_
     suspicions from the past few books have led me here. There's some really
     neat stuff left to figure out, so I hope that in a few years we'll have
     book 5 & 6.
+    
+8. **Goodbye, Things** — Fumio Sasaki
+
+   What an odd book full of short, declarative sentences. Some bits of this 
+   were great, but a lot of it was about what you'd expect from a Medium
+   article. The bit about the owl statues was golden.
 
 ## 2017 <a name="2017"></a>
 
