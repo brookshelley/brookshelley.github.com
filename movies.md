@@ -50,6 +50,24 @@ _years: [2016](#2016)[2017](#2017) [2018](#2018)_
     goes off the rails midway through, and becomes a thrillride, but keeps up
     the laughs. Also, yay for a movie that's set in Portland.
 
+7. **The Cloverfield Paradox**
+
+    I'd heard a lot of "this movie isn't good" from folks who hate fun, I
+    guess. It was fun, and a pretty decent "stuff goes wrong in space" movie. I
+    LOVE Cloverfield and even though I was mad at the gendered threat of
+    violence that permeated the entirety of 10 Cloverfield Lane, I still
+    enjoyed bits of that too. The Cloverfield universe is a wild one that I
+    really enjoy. See this if you have Netflix, like seeing WoC protagonists,
+    or like Cloverfield movies.
+
+8. **Black Panther**
+
+    Holy shit. I thought this movie would be good, but I had no idea how
+    amazing it would be. Action like woah, a solid plot that doesn't dig into
+    origin story over and over like other Marvel films, and amazing set and
+    costume design. The array of talented actors in this film is unbelievable.
+    This is one of the best films of 2018. No doubt.
+
 
 ## 2017 <a name="2017"></a>
 
