@@ -68,6 +68,12 @@ _years: [2016](#2016)[2017](#2017) [2018](#2018)_
     costume design. The array of talented actors in this film is unbelievable.
     This is one of the best films of 2018. No doubt.
 
+9. **Lost Boys**
+
+    I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
+    and talked about it, so my roommate and I sat down for a revist. It held up. There's something fantastic about watching these very gay vampire boys
+    run around and be punk teens. Listen to Imogen's podcast if you can, bc she
+    says everything I'd wanna cover. Oh, and watch this movie.
 
 ## 2017 <a name="2017"></a>
 
