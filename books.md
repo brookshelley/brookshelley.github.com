@@ -5,7 +5,7 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-1. **On Such a Full Sea** — Chang-Rae leave
+1. **On Such a Full Sea** — Chang-Rae Lee
 
     Really enjoyed this futuristic look at America and the fall of our current
     system. Lots of disucssion of class, immigration, and identity. The
@@ -49,10 +49,10 @@ _years: [2017](#2017) [2018](#2018)_
     suspicions from the past few books have led me here. There's some really
     neat stuff left to figure out, so I hope that in a few years we'll have
     book 5 & 6.
-    
+
 8. **Goodbye, Things** — Fumio Sasaki
 
-   What an odd book full of short, declarative sentences. Some bits of this 
+   What an odd book full of short, declarative sentences. Some bits of this
    were great, but a lot of it was about what you'd expect from a Medium
    article. The bit about the owl statues was golden.
 
@@ -302,7 +302,7 @@ _years: [2017](#2017) [2018](#2018)_
     in a religious home, albeit a fortunately less zealous one as a queer woman
     this book meant a lot.
 
-67. **Her Body and Other Parties2** — Carmen Maria Machado
+67. **Her Body and Other Parties** — Carmen Maria Machado
 
     Wow. This short-story collection knocked me back with the depth and power
     of its often odd stories. The midsection of the book satirically and
