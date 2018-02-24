@@ -75,6 +75,15 @@ _years: [2016](#2016)[2017](#2017) [2018](#2018)_
     run around and be punk teens. Listen to Imogen's podcast if you can, bc she
     says everything I'd wanna cover. Oh, and watch this movie.
 
+10. **Annihilation**
+
+    What a wild movie. I read these books back in 2014 when they were released
+    in a frenzy. I was pretty constantly afraid of the house I was staying in,
+    as I was pretty well disturbed by the book. It had the kind of sneaky
+    quality that gets in your head. The movie did a brisker job of telling a
+    similar story, but I enjoyed it. I'll probalby see this again, and I'm very
+    curious if they'll try to make more.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
