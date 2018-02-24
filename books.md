@@ -56,6 +56,16 @@ _years: [2017](#2017) [2018](#2018)_
    were great, but a lot of it was about what you'd expect from a Medium
    article. The bit about the owl statues was golden.
 
+9. **Annihilation** — Jeff Vandermeer
+
+    This is a re-read, because right after seeing the movie based on this book,
+    I wanted to dive back into Area X. To me, this series still captures all
+    the best parts of Vandermeer's wierdness in a cohesive way. If Borne was
+    oddly funny, this book is just odd, and City of Saints & Madmen is,
+    perhaps, homicidal. I'm still not sure if there are many hidden things in
+    this book, but I also haven't looked too deep, bc City of Saints & Madmen
+    sucked me in in a way I found frightenting.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
