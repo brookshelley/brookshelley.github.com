@@ -84,6 +84,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     similar story, but I enjoyed it. I'll probalby see this again, and I'm very
     curious if they'll try to make more.
 
+11. **Thelma**
+
+    A great movie about being queer, growing up Christian, and maybe having
+    super powers. Relateable AF. Highly recommended.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
