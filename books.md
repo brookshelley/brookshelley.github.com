@@ -66,6 +66,12 @@ _years: [2017](#2017) [2018](#2018)_
     this book, but I also haven't looked too deep, bc City of Saints & Madmen
     sucked me in in a way I found frightenting.
 
+10. **Authority** — Jeff Vandermeer
+
+    I loved this second book both times I read it, because so much of it is a
+    slow creep of bueracracy and questions. Why isn't anyone giving Control a
+    straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
