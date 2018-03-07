@@ -72,6 +72,19 @@ _years: [2017](#2017) [2018](#2018)_
     slow creep of bueracracy and questions. Why isn't anyone giving Control a
     straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
 
+11. **Acceptance** — Jeff Vandermeer
+
+    The final book in the Southern Reach trilogy ties everything together, and
+    provides a lot of backstory and history. There's so much that's desperately
+    sad in this book, and I love it.
+
+12. **Soulless** — Gail Corrigan [**](#ghost)
+
+    Wow, I hated this. I started reading it with a wry grin, but couldn't ever
+    decide if it meant to be as insipid as it was. I never want to read about
+    how hot a wereman is again. I never want to read about umbrellas, or
+    petticoats.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
