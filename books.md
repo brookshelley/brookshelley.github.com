@@ -85,6 +85,15 @@ _years: [2017](#2017) [2018](#2018)_
     how hot a wereman is again. I never want to read about umbrellas, or
     petticoats.
 
+13. **The End of My Career** — Martha Grover
+
+  Hilarious, sad, and real; the End of My Career is a very intimate look at
+  like in Portland as a chronically ill woman with history and a sense of
+  humor. I loved this. I wish it were gayer, but I wish everything were gayer,
+  so. As a more recentl Portlander, the pain, and amusement she talks about
+  watching her city change is similar to how I felt about my home of Austin.
+
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
