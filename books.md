@@ -52,9 +52,9 @@ _years: [2017](#2017) [2018](#2018)_
 
 8. **Goodbye, Things** — Fumio Sasaki
 
-   What an odd book full of short, declarative sentences. Some bits of this
-   were great, but a lot of it was about what you'd expect from a Medium
-   article. The bit about the owl statues was golden.
+    What an odd book full of short, declarative sentences. Some bits of this
+    were great, but a lot of it was about what you'd expect from a Medium
+    article. The bit about the owl statues was golden.
 
 9. **Annihilation** — Jeff Vandermeer
 
@@ -87,11 +87,11 @@ _years: [2017](#2017) [2018](#2018)_
 
 13. **The End of My Career** — Martha Grover
 
-  Hilarious, sad, and real; the End of My Career is a very intimate look at
-  like in Portland as a chronically ill woman with history and a sense of
-  humor. I loved this. I wish it were gayer, but I wish everything were gayer,
-  so. As a more recentl Portlander, the pain, and amusement she talks about
-  watching her city change is similar to how I felt about my home of Austin.
+    Hilarious, sad, and real; the End of My Career is a very intimate look at
+    like in Portland as a chronically ill woman with history and a sense of
+    humor. I loved this. I wish it were gayer, but I wish everything were gayer,
+    so. As a more recentl Portlander, the pain, and amusement she talks about
+    watching her city change is similar to how I felt about my home of Austin.
 
 13. **A Wrinkle in Time** [**](#ghost)
 
