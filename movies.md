@@ -89,6 +89,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     A great movie about being queer, growing up Christian, and maybe having
     super powers. Relateable AF. Highly recommended.
 
+12. **Wrinkle in Time**
+
+    I'd recommend listening to [this podcast](https://www.nytimes.com/2018/03/16/podcasts/still-processing-we-dont-love-everything-made-by-black-people-and-thats-ok.html) after you see the
+    movie. It was very, very disney, and they burned through everything pretty
+    fast withouth a lot of wonder. Really glad that the god stuff was gone, but
+    I think they could have jetisoned Calvin too without losing anything.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_

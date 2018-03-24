@@ -12,7 +12,7 @@ _years: [2017](#2017) [2018](#2018)_
     narrator was a little distracting, but it was an interesting narrative
     conceipt.
 
-2. **Autonomous** — Annalee Newitz
+2. **Autonomous** — Annalee Newitz [**](#ghost)
 
     Drug piracy, copyright, and queerness. I really loved this story, save for
     the happy ending for the cops.
@@ -92,6 +92,22 @@ _years: [2017](#2017) [2018](#2018)_
   humor. I loved this. I wish it were gayer, but I wish everything were gayer,
   so. As a more recentl Portlander, the pain, and amusement she talks about
   watching her city change is similar to how I felt about my home of Austin.
+
+13. **A Wrinkle in Time** [**](#ghost)
+
+    This was a re-read, but I loved diving through it again.
+
+14. **Things to Do When You're Goth in the Country** — Chavisa Woods [**](#ghost)
+
+    A truly excellent short-story collection that pairs well with some of the
+    stories in Her Body and Other Stories. This book reminded me of growing up
+    southern baptist in Texas, after September 11th. Really beautiflly written,
+    and quite melancholy.
+
+15. **All Systems Red** — Martha Wells
+
+    Pretty fun book about a "murderbot" who would rather be watching tv dramas
+    than shooting anything. I'm looking forward to the next few books.
 
 
 ## 2017 <a name="2017"></a>
