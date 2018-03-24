@@ -93,7 +93,7 @@ _years: [2017](#2017) [2018](#2018)_
     so. As a more recentl Portlander, the pain, and amusement she talks about
     watching her city change is similar to how I felt about my home of Austin.
 
-13. **A Wrinkle in Time** [**](#ghost)
+13. **A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
 
     This was a re-read, but I loved diving through it again.
 
