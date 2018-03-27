@@ -96,6 +96,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     fast withouth a lot of wonder. Really glad that the god stuff was gone, but
     I think they could have jetisoned Calvin too without losing anything.
 
+13. **Blade**
+
+    _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules. 
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
