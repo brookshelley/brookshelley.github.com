@@ -109,6 +109,21 @@ _years: [2017](#2017) [2018](#2018)_
     Pretty fun book about a "murderbot" who would rather be watching tv dramas
     than shooting anything. I'm looking forward to the next few books.
 
+16. **Stray** — Andrea Höst
+
+    This was recommended to me by my buddy Nick, and I'd avoided it for unknown
+    reasons. Maybe the cover was too low-budget? But, this book is really fun.
+    I think this series kinda qualifies as YA, but the journal nature, as well
+    as the mystery of scifi tech/magic systems got me deep into the world. A
+    really nice vacation read.
+
+17. **Lab Rat One** — Andrea Höst
+
+    Ok, this series is exceedingly straight, and that's a bummer. I wish there
+    was a lot less pining after the sad boy, but the magic and tech continues
+    to be interesting. The pacing is a little lax, and I've gotten slightly
+    sick of the cycles of "power then injury" that Cass goes through, but I'm 
+    going to finish this out.
 
 ## 2017 <a name="2017"></a>
 

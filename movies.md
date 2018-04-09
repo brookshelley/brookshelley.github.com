@@ -98,7 +98,31 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 13. **Blade**
 
-    _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules. 
+    _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules.
+
+14. **The Death of Stalin**
+
+    Super dark comedy. It has that abusive asshole Jeffrey Tambor, but
+    otherwise is full of hilariously weird old men. If you like Veep or In the
+    Thick of It, this is a must-watch.
+
+15. **The Ritual**
+
+    A very good "get lost in the woods" movie. Bad things happen to unlikeable
+    men. A+.
+
+16. **Cabin Fever**
+
+    I can't tell if this was the original, or if this was a remake, but either
+    way, it's nice to watch annoying and awful people fall apart. This is a
+    theme of the previous and next movie.
+
+17. **The Descent**
+
+    Another "maybe these are bad people" everything-goes-wrong movie. This was
+    a rewatch, and yet, the cave scenes still had me feeling super 
+    claustrophobic. It didn't help that I was in the middle of a middle row on
+    a plane to Portland from Amsterdam when I watched it.
 
 ## 2017 <a name="2017"></a>
 
