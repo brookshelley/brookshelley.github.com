@@ -122,7 +122,7 @@ _years: [2017](#2017) [2018](#2018)_
     Ok, this series is exceedingly straight, and that's a bummer. I wish there
     was a lot less pining after the sad boy, but the magic and tech continues
     to be interesting. The pacing is a little lax, and I've gotten slightly
-    sick of the cycles of "power then injury" that Cass goes through, but I'm 
+    sick of the cycles of "power then injury" that Cass goes through, but I'm
     going to finish this out.
 
 ## 2017 <a name="2017"></a>
@@ -277,7 +277,7 @@ _years: [2017](#2017) [2018](#2018)_
     enough to carry me through on a camping trip during the eclipse. Time to
     find some DMT for my flying broom.
 
-53. **God's War** — Kameron Hurley
+53. **God's War** — Kameron Hurley [**](#ghosts)
 
     Queer bounty hunters, devout magicians, and so much sand intermingled in
     this fun ride through a Islam-based religion colonized planet where organs
@@ -293,7 +293,7 @@ _years: [2017](#2017) [2018](#2018)_
 
 55. **The Merry Spinster** — Mallory Ortberg
 
-    *Review forthcoming when this book actually comes out.*
+    [Review on Medium](https://medium.com/@brookshelley/a-review-of-the-merry-spinster-15f41072834c)
 
 56. **Notes from a Crocodile** — Qiu Miaojin [**](#ghost)
 
@@ -387,7 +387,7 @@ _years: [2017](#2017) [2018](#2018)_
     immediately connect to it in the way I did with Fun Home. I'm going to keep
     thinking about this one.
 
-69. **Basic Witches** — Jaya Saxena & Jess Zimmerman
+69. **Basic Witches** — Jaya Saxena & Jess Zimmerman [**](#ghost)
 
     A series of spells, and a lot of nice discussion of how to care for oneself
     with witchcraft, presence of mind, and good friends. I liked this a lot,
