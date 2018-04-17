@@ -120,9 +120,19 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 17. **The Descent**
 
     Another "maybe these are bad people" everything-goes-wrong movie. This was
-    a rewatch, and yet, the cave scenes still had me feeling super 
+    a rewatch, and yet, the cave scenes still had me feeling super
     claustrophobic. It didn't help that I was in the middle of a middle row on
     a plane to Portland from Amsterdam when I watched it.
+
+18. **A Quiet Place**
+
+    A "good christian family" who _loves_ gender roles has to be _vewwwwwy
+    quiet_ so they don't get eaten by some kind of creatures. This movie was
+    silly as fuck. Every time the monster was on screen, someone had to
+    pantomime "be quiet," as if the entire movie hadn't been quiet. Also
+    _spoilers_ but how the fuck do you get pregnant if you know that a baby is
+    going to make loud baby noises and get your family killed? And _where did
+    they fuck?_ Anyways, this is a hate-watch.
 
 ## 2017 <a name="2017"></a>
 
