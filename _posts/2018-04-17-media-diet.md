@@ -1,3 +1,8 @@
+---
+layout: default
+title: Blogging Like a Hacker
+---
+
 # Media diet for April
 
 ## Books
