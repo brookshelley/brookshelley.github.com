@@ -4,3 +4,6 @@ description: [my work and media reviews]
 
 plugins:
   - jekyll-feed
+
+gems:
+  - jekyll-feed
