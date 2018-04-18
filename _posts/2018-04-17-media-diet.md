@@ -3,7 +3,7 @@ layout: default
 title: april 2018
 ---
 
-[writing](https://brookshelley.com/index.md) | [about](https://brookshelley.com/about.md) | [books i read](https://brookshelley.com/books.md) | [movies i watched](https://brookshelley.com/movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+[writing](https://brookshelley.com/index) | [about](https://brookshelley.com/about) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
 
 # Media diet for April 2018
 
