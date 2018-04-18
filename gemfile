@@ -17,6 +17,6 @@ gem "redcarpet", "~> 3.4.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-feed"
+gem "jekyll-feed", gruop: :jekyll_plugins
 
 end
