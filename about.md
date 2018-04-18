@@ -3,3 +3,11 @@
 # about
 a noted sapphist, Brook travels often, writes, and speaks about
 queer issues, tech, and witchcraft.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
