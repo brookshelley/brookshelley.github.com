@@ -5,8 +5,5 @@ author:
     name: "brook shelley"
     email: "brook@trash.ly"
 
-plugins:
-  - jekyll-feed
-
 gems:
   - jekyll-feed
