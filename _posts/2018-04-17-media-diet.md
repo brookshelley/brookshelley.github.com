@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Blogging Like a Hacker
+title: april 2018
 ---
 
-# Media diet for April
+# Media diet for April 2018
 
 ## Books
 

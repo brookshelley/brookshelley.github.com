@@ -4,6 +4,7 @@
 a noted sapphist, Brook travels often, writes, and speaks about
 queer issues, tech, and witchcraft.
 
+## posts
 <ul>
   {% for post in site.posts %}
     <li>
