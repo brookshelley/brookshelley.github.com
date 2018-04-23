@@ -134,8 +134,19 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     going to make loud baby noises and get your family killed? And _where did
     they fuck?_ Anyways, this is a hate-watch.
 
-19. **In the Fade**
+19. **Geostorm**
 
+    A trash movie in the best way. If you liked watching Jake Gylenhall run
+    from ice in The Day After Tomorrow, and people saying "zap!" and
+    "geostorm!", then this movie is for you. Continues the trend of big-budget
+    action films being largely targeted for non-US success, but that means we
+    also get some cool co-stars.
+
+20. **In the Fade**
+
+    One of the saddest movies I've seen in a long time. It's gorgeous,
+    well-shot, and soundtracked, but phew, what a brutal movie about the evils
+    of nazism, and racism.
 
 ## 2017 <a name="2017"></a>
 
