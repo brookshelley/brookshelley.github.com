@@ -148,6 +148,15 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     well-shot, and soundtracked, but phew, what a brutal movie about the evils
     of nazism, and racism.
 
+21. **Avengers: Infinity War**
+
+    This movie tried to tie together too many disparate stories, to bland
+    effect. The attempt at some sort of emotional climax was a big wet fart,
+    despite ten people in the theater I was in yelling at the screen. Like,
+    _spoilers_ they'll all be back, bc Disney isn't going to kill off their
+    money-makers. Go rewatch Black Panther of Thor Ragnarok, or like, spend 3
+    hours outside instead.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
