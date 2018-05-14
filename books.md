@@ -125,6 +125,21 @@ _years: [2017](#2017) [2018](#2018)_
     sick of the cycles of "power then injury" that Cass goes through, but I'm
     going to finish this out.
 
+18. **Caszandra** — Andrea Höst
+
+    Ugh, I wanted to enjoy the rest of this story, but this book was so
+    exceedingly dull. I **loathe** that the main character was setup to not
+    only get married, but have kids at ~19 years old. Fuck that. This series
+    started off well, but ended up being even worse than Twilight. Read the
+    first book, and skip the rest.
+
+19. **Space Opera** — Catherynne M. Valente
+
+    Uproriously fun, and silly throughout. Take Douglas Adams, add in some
+    queerness, and an obsession with Eurovision. Loved this from start to
+    finish. I devoured the backhalf of this book in one sitting at a cafe in
+    Copenhagen, and found myself crying in the afterword/credits.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
