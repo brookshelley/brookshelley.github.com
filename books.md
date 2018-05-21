@@ -140,6 +140,11 @@ _years: [2017](#2017) [2018](#2018)_
     finish. I devoured the backhalf of this book in one sitting at a cafe in
     Copenhagen, and found myself crying in the afterword/credits.
 
+20. **Gold, Fame, Citris** — Claire Vaye Watkins
+
+    Interesting book about a post-apocolyptic wasteland America and the ideas
+    of survival and family. I enjoyed this.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
