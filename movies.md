@@ -157,6 +157,12 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     money-makers. Go rewatch Black Panther of Thor Ragnarok, or like, spend 3
     hours outside instead.
 
+22. **Deadpool 2**
+
+    As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
+    There were defintitely jokes that were in really poor taste, but pretty
+    much what I expected.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
