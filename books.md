@@ -88,9 +88,9 @@ _years: [2017](#2017) [2018](#2018)_
 13. **The End of My Career** — Martha Grover
 
     Hilarious, sad, and real; the End of My Career is a very intimate look at
-    like in Portland as a chronically ill woman with history and a sense of
+    life in Portland as a chronically ill woman with history and a sense of
     humor. I loved this. I wish it were gayer, but I wish everything were gayer,
-    so. As a more recentl Portlander, the pain, and amusement she talks about
+    so. As a more recent Portlander, the pain, and amusement she talks about
     watching her city change is similar to how I felt about my home of Austin.
 
 13. **A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
@@ -144,6 +144,15 @@ _years: [2017](#2017) [2018](#2018)_
 
     Interesting book about a post-apocolyptic wasteland America and the ideas
     of survival and family. I enjoyed this.
+
+21. **Gods, Monsters, and the Lucky Peach** — Kelly Robson
+
+    A cool scifi short novel where the future is barren, but at least there's
+    time-travel. I wanted more world-building, and probably a couple more books
+    in this story, but that also means I liked this book quite a bit. The back
+    half of the book felt much faster than the lead-up, and much of the action
+    was compacted, but it was a fun adventure. This is a solid addition to the
+    burgeoning eco-scifi genre.
 
 ## 2017 <a name="2017"></a>
 
@@ -317,7 +326,7 @@ _years: [2017](#2017) [2018](#2018)_
 
 56. **Notes from a Crocodile** — Qiu Miaojin [**](#ghost)
 
-    This book was such a lovely combination of melanchholy feelings, and
+    This book was such a lovely combination of melancholy feelings, and
     slightly obsessive lesbian love. I loved all of the Abe references.
 
 57. **Fried Green Tomatoes at the Whistle Stop Cafe** — Fannie Flagg [*](#les)
