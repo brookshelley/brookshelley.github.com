@@ -163,6 +163,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     There were defintitely jokes that were in really poor taste, but pretty
     much what I expected.
 
+23. **Solo**
+
+    This was probably tied with Last Jedi for my least favorite of the new Star
+    Wars, but I liked it better than pretty much any of the old or prequel
+    ones. It was fun, had a few rad women, and didn't go overboard on "remember
+    this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
+    
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
