@@ -154,6 +154,27 @@ _years: [2017](#2017) [2018](#2018)_
     was compacted, but it was a fun adventure. This is a solid addition to the
     burgeoning eco-scifi genre.
 
+22. **Swearing Off Stars** — Danielle Wong
+
+    Started off alright, but quickly telegraphed to an all-to-common "I can't
+    really be with you until it's too late" lesbian novel. I also kept thinking
+    an editor had asked her to just add tons of adjectives, willy-nilly. It was
+    an odd read, and the time-jumps didn't help. If you can write a lesbian
+    romance in 2017, why would you lean so hard on tropes of one woman dying?
+    Super annoying. It was a pretty quick read at least. Read for a lesbian
+    book club.
+
+
+23. **Little Fish** — Casey Plett
+
+    Outstanding and devastating. This is a book full of people I've known,
+
+    slept with, and smiled at across the room. Family is a tenuous thing, and
+    Little Fish finds space for it throughout. I'm not sure what I would've
+    made with this years ago, but now, it's a sad and good ache. I hope Casey
+    keeps writing, and sharing her work with us for years to come. I read this
+    in one go, and it was a wild ride that had me laughing and crying.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
