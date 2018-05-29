@@ -169,7 +169,17 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     Wars, but I liked it better than pretty much any of the old or prequel
     ones. It was fun, had a few rad women, and didn't go overboard on "remember
     this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
-    
+
+24. **Appropriate Behavior**
+
+    This was a fun movie about being a Persian Bisexual woman in NYC. Shirin
+    goes through a major breakup, then struggles to date, and heal, while
+    dealing with a family she doesn't think will understand her queerness, and
+    the strange world of the NYC queer and poly scene. I laughed out loud
+    during a lot of this, even as I scratched my head at the confusing
+    references to trans guys—like, why are they a joke? Overall, I dug this
+    movie, and hope the director/writer Desiree makes more films soon.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
