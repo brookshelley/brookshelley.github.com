@@ -180,6 +180,16 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     references to trans guys—like, why are they a joke? Overall, I dug this
     movie, and hope the director/writer Desiree makes more films soon.
 
+25. **Red Sparrow**
+
+    I will never believe for one second that the protagnist would fall for Joel
+    Edgerton's bland spyman. For some reason, I expected this movie to be set
+    during the cold war, but instead it's vaguely now. This had more sexual
+    assault than I expected too, which is a fucking bummer. The saving grace in
+    this film is that by and large Jennifer Lawrence kills or beats all the men
+    in the movie. I can only hope she gets cast in more movies where she
+    doesn't have to participate in misogynist porn first.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
