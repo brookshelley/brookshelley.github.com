@@ -175,6 +175,15 @@ _years: [2017](#2017) [2018](#2018)_
     keeps writing, and sharing her work with us for years to come. I read this
     in one go, and it was a wild ride that had me laughing and crying.
 
+24. **Paprika** — Yasutaka Tsutsui
+
+    A fantasticly bizarre story of science, dreams, desire, and the smallness
+    of men. I'd seen the anime adapted from this book years ago, so I had some
+    predisposition towards envisioning characters a certain way, but this book
+    goes to way different places than I remember the movie going. I liked this
+    quite a bit, save for the weird shit with sexual assault. Like many books
+    written by a guy, it shows.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
