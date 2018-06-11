@@ -5,180 +5,24 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-1. **Murder on the Orient Express**
+28. **Ocean's 8**
 
-    Everyone is acting _so hard_ in this, and yet the result is a mess. That
-    said, I'd watch this again just to see Branaugh's ridiculous mustache.
-    10/10 mustache. I saw this in Japan, so I had a beer and french fries to
-    make it slightly better, and pre-roll video that repeated "NO NO NO" in
-    English to admonish us for even considering texting or talking.
+    All. Ladies. Heist. A+. I hope everyone involved in this comes out as gay.
+    Points for literally every outfit, and double points for Rhianna's
+    devil-may-care overalls, and Cate Blanchett's Carol-as-a-Timelord character.
 
-2. **Battle of the Sexes**
+27. **xx**
 
-    I'd heard good things, and this was pretty fun to watch. The lesbian
-    storyline was surprisingly compelling, and very well-done. I'm mad that
-    Adidas didn't reissue BJK's signature shoe when this movie came out though.
-    It's a good shoe. Steve Carrell seemed like many of his other charcters in
-    this, but whatever... Billy Riggs was an ass, and they do a good job of
-    showing that.
+    Terrible title unless everyone involved had to get a karyotype test to be
+    involved. Most of the horror was related to having kids, which meant this
+    movie hit me hard, because kids are the worst and deeply frightening on the
+    best days.
 
-3. **The Foreigner**
+26. **Unlocked**
 
-    Jackie Chan vs Irish James Bond. This movie kinda ruled. Jackie Chan is
-    fantastic, even at 63, at just dominating the screen with his personality
-    and action. This is definitely a more subdued and serious role than many of
-    his more famous films, but he shows up and is great. Parts of this reminded
-    me of taken, and others of _name a political thriller_, but overall I
-    really enjoyed this movie.
-
-4. **The Raid**
-
-    My second viewing of this movie since I saw it in theaters in Berkeley. I
-    love how rad and amazing this tower-escape film is. The fight scenes and
-    film style is so kinetic, and carries you through the film. There's not a
-    lot in the way of plot, but some of it feels like a Die Hard homage.
-
-5. **Hunt for the Wilderpeople**
-
-    Ahhh, this ruled! Sam Neil, and the kid are spectacular. Taika has a lovely
-    cameo as a bizarre priest. This might end up being the best movie I see
-    this year, and it had me laughing pretty consistently throughout.
-
-6. **I Don't Feel at Home in This World Anymore**
-
-    Elijah Wood is doing his all in this movie, as is Melanie Lynskey. This
-    goes off the rails midway through, and becomes a thrillride, but keeps up
-    the laughs. Also, yay for a movie that's set in Portland.
-
-7. **The Cloverfield Paradox**
-
-    I'd heard a lot of "this movie isn't good" from folks who hate fun, I
-    guess. It was fun, and a pretty decent "stuff goes wrong in space" movie. I
-    LOVE Cloverfield and even though I was mad at the gendered threat of
-    violence that permeated the entirety of 10 Cloverfield Lane, I still
-    enjoyed bits of that too. The Cloverfield universe is a wild one that I
-    really enjoy. See this if you have Netflix, like seeing WoC protagonists,
-    or like Cloverfield movies.
-
-8. **Black Panther**
-
-    Holy shit. I thought this movie would be good, but I had no idea how
-    amazing it would be. Action like woah, a solid plot that doesn't dig into
-    origin story over and over like other Marvel films, and amazing set and
-    costume design. The array of talented actors in this film is unbelievable.
-    This is one of the best films of 2018. No doubt.
-
-9. **Lost Boys**
-
-    I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
-    and talked about it, so my roommate and I sat down for a revist. It held up. There's something fantastic about watching these very gay vampire boys
-    run around and be punk teens. Listen to Imogen's podcast if you can, bc she
-    says everything I'd wanna cover. Oh, and watch this movie.
-
-10. **Annihilation**
-
-    What a wild movie. I read these books back in 2014 when they were released
-    in a frenzy. I was pretty constantly afraid of the house I was staying in,
-    as I was pretty well disturbed by the book. It had the kind of sneaky
-    quality that gets in your head. The movie did a brisker job of telling a
-    similar story, but I enjoyed it. I'll probalby see this again, and I'm very
-    curious if they'll try to make more.
-
-11. **Thelma**
-
-    A great movie about being queer, growing up Christian, and maybe having
-    super powers. Relateable AF. Highly recommended.
-
-12. **Wrinkle in Time**
-
-    I'd recommend listening to [this podcast](https://www.nytimes.com/2018/03/16/podcasts/still-processing-we-dont-love-everything-made-by-black-people-and-thats-ok.html) after you see the
-    movie. It was very, very disney, and they burned through everything pretty
-    fast withouth a lot of wonder. Really glad that the god stuff was gone, but
-    I think they could have jetisoned Calvin too without losing anything.
-
-13. **Blade**
-
-    _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules.
-
-14. **The Death of Stalin**
-
-    Super dark comedy. It has that abusive asshole Jeffrey Tambor, but
-    otherwise is full of hilariously weird old men. If you like Veep or In the
-    Thick of It, this is a must-watch.
-
-15. **The Ritual**
-
-    A very good "get lost in the woods" movie. Bad things happen to unlikeable
-    men. A+.
-
-16. **Cabin Fever**
-
-    I can't tell if this was the original, or if this was a remake, but either
-    way, it's nice to watch annoying and awful people fall apart. This is a
-    theme of the previous and next movie.
-
-17. **The Descent**
-
-    Another "maybe these are bad people" everything-goes-wrong movie. This was
-    a rewatch, and yet, the cave scenes still had me feeling super
-    claustrophobic. It didn't help that I was in the middle of a middle row on
-    a plane to Portland from Amsterdam when I watched it.
-
-18. **A Quiet Place**
-
-    A "good christian family" who _loves_ gender roles has to be _vewwwwwy
-    quiet_ so they don't get eaten by some kind of creatures. This movie was
-    silly as fuck. Every time the monster was on screen, someone had to
-    pantomime "be quiet," as if the entire movie hadn't been quiet. Also
-    _spoilers_ but how the fuck do you get pregnant if you know that a baby is
-    going to make loud baby noises and get your family killed? And _where did
-    they fuck?_ Anyways, this is a hate-watch.
-
-19. **Geostorm**
-
-    A trash movie in the best way. If you liked watching Jake Gylenhall run
-    from ice in The Day After Tomorrow, and people saying "zap!" and
-    "geostorm!", then this movie is for you. Continues the trend of big-budget
-    action films being largely targeted for non-US success, but that means we
-    also get some cool co-stars.
-
-20. **In the Fade**
-
-    One of the saddest movies I've seen in a long time. It's gorgeous,
-    well-shot, and soundtracked, but phew, what a brutal movie about the evils
-    of nazism, and racism.
-
-21. **Avengers: Infinity War**
-
-    This movie tried to tie together too many disparate stories, to bland
-    effect. The attempt at some sort of emotional climax was a big wet fart,
-    despite ten people in the theater I was in yelling at the screen. Like,
-    _spoilers_ they'll all be back, bc Disney isn't going to kill off their
-    money-makers. Go rewatch Black Panther of Thor Ragnarok, or like, spend 3
-    hours outside instead.
-
-22. **Deadpool 2**
-
-    As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
-    There were defintitely jokes that were in really poor taste, but pretty
-    much what I expected.
-
-23. **Solo**
-
-    This was probably tied with Last Jedi for my least favorite of the new Star
-    Wars, but I liked it better than pretty much any of the old or prequel
-    ones. It was fun, had a few rad women, and didn't go overboard on "remember
-    this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
-
-24. **Appropriate Behavior**
-
-    This was a fun movie about being a Persian Bisexual woman in NYC. Shirin
-    goes through a major breakup, then struggles to date, and heal, while
-    dealing with a family she doesn't think will understand her queerness, and
-    the strange world of the NYC queer and poly scene. I laughed out loud
-    during a lot of this, even as I scratched my head at the confusing
-    references to trans guys—like, why are they a joke? Overall, I dug this
-    movie, and hope the director/writer Desiree makes more films soon.
+    I'm a sucker for middling spy movies, and Noomi Rapace, so I now own this
+    film. It wasn't great, but it was fun, and dammit, sometimes that's all I
+    need. TIL Michael Douglas is still around.
 
 25. **Red Sparrow**
 
@@ -190,24 +34,182 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     in the movie. I can only hope she gets cast in more movies where she
     doesn't have to participate in misogynist porn first.
 
-26. **Unlocked**
+24. **Appropriate Behavior**
 
-    I'm a sucker for middling spy movies, and Noomi Rapace, so I now own this
-    film. It wasn't great, but it was fun, and dammit, sometimes that's all I
-    need. TIL Michael Douglas is still around.
+    This was a fun movie about being a Persian Bisexual woman in NYC. Shirin
+    goes through a major breakup, then struggles to date, and heal, while
+    dealing with a family she doesn't think will understand her queerness, and
+    the strange world of the NYC queer and poly scene. I laughed out loud
+    during a lot of this, even as I scratched my head at the confusing
+    references to trans guys—like, why are they a joke? Overall, I dug this
+    movie, and hope the director/writer Desiree makes more films soon.
 
-27. **xx**
+23. **Solo**
 
-    Terrible title unless everyone involved had to get a karyotype test to be
-    involved. Most of the horror was related to having kids, which meant this
-    movie hit me hard, because kids are the worst and deeply frightening on the
-    best days.
+    This was probably tied with Last Jedi for my least favorite of the new Star
+    Wars, but I liked it better than pretty much any of the old or prequel
+    ones. It was fun, had a few rad women, and didn't go overboard on "remember
+    this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
 
-28. **Ocean's 8**
+22. **Deadpool 2**
 
-    All. Ladies. Heist. A+. I hope everyone involved in this comes out as gay.
-    Points for literally every outfit, and double points for Rhianna's
-    devil-may-care overalls, and Cate Blanchett's Carol-as-a-Timelord character.
+    As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
+    There were defintitely jokes that were in really poor taste, but pretty
+    much what I expected.
+
+21. **Avengers: Infinity War**
+
+    This movie tried to tie together too many disparate stories, to bland
+    effect. The attempt at some sort of emotional climax was a big wet fart,
+    despite ten people in the theater I was in yelling at the screen. Like,
+    _spoilers_ they'll all be back, bc Disney isn't going to kill off their
+    money-makers. Go rewatch Black Panther of Thor Ragnarok, or like, spend 3
+    hours outside instead.
+
+20. **In the Fade**
+
+    One of the saddest movies I've seen in a long time. It's gorgeous,
+    well-shot, and soundtracked, but phew, what a brutal movie about the evils
+    of nazism, and racism.
+
+19. **Geostorm**
+
+    A trash movie in the best way. If you liked watching Jake Gylenhall run
+    from ice in The Day After Tomorrow, and people saying "zap!" and
+    "geostorm!", then this movie is for you. Continues the trend of big-budget
+    action films being largely targeted for non-US success, but that means we
+    also get some cool co-stars.
+
+18. **A Quiet Place**
+
+    A "good christian family" who _loves_ gender roles has to be _vewwwwwy
+    quiet_ so they don't get eaten by some kind of creatures. This movie was
+    silly as fuck. Every time the monster was on screen, someone had to
+    pantomime "be quiet," as if the entire movie hadn't been quiet. Also
+    _spoilers_ but how the fuck do you get pregnant if you know that a baby is
+    going to make loud baby noises and get your family killed? And _where did
+    they fuck?_ Anyways, this is a hate-watch.
+
+17. **The Descent**
+
+    Another "maybe these are bad people" everything-goes-wrong movie. This was
+    a rewatch, and yet, the cave scenes still had me feeling super
+    claustrophobic. It didn't help that I was in the middle of a middle row on
+    a plane to Portland from Amsterdam when I watched it.
+
+16. **Cabin Fever**
+
+    I can't tell if this was the original, or if this was a remake, but either
+    way, it's nice to watch annoying and awful people fall apart. This is a
+    theme of the previous and next movie.
+
+15. **The Ritual**
+
+    A very good "get lost in the woods" movie. Bad things happen to unlikeable
+    men. A+.
+
+14. **The Death of Stalin**
+
+    Super dark comedy. It has that abusive asshole Jeffrey Tambor, but
+    otherwise is full of hilariously weird old men. If you like Veep or In the
+    Thick of It, this is a must-watch.
+
+13. **Blade**
+
+    _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules.
+
+12. **Wrinkle in Time**
+
+    I'd recommend listening to [this podcast](https://www.nytimes.com/2018/03/16/podcasts/still-processing-we-dont-love-everything-made-by-black-people-and-thats-ok.html) after you see the
+    movie. It was very, very disney, and they burned through everything pretty
+    fast withouth a lot of wonder. Really glad that the god stuff was gone, but
+    I think they could have jetisoned Calvin too without losing anything.
+
+11. **Thelma**
+
+    A great movie about being queer, growing up Christian, and maybe having
+    super powers. Relateable AF. Highly recommended.
+
+10. **Annihilation**
+
+    What a wild movie. I read these books back in 2014 when they were released
+    in a frenzy. I was pretty constantly afraid of the house I was staying in,
+    as I was pretty well disturbed by the book. It had the kind of sneaky
+    quality that gets in your head. The movie did a brisker job of telling a
+    similar story, but I enjoyed it. I'll probalby see this again, and I'm very
+    curious if they'll try to make more.
+
+9. **Lost Boys**
+
+    I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
+    and talked about it, so my roommate and I sat down for a revist. It held
+    up. There's something fantastic about watching these very gay vampire boys
+    run around and be punk teens. Listen to Imogen's podcast if you can, bc she
+    says everything I'd wanna cover. Oh, and watch this movie.
+
+8. **Black Panther**
+
+    Holy shit. I thought this movie would be good, but I had no idea how
+    amazing it would be. Action like woah, a solid plot that doesn't dig into
+    origin story over and over like other Marvel films, and amazing set and
+    costume design. The array of talented actors in this film is unbelievable.
+    This is one of the best films of 2018. No doubt.
+
+7. **The Cloverfield Paradox**
+
+    I'd heard a lot of "this movie isn't good" from folks who hate fun, I
+    guess. It was fun, and a pretty decent "stuff goes wrong in space" movie. I
+    LOVE Cloverfield and even though I was mad at the gendered threat of
+    violence that permeated the entirety of 10 Cloverfield Lane, I still
+    enjoyed bits of that too. The Cloverfield universe is a wild one that I
+    really enjoy. See this if you have Netflix, like seeing WoC protagonists,
+    or like Cloverfield movies.
+
+6. **I Don't Feel at Home in This World Anymore**
+
+    Elijah Wood is doing his all in this movie, as is Melanie Lynskey. This
+    goes off the rails midway through, and becomes a thrillride, but keeps up
+    the laughs. Also, yay for a movie that's set in Portland.
+
+
+5. **Hunt for the Wilderpeople**
+
+    Ahhh, this ruled! Sam Neil, and the kid are spectacular. Taika has a lovely
+    cameo as a bizarre priest. This might end up being the best movie I see
+    this year, and it had me laughing pretty consistently throughout.
+
+4. **The Raid**
+
+    My second viewing of this movie since I saw it in theaters in Berkeley. I
+    love how rad and amazing this tower-escape film is. The fight scenes and
+    film style is so kinetic, and carries you through the film. There's not a
+    lot in the way of plot, but some of it feels like a Die Hard homage.
+
+3. **The Foreigner**
+
+    Jackie Chan vs Irish James Bond. This movie kinda ruled. Jackie Chan is
+    fantastic, even at 63, at just dominating the screen with his personality
+    and action. This is definitely a more subdued and serious role than many of
+    his more famous films, but he shows up and is great. Parts of this reminded
+    me of taken, and others of _name a political thriller_, but overall I
+    really enjoyed this movie.
+
+2. **Battle of the Sexes**
+
+    I'd heard good things, and this was pretty fun to watch. The lesbian
+    storyline was surprisingly compelling, and very well-done. I'm mad that
+    Adidas didn't reissue BJK's signature shoe when this movie came out though.
+    It's a good shoe. Steve Carrell seemed like many of his other charcters in
+    this, but whatever... Billy Riggs was an ass, and they do a good job of
+    showing that.
+
+1. **Murder on the Orient Express**
+
+    Everyone is acting _so hard_ in this, and yet the result is a mess. That
+    said, I'd watch this again just to see Branaugh's ridiculous mustache.
+    10/10 mustache. I saw this in Japan, so I had a beer and french fries to
+    make it slightly better, and pre-roll video that repeated "NO NO NO" in
+    English to admonish us for even considering texting or talking.
 
 ## 2017 <a name="2017"></a>
 
