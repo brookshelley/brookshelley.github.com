@@ -164,7 +164,6 @@ _years: [2017](#2017) [2018](#2018)_
     Super annoying. It was a pretty quick read at least. Read for a lesbian
     book club.
 
-
 23. **Little Fish** — Casey Plett
 
     Outstanding and devastating. This is a book full of people I've known,

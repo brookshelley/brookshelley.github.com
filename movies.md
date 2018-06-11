@@ -190,6 +190,25 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     in the movie. I can only hope she gets cast in more movies where she
     doesn't have to participate in misogynist porn first.
 
+26. **Unlocked**
+
+    I'm a sucker for middling spy movies, and Noomi Rapace, so I now own this
+    film. It wasn't great, but it was fun, and dammit, sometimes that's all I
+    need. TIL Michael Douglas is still around.
+
+27. **xx**
+
+    Terrible title unless everyone involved had to get a karyotype test to be
+    involved. Most of the horror was related to having kids, which meant this
+    movie hit me hard, because kids are the worst and deeply frightening on the
+    best days.
+
+28. **Ocean's 8**
+
+    All. Ladies. Heist. A+. I hope everyone involved in this comes out as gay.
+    Points for literally every outfit, and double points for Rhianna's
+    devil-may-care overalls, and Cate Blanchett's Carol-as-a-Timelord character.
+
 ## 2017 <a name="2017"></a>
 
 _this list is super truncated because i forgot keep it until july_
