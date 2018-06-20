@@ -5,6 +5,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+29. **Oh Lucy!**
+
+    This movie ruled! The world feels pretty rough these days, and this movie
+    doesn't shy away from difficult topics, but the overarching feeling of Oh
+    Lucy is a kind and happy one. It was also cool seeing an actor I've watched
+    in lots of Kiyoshi Kurasawa films show up in a very rad role.
+
 28. **Ocean's 8**
 
     All. Ladies. Heist. A+. I hope everyone involved in this comes out as gay.

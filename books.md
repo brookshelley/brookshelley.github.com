@@ -183,6 +183,12 @@ _years: [2017](#2017) [2018](#2018)_
     quite a bit, save for the weird shit with sexual assault. Like many books
     written by a guy, it shows.
 
+25. **Infidel** — Kameron Hurley
+
+    Really loving this series about a tough AF bounty hunter lady named Nyx.
+    The world-building is pretty interesting, and the story moves forward at a
+    pretty good clip. All-told, this is a fun sci-fi action novel.
+
 ## 2017 <a name="2017"></a>
 
 1. **Reaquainted with Life** — Kokumo
