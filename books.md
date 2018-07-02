@@ -5,164 +5,26 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-1. **On Such a Full Sea** — Chang-Rae Lee
+26. **Blackfish City** Sam J. Miller [**](#ghost)
 
-    Really enjoyed this futuristic look at America and the fall of our current
-    system. Lots of disucssion of class, immigration, and identity. The
-    narrator was a little distracting, but it was an interesting narrative
-    conceipt.
+    This book ruled, and I was super surprised at how much I loved it.
+    Absolutely riveting, and a blast. The individual characters felt very
+    distict, and were easy to follow, and the world felt really interesting.
 
-2. **Autonomous** — Annalee Newitz [**](#ghost)
+25. **Infidel** — Kameron Hurley
 
-    Drug piracy, copyright, and queerness. I really loved this story, save for
-    the happy ending for the cops.
+    Really loving this series about a tough AF bounty hunter lady named Nyx.
+    The world-building is pretty interesting, and the story moves forward at a
+    pretty good clip. All-told, this is a fun sci-fi action novel.
 
-3. **Infomocracy** — Malka Older
+24. **Paprika** — Yasutaka Tsutsui
 
-    This techno political thriller ruled. This story created the kind of world
-    I want to dig around in for some time to come, so I'm glad there's at least
-    one more.
-
-4. **Null States** — Malka Older
-
-    A nice sequel to Infomocracy that explored some new characters while still
-    letting Mishma and Ken run around a bit. Much of this book was a build-up that never seemed to deliver, but it feels like the story will come to a head a bit more in the potential next book.
-
-5. **Binti: Night Masquerade** — Nnedi Okafor
-
-    The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
-    first one has that handily covered). Additionally, the pacing was wacky.
-    There was a _lot_ of time spent building up to a conflict that doesn't go
-    very far, then an unsatisfying conclusion. The main character ends up
-    having so much thrown at her with little-to-no consequence, that the whole
-    thing gets to a comic level of ridiculousness.
-
-6. **Girls on Fire** — Robin Wasserman
-
-    Fantastic coming-of-age book. I really loved all the grunge, and
-    surrepitious drinking, and peer-pressure.
-
-7. **The Language of Power** — Rosemary Kirstein
-
-    A great fourth book in a series I've really loved. This book furthers the
-    "what the fuck are the wizards, and what're they doing" plotline. A lot of
-    suspicions from the past few books have led me here. There's some really
-    neat stuff left to figure out, so I hope that in a few years we'll have
-    book 5 & 6.
-
-8. **Goodbye, Things** — Fumio Sasaki
-
-    What an odd book full of short, declarative sentences. Some bits of this
-    were great, but a lot of it was about what you'd expect from a Medium
-    article. The bit about the owl statues was golden.
-
-9. **Annihilation** — Jeff Vandermeer
-
-    This is a re-read, because right after seeing the movie based on this book,
-    I wanted to dive back into Area X. To me, this series still captures all
-    the best parts of Vandermeer's wierdness in a cohesive way. If Borne was
-    oddly funny, this book is just odd, and City of Saints & Madmen is,
-    perhaps, homicidal. I'm still not sure if there are many hidden things in
-    this book, but I also haven't looked too deep, bc City of Saints & Madmen
-    sucked me in in a way I found frightenting.
-
-10. **Authority** — Jeff Vandermeer
-
-    I loved this second book both times I read it, because so much of it is a
-    slow creep of bueracracy and questions. Why isn't anyone giving Control a
-    straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
-
-11. **Acceptance** — Jeff Vandermeer
-
-    The final book in the Southern Reach trilogy ties everything together, and
-    provides a lot of backstory and history. There's so much that's desperately
-    sad in this book, and I love it.
-
-12. **Soulless** — Gail Corrigan [**](#ghost)
-
-    Wow, I hated this. I started reading it with a wry grin, but couldn't ever
-    decide if it meant to be as insipid as it was. I never want to read about
-    how hot a wereman is again. I never want to read about umbrellas, or
-    petticoats.
-
-13. **The End of My Career** — Martha Grover
-
-    Hilarious, sad, and real; the End of My Career is a very intimate look at
-    life in Portland as a chronically ill woman with history and a sense of
-    humor. I loved this. I wish it were gayer, but I wish everything were gayer,
-    so. As a more recent Portlander, the pain, and amusement she talks about
-    watching her city change is similar to how I felt about my home of Austin.
-
-13. **A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
-
-    This was a re-read, but I loved diving through it again.
-
-14. **Things to Do When You're Goth in the Country** — Chavisa Woods [**](#ghost)
-
-    A truly excellent short-story collection that pairs well with some of the
-    stories in Her Body and Other Stories. This book reminded me of growing up
-    southern baptist in Texas, after September 11th. Really beautiflly written,
-    and quite melancholy.
-
-15. **All Systems Red** — Martha Wells
-
-    Pretty fun book about a "murderbot" who would rather be watching tv dramas
-    than shooting anything. I'm looking forward to the next few books.
-
-16. **Stray** — Andrea Höst
-
-    This was recommended to me by my buddy Nick, and I'd avoided it for unknown
-    reasons. Maybe the cover was too low-budget? But, this book is really fun.
-    I think this series kinda qualifies as YA, but the journal nature, as well
-    as the mystery of scifi tech/magic systems got me deep into the world. A
-    really nice vacation read.
-
-17. **Lab Rat One** — Andrea Höst
-
-    Ok, this series is exceedingly straight, and that's a bummer. I wish there
-    was a lot less pining after the sad boy, but the magic and tech continues
-    to be interesting. The pacing is a little lax, and I've gotten slightly
-    sick of the cycles of "power then injury" that Cass goes through, but I'm
-    going to finish this out.
-
-18. **Caszandra** — Andrea Höst
-
-    Ugh, I wanted to enjoy the rest of this story, but this book was so
-    exceedingly dull. I **loathe** that the main character was setup to not
-    only get married, but have kids at ~19 years old. Fuck that. This series
-    started off well, but ended up being even worse than Twilight. Read the
-    first book, and skip the rest.
-
-19. **Space Opera** — Catherynne M. Valente
-
-    Uproriously fun, and silly throughout. Take Douglas Adams, add in some
-    queerness, and an obsession with Eurovision. Loved this from start to
-    finish. I devoured the backhalf of this book in one sitting at a cafe in
-    Copenhagen, and found myself crying in the afterword/credits.
-
-20. **Gold, Fame, Citris** — Claire Vaye Watkins
-
-    Interesting book about a post-apocolyptic wasteland America and the ideas
-    of survival and family. I enjoyed this.
-
-21. **Gods, Monsters, and the Lucky Peach** — Kelly Robson
-
-    A cool scifi short novel where the future is barren, but at least there's
-    time-travel. I wanted more world-building, and probably a couple more books
-    in this story, but that also means I liked this book quite a bit. The back
-    half of the book felt much faster than the lead-up, and much of the action
-    was compacted, but it was a fun adventure. This is a solid addition to the
-    burgeoning eco-scifi genre.
-
-22. **Swearing Off Stars** — Danielle Wong
-
-    Started off alright, but quickly telegraphed to an all-to-common "I can't
-    really be with you until it's too late" lesbian novel. I also kept thinking
-    an editor had asked her to just add tons of adjectives, willy-nilly. It was
-    an odd read, and the time-jumps didn't help. If you can write a lesbian
-    romance in 2017, why would you lean so hard on tropes of one woman dying?
-    Super annoying. It was a pretty quick read at least. Read for a lesbian
-    book club.
+    A fantasticly bizarre story of science, dreams, desire, and the smallness
+    of men. I'd seen the anime adapted from this book years ago, so I had some
+    predisposition towards envisioning characters a certain way, but this book
+    goes to way different places than I remember the movie going. I liked this
+    quite a bit, save for the weird shit with sexual assault. Like many books
+    written by a guy, it shows.
 
 23. **Little Fish** — Casey Plett
 
@@ -174,20 +36,166 @@ _years: [2017](#2017) [2018](#2018)_
     keeps writing, and sharing her work with us for years to come. I read this
     in one go, and it was a wild ride that had me laughing and crying.
 
-24. **Paprika** — Yasutaka Tsutsui
+22. **Swearing Off Stars** — Danielle Wong
 
-    A fantasticly bizarre story of science, dreams, desire, and the smallness
-    of men. I'd seen the anime adapted from this book years ago, so I had some
-    predisposition towards envisioning characters a certain way, but this book
-    goes to way different places than I remember the movie going. I liked this
-    quite a bit, save for the weird shit with sexual assault. Like many books
-    written by a guy, it shows.
+    Started off alright, but quickly telegraphed to an all-to-common "I can't
+    really be with you until it's too late" lesbian novel. I also kept thinking
+    an editor had asked her to just add tons of adjectives, willy-nilly. It was
+    an odd read, and the time-jumps didn't help. If you can write a lesbian
+    romance in 2017, why would you lean so hard on tropes of one woman dying?
+    Super annoying. It was a pretty quick read at least. Read for a lesbian
+    book club.
 
-25. **Infidel** — Kameron Hurley
+21. **Gods, Monsters, and the Lucky Peach** — Kelly Robson [**](#ghost)
 
-    Really loving this series about a tough AF bounty hunter lady named Nyx.
-    The world-building is pretty interesting, and the story moves forward at a
-    pretty good clip. All-told, this is a fun sci-fi action novel.
+    A cool scifi short novel where the future is barren, but at least there's
+    time-travel. I wanted more world-building, and probably a couple more books
+    in this story, but that also means I liked this book quite a bit. The back
+    half of the book felt much faster than the lead-up, and much of the action
+    was compacted, but it was a fun adventure. This is a solid addition to the
+    burgeoning eco-scifi genre.
+
+20. **Gold, Fame, Citris** — Claire Vaye Watkins
+
+    Interesting book about a post-apocolyptic wasteland America and the ideas
+    of survival and family. I enjoyed this.
+
+19. **Space Opera** — Catherynne M. Valente [**](#ghost)
+
+    Uproriously fun, and silly throughout. Take Douglas Adams, add in some
+    queerness, and an obsession with Eurovision. Loved this from start to
+    finish. I devoured the backhalf of this book in one sitting at a cafe in
+    Copenhagen, and found myself crying in the afterword/credits.
+
+18. **Caszandra** — Andrea Höst
+
+    Ugh, I wanted to enjoy the rest of this story, but this book was so
+    exceedingly dull. I **loathe** that the main character was setup to not
+    only get married, but have kids at ~19 years old. Fuck that. This series
+    started off well, but ended up being even worse than Twilight. Read the
+    first book, and skip the rest.
+
+17. **Lab Rat One** — Andrea Höst
+
+    Ok, this series is exceedingly straight, and that's a bummer. I wish there
+    was a lot less pining after the sad boy, but the magic and tech continues
+    to be interesting. The pacing is a little lax, and I've gotten slightly
+    sick of the cycles of "power then injury" that Cass goes through, but I'm
+    going to finish this out.
+
+16. **Stray** — Andrea Höst
+
+    This was recommended to me by my buddy Nick, and I'd avoided it for unknown
+    reasons. Maybe the cover was too low-budget? But, this book is really fun.
+    I think this series kinda qualifies as YA, but the journal nature, as well
+    as the mystery of scifi tech/magic systems got me deep into the world. A
+    really nice vacation read.
+
+15. **All Systems Red** — Martha Wells
+
+    Pretty fun book about a "murderbot" who would rather be watching tv dramas
+    than shooting anything. I'm looking forward to the next few books.
+
+14. **Things to Do When You're Goth in the Country** — Chavisa Woods [**](#ghost)
+
+    A truly excellent short-story collection that pairs well with some of the
+    stories in Her Body and Other Stories. This book reminded me of growing up
+    southern baptist in Texas, after September 11th. Really beautiflly written,
+    and quite melancholy.
+
+13. **A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
+
+    This was a re-read, but I loved diving through it again.
+
+13. **The End of My Career** — Martha Grover
+
+    Hilarious, sad, and real; the End of My Career is a very intimate look at
+    life in Portland as a chronically ill woman with history and a sense of
+    humor. I loved this. I wish it were gayer, but I wish everything were gayer,
+    so. As a more recent Portlander, the pain, and amusement she talks about
+    watching her city change is similar to how I felt about my home of Austin.
+
+12. **Soulless** — Gail Corrigan [**](#ghost)
+
+    Wow, I hated this. I started reading it with a wry grin, but couldn't ever
+    decide if it meant to be as insipid as it was. I never want to read about
+    how hot a wereman is again. I never want to read about umbrellas, or
+    petticoats.
+
+11. **Acceptance** — Jeff Vandermeer
+
+    The final book in the Southern Reach trilogy ties everything together, and
+    provides a lot of backstory and history. There's so much that's desperately
+    sad in this book, and I love it.
+
+10. **Authority** — Jeff Vandermeer
+
+    I loved this second book both times I read it, because so much of it is a
+    slow creep of bueracracy and questions. Why isn't anyone giving Control a
+    straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
+
+9. **Annihilation** — Jeff Vandermeer
+
+    This is a re-read, because right after seeing the movie based on this book,
+    I wanted to dive back into Area X. To me, this series still captures all
+    the best parts of Vandermeer's wierdness in a cohesive way. If Borne was
+    oddly funny, this book is just odd, and City of Saints & Madmen is,
+    perhaps, homicidal. I'm still not sure if there are many hidden things in
+    this book, but I also haven't looked too deep, bc City of Saints & Madmen
+    sucked me in in a way I found frightenting.
+
+8. **Goodbye, Things** — Fumio Sasaki
+
+    What an odd book full of short, declarative sentences. Some bits of this
+    were great, but a lot of it was about what you'd expect from a Medium
+    article. The bit about the owl statues was golden.
+
+7. **The Language of Power** — Rosemary Kirstein
+
+    A great fourth book in a series I've really loved. This book furthers the
+    "what the fuck are the wizards, and what're they doing" plotline. A lot of
+    suspicions from the past few books have led me here. There's some really
+    neat stuff left to figure out, so I hope that in a few years we'll have
+    book 5 & 6.
+
+6. **Girls on Fire** — Robin Wasserman
+
+    Fantastic coming-of-age book. I really loved all the grunge, and
+    surrepitious drinking, and peer-pressure.
+
+5. **Binti: Night Masquerade** — Nnedi Okafor
+
+    The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
+    first one has that handily covered). Additionally, the pacing was wacky.
+    There was a _lot_ of time spent building up to a conflict that doesn't go
+    very far, then an unsatisfying conclusion. The main character ends up
+    having so much thrown at her with little-to-no consequence, that the whole
+    thing gets to a comic level of ridiculousness.
+
+4. **Null States** — Malka Older
+
+    A nice sequel to Infomocracy that explored some new characters while still
+    letting Mishma and Ken run around a bit. Much of this book was a build-up
+    that never seemed to deliver, but it feels like the story will come to a
+    head a bit more in the potential next book.
+
+3. **Infomocracy** — Malka Older
+
+    This techno political thriller ruled. This story created the kind of world
+    I want to dig around in for some time to come, so I'm glad there's at least
+    one more.
+
+2. **Autonomous** — Annalee Newitz [**](#ghost)
+
+    Drug piracy, copyright, and queerness. I really loved this story, save for
+    the happy ending for the cops.
+
+1. **On Such a Full Sea** — Chang-Rae Lee
+
+    Really enjoyed this futuristic look at America and the fall of our current
+    system. Lots of disucssion of class, immigration, and identity. The
+    narrator was a little distracting, but it was an interesting narrative
+    conceipt.
 
 ## 2017 <a name="2017"></a>
 
