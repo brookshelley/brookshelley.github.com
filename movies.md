@@ -5,6 +5,15 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+30. **Jurassic World: Fallen Kingdom**
+
+    Lol, this movie was absurd. They rushed off the island and so
+    many of the subplots never really paid off? I can't forget that
+    Pratt is a conservative, and I didn't really care much about
+    anyone in this film, except for the dinosaurs. I guess I was
+    rooting for the dinosaurs, and I figure they probably came out
+    ahead.
+
 29. **Oh Lucy!**
 
     This movie ruled! The world feels pretty rough these days, and this movie
