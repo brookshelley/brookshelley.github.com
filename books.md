@@ -5,7 +5,17 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-26. **Blackfish City** Sam J. Miller [**](#ghost)
+27. **La Bastarda** — Trifonia Melibea Obono [*](#les)
+
+    A lesbian novel from Equatorial Guinea that tells a short story of a woman
+    abandoned by her father, and orphaned by her mother who finds herself
+    falling for another woman. The first half was full of build-up and
+    world-building, but the back half felt like a very rushed piece, as though
+    Trifonia was hoping to get it all out in a final effort. I enjoyed this
+    book, but the bits that were glossed over about Okomo's journeys, her
+    grandfather's death, and other scenes could've been fleshed-out.
+
+26. **Blackfish City** — Sam J. Miller [**](#ghost)
 
     This book ruled, and I was super surprised at how much I loved it.
     Absolutely riveting, and a blast. The individual characters felt very
@@ -36,7 +46,7 @@ _years: [2017](#2017) [2018](#2018)_
     keeps writing, and sharing her work with us for years to come. I read this
     in one go, and it was a wild ride that had me laughing and crying.
 
-22. **Swearing Off Stars** — Danielle Wong
+22. **Swearing Off Stars** — Danielle Wong [*](#les)
 
     Started off alright, but quickly telegraphed to an all-to-common "I can't
     really be with you until it's too late" lesbian novel. I also kept thinking
