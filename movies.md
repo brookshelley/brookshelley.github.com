@@ -5,6 +5,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+33. **The Incredibles
+
+    The animation holds up suprisingly well for a few year-old movie, even if
+    the plot depends on some pretty annoying misogynist tropes. I watched this
+    to prep for the new movie, and overall it was a fun, if ridiculous, movie.
+
+32. **Ant Man & the Wasp**
+
+    This was a hoot. Very silly, and pretty PG, but above all else, this felt
+    like a comic movie. I'd compare this to Spiderman Homecoming or a less
+    stylish Thor Ragnarok. Great summer night movie.
+
 31. **Gemini**
 
     Lesbian murder mystery? Yes. This was fun, even if the music felt super
@@ -14,7 +26,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 30. **Jurassic World: Fallen Kingdom**
 
-    Lol, this movie was absurd. They rushed off the island and so many of the 
+    Lol, this movie was absurd. They rushed off the island and so many of the
     subplots never really paid off? I can't forget that Pratt is a
     conservative, and I didn't really care much about anyone in this film,
     except for the dinosaurs. I guess I was rooting for the dinosaurs, and I
