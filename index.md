@@ -19,6 +19,7 @@
 - [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
 ## books
+- [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
 - [Transfigure](http://transfigureproject.com/brook-shelley/)
 - [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
