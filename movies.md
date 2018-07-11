@@ -7,13 +7,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 35. **The Incredibles 2**
 
-    Watched this a few hours after the first one. The animation has gotten a LOT 
-    better, even though the first one honestly aged pretty well, since they didn't 
-    try to make it photorealistic. The plot was ridiculous again, and they definitely 
+    Watched this a few hours after the first one. The animation has gotten a LOT
+    better, even though the first one honestly aged pretty well, since they didn't
+    try to make it photorealistic. The plot was ridiculous again, and they definitely
     leaned hard into the "men are bad at childcare" shit that I suspected they would.
     Fun enough though anyways.
 
-34. **The Incredibles
+34. **The Incredibles**
 
     The animation holds up suprisingly well for a few year-old movie, even if
     the plot depends on some pretty annoying misogynist tropes. I watched this
@@ -27,8 +27,8 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 32. **Sicario**
 
-    What a wild movie, in which I needed to completely suspend all of my feelings 
-    aboutAmerica, the "drug war" and Thanos. If you can attempt to not emotionally 
+    What a wild movie, in which I needed to completely suspend all of my feelings
+    aboutAmerica, the "drug war" and Thanos. If you can attempt to not emotionally
     connect to the actual monsters in this movie, it's kinda fun in a "tense film ]
     where things blow up" kind of way.
 
