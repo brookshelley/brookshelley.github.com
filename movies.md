@@ -5,17 +5,32 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-33. **The Incredibles
+35. **The Incredibles 2**
+
+    Watched this a few hours after the first one. The animation has gotten a LOT 
+    better, even though the first one honestly aged pretty well, since they didn't 
+    try to make it photorealistic. The plot was ridiculous again, and they definitely 
+    leaned hard into the "men are bad at childcare" shit that I suspected they would.
+    Fun enough though anyways.
+
+34. **The Incredibles
 
     The animation holds up suprisingly well for a few year-old movie, even if
     the plot depends on some pretty annoying misogynist tropes. I watched this
     to prep for the new movie, and overall it was a fun, if ridiculous, movie.
 
-32. **Ant Man & the Wasp**
+33. **Ant Man & the Wasp**
 
     This was a hoot. Very silly, and pretty PG, but above all else, this felt
     like a comic movie. I'd compare this to Spiderman Homecoming or a less
     stylish Thor Ragnarok. Great summer night movie.
+
+32. **Sicario**
+
+    What a wild movie, in which I needed to completely suspend all of my feelings 
+    aboutAmerica, the "drug war" and Thanos. If you can attempt to not emotionally 
+    connect to the actual monsters in this movie, it's kinda fun in a "tense film ]
+    where things blow up" kind of way.
 
 31. **Gemini**
 
