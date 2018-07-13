@@ -5,6 +5,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+36. **Villainess**
+
+    What a wonderfully bonkers movie. It kicks off with wild first-person murder
+    fest, and just goes off-the-rails from there. One of the bloodier and wilder action films I've seen in a long time. Loved it.
+
 35. **The Incredibles 2**
 
     Watched this a few hours after the first one. The animation has gotten a LOT
@@ -28,7 +33,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 32. **Sicario**
 
     What a wild movie, in which I needed to completely suspend all of my feelings
-    aboutAmerica, the "drug war" and Thanos. If you can attempt to not emotionally
+    about America, the "drug war" and Thanos. If you can attempt to not emotionally
     connect to the actual monsters in this movie, it's kinda fun in a "tense film ]
     where things blow up" kind of way.
 
