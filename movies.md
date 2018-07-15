@@ -5,6 +5,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+37. **I, Tonya**
+
+    Finally watched this with a friend, and wow, it was good but full of very
+    violent abuse stuff. Growing up in the 80s/90s, Tonya Harding was in a lot
+    of news, but this definitley filled in a lot of gaps in my knowledge of her
+    story.
+
 36. **Villainess**
 
     What a wonderfully bonkers movie. It kicks off with wild first-person murder
