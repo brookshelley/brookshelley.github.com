@@ -5,6 +5,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+38. **Tragedy Girls**
+
+    What a wild, fucked-up movie about social media, murder, and friendship.
+    Don't do it for the gram.
+
 37. **I, Tonya**
 
     Finally watched this with a friend, and wow, it was good but full of very
