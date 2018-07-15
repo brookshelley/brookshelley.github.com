@@ -44,10 +44,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 32. **Sicario**
 
-    What a wild movie, in which I needed to completely suspend all of my feelings
-    about America, the "drug war" and Thanos. If you can attempt to not emotionally
-    connect to the actual monsters in this movie, it's kinda fun in a "tense film ]
-    where things blow up" kind of way.
+    What a wild movie, in which I needed to completely suspend all of my
+    feelings about America, the "drug war" and Thanos. If you can attempt to
+    not emotionally connect to the actual monsters in this movie, it's kinda
+    fun in a "tense film where things blow up" kind of way.
 
 31. **Gemini**
 
