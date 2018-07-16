@@ -5,6 +5,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+39. **Sorry to Bother You**
+
+    This is the movie Idiocracy wishes it were. Sorry to Bother You skewers
+    tech culture, bay-area poverty, racial injustice, and so much more.
+    Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome 
+    perfomances. A mix of chilling and laugh-inducing. One of the best films
+    I've seen this year.
+
 38. **Tragedy Girls**
 
     What a wild, fucked-up movie about social media, murder, and friendship.
