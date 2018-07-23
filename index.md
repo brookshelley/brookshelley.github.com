@@ -6,7 +6,7 @@
 **Oregon Humanities**
 - [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
-**The Toast** (temporarily down, but try searching the internet archive)
+**The Toast**
 - [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 - [Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
 - [Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
