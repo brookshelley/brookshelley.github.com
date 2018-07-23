@@ -5,6 +5,13 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+28. **Adventure Zone: There Be Gerblins**
+
+    A masterful adaptation of the podcast D&D romp into a graphic novel. I
+    absolutely loved this. I'm not sure if this would be as fun if you hadn't
+    listened to the podcast, but if you haven't, get on it... it's free and
+    it's delightful.
+
 27. **La Bastarda** — Trifonia Melibea Obono [*](#les)
 
     A lesbian novel from Equatorial Guinea that tells a short story of a woman

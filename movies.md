@@ -5,11 +5,23 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+41. **Drive Angry**
+
+    There are probably worse Nic Cage movies, but this is the worst one I've
+    seen. Every scene is painfully bad.
+
+40. **Tomb Raider**
+
+    Fun, and very surprisingly entertaining for a video game movie. Lots of
+    "oh, I could see how this would play in the game," scenes. Alicia Vikander
+    is a much better Lara Croft too, imo.
+
+
 39. **Sorry to Bother You**
 
     This is the movie Idiocracy wishes it were. Sorry to Bother You skewers
     tech culture, bay-area poverty, racial injustice, and so much more.
-    Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome 
+    Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome
     perfomances. A mix of chilling and laugh-inducing. One of the best films
     I've seen this year.
 
