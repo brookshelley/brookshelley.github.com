@@ -5,6 +5,10 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+29. **Empire Ascendant** — Kameron Hurley
+
+    A wild second installment in the Mirror Empire trilogy that is so chock-full of characters and their (spoiler alert) doubles, that I got a bit confused. There's a glossary and character list in the back, but dang, this is some GoT stuff. I enjoyed the descent into chaos in this book, and I'm eagerly anticipating the conclusion(?) in the third. Also one of the only books I know that has a character using ze/hir pronouns, but it also unhelpfully talks about sex as different from and perhaps less malleable than gender, so I wouldn't call this a "dope representation of trans folks," so much as "well there's some genderqueerness I guess".
+
 28. **Adventure Zone: There Be Gerblins**
 
     A masterful adaptation of the podcast D&D romp into a graphic novel. I
