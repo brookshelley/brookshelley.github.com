@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+42. **Ready Player One**
+
+    I blame my friend Mark, because he chose this for us to watch. It was just as bad as I thought it would be, but blessedly we could make good jokes throughout.
+
 41. **Drive Angry**
 
     There are probably worse Nic Cage movies, but this is the worst one I've
