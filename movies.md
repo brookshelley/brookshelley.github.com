@@ -7,11 +7,16 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 43. **Mission Impossible Fallout**
 
-A wild, nearly 3 hour ride through a comical series of twists and beards. I laughed out loud often, both at the unearned gravitas, and actual jokes. I love this series like Tom Cruise loves being an action hero: deeply, and passionately.
+    A wild, nearly 3 hour ride through a comical series of twists and beards. I
+    laughed out loud often, both at the unearned gravitas, and actual jokes. I
+    love this series like Tom Cruise loves being an action hero: deeply, and
+    passionately.
 
 42. **Ready Player One**
 
-    I blame my friend Mark, because he chose this for us to watch. It was just as bad as I thought it would be, but blessedly we could make good jokes throughout.
+    I blame my friend Mark, because he chose this for us to watch. It was just
+    as bad as I thought it would be, but blessedly we could make good jokes
+    throughout.
 
 41. **Drive Angry**
 
