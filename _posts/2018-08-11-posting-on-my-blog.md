@@ -1,0 +1,20 @@
+---
+layout: posts
+title: july
+description: posting on my blog
+---
+
+[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+
+# Trying this out
+
+Inspired by both [Nick](https://roadrunnertwice.dreamwidth.org) and
+[Matt](https://a.wholelottanothing.org), I've decided to try my hand at
+blogging again on this site. I don't know how often I'll post, but at least
+once a month, I'll do a [media diet](_posts/2018-07-24-media-diet.md) post,
+which clips out what I read and watched that month from the long lists I keep.
+Maybe I'll talk about other stuff too. We'll see!
+
+I have definitley enjoyed how Matt seems to be posting cool things there
+instead of Twitter, because it gives me more things to see on RSS. Speaking of
+which, you can subscribe to my rss feed.
