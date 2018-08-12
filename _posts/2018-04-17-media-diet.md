@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: april 2018
+description: books and movies for april
 ---
 
 [writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
