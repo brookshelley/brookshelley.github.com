@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: july
+title: the old is new again
 description: posting on my blog
 ---
 
