@@ -1,6 +1,6 @@
 [writing](index.md) | [posts](posts.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
-# blog
+# posts
 
 ## media diet
 <ul>
