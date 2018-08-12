@@ -28,14 +28,14 @@ first book, and skip the rest.
 
 **Space Opera** — Catherynne M. Valente
 
-Uproriously fun, and silly throughout. Take Douglas Adams, add in some
+Uproariously fun, and silly throughout. Take Douglas Adams, add in some
 queerness, and an obsession with Eurovision. Loved this from start to
-finish. I devoured the backhalf of this book in one sitting at a cafe in
+finish. I devoured the back-half of this book in one sitting at a cafe in
 Copenhagen, and found myself crying in the afterword/credits.
 
 **Gold, Fame, Citris** — Claire Vaye Watkins
 
-Interesting book about a post-apocolyptic wasteland America and the ideas
+Interesting book about a post-apocalyptic wasteland America and the ideas
 of survival and family. I enjoyed this.
 
 **Gods, Monsters, and the Lucky Peach** — Kelly Robson
@@ -75,5 +75,5 @@ hours outside instead.
 **Deadpool 2**
 
 As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
-There were defintitely jokes that were in really poor taste, but pretty
+There were definitely jokes that were in really poor taste, but pretty
 much what I expected.

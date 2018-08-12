@@ -51,7 +51,7 @@ is a much better Lara Croft too, imo.
 This is the movie Idiocracy wishes it were. Sorry to Bother You skewers
 tech culture, bay-area poverty, racial injustice, and so much more.
 Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome
-perfomances. A mix of chilling and laugh-inducing. One of the best films
+performances. A mix of chilling and laugh-inducing. One of the best films
 I've seen this year.
 
 **Tragedy Girls**
@@ -63,7 +63,7 @@ Don't do it for the gram.
 
 Finally watched this with a friend, and wow, it was good but full of very
 violent abuse stuff. Growing up in the 80s/90s, Tonya Harding was in a lot
-of news, but this definitley filled in a lot of gaps in my knowledge of her
+of news, but this definitely filled in a lot of gaps in my knowledge of her
 story.
 
 **Villainess**

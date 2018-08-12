@@ -32,7 +32,7 @@ in one go, and it was a wild ride that had me laughing and crying.
 
 **Paprika** — Yasutaka Tsutsui
 
-A fantasticly bizarre story of science, dreams, desire, and the smallness
+A fantastically bizarre story of science, dreams, desire, and the smallness
 of men. I'd seen the anime adapted from this book years ago, so I had some
 predisposition towards envisioning characters a certain way, but this book
 goes to way different places than I remember the movie going. I liked this
@@ -65,7 +65,7 @@ movie, and hope the director/writer Desiree makes more films soon.
 
 **Red Sparrow**
 
-I will never believe for one second that the protagnist would fall for Joel
+I will never believe for one second that the protagonist would fall for Joel
 Edgerton's bland spyman. For some reason, I expected this movie to be set
 during the cold war, but instead it's vaguely now. This had more sexual
 assault than I expected too, which is a fucking bummer. The saving grace in
