@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+44. **The Meg**
+
+    Wow. This is my new favorite sea-based movie. What an epically hilarious film. A+ good job everyone.
+
 43. **Mission Impossible Fallout**
 
     A wild, nearly 3 hour ride through a comical series of twists and beards. I
