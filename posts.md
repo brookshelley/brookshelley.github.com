@@ -4,7 +4,7 @@
 
 <div>
   <ul>
-    {% for post in site.categories.blog %}
+    {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}" class="title">{{ post.title }}</a>
       <div class="title-desc">{{ post.description }}</div>
