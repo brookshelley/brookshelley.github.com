@@ -2,7 +2,18 @@
 
 # posts
 
-## media diet
+<div>
+  <ul>
+    {% for post in site.categories.blog %}
+    <li>
+      <a href="{{ post.url }}" class="title">{{ post.title }}</a>
+      <div class="title-desc">{{ post.description }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+## post index
 <ul>
   {% for post in site.posts %}
     <li>
