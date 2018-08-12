@@ -2,7 +2,7 @@
 
 # posts
 
-<ul>
+<ul class="article-list">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>

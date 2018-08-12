@@ -13,3 +13,20 @@ a:link {color: #603AD0; text-decoration: none; }
 a:active {color: #603AD0; text-decoration: none; }
 a:visited {color: #603AD0; text-decoration: none; }
 a:hover {color: #603AD0; text-decoration: none; }
+.article-list {
+  width: 70%;
+  margin: 0 auto;
+}
+.article-list li {
+  margin-bottom: 70px;
+}
+.title {
+  display: block;
+  font-size: 22px;
+  margin-bottom: 15px;
+  word-break: break-all;
+  font-weight: bold;
+  margin-bottom: 25px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #eee;
+}
