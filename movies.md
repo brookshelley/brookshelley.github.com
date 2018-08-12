@@ -1,4 +1,4 @@
-[writing](index.md) | [about](about.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+[writing](index.md) | [posts](posts.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # movies i've watched
 _years: [2016](#2016) [2017](#2017) [2018](#2018)_

@@ -8,8 +8,15 @@ h1 {color: white; }
 h2 {color: #b042f4; }
 h3 {color: white; }
 p {color: white; }
+ul {list-style: none; }
 strong {color: white; text-decoration: underline; }
 a:link {color: #603AD0; text-decoration: none; }
 a:active {color: #603AD0; text-decoration: none; }
 a:visited {color: #603AD0; text-decoration: none; }
 a:hover {color: #603AD0; text-decoration: none; }
+.article-list {
+  margin: 0 auto;
+}
+.article-list li {
+  margin-bottom: 10px;
+}
