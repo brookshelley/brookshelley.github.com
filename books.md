@@ -7,7 +7,15 @@ _years: [2017](#2017) [2018](#2018)_
 
 29. **Empire Ascendant** — Kameron Hurley
 
-    A wild second installment in the Mirror Empire trilogy that is so chock-full of characters and their (spoiler alert) doubles, that I got a bit confused. There's a glossary and character list in the back, but dang, this is some GoT stuff. I enjoyed the descent into chaos in this book, and I'm eagerly anticipating the conclusion(?) in the third. Also one of the only books I know that has a character using ze/hir pronouns, but it also unhelpfully talks about sex as different from and perhaps less malleable than gender, so I wouldn't call this a "dope representation of trans folks," so much as "well there's some genderqueerness I guess".
+    A wild second installment in the Mirror Empire trilogy that is so
+    chock-full of characters and their (spoiler alert) doubles, that I got a
+    bit confused. There's a glossary and character list in the back, but dang,
+    this is some GoT stuff. I enjoyed the descent into chaos in this book, and
+    I'm eagerly anticipating the conclusion(?) in the third. Also one of the
+    only books I know that has a character using ze/hir pronouns, but it also
+    unhelpfully talks about sex as different from and perhaps less malleable
+    than gender, so I wouldn't call this a "dope representation of trans
+    folks," so much as "well there's some genderqueerness I guess".
 
 28. **Adventure Zone: There Be Gerblins**
 
@@ -214,13 +222,13 @@ _years: [2017](#2017) [2018](#2018)_
 1. **On Such a Full Sea** — Chang-Rae Lee
 
     Really enjoyed this futuristic look at America and the fall of our current
-    system. Lots of disucssion of class, immigration, and identity. The
+    system. Lots of discussion of class, immigration, and identity. The
     narrator was a little distracting, but it was an interesting narrative
-    conceipt.
+    conceit.
 
 ## 2017 <a name="2017"></a>
 
-1. **Reaquainted with Life** — Kokumo
+1. **Reacquainted with Life** — Kokumo
 
 2. **The Kingdom of Gods** — NK Jemison
 
@@ -325,7 +333,7 @@ _years: [2017](#2017) [2018](#2018)_
     I'm really stoked on this queer lady motorcycle racing comic. Like, damn. I
     can't wait for the next one. The art is fantastic, and the story is a
     little light, but hints at a lot more. The world seems interesting. Why do
-    the motorcyles get addicted?
+    the motorcycles get addicted?
 
 46. **The Idiot** — Elif Batuman
 
@@ -334,7 +342,7 @@ _years: [2017](#2017) [2018](#2018)_
 48. **Hard Boiled & Hard Luck** — Banana Yoshimoto
 
     A nice slice-of life, that's sad in a way that is very refreshing in the
-    summmer. These books are about losses, and how to cope and move forward.
+    summer. These books are about losses, and how to cope and move forward.
     I'm really enjoying rediscovering Banana Yoshimoto's writing.
 
 49. **Bittersweet** — Nevada Barr [*](#les)
@@ -439,7 +447,7 @@ _years: [2017](#2017) [2018](#2018)_
     set up for a few more stories about these women and their tea and sympathy
     shop. The magic in this book was better fleshed-out than The Witch's
     Daughter, and I enjoyed the church being the enemy, though demons vs.
-    wtiches was an odd choice.
+    witches was an odd choice.
 
 64. **The Little Book of Hygge** — Meik Wiking
 
@@ -484,7 +492,7 @@ _years: [2017](#2017) [2018](#2018)_
 
     A series of spells, and a lot of nice discussion of how to care for oneself
     with witchcraft, presence of mind, and good friends. I liked this a lot,
-    but it was fairily, well, basic. This would be a great introduction to give
+    but it was fairly, well, basic. This would be a great introduction to give
     to a younger person.
 
 70. **Caraval** — Stephanie Garber

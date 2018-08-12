@@ -35,7 +35,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     This is the movie Idiocracy wishes it were. Sorry to Bother You skewers
     tech culture, bay-area poverty, racial injustice, and so much more.
     Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome
-    perfomances. A mix of chilling and laugh-inducing. One of the best films
+    performances. A mix of chilling and laugh-inducing. One of the best films
     I've seen this year.
 
 38. **Tragedy Girls**
@@ -47,7 +47,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
     Finally watched this with a friend, and wow, it was good but full of very
     violent abuse stuff. Growing up in the 80s/90s, Tonya Harding was in a lot
-    of news, but this definitley filled in a lot of gaps in my knowledge of her
+    of news, but this definitely filled in a lot of gaps in my knowledge of her
     story.
 
 36. **Villainess**
@@ -65,7 +65,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 34. **The Incredibles**
 
-    The animation holds up suprisingly well for a few year-old movie, even if
+    The animation holds up surprisingly well for a few year-old movie, even if
     the plot depends on some pretty annoying misogynist tropes. I watched this
     to prep for the new movie, and overall it was a fun, if ridiculous, movie.
 
@@ -125,7 +125,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 25. **Red Sparrow**
 
-    I will never believe for one second that the protagnist would fall for Joel
+    I will never believe for one second that the protagonist would fall for Joel
     Edgerton's bland spyman. For some reason, I expected this movie to be set
     during the cold war, but instead it's vaguely now. This had more sexual
     assault than I expected too, which is a fucking bummer. The saving grace in
@@ -153,7 +153,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 22. **Deadpool 2**
 
     As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
-    There were defintitely jokes that were in really poor taste, but pretty
+    There were definitely jokes that were in really poor taste, but pretty
     much what I expected.
 
 21. **Avengers: Infinity War**
@@ -221,8 +221,8 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
     I'd recommend listening to [this podcast](https://www.nytimes.com/2018/03/16/podcasts/still-processing-we-dont-love-everything-made-by-black-people-and-thats-ok.html) after you see the
     movie. It was very, very disney, and they burned through everything pretty
-    fast withouth a lot of wonder. Really glad that the god stuff was gone, but
-    I think they could have jetisoned Calvin too without losing anything.
+    fast without a lot of wonder. Really glad that the god stuff was gone, but
+    I think they could have jettisoned Calvin too without losing anything.
 
 11. **Thelma**
 
@@ -241,7 +241,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 9. **Lost Boys**
 
     I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
-    and talked about it, so my roommate and I sat down for a revist. It held
+    and talked about it, so my roommate and I sat down for a revisit. It held
     up. There's something fantastic about watching these very gay vampire boys
     run around and be punk teens. Listen to Imogen's podcast if you can, bc she
     says everything I'd wanna cover. Oh, and watch this movie.
@@ -298,7 +298,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
     I'd heard good things, and this was pretty fun to watch. The lesbian
     storyline was surprisingly compelling, and very well-done. I'm mad that
     Adidas didn't reissue BJK's signature shoe when this movie came out though.
-    It's a good shoe. Steve Carrell seemed like many of his other charcters in
+    It's a good shoe. Steve Carrell seemed like many of his other characters in
     this, but whatever... Billy Riggs was an ass, and they do a good job of
     showing that.
 
@@ -386,7 +386,7 @@ _this list is super truncated because i forgot keep it until july_
 
 12. **John Wick 2**
 
-    So, this is more Keanu as a veneful Denzel Washington-esque character, but
+    So, this is more Keanu as a vengeful Denzel Washington-esque character, but
     not as good. I liked this movie, but also Man on Fire did it better. Well
     shot though! And there's at least a nod towards ammo being a thing.
 
@@ -404,7 +404,7 @@ _this list is super truncated because i forgot keep it until july_
 
 15. **Shin Godzilla**
 
-    A fantastic look at how modern bueracracy and posturing can get in the way
+    A fantastic look at how modern bureaucracy and posturing can get in the way
     of stopping a giant lizard. Too bad they don't show the environmental
     devastation wrought by eschewing safety checks.
 
@@ -448,7 +448,7 @@ _this list is super truncated because i forgot keep it until july_
 
 24. **Neon Demon**
 
-    Don't get into modelling. It'll end badly. This movie was beautiful, gory,
+    Don't get into modeling. It'll end badly. This movie was beautiful, gory,
     and wild.
 
 25. **Kubo**
@@ -475,7 +475,8 @@ _this list is super truncated because i forgot keep it until july_
 
 27. **Valerian**
 
-    The short version is that this was very targetted towards a Chinese release, partially due to the studio financing, and even Besson was [promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty
+    The short version is that this was very targetted towards a Chinese release, partially due to the studio financing, and even Besson was
+    [promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty
     dang ridiculous, and had super traditional and boring gender roles and
     "marriage is the best" kind of crap. Still, the visuals were incredible,
     and it was a fun space romp. Recommended.
@@ -541,13 +542,13 @@ _this list is super truncated because i forgot keep it until july_
 36. **The Conjuring 2**
 
     Yep, these are definitely witnessing. A cool demon has a hard time with
-    some very awful british people. Watched both of these in quick succession
+    some very awful British people. Watched both of these in quick succession
     to get to see Annabelle 2 or whatever later on tonight.
 
 37. **Annabelle: Creation**
 
     This was a very silly movie with children making terrible choices. I don't
-    think dolls themselves are very scary, but Catholocism is definitely scary.
+    think dolls themselves are very scary, but Catholicism is definitely scary.
     Everyone who gets hunted by the demon or whatever was also a practicing
     Catholic, so maybe being a satanist or atheist would be some kinda ghost
     protection.
@@ -645,7 +646,7 @@ _this list is super truncated because i forgot keep it until july_
     "extreme sports" people, soccer stars, and a DJ(?), but here we are. I love
     this very, very goofy series, and bought this movie with a big grin when it
     was no longer available for rent. Everyone is having a blast, and it's a
-    multi-cutural cast that is filled with neat folks.
+    multi-cultural cast that is filled with neat folks.
 
 51. **Blade Runner: 2046**
 
@@ -718,7 +719,7 @@ _this list is super truncated because i forgot keep it until july_
 
 61. **Lady Bird**
 
-    The truest old millenial movie. I cried a lot.
+    The truest old millennial movie. I cried a lot.
 
 62. **The Room**
 
