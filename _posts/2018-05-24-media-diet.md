@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: may 2018
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: july 2018
 ---
 
@@ -13,7 +13,7 @@ title: july 2018
 
     A masterful adaptation of the podcast D&D romp into a graphic novel. I
     absolutely loved this. I'm not sure if this would be as fun if you hadn't
-    listened to the podcast, but if you haven't, get on it... it's free and 
+    listened to the podcast, but if you haven't, get on it... it's free and
     it's delightful.
 
 **La Bastarda** — Trifonia Melibea Obono [*](#les)
