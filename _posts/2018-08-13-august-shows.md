@@ -37,7 +37,7 @@ them queer, which ruled. Seeing bands is kinda cool as a date, in my
 experience, because how often do you get to quietly enjoy something with a
 loved one?
 
-![Deafheaven](assets/photos/photo.jpeg)
+![Deafheaven](/assets/photos/photo.jpeg)
 
 Sunday night, I saw [Deafheaven](https://deafheavens.bandcamp.com), who're kind
 of "metal for folks who don't like metal". They're sick, and both times I've
