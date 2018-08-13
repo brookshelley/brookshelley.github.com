@@ -6,6 +6,8 @@ description: hop along & deafheaven shows
 
 [writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
 
+# Two Concerts in August
+
 A few years ago, after moving to Portland, I discovered a secret: you can do
 almost anything alone. I'd lived in Austin for most of my life, and as I
 quickly learned once moving, making friends in Portland is a long process. So,
@@ -19,6 +21,8 @@ author I'm reading at the time. It's magical.
 
 This last weekend, I went to two shows: one alone, and one with a new friend I
 met in SF at Karaoke who lives in Portland—Hi Mehan.
+
+## Hop Along & Thin Lips
 
 ![Hop along](/assets/photos/photo-2.jpeg)
 
@@ -36,6 +40,8 @@ might've made small talk. There were a LOT of couples at this show, many of
 them queer, which ruled. Seeing bands is kinda cool as a date, in my
 experience, because how often do you get to quietly enjoy something with a
 loved one?
+
+## Deafheaven
 
 ![Deafheaven](/assets/photos/photo.jpeg)
 
