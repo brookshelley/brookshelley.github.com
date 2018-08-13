@@ -20,7 +20,7 @@ author I'm reading at the time. It's magical.
 This last weekend, I went to two shows: one alone, and one with a new friend I
 met in SF at Karaoke who lives in Portland—Hi Mehan.
 
-![Hop along](https://www.dropbox.com/s/3typ8rr3v2bbyh7/Hopalong.jpg?dl=0)
+![Hop along](/assets/photos/photo-2.jpeg)
 
 Friday was [Hop Along](https://hopalong.bandcamp.com), with [Thin Lips](https://xxthinlipsxx.bandcamp.com) opening. I've never seen either of these
 Philly bands before, but they were both excellent. Thin lips is a punk-y band
@@ -37,7 +37,7 @@ them queer, which ruled. Seeing bands is kinda cool as a date, in my
 experience, because how often do you get to quietly enjoy something with a
 loved one?
 
-![Deafheaven](https://www.dropbox.com/s/jln93tsncy8qrr9/Deafheaven.jpg?dl=0)
+![Deafheaven](assets/photos/photo.jpeg)
 
 Sunday night, I saw [Deafheaven](https://deafheavens.bandcamp.com), who're kind
 of "metal for folks who don't like metal". They're sick, and both times I've
