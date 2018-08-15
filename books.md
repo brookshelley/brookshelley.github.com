@@ -5,6 +5,16 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+30. **Fingersmith** — Sarah Waters [*](#les)
+
+    In an odd turn of fate, I'd seen the Handmaiden before I read this book, so
+    the English setting was strange compared to the eerie world of Korean
+    director Park Chan-Wook. I knew most of the twists because of the film, but
+    Waters has a deft way with descriptions, and Maud and Sue came alive on the
+    page. It felt like I was reading this for weeks, but that's likely because
+    I devoted little time to reading. I'm glad I finished this, and recommend 
+    it if you love multi-layered, deftly-woven stories.
+
 29. **Empire Ascendant** — Kameron Hurley
 
     A wild second installment in the Mirror Empire trilogy that is so
