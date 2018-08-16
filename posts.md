@@ -16,7 +16,7 @@
 
 ## Media Diet
 <ul class="article-list">
-  {% for post in site.mediadiet[page.category] %}
+  {% for post in site.posts[page.mediadiet] %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div class="title-desc">{{ post.description }}</div>
