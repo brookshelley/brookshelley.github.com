@@ -2,7 +2,9 @@
 
 # posts
 
-## 2018 Posts
+### 2018
+
+## Posts
 <ul class="article-list">
   {% for post in site.posts %}
     <li>
@@ -12,7 +14,7 @@
   {% endfor %}
 </ul>
 
-## 2018 Media Diet
+## Media Diet
 <ul class="article-list">
   {% for post in site.mediadiet[page.category] %}
     <li>
