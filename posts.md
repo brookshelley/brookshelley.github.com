@@ -8,8 +8,8 @@
 {% for post in site.categories.blog %}
   <ul>
     <li>
-      <span>{{ post.date | date_to_string }}</span> &nbsp;
       <a href="{{ post.url }}">{{ post.title }}</a>
+       &nbsp;<span>{{ post.date | date_to_string }}</span>
     </li>
   </ul>
 {% endfor %}
