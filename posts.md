@@ -6,16 +6,20 @@
 
 ## Posts
 {% for post in site.categories.blog %}
-  <li>
-    <span>{{ post.date | date_to_string }}</span> &nbsp;
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+  <ul>
+    <li>
+      <span>{{ post.date | date_to_string }}</span> &nbsp;
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  </ul>
 {% endfor %}
 
 ## Media Diet
 
 {% for post in site.categories.mediadiet %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+  <ul>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  </ul>
 {% endfor %}
