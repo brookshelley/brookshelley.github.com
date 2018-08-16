@@ -5,20 +5,17 @@
 ### 2018
 
 ## Posts
-<ul class="article-list">
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <div class="title-desc">{{ post.description }}</div>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.categories.blog %}
+  <li>
+    <span>{{ post.date | date_to_string }}</span> &nbsp;
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
 
 ## Media Diet
 
 {% for post in site.categories.mediadiet %}
   <li>
-    <span>{{ post.date | date_to_string }}</span> &nbsp;
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
