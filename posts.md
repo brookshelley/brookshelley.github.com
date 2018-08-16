@@ -14,7 +14,7 @@
 
 ## 2018 Media Diet
 <ul class="article-list">
-  {% for post in site.categories[page.mediadiet] %}
+  {% for post in site.mediadiet[page.category] %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <div class="title-desc">{{ post.description }}</div>
