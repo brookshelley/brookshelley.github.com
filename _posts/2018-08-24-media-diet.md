@@ -7,7 +7,7 @@ categories: mediadiet
 
 [writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
 
-# Media diet for June 2018
+# Media diet for August 2018
 
 ## Books
 
