@@ -36,6 +36,13 @@ folks," so much as "well there's some genderqueerness I guess".
 
 ## Movies
 
+**Book Club**
+
+Watched this on a whim with a couple friends, and it was kinda great? 
+I love Candace Bergen from the Murphy Brown       
+days, and hope I look as good as Diane Keaton when I'm older. Silly 
+popcorn fun. Also I guess I own it now because it wasn't available to rent.
+
 **The Meg**
 
 Wow. This is my new favorite sea-based movie. What an epically hilarious film.
