@@ -5,6 +5,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+45. **Book Club**
+
+    Watched this on a whim with a couple friends, and it was kinda great? 
+I love Candace Bergen from the Murphy Brown       
+    days, and hope I look as good as Diane Keaton when I'm older. Silly 
+popcorn fun. Also I guess I own it now because it wasn't available to rent.
+
 44. **The Meg**
 
     Wow. This is my new favorite sea-based movie. What an epically hilarious
