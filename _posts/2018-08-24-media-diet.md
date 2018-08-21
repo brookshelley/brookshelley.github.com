@@ -36,6 +36,10 @@ folks," so much as "well there's some genderqueerness I guess".
 
 ## Movies
 
+**Masterminds**
+
+A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
+
 **Book Club**
 
 Watched this on a whim with a couple friends, and it was kinda great? 
