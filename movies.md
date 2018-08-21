@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+46. **Masterminds**
+
+A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
+
 45. **Book Club**
 
     Watched this on a whim with a couple friends, and it was kinda great? 
