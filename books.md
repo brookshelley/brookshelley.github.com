@@ -12,7 +12,7 @@ _years: [2017](#2017) [2018](#2018)_
     director Park Chan-Wook. I knew most of the twists because of the film, but
     Waters has a deft way with descriptions, and Maud and Sue came alive on the
     page. It felt like I was reading this for weeks, but that's likely because
-    I devoted little time to reading. I'm glad I finished this, and recommend 
+    I devoted little time to reading. I'm glad I finished this, and recommend
     it if you love multi-layered, deftly-woven stories.
 
 29. **Empire Ascendant** — Kameron Hurley
@@ -67,10 +67,7 @@ _years: [2017](#2017) [2018](#2018)_
 
 23. **Little Fish** — Casey Plett
 
-    Outstanding and devastating. This is a book full of people I've known,
-
-    slept with, and smiled at across the room. Family is a tenuous thing, and
-    Little Fish finds space for it throughout. I'm not sure what I would've
+    Outstanding and devastating. This is a book full of people I've known, slept with, and smiled at across the room. Family is a tenuous thing, and Little Fish finds space for it throughout. I'm not sure what I would've
     made with this years ago, but now, it's a sad and good ache. I hope Casey
     keeps writing, and sharing her work with us for years to come. I read this
     in one go, and it was a wild ride that had me laughing and crying.
