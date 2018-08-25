@@ -17,6 +17,8 @@ My Topo Designs Trip Pack has three compartments—a main area where I can slip 
 
 The 2018 One Mini has a zipper pocket in the front, that's charmingly asymmetrical. A flap unzips, revealing a pocket that can hold an iPad or Kindle, a zipper-sealable area for keys, chapstick, glasses cloth, etc, and two smaller pouches. These pouches are the perfect size for a portable battery, and a Hobonichi Techo. There's a bit of additional space in the big zipper area for my MacBook charger as well. The entire big pouch is almost the width and heigh of the bag, but because of the clever organization, it doesn't feel like I'll lose things in it.
 
+![One Mini pocket](/assets/photos/oneminipocket.jpeg)
+
 On the top of the bag, there's a big zipper that opens the main compartment, which I use to hold a hoodie, my water bottle, and also a small bag of underwear and clothes for travel. Because of the front organization, I don't need to dig in this compartment often, and only need to keep a few easy-to-find or pack-to-leave unpack-at-destination items in it. This is a big improvement over the Topo Bag.
 
 Finally, the back of the bag has a top-loading laptop sleeve that's soft and felt-lined. The bottom ends a bit above the bottom of the bag, providing a little cushion area, but I still wouldn't want to throw this bag around with my MacBook in it. Unlike the Ryu or the Topo Designs bags, this separate laptop area means I can dig my MacBook out on the occasions I can't get pre-check and have my laptop scanned separately. I try my damndest to avoid these instances, but inter-Europe travel usually means pulling out all my electronics.
