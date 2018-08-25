@@ -36,6 +36,10 @@ folks," so much as "well there's some genderqueerness I guess".
 
 ## Movies
 
+**Den of Thieves**
+
+A heist movie with a pretty solid cast. Gerard Butler plays a shitty, dirty cop well. The plot was decently executed, but it's mostly just a movie with lots of bro posturing and guns. Not a bad way to spend a couple hours on the couch.
+
 **Masterminds**
 
 A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
