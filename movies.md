@@ -7,7 +7,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 47. **Den of Thieves**
 
-    A heist movie with a pretty solid cast. Gerard Butler plays a shitty, dirty cop well. The plot was decently executed, but it's mostly just a movie with lots of bro posturing and guns. Not a bad way to spend a couple hours on the couch.
+    A heist movie with a pretty solid cast. Gerard Butler plays a shitty, dirty cop well. He was definitely believable as "the guy who treats everyone like shit, but we're supposed to believe he is a very good dad who just loves his daughters." The plot was decently executed, but it's mostly just a movie with lots of bro posturing and guns. Not a bad way to spend a couple hours on the couch.
 
 46. **Masterminds**
 
