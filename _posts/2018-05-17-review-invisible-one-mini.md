@@ -2,7 +2,7 @@
 layout: posts
 title: Review Invisible One Mini backpack
 description: posting on my blog
-categories: review
+categories: posts, review
 ---
 
 # Invisible One Mini Review
