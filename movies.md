@@ -7,7 +7,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 48. **Mary and the Witch's Flower**
 
-  A cute anime about a young girl who stumbles into the world of witchcraft. Very reminiscent of Howl's Moving Castle, but with a less encompassing world. 
+    A cute anime about a young girl who stumbles into the world of witchcraft. Very reminiscent of Howl's Moving Castle, but with a less encompassing world.
 
 47. **Den of Thieves**
 
@@ -15,14 +15,12 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 46. **Masterminds**
 
-	A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
+  	A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
 
 45. **Book Club**
 
-    Watched this on a whim with a couple friends, and it was kinda great?
-I love Candace Bergen from the Murphy Brown
-    days, and hope I look as good as Diane Keaton when I'm older. Silly
-popcorn fun. Also I guess I own it now because it wasn't available to rent.
+    Watched this on a whim with a couple friends, and it was kinda great? I love Candace Bergen from the Murphy Brown
+    days, and hope I look as good as Diane Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it wasn't available to rent.
 
 44. **The Meg**
 
@@ -52,7 +50,6 @@ popcorn fun. Also I guess I own it now because it wasn't available to rent.
     Fun, and very surprisingly entertaining for a video game movie. Lots of
     "oh, I could see how this would play in the game," scenes. Alicia Vikander
     is a much better Lara Croft too, imo.
-
 
 39. **Sorry to Bother You**
 
