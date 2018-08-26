@@ -217,40 +217,40 @@ a rewatch, and yet, the cave scenes still had me feeling super
 claustrophobic. It didn't help that I was in the middle of a middle row on
 a plane to Portland from Amsterdam when I watched it.
 
-16. **Cabin Fever**
+**Cabin Fever**
 
 I can't tell if this was the original, or if this was a remake, but either
 way, it's nice to watch annoying and awful people fall apart. This is a
 theme of the previous and next movie.
 
-15. **The Ritual**
+**The Ritual**
 
 A very good "get lost in the woods" movie. Bad things happen to unlikeable
 men. A+.
 
-14. **The Death of Stalin**
+**The Death of Stalin**
 
 Super dark comedy. It has that abusive asshole Jeffrey Tambor, but
 otherwise is full of hilariously weird old men. If you like Veep or In the
 Thick of It, this is a must-watch.
 
-13. **Blade**
+**Blade**
 
 _rewatch_ Wesley Snipes is a half-vampire vampire hunter. It rules.
 
-12. **Wrinkle in Time**
+**Wrinkle in Time**
 
 I'd recommend listening to [this podcast](https://www.nytimes.com/2018/03/16/podcasts/still-processing-we-dont-love-everything-made-by-black-people-and-thats-ok.html) after you see the
 movie. It was very, very disney, and they burned through everything pretty
 fast without a lot of wonder. Really glad that the god stuff was gone, but
 I think they could have jettisoned Calvin too without losing anything.
 
-11. **Thelma**
+**Thelma**
 
 A great movie about being queer, growing up Christian, and maybe having
 super powers. Relateable AF. Highly recommended.
 
-10. **Annihilation**
+**Annihilation**
 
 What a wild movie. I read these books back in 2014 when they were released
 in a frenzy. I was pretty constantly afraid of the house I was staying in,
@@ -259,7 +259,7 @@ quality that gets in your head. The movie did a brisker job of telling a
 similar story, but I enjoyed it. I'll probalby see this again, and I'm very
 curious if they'll try to make more.
 
-9. **Lost Boys**
+**Lost Boys**
 
 I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
 and talked about it, so my roommate and I sat down for a revisit. It held
@@ -267,7 +267,7 @@ up. There's something fantastic about watching these very gay vampire boys
 run around and be punk teens. Listen to Imogen's podcast if you can, bc she
 says everything I'd wanna cover. Oh, and watch this movie.
 
-8. **Black Panther**
+**Black Panther**
 
 Holy shit. I thought this movie would be good, but I had no idea how
 amazing it would be. Action like woah, a solid plot that doesn't dig into
@@ -275,7 +275,7 @@ origin story over and over like other Marvel films, and amazing set and
 costume design. The array of talented actors in this film is unbelievable.
 This is one of the best films of 2018. No doubt.
 
-7. **The Cloverfield Paradox**
+**The Cloverfield Paradox**
 
 I'd heard a lot of "this movie isn't good" from folks who hate fun, I
 guess. It was fun, and a pretty decent "stuff goes wrong in space" movie. I
@@ -285,27 +285,27 @@ enjoyed bits of that too. The Cloverfield universe is a wild one that I
 really enjoy. See this if you have Netflix, like seeing WoC protagonists,
 or like Cloverfield movies.
 
-6. **I Don't Feel at Home in This World Anymore**
+**I Don't Feel at Home in This World Anymore**
 
 Elijah Wood is doing his all in this movie, as is Melanie Lynskey. This
 goes off the rails midway through, and becomes a thrillride, but keeps up
 the laughs. Also, yay for a movie that's set in Portland.
 
 
-5. **Hunt for the Wilderpeople**
+**Hunt for the Wilderpeople**
 
 Ahhh, this ruled! Sam Neil, and the kid are spectacular. Taika has a lovely
 cameo as a bizarre priest. This might end up being the best movie I see
 this year, and it had me laughing pretty consistently throughout.
 
-4. **The Raid**
+**The Raid**
 
 My second viewing of this movie since I saw it in theaters in Berkeley. I
 love how rad and amazing this tower-escape film is. The fight scenes and
 film style is so kinetic, and carries you through the film. There's not a
 lot in the way of plot, but some of it feels like a Die Hard homage.
 
-3. **The Foreigner**
+**The Foreigner**
 
 Jackie Chan vs Irish James Bond. This movie kinda ruled. Jackie Chan is
 fantastic, even at 63, at just dominating the screen with his personality
@@ -314,7 +314,7 @@ his more famous films, but he shows up and is great. Parts of this reminded
 me of taken, and others of _name a political thriller_, but overall I
 really enjoyed this movie.
 
-2. **Battle of the Sexes**
+**Battle of the Sexes**
 
 I'd heard good things, and this was pretty fun to watch. The lesbian
 storyline was surprisingly compelling, and very well-done. I'm mad that
@@ -323,7 +323,7 @@ It's a good shoe. Steve Carrell seemed like many of his other characters in
 this, but whatever... Billy Riggs was an ass, and they do a good job of
 showing that.
 
-1. **Murder on the Orient Express**
+**Murder on the Orient Express**
 
 Everyone is acting _so hard_ in this, and yet the result is a mess. That
 said, I'd watch this again just to see Branaugh's ridiculous mustache.
