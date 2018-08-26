@@ -8,6 +8,7 @@
 [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
 **The Toast**
+
 [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
 [Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
