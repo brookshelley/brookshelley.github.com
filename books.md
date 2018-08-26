@@ -5,508 +5,508 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-30. **Fingersmith** — Sarah Waters [*](#les)
+**Fingersmith** — Sarah Waters [*](#les)
 
-    In an odd turn of fate, I'd seen the Handmaiden before I read this book, so
-    the English setting was strange compared to the eerie world of Korean
-    director Park Chan-Wook. I knew most of the twists because of the film, but
-    Waters has a deft way with descriptions, and Maud and Sue came alive on the
-    page. It felt like I was reading this for weeks, but that's likely because
-    I devoted little time to reading. I'm glad I finished this, and recommend
-    it if you love multi-layered, deftly-woven stories.
+In an odd turn of fate, I'd seen the Handmaiden before I read this book, so
+the English setting was strange compared to the eerie world of Korean
+director Park Chan-Wook. I knew most of the twists because of the film, but
+Waters has a deft way with descriptions, and Maud and Sue came alive on the
+page. It felt like I was reading this for weeks, but that's likely because
+I devoted little time to reading. I'm glad I finished this, and recommend
+it if you love multi-layered, deftly-woven stories.
 
-29. **Empire Ascendant** — Kameron Hurley
+**Empire Ascendant** — Kameron Hurley
 
-    A wild second installment in the Mirror Empire trilogy that is so
-    chock-full of characters and their (spoiler alert) doubles, that I got a
-    bit confused. There's a glossary and character list in the back, but dang,
-    this is some GoT stuff. I enjoyed the descent into chaos in this book, and
-    I'm eagerly anticipating the conclusion(?) in the third. Also one of the
-    only books I know that has a character using ze/hir pronouns, but it also
-    unhelpfully talks about sex as different from and perhaps less malleable
-    than gender, so I wouldn't call this a "dope representation of trans
-    folks," so much as "well there's some genderqueerness I guess".
+A wild second installment in the Mirror Empire trilogy that is so
+chock-full of characters and their (spoiler alert) doubles, that I got a
+bit confused. There's a glossary and character list in the back, but dang,
+this is some GoT stuff. I enjoyed the descent into chaos in this book, and
+I'm eagerly anticipating the conclusion(?) in the third. Also one of the
+only books I know that has a character using ze/hir pronouns, but it also
+unhelpfully talks about sex as different from and perhaps less malleable
+than gender, so I wouldn't call this a "dope representation of trans
+folks," so much as "well there's some genderqueerness I guess".
 
-28. **Adventure Zone: There Be Gerblins**
+**Adventure Zone: There Be Gerblins**
 
-    A masterful adaptation of the podcast D&D romp into a graphic novel. I
-    absolutely loved this. I'm not sure if this would be as fun if you hadn't
-    listened to the podcast, but if you haven't, get on it... it's free and
-    it's delightful.
+A masterful adaptation of the podcast D&D romp into a graphic novel. I
+absolutely loved this. I'm not sure if this would be as fun if you hadn't
+listened to the podcast, but if you haven't, get on it... it's free and
+it's delightful.
 
-27. **La Bastarda** — Trifonia Melibea Obono [*](#les)
+**La Bastarda** — Trifonia Melibea Obono [*](#les)
 
-    A lesbian novel from Equatorial Guinea that tells a short story of a woman
-    abandoned by her father, and orphaned by her mother who finds herself
-    falling for another woman. The first half was full of build-up and
-    world-building, but the back half felt like a very rushed piece, as though
-    Trifonia was hoping to get it all out in a final effort. I enjoyed this
-    book, but the bits that were glossed over about Okomo's journeys, her
-    grandfather's death, and other scenes could've been fleshed-out.
+A lesbian novel from Equatorial Guinea that tells a short story of a woman
+abandoned by her father, and orphaned by her mother who finds herself
+falling for another woman. The first half was full of build-up and
+world-building, but the back half felt like a very rushed piece, as though
+Trifonia was hoping to get it all out in a final effort. I enjoyed this
+book, but the bits that were glossed over about Okomo's journeys, her
+grandfather's death, and other scenes could've been fleshed-out.
 
-26. **Blackfish City** — Sam J. Miller [**](#ghost)
+**Blackfish City** — Sam J. Miller [**](#ghost)
 
-    This book ruled, and I was super surprised at how much I loved it.
-    Absolutely riveting, and a blast. The individual characters felt very
-    distict, and were easy to follow, and the world felt really interesting.
+This book ruled, and I was super surprised at how much I loved it.
+Absolutely riveting, and a blast. The individual characters felt very
+distict, and were easy to follow, and the world felt really interesting.
 
-25. **Infidel** — Kameron Hurley
+**Infidel** — Kameron Hurley
 
-    Really loving this series about a tough AF bounty hunter lady named Nyx.
-    The world-building is pretty interesting, and the story moves forward at a
-    pretty good clip. All-told, this is a fun sci-fi action novel.
+Really loving this series about a tough AF bounty hunter lady named Nyx.
+The world-building is pretty interesting, and the story moves forward at a
+pretty good clip. All-told, this is a fun sci-fi action novel.
 
-24. **Paprika** — Yasutaka Tsutsui
+**Paprika** — Yasutaka Tsutsui
 
-    A fantasticly bizarre story of science, dreams, desire, and the smallness
-    of men. I'd seen the anime adapted from this book years ago, so I had some
-    predisposition towards envisioning characters a certain way, but this book
-    goes to way different places than I remember the movie going. I liked this
-    quite a bit, save for the weird shit with sexual assault. Like many books
-    written by a guy, it shows.
+A fantasticly bizarre story of science, dreams, desire, and the smallness
+of men. I'd seen the anime adapted from this book years ago, so I had some
+predisposition towards envisioning characters a certain way, but this book
+goes to way different places than I remember the movie going. I liked this
+quite a bit, save for the weird shit with sexual assault. Like many books
+written by a guy, it shows.
 
-23. **Little Fish** — Casey Plett
+**Little Fish** — Casey Plett
 
-    Outstanding and devastating. This is a book full of people I've known, slept with, and smiled at across the room. Family is a tenuous thing, and Little Fish finds space for it throughout. I'm not sure what I would've
-    made with this years ago, but now, it's a sad and good ache. I hope Casey
-    keeps writing, and sharing her work with us for years to come. I read this
-    in one go, and it was a wild ride that had me laughing and crying.
+Outstanding and devastating. This is a book full of people I've known, slept with, and smiled at across the room. Family is a tenuous thing, and Little Fish finds space for it throughout. I'm not sure what I would've
+made with this years ago, but now, it's a sad and good ache. I hope Casey
+keeps writing, and sharing her work with us for years to come. I read this
+in one go, and it was a wild ride that had me laughing and crying.
 
-22. **Swearing Off Stars** — Danielle Wong [*](#les)
+**Swearing Off Stars** — Danielle Wong [*](#les)
 
-    Started off alright, but quickly telegraphed to an all-to-common "I can't
-    really be with you until it's too late" lesbian novel. I also kept thinking
-    an editor had asked her to just add tons of adjectives, willy-nilly. It was
-    an odd read, and the time-jumps didn't help. If you can write a lesbian
-    romance in 2017, why would you lean so hard on tropes of one woman dying?
-    Super annoying. It was a pretty quick read at least. Read for a lesbian
-    book club.
+Started off alright, but quickly telegraphed to an all-to-common "I can't
+really be with you until it's too late" lesbian novel. I also kept thinking
+an editor had asked her to just add tons of adjectives, willy-nilly. It was
+an odd read, and the time-jumps didn't help. If you can write a lesbian
+romance in 2017, why would you lean so hard on tropes of one woman dying?
+Super annoying. It was a pretty quick read at least. Read for a lesbian
+book club.
 
-21. **Gods, Monsters, and the Lucky Peach** — Kelly Robson [**](#ghost)
+**Gods, Monsters, and the Lucky Peach** — Kelly Robson [**](#ghost)
 
-    A cool scifi short novel where the future is barren, but at least there's
-    time-travel. I wanted more world-building, and probably a couple more books
-    in this story, but that also means I liked this book quite a bit. The back
-    half of the book felt much faster than the lead-up, and much of the action
-    was compacted, but it was a fun adventure. This is a solid addition to the
-    burgeoning eco-scifi genre.
+A cool scifi short novel where the future is barren, but at least there's
+time-travel. I wanted more world-building, and probably a couple more books
+in this story, but that also means I liked this book quite a bit. The back
+half of the book felt much faster than the lead-up, and much of the action
+was compacted, but it was a fun adventure. This is a solid addition to the
+burgeoning eco-scifi genre.
 
-20. **Gold, Fame, Citris** — Claire Vaye Watkins
+**Gold, Fame, Citris** — Claire Vaye Watkins
 
-    Interesting book about a post-apocolyptic wasteland America and the ideas
-    of survival and family. I enjoyed this.
+Interesting book about a post-apocolyptic wasteland America and the ideas
+of survival and family. I enjoyed this.
 
-19. **Space Opera** — Catherynne M. Valente [**](#ghost)
+**Space Opera** — Catherynne M. Valente [**](#ghost)
 
-    Uproriously fun, and silly throughout. Take Douglas Adams, add in some
-    queerness, and an obsession with Eurovision. Loved this from start to
-    finish. I devoured the backhalf of this book in one sitting at a cafe in
-    Copenhagen, and found myself crying in the afterword/credits.
+Uproriously fun, and silly throughout. Take Douglas Adams, add in some
+queerness, and an obsession with Eurovision. Loved this from start to
+finish. I devoured the backhalf of this book in one sitting at a cafe in
+Copenhagen, and found myself crying in the afterword/credits.
 
-18. **Caszandra** — Andrea Höst
+**Caszandra** — Andrea Höst
 
-    Ugh, I wanted to enjoy the rest of this story, but this book was so
-    exceedingly dull. I **loathe** that the main character was setup to not
-    only get married, but have kids at ~19 years old. Fuck that. This series
-    started off well, but ended up being even worse than Twilight. Read the
-    first book, and skip the rest.
+Ugh, I wanted to enjoy the rest of this story, but this book was so
+exceedingly dull. I **loathe** that the main character was setup to not
+only get married, but have kids at ~19 years old. Fuck that. This series
+started off well, but ended up being even worse than Twilight. Read the
+first book, and skip the rest.
 
-17. **Lab Rat One** — Andrea Höst
+**Lab Rat One** — Andrea Höst
 
-    Ok, this series is exceedingly straight, and that's a bummer. I wish there
-    was a lot less pining after the sad boy, but the magic and tech continues
-    to be interesting. The pacing is a little lax, and I've gotten slightly
-    sick of the cycles of "power then injury" that Cass goes through, but I'm
-    going to finish this out.
+Ok, this series is exceedingly straight, and that's a bummer. I wish there
+was a lot less pining after the sad boy, but the magic and tech continues
+to be interesting. The pacing is a little lax, and I've gotten slightly
+sick of the cycles of "power then injury" that Cass goes through, but I'm
+going to finish this out.
 
-16. **Stray** — Andrea Höst
+**Stray** — Andrea Höst
 
-    This was recommended to me by my buddy Nick, and I'd avoided it for unknown
-    reasons. Maybe the cover was too low-budget? But, this book is really fun.
-    I think this series kinda qualifies as YA, but the journal nature, as well
-    as the mystery of scifi tech/magic systems got me deep into the world. A
-    really nice vacation read.
+This was recommended to me by my buddy Nick, and I'd avoided it for unknown
+reasons. Maybe the cover was too low-budget? But, this book is really fun.
+I think this series kinda qualifies as YA, but the journal nature, as well
+as the mystery of scifi tech/magic systems got me deep into the world. A
+really nice vacation read.
 
-15. **All Systems Red** — Martha Wells
+**All Systems Red** — Martha Wells
 
-    Pretty fun book about a "murderbot" who would rather be watching tv dramas
-    than shooting anything. I'm looking forward to the next few books.
+Pretty fun book about a "murderbot" who would rather be watching tv dramas
+than shooting anything. I'm looking forward to the next few books.
 
-14. **Things to Do When You're Goth in the Country** — Chavisa Woods [**](#ghost)
+**Things to Do When You're Goth in the Country** — Chavisa Woods [**](#ghost)
 
-    A truly excellent short-story collection that pairs well with some of the
-    stories in Her Body and Other Stories. This book reminded me of growing up
-    southern baptist in Texas, after September 11th. Really beautiflly written,
-    and quite melancholy.
+A truly excellent short-story collection that pairs well with some of the
+stories in Her Body and Other Stories. This book reminded me of growing up
+southern baptist in Texas, after September 11th. Really beautiflly written,
+and quite melancholy.
 
-13. **A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
+**A Wrinkle in Time** — Madeline L'lengle[**](#ghost)
 
-    This was a re-read, but I loved diving through it again.
+This was a re-read, but I loved diving through it again.
 
-13. **The End of My Career** — Martha Grover
+**The End of My Career** — Martha Grover
 
-    Hilarious, sad, and real; the End of My Career is a very intimate look at
-    life in Portland as a chronically ill woman with history and a sense of
-    humor. I loved this. I wish it were gayer, but I wish everything were gayer,
-    so. As a more recent Portlander, the pain, and amusement she talks about
-    watching her city change is similar to how I felt about my home of Austin.
+Hilarious, sad, and real; the End of My Career is a very intimate look at
+life in Portland as a chronically ill woman with history and a sense of
+humor. I loved this. I wish it were gayer, but I wish everything were gayer,
+so. As a more recent Portlander, the pain, and amusement she talks about
+watching her city change is similar to how I felt about my home of Austin.
 
-12. **Soulless** — Gail Corrigan [**](#ghost)
+**Soulless** — Gail Corrigan [**](#ghost)
 
-    Wow, I hated this. I started reading it with a wry grin, but couldn't ever
-    decide if it meant to be as insipid as it was. I never want to read about
-    how hot a wereman is again. I never want to read about umbrellas, or
-    petticoats.
+Wow, I hated this. I started reading it with a wry grin, but couldn't ever
+decide if it meant to be as insipid as it was. I never want to read about
+how hot a wereman is again. I never want to read about umbrellas, or
+petticoats.
 
-11. **Acceptance** — Jeff Vandermeer
+**Acceptance** — Jeff Vandermeer
 
-    The final book in the Southern Reach trilogy ties everything together, and
-    provides a lot of backstory and history. There's so much that's desperately
-    sad in this book, and I love it.
+The final book in the Southern Reach trilogy ties everything together, and
+provides a lot of backstory and history. There's so much that's desperately
+sad in this book, and I love it.
 
-10. **Authority** — Jeff Vandermeer
+**Authority** — Jeff Vandermeer
 
-    I loved this second book both times I read it, because so much of it is a
-    slow creep of bueracracy and questions. Why isn't anyone giving Control a
-    straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
+I loved this second book both times I read it, because so much of it is a
+slow creep of bueracracy and questions. Why isn't anyone giving Control a
+straight answer? What's with Ghost Bird? Ugh, this series is fantastic.
 
-9. **Annihilation** — Jeff Vandermeer
+**Annihilation** — Jeff Vandermeer
 
-    This is a re-read, because right after seeing the movie based on this book,
-    I wanted to dive back into Area X. To me, this series still captures all
-    the best parts of Vandermeer's wierdness in a cohesive way. If Borne was
-    oddly funny, this book is just odd, and City of Saints & Madmen is,
-    perhaps, homicidal. I'm still not sure if there are many hidden things in
-    this book, but I also haven't looked too deep, bc City of Saints & Madmen
-    sucked me in in a way I found frightenting.
+This is a re-read, because right after seeing the movie based on this book,
+I wanted to dive back into Area X. To me, this series still captures all
+the best parts of Vandermeer's wierdness in a cohesive way. If Borne was
+oddly funny, this book is just odd, and City of Saints & Madmen is,
+perhaps, homicidal. I'm still not sure if there are many hidden things in
+this book, but I also haven't looked too deep, bc City of Saints & Madmen
+sucked me in in a way I found frightenting.
 
-8. **Goodbye, Things** — Fumio Sasaki
+**Goodbye, Things** — Fumio Sasaki
 
-    What an odd book full of short, declarative sentences. Some bits of this
-    were great, but a lot of it was about what you'd expect from a Medium
-    article. The bit about the owl statues was golden.
+What an odd book full of short, declarative sentences. Some bits of this
+were great, but a lot of it was about what you'd expect from a Medium
+article. The bit about the owl statues was golden.
 
-7. **The Language of Power** — Rosemary Kirstein
+**The Language of Power** — Rosemary Kirstein
 
-    A great fourth book in a series I've really loved. This book furthers the
-    "what the fuck are the wizards, and what're they doing" plotline. A lot of
-    suspicions from the past few books have led me here. There's some really
-    neat stuff left to figure out, so I hope that in a few years we'll have
-    book 5 & 6.
+A great fourth book in a series I've really loved. This book furthers the
+"what the fuck are the wizards, and what're they doing" plotline. A lot of
+suspicions from the past few books have led me here. There's some really
+neat stuff left to figure out, so I hope that in a few years we'll have
+book 5 & 6.
 
-6. **Girls on Fire** — Robin Wasserman
+**Girls on Fire** — Robin Wasserman
 
-    Fantastic coming-of-age book. I really loved all the grunge, and
-    surrepitious drinking, and peer-pressure.
+Fantastic coming-of-age book. I really loved all the grunge, and
+surrepitious drinking, and peer-pressure.
 
-5. **Binti: Night Masquerade** — Nnedi Okafor
+**Binti: Night Masquerade** — Nnedi Okafor
 
-    The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
-    first one has that handily covered). Additionally, the pacing was wacky.
-    There was a _lot_ of time spent building up to a conflict that doesn't go
-    very far, then an unsatisfying conclusion. The main character ends up
-    having so much thrown at her with little-to-no consequence, that the whole
-    thing gets to a comic level of ridiculousness.
+The trilogy comes to an ok conclusion. This wasn't my favorite Binti (the
+first one has that handily covered). Additionally, the pacing was wacky.
+There was a _lot_ of time spent building up to a conflict that doesn't go
+very far, then an unsatisfying conclusion. The main character ends up
+having so much thrown at her with little-to-no consequence, that the whole
+thing gets to a comic level of ridiculousness.
 
-4. **Null States** — Malka Older
+**Null States** — Malka Older
 
-    A nice sequel to Infomocracy that explored some new characters while still
-    letting Mishma and Ken run around a bit. Much of this book was a build-up
-    that never seemed to deliver, but it feels like the story will come to a
-    head a bit more in the potential next book.
+A nice sequel to Infomocracy that explored some new characters while still
+letting Mishma and Ken run around a bit. Much of this book was a build-up
+that never seemed to deliver, but it feels like the story will come to a
+head a bit more in the potential next book.
 
-3. **Infomocracy** — Malka Older
+**Infomocracy** — Malka Older
 
-    This techno political thriller ruled. This story created the kind of world
-    I want to dig around in for some time to come, so I'm glad there's at least
-    one more.
+This techno political thriller ruled. This story created the kind of world
+I want to dig around in for some time to come, so I'm glad there's at least
+one more.
 
-2. **Autonomous** — Annalee Newitz [**](#ghost)
+**Autonomous** — Annalee Newitz [**](#ghost)
 
-    Drug piracy, copyright, and queerness. I really loved this story, save for
-    the happy ending for the cops.
+Drug piracy, copyright, and queerness. I really loved this story, save for
+the happy ending for the cops.
 
-1. **On Such a Full Sea** — Chang-Rae Lee
+**On Such a Full Sea** — Chang-Rae Lee
 
-    Really enjoyed this futuristic look at America and the fall of our current
-    system. Lots of discussion of class, immigration, and identity. The
-    narrator was a little distracting, but it was an interesting narrative
-    conceit.
+Really enjoyed this futuristic look at America and the fall of our current
+system. Lots of discussion of class, immigration, and identity. The
+narrator was a little distracting, but it was an interesting narrative
+conceit.
 
 ## 2017 <a name="2017"></a>
 
-1. **Reacquainted with Life** — Kokumo
+**Reacquainted with Life** — Kokumo
 
-2. **The Kingdom of Gods** — NK Jemison
+**The Kingdom of Gods** — NK Jemison
 
-3. **Slice Harvester** — Colin Atrophy Hagendorf
+**Slice Harvester** — Colin Atrophy Hagendorf
 
-4. **The Inheritance Trilogy** — NK Jemison
+**The Inheritance Trilogy** — NK Jemison
 
-5. **The Remedy** — Zena Sherman
+**The Remedy** — Zena Sherman
 
-6. **Texts from Jane Eyre** — Mallory Ortberg
+**Texts from Jane Eyre** — Mallory Ortberg
 
-    I didn't understand half of this, because Mallory & I have divergent
-    tastes, but she gave me a European paperback, so I read it finally after it
-    being sold out in a bunch of places. Love her.
+I didn't understand half of this, because Mallory & I have divergent
+tastes, but she gave me a European paperback, so I read it finally after it
+being sold out in a bunch of places. Love her.
 
-7. **Freedom is a Constant Struggle** — Angela Davis [**](#ghost)
+**Freedom is a Constant Struggle** — Angela Davis [**](#ghost)
 
-    This was a coven book club book. It was lovely, but also super repetitive,
-    because most of the talks/essays were written/given around the same time,
-    so the themes & topics are the same. Important, but I probably didn't need
-    to read them all.
+This was a coven book club book. It was lovely, but also super repetitive,
+because most of the talks/essays were written/given around the same time,
+so the themes & topics are the same. Important, but I probably didn't need
+to read them all.
 
-8. **The Small Backs of Children** — Lydia Yuknavitch
+**The Small Backs of Children** — Lydia Yuknavitch
 
-9. **Objects in Mirror are Closer...** — Kate Carroll deGates [*](#les)
+**Objects in Mirror are Closer...** — Kate Carroll deGates [*](#les)
 
-10. **Magician King** — Lev Grossman
+**Magician King** — Lev Grossman
 
-11. **Magician's Land** — Lev Grossman
+**Magician's Land** — Lev Grossman
 
-12. **100 Crushes** — Elisha Lim
+**100 Crushes** — Elisha Lim
 
-13. **Wet Moon Vol. 1** — Sophie Campbell
+**Wet Moon Vol. 1** — Sophie Campbell
 
-14. **The Mirror Empire: Worldbreaker Saga 1** — Kameron Hurley
+**The Mirror Empire: Worldbreaker Saga 1** — Kameron Hurley
 
-15. **Fire** — Elizabeth Hand
+**Fire** — Elizabeth Hand
 
-16. **Home** — Nnedi Okafor [**](#ghost)
+**Home** — Nnedi Okafor [**](#ghost)
 
-17. **A Conjuring of Light** — VE Schwab
+**A Conjuring of Light** — VE Schwab
 
-18. **Women's Barracks** - Tereska Torres [*](#les)
+**Women's Barracks** - Tereska Torres [*](#les)
 
-19. **Theresa + Isabelle** — Violette LeDuc [*](#les)
+**Theresa + Isabelle** — Violette LeDuc [*](#les)
 
-20. **For Your Own Good** — Leah Horlick
+**For Your Own Good** — Leah Horlick
 
-21. **Difficult Women** — Roxanne Gay
+**Difficult Women** — Roxanne Gay
 
-22. **Exit West** — Moisin Hamid [**](#ghost)
+**Exit West** — Moisin Hamid [**](#ghost)
 
-    Another book club book. This was a really neat exploration of immigration,
-    family, and place. I super loved this book.
+Another book club book. This was a really neat exploration of immigration,
+family, and place. I super loved this book.
 
-23. **Sex Object** — Jessica Valenti
+**Sex Object** — Jessica Valenti
 
-24. **The Long Way to a Small, Angry Planet** — Becky Chambers [**](#ghost)
+**The Long Way to a Small, Angry Planet** — Becky Chambers [**](#ghost)
 
-25. **A Herstory of Transmasculine Identities** — Michael Eric Brown
+**A Herstory of Transmasculine Identities** — Michael Eric Brown
 
-26. **Literally Show Me a Healthy Person** — Darcie Wilder
+**Literally Show Me a Healthy Person** — Darcie Wilder
 
-27. **Saga Vol. 7** — Fiona Staples
+**Saga Vol. 7** — Fiona Staples
 
-28. **A Closed and Common Orbit** — Becky Chambers
+**A Closed and Common Orbit** — Becky Chambers
 
-29. **The Border of Paradise** — Esme Wang [**](#ghost)
+**The Border of Paradise** — Esme Wang [**](#ghost)
 
-30. **I'm in Friend Love with You** — Yumi Sakugawa
+**I'm in Friend Love with You** — Yumi Sakugawa
 
-31. **Borne** — Jeff Vandemeer
+**Borne** — Jeff Vandemeer
 
-32. **Where the Words End & My Body Begins** — Amber Dawn
+**Where the Words End & My Body Begins** — Amber Dawn
 
-33. **Because They Wanted to: Stories** — Mary Gaitskill
+**Because They Wanted to: Stories** — Mary Gaitskill
 
-34. **Pony Castle** — Sofia Banzhaf
+**Pony Castle** — Sofia Banzhaf
 
-35. **The Slow Fix** — Ivan Coyote
+**The Slow Fix** — Ivan Coyote
 
-36. **x-23 Collection** — Marjorie Liu
+**x-23 Collection** — Marjorie Liu
 
-37. **APOSIMZ 1-4** — Nihei Tsutomu
+**APOSIMZ 1-4** — Nihei Tsutomu
 
-38. **Murcielago Vol.1** — Yoshinarakana
+**Murcielago Vol.1** — Yoshinarakana
 
-39. **Moshi Moshi** — Banana Yoshimoto
+**Moshi Moshi** — Banana Yoshimoto
 
-40. **The Wicked & Divine** — Kieron Gillen
+**The Wicked & Divine** — Kieron Gillen
 
-41. **The Orange Eats Creeps** — Grace Krilanovich
+**The Orange Eats Creeps** — Grace Krilanovich
 
-42. **Nine Cuts** — Audrey Chin
+**Nine Cuts** — Audrey Chin
 
-43. **Monstress Vol.2: The Blood** — Marjorie Liu
+**Monstress Vol.2: The Blood** — Marjorie Liu
 
-44. **Murcielago Vol.2** — Yoshinarakana
+**Murcielago Vol.2** — Yoshinarakana
 
-45. **Motor Crush Vol.1** — Babs Tarr
+**Motor Crush Vol.1** — Babs Tarr
 
-    I'm really stoked on this queer lady motorcycle racing comic. Like, damn. I
-    can't wait for the next one. The art is fantastic, and the story is a
-    little light, but hints at a lot more. The world seems interesting. Why do
-    the motorcycles get addicted?
+I'm really stoked on this queer lady motorcycle racing comic. Like, damn. I
+can't wait for the next one. The art is fantastic, and the story is a
+little light, but hints at a lot more. The world seems interesting. Why do
+the motorcycles get addicted?
 
-46. **The Idiot** — Elif Batuman
+**The Idiot** — Elif Batuman
 
-47. **My Lesbian Experience with Loneliness** — Kabi Nagata
+**My Lesbian Experience with Loneliness** — Kabi Nagata
 
-48. **Hard Boiled & Hard Luck** — Banana Yoshimoto
+**Hard Boiled & Hard Luck** — Banana Yoshimoto
 
-    A nice slice-of life, that's sad in a way that is very refreshing in the
-    summer. These books are about losses, and how to cope and move forward.
-    I'm really enjoying rediscovering Banana Yoshimoto's writing.
+A nice slice-of life, that's sad in a way that is very refreshing in the
+summer. These books are about losses, and how to cope and move forward.
+I'm really enjoying rediscovering Banana Yoshimoto's writing.
 
-49. **Bittersweet** — Nevada Barr [*](#les)
+**Bittersweet** — Nevada Barr [*](#les)
 
-    An easy-enough read, but the story was too "femme danger & butch power" for
-    me. The "love" story takes place between a late-20s/early-30s woman and a
-    teenager (gross), and at a certain point they basically agree that if a man
-    tries to marry Sarah, she'll just go along — bc obviously femme women are
-    just waiting for a man, and butches have to fight those men off bc we have
-    no agency. I dunno. This author is also, AFAIK straight... which is doubly
-    strange. Weird shit happens in this, and maybe it's worth reading if you're
-    super into the 19th century "west," but the adult on teen predatory love
-    and the bullshit masc > femme stuff is really not my bag.
+An easy-enough read, but the story was too "femme danger & butch power" for
+me. The "love" story takes place between a late-20s/early-30s woman and a
+teenager (gross), and at a certain point they basically agree that if a man
+tries to marry Sarah, she'll just go along — bc obviously femme women are
+just waiting for a man, and butches have to fight those men off bc we have
+no agency. I dunno. This author is also, AFAIK straight... which is doubly
+strange. Weird shit happens in this, and maybe it's worth reading if you're
+super into the 19th century "west," but the adult on teen predatory love
+and the bullshit masc > femme stuff is really not my bag.
 
-50. **Zodiac Starforce: By the Power of Astra** — Kevin Panetta
+**Zodiac Starforce: By the Power of Astra** — Kevin Panetta
 
-    Cute sailor-moon-style girl team of fighters. Really enjoyed how this was
-    drawn, and the queerness of a few of the characters. If you need something
-    lighthearted, it's worth a read.
+Cute sailor-moon-style girl team of fighters. Really enjoyed how this was
+drawn, and the queerness of a few of the characters. If you need something
+lighthearted, it's worth a read.
 
-51. **Generation Loss** — Elizabeth Hand
+**Generation Loss** — Elizabeth Hand
 
-    I'd only read Fire, a short story collection by Hand, before and wasn't
-    sure what to expect. It was exciting expecting this to be odd literary
-    fiction, then discovering it's a moody mystery. Definitely fun, and odd,
-    and great.
+I'd only read Fire, a short story collection by Hand, before and wasn't
+sure what to expect. It was exciting expecting this to be odd literary
+fiction, then discovering it's a moody mystery. Definitely fun, and odd,
+and great.
 
-52. **Witches, Sluts, Feminists** — Kristen J. Sollee [**](#ghost)
+**Witches, Sluts, Feminists** — Kristen J. Sollee [**](#ghost)
 
-    This was a decent non-fiction exploration of witches & to a degree, sluts &
-    feminists through the ages. It focuses primarily on the Americas, and
-    despite my usual disinterest in non-fiction this was fun and informative
-    enough to carry me through on a camping trip during the eclipse. Time to
-    find some DMT for my flying broom.
+This was a decent non-fiction exploration of witches & to a degree, sluts &
+feminists through the ages. It focuses primarily on the Americas, and
+despite my usual disinterest in non-fiction this was fun and informative
+enough to carry me through on a camping trip during the eclipse. Time to
+find some DMT for my flying broom.
 
-53. **God's War** — Kameron Hurley [**](#ghosts)
+**God's War** — Kameron Hurley [**](#ghosts)
 
-    Queer bounty hunters, devout magicians, and so much sand intermingled in
-    this fun ride through a Islam-based religion colonized planet where organs
-    are bought and sold, and a war between two countries rages on pointlessly.
-    I wanted to stay in this world for longer, as new wrinkles kept being
-    added. Luckily, there's a sequel.
+Queer bounty hunters, devout magicians, and so much sand intermingled in
+this fun ride through a Islam-based religion colonized planet where organs
+are bought and sold, and a war between two countries rages on pointlessly.
+I wanted to stay in this world for longer, as new wrinkles kept being
+added. Luckily, there's a sequel.
 
-54. **The Stone Sky** — NK Jemison
+**The Stone Sky** — NK Jemison
 
-    Wow, this was a fantastic ending to a delightful trilogy. Loved this story
-    of family, world-rending powers, and ecology. Seriously one of the best
-    things I've read in years, in fantasy or literature.
+Wow, this was a fantastic ending to a delightful trilogy. Loved this story
+of family, world-rending powers, and ecology. Seriously one of the best
+things I've read in years, in fantasy or literature.
 
-55. **The Merry Spinster** — Mallory Ortberg
+**The Merry Spinster** — Mallory Ortberg
 
-    [Review on Medium](https://medium.com/@brookshelley/a-review-of-the-merry-spinster-15f41072834c)
+[Review on Medium](https://medium.com/@brookshelley/a-review-of-the-merry-spinster-15f41072834c)
 
-56. **Notes from a Crocodile** — Qiu Miaojin [**](#ghost)
+**Notes from a Crocodile** — Qiu Miaojin [**](#ghost)
 
-    This book was such a lovely combination of melancholy feelings, and
-    slightly obsessive lesbian love. I loved all of the Abe references.
+This book was such a lovely combination of melancholy feelings, and
+slightly obsessive lesbian love. I loved all of the Abe references.
 
-57. **Fried Green Tomatoes at the Whistle Stop Cafe** — Fannie Flagg [*](#les)
+**Fried Green Tomatoes at the Whistle Stop Cafe** — Fannie Flagg [*](#les)
 
-    This was very much like a long conversation with an old woman in the south,
-    like say, a grandma. I had a great time reading this, but there was a long,
-    slow burn until I was crying, from my intitial "meh, this is ok."
+This was very much like a long conversation with an old woman in the south,
+like say, a grandma. I had a great time reading this, but there was a long,
+slow burn until I was crying, from my intitial "meh, this is ok."
 
-58. **Paper Girls: Vol. 3** — Brian K Vaughn
+**Paper Girls: Vol. 3** — Brian K Vaughn
 
-    I still have no idea where this is going, but so far it's still a fun ride.
+I still have no idea where this is going, but so far it's still a fun ride.
 
-59. **Bitch Planet: Vol. 2** — Kelly Sue DeConnick
+**Bitch Planet: Vol. 2** — Kelly Sue DeConnick
 
-    Trans women were paid to consult on this volume, and it shows. I'm super
-    curious to see where the women on thr prison planet wind up. The art in
-    this isn't my favorite, but it seems well-written at least.
+Trans women were paid to consult on this volume, and it shows. I'm super
+curious to see where the women on thr prison planet wind up. The art in
+this isn't my favorite, but it seems well-written at least.
 
-60. **Ink & Bone** — Rachel Caine
+**Ink & Bone** — Rachel Caine
 
-    This is the first in a series I'll probably read the rest of. It was a cute
-    and occasionally brutal story about the flow of information, and what might
-    have occurred if the library of Alexandria had become a world-controlling
-    organization. There's a YA/Harry Potter vibe to the whole thing.
+This is the first in a series I'll probably read the rest of. It was a cute
+and occasionally brutal story about the flow of information, and what might
+have occurred if the library of Alexandria had become a world-controlling
+organization. There's a YA/Harry Potter vibe to the whole thing.
 
-61. **Ash** — Malinda Lo [*](#les)
+**Ash** — Malinda Lo [*](#les)
 
-    Retelling and retooling the Cinderalla tale into a lesbian romance, Ash is
-    a pretty fun read. I blazed through this quickly, and am curious to read
-    more from Lo. Compared to most books we read for Lesbian Book Club, this
-    was a very light, but we-written book, and that's a nice respite. I'm
-    always here for books where the protagonist falls in love with a huntress.
+Retelling and retooling the Cinderalla tale into a lesbian romance, Ash is
+a pretty fun read. I blazed through this quickly, and am curious to read
+more from Lo. Compared to most books we read for Lesbian Book Club, this
+was a very light, but we-written book, and that's a nice respite. I'm
+always here for books where the protagonist falls in love with a huntress.
 
-62. **The Witch's Daughter** — Paula Brackston [***](#scifi)
+**The Witch's Daughter** — Paula Brackston [***](#scifi)
 
-    A fun tale told in the present and past of a witch on the run, and her new
-    apprentice. This book drew me in and kept me awake late so I could find out
-    what happened next. I'm excited to read the second one. A definite
-    improvement over the first book for this club, which I quit part-way
-    through.
+A fun tale told in the present and past of a witch on the run, and her new
+apprentice. This book drew me in and kept me awake late so I could find out
+what happened next. I'm excited to read the second one. A definite
+improvement over the first book for this club, which I quit part-way
+through.
 
-63. **The Witches of New York** — Ami McKay [**](#ghost)
+**The Witches of New York** — Ami McKay [**](#ghost)
 
-    This book was great. I read a lot of witch books this month, but this was
-    by far my favorite. It captured the New York or yore well, and delightfully
-    set up for a few more stories about these women and their tea and sympathy
-    shop. The magic in this book was better fleshed-out than The Witch's
-    Daughter, and I enjoyed the church being the enemy, though demons vs.
-    witches was an odd choice.
+This book was great. I read a lot of witch books this month, but this was
+by far my favorite. It captured the New York or yore well, and delightfully
+set up for a few more stories about these women and their tea and sympathy
+shop. The magic in this book was better fleshed-out than The Witch's
+Daughter, and I enjoyed the church being the enemy, though demons vs.
+witches was an odd choice.
 
-64. **The Little Book of Hygge** — Meik Wiking
+**The Little Book of Hygge** — Meik Wiking
 
-    Broke my rule about reading white guys to read this random book about
-    Hygge. TBH I thought the author was a woman for most of the book. Oh well.
-    This is a book all about candles, coziness, and of course, hygge. Turn the
-    lights down low, light some tallow, and drink some gløgg this winter to
-    make even a Copenhagen/Portland winter happy. I was happy to find that I'm
-    already living a hella hygge life, but got some further tips on hyggeligt.
+Broke my rule about reading white guys to read this random book about
+Hygge. TBH I thought the author was a woman for most of the book. Oh well.
+This is a book all about candles, coziness, and of course, hygge. Turn the
+lights down low, light some tallow, and drink some gløgg this winter to
+make even a Copenhagen/Portland winter happy. I was happy to find that I'm
+already living a hella hygge life, but got some further tips on hyggeligt.
 
-65. **Rose of No Man's Land** — Michelle Tea
+**Rose of No Man's Land** — Michelle Tea
 
-    This is a lesser-known Tea book, but also one of her few true fiction
-    books. This was kinda cute, and definitely an intense slice of life of a
-    young _maybe_ lesbian near Boston, complete with mall life, and scoring
-    drugs and alcohol. It's a short book, but I really liked it.
+This is a lesser-known Tea book, but also one of her few true fiction
+books. This was kinda cute, and definitely an intense slice of life of a
+young _maybe_ lesbian near Boston, complete with mall life, and scoring
+drugs and alcohol. It's a short book, but I really liked it.
 
-66. **Oranges Are Not the Only Fruit** — Jeaneatte Winterson
+**Oranges Are Not the Only Fruit** — Jeaneatte Winterson
 
-    This was a re-read, but dang. I'm excited to read the more real-life
-    version of her story _Why Be Happy When You Can Be Normal_ soon. Growing up
-    in a religious home, albeit a fortunately less zealous one as a queer woman
-    this book meant a lot.
+This was a re-read, but dang. I'm excited to read the more real-life
+version of her story _Why Be Happy When You Can Be Normal_ soon. Growing up
+in a religious home, albeit a fortunately less zealous one as a queer woman
+this book meant a lot.
 
-67. **Her Body and Other Parties** — Carmen Maria Machado
+**Her Body and Other Parties** — Carmen Maria Machado
 
-    Wow. This short-story collection knocked me back with the depth and power
-    of its often odd stories. The midsection of the book satirically and
-    diabolically explores a popular network crime drama, and reading it I
-    immediately went from "what the hell?" to "omg I love this". I am thrumming
-    with anticipation of more work from Machado. This is probably the best
-    thing I've read this year.
+Wow. This short-story collection knocked me back with the depth and power
+of its often odd stories. The midsection of the book satirically and
+diabolically explores a popular network crime drama, and reading it I
+immediately went from "what the hell?" to "omg I love this". I am thrumming
+with anticipation of more work from Machado. This is probably the best
+thing I've read this year.
 
-68. **Are You My Mother?** — Alison Bechdel
+**Are You My Mother?** — Alison Bechdel
 
-    A messy tangle of a book and metabook about a mother and therapy. I liked
-    this, but it's coming from such a strange distant place I wasn't able to
-    immediately connect to it in the way I did with Fun Home. I'm going to keep
-    thinking about this one.
+A messy tangle of a book and metabook about a mother and therapy. I liked
+this, but it's coming from such a strange distant place I wasn't able to
+immediately connect to it in the way I did with Fun Home. I'm going to keep
+thinking about this one.
 
-69. **Basic Witches** — Jaya Saxena & Jess Zimmerman [**](#ghost)
+**Basic Witches** — Jaya Saxena & Jess Zimmerman [**](#ghost)
 
-    A series of spells, and a lot of nice discussion of how to care for oneself
-    with witchcraft, presence of mind, and good friends. I liked this a lot,
-    but it was fairly, well, basic. This would be a great introduction to give
-    to a younger person.
+A series of spells, and a lot of nice discussion of how to care for oneself
+with witchcraft, presence of mind, and good friends. I liked this a lot,
+but it was fairly, well, basic. This would be a great introduction to give
+to a younger person.
 
-70. **Caraval** — Stephanie Garber
+**Caraval** — Stephanie Garber
 
-    Some light-hearted YA to close out the year. This was a well-told, if
-    sometimes upsetting story. A lot of this had me wondering: straight people,
-    are you ok?
+Some light-hearted YA to close out the year. This was a well-told, if
+sometimes upsetting story. A lot of this had me wondering: straight people,
+are you ok?
 
 ## Footnotes
 
