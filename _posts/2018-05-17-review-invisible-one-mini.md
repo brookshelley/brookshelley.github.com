@@ -1,9 +1,11 @@
 ---
 layout: posts
 title: review: Invisible One Mini backpack
-description: posting on my blog
+description: review of a new backpack for euro travel
 categories: blog
 ---
+
+[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
 
 # Invisible One Mini Review
 
