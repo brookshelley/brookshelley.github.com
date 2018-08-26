@@ -5,53 +5,53 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-48. **Mary and the Witch's Flower**
+**Mary and the Witch's Flower**
 
 A cute anime about a young girl who stumbles into the world of witchcraft. Very reminiscent of Howl's Moving Castle, but with a less encompassing world.
 
-47. **Den of Thieves**
+**Den of Thieves**
 
 A heist movie with a pretty solid cast. Gerard Butler plays a shitty, dirty cop well. He was definitely believable as "the guy who treats everyone like shit, but we're supposed to believe he is a very good dad who just loves his daughters." The plot was decently executed, but it's mostly just a movie with lots of bro posturing and guns. Not a bad way to spend a couple hours on the couch.
 
-46. **Masterminds**
+**Masterminds**
 
 A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis. It's about as ridiculous as you would imagine. A+ romp. Lots of quality physical comedy.
 
-45. **Book Club**
+**Book Club**
 
 Watched this on a whim with a couple friends, and it was kinda great? I love Candace Bergen from the Murphy Brown
 days, and hope I look as good as Diane Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it wasn't available to rent.
 
-44. **The Meg**
+**The Meg**
 
 Wow. This is my new favorite sea-based movie. What an epically hilarious
 film. A+ good job everyone.
 
-43. **Mission Impossible Fallout**
+**Mission Impossible Fallout**
 
 A wild, nearly 3 hour ride through a comical series of twists and beards. I
 laughed out loud often, both at the unearned gravitas, and actual jokes. I
 love this series like Tom Cruise loves being an action hero: deeply, and
 passionately.
 
-42. **Ready Player One**
+**Ready Player One**
 
 I blame my friend Mark, because he chose this for us to watch. It was just
 as bad as I thought it would be, but blessedly we could make good jokes
 throughout.
 
-41. **Drive Angry**
+**Drive Angry**
 
 There are probably worse Nic Cage movies, but this is the worst one I've
 seen. Every scene is painfully bad.
 
-40. **Tomb Raider**
+**Tomb Raider**
 
 Fun, and very surprisingly entertaining for a video game movie. Lots of
 "oh, I could see how this would play in the game," scenes. Alicia Vikander
 is a much better Lara Croft too, imo.
 
-39. **Sorry to Bother You**
+**Sorry to Bother You**
 
 This is the movie Idiocracy wishes it were. Sorry to Bother You skewers
 tech culture, bay-area poverty, racial injustice, and so much more.
@@ -59,24 +59,24 @@ Throughout, Tessa, Lakeith, and the rest of the cast deliver awesome
 performances. A mix of chilling and laugh-inducing. One of the best films
 I've seen this year.
 
-38. **Tragedy Girls**
+**Tragedy Girls**
 
 What a wild, fucked-up movie about social media, murder, and friendship.
 Don't do it for the gram.
 
-37. **I, Tonya**
+**I, Tonya**
 
 Finally watched this with a friend, and wow, it was good but full of very
 violent abuse stuff. Growing up in the 80s/90s, Tonya Harding was in a lot
 of news, but this definitely filled in a lot of gaps in my knowledge of her
 story.
 
-36. **Villainess**
+**Villainess**
 
 What a wonderfully bonkers movie. It kicks off with wild first-person murder
 fest, and just goes off-the-rails from there. One of the bloodier and wilder action films I've seen in a long time. Loved it.
 
-35. **The Incredibles 2**
+**The Incredibles 2**
 
 Watched this a few hours after the first one. The animation has gotten a LOT
 better, even though the first one honestly aged pretty well, since they didn't
@@ -84,33 +84,33 @@ try to make it photorealistic. The plot was ridiculous again, and they definitel
 leaned hard into the "men are bad at childcare" shit that I suspected they would.
 Fun enough though anyways.
 
-34. **The Incredibles**
+**The Incredibles**
 
 The animation holds up surprisingly well for a few year-old movie, even if
 the plot depends on some pretty annoying misogynist tropes. I watched this
 to prep for the new movie, and overall it was a fun, if ridiculous, movie.
 
-33. **Ant Man & the Wasp**
+**Ant Man & the Wasp**
 
 This was a hoot. Very silly, and pretty PG, but above all else, this felt
 like a comic movie. I'd compare this to Spiderman Homecoming or a less
 stylish Thor Ragnarok. Great summer night movie.
 
-32. **Sicario**
+**Sicario**
 
 What a wild movie, in which I needed to completely suspend all of my
 feelings about America, the "drug war" and Thanos. If you can attempt to
 not emotionally connect to the actual monsters in this movie, it's kinda
 fun in a "tense film where things blow up" kind of way.
 
-31. **Gemini**
+**Gemini**
 
 Lesbian murder mystery? Yes. This was fun, even if the music felt super
 weird at times. Good bangs. Cool cars. A movie where men are the worst.
 Also this seems consistent with the choices and habits of geminis, so, lol.
 _shots fired_.
 
-30. **Jurassic World: Fallen Kingdom**
+**Jurassic World: Fallen Kingdom**
 
 Lol, this movie was absurd. They rushed off the island and so many of the
 subplots never really paid off? I can't forget that Pratt is a
@@ -118,33 +118,33 @@ conservative, and I didn't really care much about anyone in this film,
 except for the dinosaurs. I guess I was rooting for the dinosaurs, and I
 figure they probably came out ahead.
 
-29. **Oh Lucy!**
+**Oh Lucy!**
 
 This movie ruled! The world feels pretty rough these days, and this movie
 doesn't shy away from difficult topics, but the overarching feeling of Oh
 Lucy is a kind and happy one. It was also cool seeing an actor I've watched
 in lots of Kiyoshi Kurasawa films show up in a very rad role.
 
-28. **Ocean's 8**
+**Ocean's 8**
 
 All. Ladies. Heist. A+. I hope everyone involved in this comes out as gay.
 Points for literally every outfit, and double points for Rhianna's
 devil-may-care overalls, and Cate Blanchett's Carol-as-a-Timelord character.
 
-27. **xx**
+**xx**
 
 Terrible title unless everyone involved had to get a karyotype test to be
 involved. Most of the horror was related to having kids, which meant this
 movie hit me hard, because kids are the worst and deeply frightening on the
 best days.
 
-26. **Unlocked**
+**Unlocked**
 
 I'm a sucker for middling spy movies, and Noomi Rapace, so I now own this
 film. It wasn't great, but it was fun, and dammit, sometimes that's all I
 need. TIL Michael Douglas is still around.
 
-25. **Red Sparrow**
+**Red Sparrow**
 
 I will never believe for one second that the protagonist would fall for Joel
 Edgerton's bland spyman. For some reason, I expected this movie to be set
@@ -154,7 +154,7 @@ this film is that by and large Jennifer Lawrence kills or beats all the men
 in the movie. I can only hope she gets cast in more movies where she
 doesn't have to participate in misogynist porn first.
 
-24. **Appropriate Behavior**
+**Appropriate Behavior**
 
 This was a fun movie about being a Persian Bisexual woman in NYC. Shirin
 goes through a major breakup, then struggles to date, and heal, while
@@ -164,20 +164,20 @@ during a lot of this, even as I scratched my head at the confusing
 references to trans guys—like, why are they a joke? Overall, I dug this
 movie, and hope the director/writer Desiree makes more films soon.
 
-23. **Solo**
+**Solo**
 
 This was probably tied with Last Jedi for my least favorite of the new Star
 Wars, but I liked it better than pretty much any of the old or prequel
 ones. It was fun, had a few rad women, and didn't go overboard on "remember
 this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
 
-22. **Deadpool 2**
+**Deadpool 2**
 
 As fun as Avengers: Infinity War was boring and meh. Full of silly jokes.
 There were definitely jokes that were in really poor taste, but pretty
 much what I expected.
 
-21. **Avengers: Infinity War**
+**Avengers: Infinity War**
 
 This movie tried to tie together too many disparate stories, to bland
 effect. The attempt at some sort of emotional climax was a big wet fart,
@@ -186,13 +186,13 @@ _spoilers_ they'll all be back, bc Disney isn't going to kill off their
 money-makers. Go rewatch Black Panther of Thor Ragnarok, or like, spend 3
 hours outside instead.
 
-20. **In the Fade**
+**In the Fade**
 
 One of the saddest movies I've seen in a long time. It's gorgeous,
 well-shot, and soundtracked, but phew, what a brutal movie about the evils
 of nazism, and racism.
 
-19. **Geostorm**
+**Geostorm**
 
 A trash movie in the best way. If you liked watching Jake Gylenhall run
 from ice in The Day After Tomorrow, and people saying "zap!" and
@@ -200,7 +200,7 @@ from ice in The Day After Tomorrow, and people saying "zap!" and
 action films being largely targeted for non-US success, but that means we
 also get some cool co-stars.
 
-18. **A Quiet Place**
+**A Quiet Place**
 
 A "good christian family" who _loves_ gender roles has to be _vewwwwwy
 quiet_ so they don't get eaten by some kind of creatures. This movie was
@@ -210,7 +210,7 @@ _spoilers_ but how the fuck do you get pregnant if you know that a baby is
 going to make loud baby noises and get your family killed? And _where did
 they fuck?_ Anyways, this is a hate-watch.
 
-17. **The Descent**
+**The Descent**
 
 Another "maybe these are bad people" everything-goes-wrong movie. This was
 a rewatch, and yet, the cave scenes still had me feeling super
@@ -766,24 +766,24 @@ another long-time The Room fan, and we both were in tears laughing. I will
 see this again. The podcast [How Did This Get Made?](http://www.earwolf.com/episode/the-disaster-artist/) has a [great episode](http://www.earwolf.com/episode/the-disaster-artist/) for
 this movie too that begins with their The Room episode.
 
-65. **It Follows**
+**It Follows**
 
 This is my second viewing, and this movie was still unbelievably creepy. I
 made my friend watch American Vandal with me after this to get less scared.
 It's a horror film about an STI haunting. I dunno. It's wild. Watch this,
 but be ready to always watch for a single, slowly-walking person in a crowd.
 
-66. **Rare Exports**
+**Rare Exports**
 
 A perfectly weird holiday movie about the real santa.
 
-67. **Die Hard**
+**Die Hard**
 
 It's a wonderful holiday time for everyone, except german models turned
 "terrorist". Points to this one for accurately pointing out that white
 people are the bad guys though.
 
-68. **Star Wars: The Last Jedi**
+**Star Wars: The Last Jedi**
 
 Here for this. Love the porgs, and love Luke punking Kylo. This was a great
 combination of ridiculous and fun. I like that Rian brought more humor into
@@ -791,7 +791,7 @@ the world of the star war.
 
 ## 2016 <a name="2016"></a>
 
-1. **Nine Lives**
+**Nine Lives**
 
 Nothing could redeem this absolute shitpile. We thought it would be funny
 to watch a movie about Kevin Spacey as a cat, but it was _unbearably_ bad.
