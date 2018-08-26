@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: review: Invisible One Mini backpack
+title: Invisible One Mini backpack review
 description: review of a new backpack for euro travel
 categories: blog
 ---
