@@ -17,9 +17,7 @@
 ## Media Diet
 
 {% for post in site.categories.mediadiet %}
-  <ul>
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  </ul>
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
 {% endfor %}
