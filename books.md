@@ -5,6 +5,10 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Record of a Spaceborn Few** — Becky Chambers
+
+This was a much slower-paced book than the previous two, and was largely a slice of life about Exodans—the humans who left Earth to take their chances in the universe after Earth became uninhabitable. I enjoyed the various characters, the queer relationships, and the color added to this way of life. Sometimes it's nice to have a space scifi book that isn't full of lasers and danger.
+
 **Fingersmith** — Sarah Waters [*](#les)
 
 In an odd turn of fate, I'd seen the Handmaiden before I read this book, so
