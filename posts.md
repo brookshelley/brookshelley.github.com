@@ -12,11 +12,7 @@
    &nbsp;<span>{{ post.date | date_to_string }}</span>
 </li>
 {% endfor %}
-
-
-## Older stuff
-
-[Posts on Medium](https://medium.com/@brookshelley/)
+[Older posts on Medium](https://medium.com/@brookshelley/)
 
 ## Media Diet
 
