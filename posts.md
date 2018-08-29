@@ -6,12 +6,10 @@
 
 ## Posts
 {% for post in site.categories.blog %}
-  <ul>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
        &nbsp;<span>{{ post.date | date_to_string }}</span>
     </li>
-  </ul>
 {% endfor %}
 
 [Older Posts on Medium](https://medium.com/@brookshelley/)
