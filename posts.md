@@ -14,6 +14,8 @@
   </ul>
 {% endfor %}
 
+[Older Posts on Medium](https://medium.com/@brookshelley/)
+
 ## Media Diet
 
 {% for post in site.categories.mediadiet %}
