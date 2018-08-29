@@ -12,7 +12,9 @@
 </li>
 {% endfor %}
 
-[Older Posts on Medium](https://medium.com/@brookshelley/)
+## Older stuff
+
+[Posts on Medium](https://medium.com/@brookshelley/)
 
 ## Media Diet
 
