@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**47 Meters**
+
+Mandy Moore has never scuba-dived, but on a vacation to Mexico, her asshole friend convinces her to scuba in a cage with sharks to forget a man. It goes about as poorly as you’d think. I loved every claustrophobic minute of this. Fuck the ocean, I’m sticking to the rivers and the lakes that I’m used to.
+
 **Mary and the Witch's Flower**
 
 A cute anime about a young girl who stumbles into the world of witchcraft. Very reminiscent of Howl's Moving Castle, but with a less encompassing world.
