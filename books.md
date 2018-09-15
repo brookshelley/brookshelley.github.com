@@ -5,6 +5,14 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Convenience Store Woman** — Sayaka Murata [**](#ghost)
+
+Wow. This book was a lot more bizarre than I expected based on the recommendations I'd read—more Abe than H. Murakami. I loved the narrator, and the rich descriptions of convenience store life. This book was hilarious and wild. One of my favorites this year.
+
+**Would You Rather** — Katie Heaney
+
+A touching memoir of coming-out and learning that past dating disinterest was just latent sapphism, lol. There's a lot to love about this book, and also quite a bit of cringe. It's a coming-of-age in a way, and overall I'd recommend it to young dykes and old, or anyone wondering if their sexuality is "real".
+
 **Worth the Wait** — Karelia Stetz-Waters [*](les)
 
 This was a corny AF lesbian romance. Lots of random sex, and a main plot of "the cute femme can't come out bc reasons". Nothing groundbreaking, but it was an easy read.
