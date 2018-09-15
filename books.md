@@ -5,6 +5,8 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+### 35 Books
+
 **Convenience Store Woman** — Sayaka Murata [**](#ghost)
 
 Wow. This book was a lot more bizarre than I expected based on the recommendations I'd read—more Abe than H. Murakami. I loved the narrator, and the rich descriptions of convenience store life. This book was hilarious and wild. One of my favorites this year.
@@ -250,6 +252,8 @@ narrator was a little distracting, but it was an interesting narrative
 conceit.
 
 ## 2017 <a name="2017"></a>
+
+### 70 Books
 
 **Reacquainted with Life** — Kokumo
 
