@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Endless**
+
+What a bizarre, fantastic film. I loved the world and magic of this movie, as well as the general sense of eerie inevitably. I'm excited to see the previous film as well. The shots of this film are a mix of dutch angles, handheld, and some neat CGI. There's quite a bit of upsetting stuff in this film, but it's also a fun ride.
+
 **47 Meters Down**
 
 Mandy Moore has never scuba-dived, but on a vacation to Mexico, her asshole friend convinces her to scuba in a cage with sharks to forget a man. It goes about as poorly as you’d think. I loved every claustrophobic minute of this. Fuck the ocean, I’m sticking to the rivers and the lakes that I’m used to.
