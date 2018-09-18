@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Nun**
+
+Lol, this ridiculous series. My friend got me into this while I was recovering from a surgery last year by asking me to watch all the preceding movies before we went to see one of the Annabelle ones. This series delivers spooky times, jumpscares, and a universe completely devoid of a loving god. I'm always down for a movie where the evil folks win, and this series is suitably unclear about who actually comes out on top, so I just claim it for the demons. 
+
 **The Endless**
 
 What a bizarre, fantastic film. I loved the world and magic of this movie, as well as the general sense of eerie inevitably. I'm excited to see the previous film as well. The shots of this film are a mix of dutch angles, handheld, and some neat CGI. There's quite a bit of upsetting stuff in this film, but it's also a fun ride.
