@@ -5,9 +5,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Blindspotting**
+
+This is the third movie I've seen this year that was shot in Oakland, and I loved it. There is so much intensity, and so many parts that made me hold my breath, but everyone in this, especially Daveed Diggs, just showed-up and did an outstanding job. The criticism of gentrification in this felt more present and painful than Sorry to Bother You, and the raw emotional energy between family and friends here was so good.
+
 **The Nun**
 
-Lol, this ridiculous series. My friend got me into this while I was recovering from a surgery last year by asking me to watch all the preceding movies before we went to see one of the Annabelle ones. This series delivers spooky times, jump-scares, and a universe completely devoid of a loving god. I'm always down for a movie where the evil folks win, and this series is suitably unclear about who actually comes out on top, so I just claim it for the demons. 
+Lol, this ridiculous series. My friend got me into this while I was recovering from a surgery last year by asking me to watch all the preceding movies before we went to see one of the Annabelle ones. This series delivers spooky times, jump-scares, and a universe completely devoid of a loving god. I'm always down for a movie where the evil folks win, and this series is suitably unclear about who actually comes out on top, so I just claim it for the demons.
 
 **The Endless**
 
