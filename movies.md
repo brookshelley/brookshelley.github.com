@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**A Simple Favor**
+
+What a silly, fun movie. It ends up in kind of a weird, messy state by the end, as if Feig is like "wait, what if they don't remember I made Bridesmaids?!?", but I generally enjoyed seeing Blake Lively be a cool babe, while Anna Kendrick does her thing. All the side-characters were fun, and even though it felt long, it was also consistently enjoyable.
+
 **Blindspotting**
 
 This is the third movie I've seen this year that was shot in Oakland, and I loved it. There is so much intensity, and so many parts that made me hold my breath, but everyone in this, especially Daveed Diggs, just showed-up and did an outstanding job. The criticism of gentrification in this felt more present and painful than Sorry to Bother You, and the raw emotional energy between family and friends here was so good.
