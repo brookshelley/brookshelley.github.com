@@ -11,6 +11,10 @@ categories: mediadiet
 
 ## Books
 
+**State Tectonics** — Malka Older
+
+A fantastic conclusion to the Centenal Cycle Trilogy. I wish I could read a few more books from this universe, which I always figure is a great sign with any speculative fiction series. I keep recommending this trilogy to friends, both as an interesting political system, and as a gripping techno-political thriller with some truly rad female characters. I didn't love every PoV character from State Tectonics as much as I did the previous two books, but that makes sense, as this book was about new beginnings, to a degree.
+
 **Convenience Store Woman** — Sayaka Murata [**](#ghost)
 
 Wow. This book was a lot more bizarre than I expected based on the recommendations I'd read—more Abe than H. Murakami. I loved the narrator, and the rich descriptions of convenience store life. This book was hilarious and wild. One of my favorites this year.
