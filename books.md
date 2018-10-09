@@ -5,7 +5,7 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-### 37 Books
+### 38 Books
 
 **Love & Estrogen** — Samantha Allen
 
@@ -14,6 +14,10 @@ I don't usually read trans memoir—and I have a forthcoming piece that challeng
 **The Tea Master & the Detective** — Aliette de Bodard [**](#ghost)
 
 This was a fun detective tale with a mysterious Sherlock and a spaceship Watson. The setup never quite paid off with its mystery, but I look forward to reading more hooks in the series. I also worried a bit that it would fetishize or exoticize Chinese culture, but outside of the space-protection tea, it largely doesn't come up.
+
+**State Tectonics** -- Malka Older
+
+A fantastic conclusion to the Centenal Cycle Trilogy. I wish I could read a few more books from this universe, which I always figure is a great sign with any speculative fiction series. I keep recommending this trilogy to friends, both as an interesting political system, and as a gripping techno-political thriller with some truly rad female characters. I didn't love every PoV character from State Tectonics as much as I did the previous two books, but that makes sense, as this book was about new beginnings, to a degree.
 
 **Convenience Store Woman** — Sayaka Murata [**](#ghost)
 
