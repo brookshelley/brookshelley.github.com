@@ -5,6 +5,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Sicario: Day of the Solado**
+
+Another ridiculous action film about "the cartels" that I can't honestly tell is meant to make folks dislike the US or root for us. If you want to watch Cable/Thanos run around and shoot things, this is probalby a good movie for you. I don't find these very clever, but mostly I wish we got an Equalizer-style movie focused on Benecio Del Toro's character. While I'm hoping, perhaps Demián Bichir can be in the third movie.  
+
+**Mandy**
+
+A weirdo pyschadelic mess of a movie. I hate that a woman's death is used as a catalyst, but beyond that this is a bloody, ridiculous revenge flick. The music is great throughout and perhaps we were all delirious, but my theater laughed quite a bit.
+
+**Dawn of the Dead** (2004/Rewatch)
+
+I could watch this every year. This is an excellent remake of an excellent zombie film. Everyone gives their all, and so many of the deaths, kills, and twists are perfect. A+ work from before Zach Snyder made cruddy films.
+
 **A Simple Favor**
 
 What a silly, fun movie. It ends up in kind of a weird, messy state by the end, as if Feig is like "wait, what if they don't remember I made Bridesmaids?!?", but I generally enjoyed seeing Blake Lively be a cool babe, while Anna Kendrick does her thing. All the side-characters were fun, and even though it felt long, it was also consistently enjoyable.
