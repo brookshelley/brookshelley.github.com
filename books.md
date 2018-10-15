@@ -5,7 +5,11 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-### 38 Books
+### 39 Books
+
+**Invasions** — Calvin Gimpelevich
+
+[My review](_posts/2018-10-14-invasions-review.md). TL;DR it was great. Buy it.
 
 **Love & Estrogen** — Samantha Allen
 
