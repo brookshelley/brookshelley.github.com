@@ -17,7 +17,7 @@ I don't usually read trans memoir—and I have a forthcoming piece that challeng
 
 **The Tea Master & the Detective** — Aliette de Bodard [**](#ghost)
 
-This was a fun detective tale with a mysterious Sherlock and a spaceship Watson. The setup never quite paid off with its mystery, but I look forward to reading more hooks in the series. I also worried a bit that it would fetishize or exoticize Chinese culture, but outside of the space-protection tea, it largely doesn't come up.
+This was a fun detective tale with a mysterious Sherlock and a spaceship Watson. The setup never quite paid off with its mystery, but I look forward to reading more books in the series.
 
 **State Tectonics** -- Malka Older
 
