@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Beirut**
+
+What if John Hamm's Mad Men character was a state department guy turned negotiator? 70s Beirut is a trip in the way it's presented, and knowing a little history, this seems like a wild but semi-accurate portrayal of all the folks who fought over Lebanon during and after the civil war. This is a tonally dark political thriller, and I dug it. 
+
 **Venom**
 
 What a perfectly odd anti-hero film. I was a big Venom fan as a kid, and this movie delivered everything I wanted in a Venom movie. Fuck the haters, this is a hoot. I don't think this should win any prizes for _cinema_ but it's fun, and provided lots of awkward laughs. The action was exciting, and I can't wait for a sequel full of _carnage_.

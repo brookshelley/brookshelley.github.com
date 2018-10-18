@@ -5,7 +5,11 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-### 39 Books
+### 40 Books
+
+**Sympathy** — Olivia Sudjic [*](#les)
+
+Wow, I loved this book. A story centered around sadness, obsession, and longing—for a family, for a lover, for a place. This was very well-written, and compelling, especially for a first effort. Some of the same Instagram ground is covered in this as is in Ingrid Goes West, but this felt more real. It's also deeply, darkly hilarious, from the description of the awful tech boyfriend, to just how bad families can be for folks.
 
 **Invasions** — Calvin Gimpelevich
 
