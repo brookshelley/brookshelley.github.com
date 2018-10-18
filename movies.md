@@ -1,9 +1,13 @@
-[writing](index.md) | [posts](posts.md) | [books i read](books.md) | [movies i watched](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+[writing](index.md) | [posts](posts.md) | [books list](books.md) | [movies list](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
 
 # movies i've watched
 _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
+
+**Hotel Artemis**
+
+From the preview, I assumed this would be a John Wick knockoff, but it was fun in its own right. Lots of action, Jenny Slate, and a wide array of solid actors. The future is a dismal one, but hey, that checks out.
 
 **Beirut**
 
