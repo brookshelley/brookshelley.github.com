@@ -5,7 +5,7 @@ description: wow, that was a lot.
 categories: blog
 ---
 
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # XOXO 2018 Monday Thoughts
 
@@ -19,7 +19,7 @@ This year I was overwhelmed by the size of XOXO in ways I hadn't been in the pas
 
 The games were neat. I only played Plunge, but watching Neo Cab, and untitled goose game was fun. Also, Laura Hall's very good ARG was silly good, with a chill payoff at the end. I felt lucky to do it early, before the 60+ person line after the Andys announced its existence on stage. Open Mike Eagle, Demi, and Janelle Shane gave particularly fun talks. I often felt like the bird in a psychological experiment that dies between two equidistant food bowls, but often just gave-in and stayed at the same thing for a while to avoid zipping to-and-fro.
 
-The friends I caught up with were a huge highlight, especially folks I got to eat with and wander around with. It's really helpful to have a small crew that are a known quantity, so when I was out of energy, I knew what to expect. I hosted two friends this time as well, and coming home with them was like returning home with some family. I made the choice more than once to eschew an activity for some time with a few people, and that felt very rewarding. 
+The friends I caught up with were a huge highlight, especially folks I got to eat with and wander around with. It's really helpful to have a small crew that are a known quantity, so when I was out of energy, I knew what to expect. I hosted two friends this time as well, and coming home with them was like returning home with some family. I made the choice more than once to eschew an activity for some time with a few people, and that felt very rewarding.
 
 ## Next year
 

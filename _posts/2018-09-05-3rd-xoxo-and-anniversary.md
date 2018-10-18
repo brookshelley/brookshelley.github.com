@@ -5,7 +5,7 @@ description: Thinking about XOXO this weekend & healing
 categories: blog
 ---
 
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # XOXO 2018 + One Year Later
 

@@ -5,7 +5,7 @@ description: media diet
 categories: mediadiet
 ---
 
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [books i read](https://brookshelley.com/books) | [movies i watched](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # Media diet for August 2018
 
@@ -46,9 +46,9 @@ A ridiculous heist comedy with Zach Galafanakis, Kristen Wiig, and Jason Sudekis
 
 **Book Club**
 
-Watched this on a whim with a couple friends, and it was kinda great? 
-I love Candace Bergen from the Murphy Brown       
-days, and hope I look as good as Diane Keaton when I'm older. Silly 
+Watched this on a whim with a couple friends, and it was kinda great?
+I love Candace Bergen from the Murphy Brown
+days, and hope I look as good as Diane Keaton when I'm older. Silly
 popcorn fun. Also I guess I own it now because it wasn't available to rent.
 
 **The Meg**

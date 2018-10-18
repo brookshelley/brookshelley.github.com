@@ -1,6 +1,6 @@
-[writing](index.md) | [posts](posts.md) | [book list](books.md) | [movies list](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
-# books i've read
+# book list
 _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>

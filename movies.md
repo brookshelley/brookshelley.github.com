@@ -1,6 +1,6 @@
-[writing](index.md) | [posts](posts.md) | [books list](books.md) | [movies list](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
-# movies i've watched
+# movie list
 _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
@@ -11,7 +11,7 @@ From the preview, I assumed this would be a John Wick knockoff, but it was fun i
 
 **Beirut**
 
-What if John Hamm's Mad Men character was a state department guy turned negotiator? 70s Beirut is a trip in the way it's presented, and knowing a little history, this seems like a wild but semi-accurate portrayal of all the folks who fought over Lebanon during and after the civil war. This is a tonally dark political thriller, and I dug it. 
+What if John Hamm's Mad Men character was a state department guy turned negotiator? 70s Beirut is a trip in the way it's presented, and knowing a little history, this seems like a wild but semi-accurate portrayal of all the folks who fought over Lebanon during and after the civil war. This is a tonally dark political thriller, and I dug it.
 
 **Venom**
 

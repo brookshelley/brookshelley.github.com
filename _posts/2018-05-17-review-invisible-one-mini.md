@@ -5,7 +5,7 @@ description: review of a new backpack for euro travel
 categories: blog
 ---
 
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # Invisible One Mini Review
 

@@ -5,7 +5,7 @@ description: media diet
 categories: mediadiet
 ---
 
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # Media diet for April 2018
 

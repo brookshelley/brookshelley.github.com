@@ -1,4 +1,4 @@
-[writing](index.md) | [posts](posts.md) | [book list](books.md) | [movie list](movies.md) | [photos](http://vsco.co/brookshelley/images/1)
+{% include nav.md %}
 
 # posts
 
