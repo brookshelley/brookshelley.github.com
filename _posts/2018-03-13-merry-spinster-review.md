@@ -5,11 +5,7 @@ description: a review of the debut short-story collection by Danny Ortberg
 categories: blog
 ---
 
-<<<<<<< HEAD
 {% include nav.md %}
-=======
-[writing](https://brookshelley.com/index) | [posts](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
->>>>>>> 269a287cbe953d8b60eeebdada817a6c50a151eb
 
 # A Review of the Merry Spinster
 
