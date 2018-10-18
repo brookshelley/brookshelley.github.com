@@ -1,6 +1,6 @@
 {% include nav.md %}
 
-# posts
+# Blog
 
 ### 2018
 
