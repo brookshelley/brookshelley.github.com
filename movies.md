@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Halloween**
+
+A spooky throwback to get ready for the sequel. I guess they made a bunch of these and they were all garbage, and the new movie aims to erase them. I _think_ somehow the only one I'd seen was Season of the Witch, which is the 3rd movie in the original set. The 70s were a weird time, and the amount of nudity random "gotta take my clothes off" is just yikes. Jamie Lee Curtis did a great job. I'm hoping the pacing of the new film is more up to modern standards though, because dang, did this feel dated and slow in a lot of ways.
+
 **Hotel Artemis**
 
 From the preview, I assumed this would be a John Wick knockoff, but it was fun in its own right. Lots of action, Jenny Slate, and a wide array of solid actors. The future is a dismal one, but hey, that checks out.
