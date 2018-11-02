@@ -5,6 +5,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The First Purge**
+
+Yow, what a good mess. I don't know why I love the Purge films, and to be honest, this one felt a little too real. However, I watched this on Halloween, so it fit my needs of a spooky, scary movie.
+
+**Halloween (2018)**
+
+This was goofy and fun, while still being a twisty thriller. Ultimately, these are morality tales about private property ownership, lol. A+ to Jamie Lee Curtis, and also all the random bit players. Definitely a good popcorn flick with friends.
+
 **Halloween**
 
 A spooky throwback to get ready for the sequel. I guess they made a bunch of these and they were all garbage, and the new movie aims to erase them. I _think_ somehow the only one I'd seen was Season of the Witch, which is the 3rd movie in the original set. The 70s were a weird time, and the amount of nudity random "gotta take my clothes off" is just yikes. Jamie Lee Curtis did a great job. I'm hoping the pacing of the new film is more up to modern standards though, because dang, did this feel dated and slow in a lot of ways.
