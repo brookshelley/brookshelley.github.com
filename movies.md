@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Guilty*
+
+A wild single-room movie, that takes place completely over the phone. I love the narrative device, and the slow, dread-filled pacing. The movie largely takes place in your own imagination, helped along by excellent foley, and voice acting.
+
 **The First Purge**
 
 Yow, what a good mess. I don't know why I love the Purge films, and to be honest, this one felt a little too real. However, I watched this on Halloween, so it fit my needs of a spooky, scary movie.
