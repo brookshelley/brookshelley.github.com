@@ -13,7 +13,7 @@ Today my phone buzzed to tell me my new iPad had arrived at my office. I rushed 
 
 Now, I have 1.3” more screen, a more lap-capable keyboard, and 120hz refresh, and I couldn’t be happier.
 
-![iPad](/assets/photos/ipad.png)
+![iPad](/assets/photos/ipad.jpeg)
 
 ## The screen
 
