@@ -13,6 +13,8 @@ Today my phone buzzed to tell me my new iPad had arrived at my office. I rushed 
 
 Now, I have 1.3” more screen, a more lap-capable keyboard, and 120hz refresh, and I couldn’t be happier.
 
+![iPad](/assets/photos/ipad.png)
+
 ## The screen
 
 This iPad might not feel like as huge of a revelation to someone who used the 10.5”, but coming from the 9.7”, this screen feels luxurious. The smooth 120hz refresh rate means opening apps, and moving around looks amazing. The color and viewing angles are still the best in the tablet world, and make my even my MacBook feel like a relic of the past. It’s responsive, bright, and a joy to watch tv on.
