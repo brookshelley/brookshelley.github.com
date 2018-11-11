@@ -9,7 +9,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 We're on our third Lisbeth actress, and while Claire Foy more than filled the shoes of Rooney Mara, the same can't quite be said for whoever replaced Daniel Craig. This was a fun, twisty movie, that was inadvertently stressful for my partner because of all the snow and ice driving. Lisbeth continues to deliver her brand of justice, while "then Lisbeth hacks the thing" is a major plot device. Kudos to all the lesbians in this, and the giant case of dildos. Fun movie.
 
-**The Guilty*
+**The Guilty**
 
 A wild single-room movie, that takes place completely over the phone. I love the narrative device, and the slow, dread-filled pacing. The movie largely takes place in your own imagination, helped along by excellent foley, and voice acting.
 
