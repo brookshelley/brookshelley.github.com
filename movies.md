@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Skyscraper**
+
+So, so ridiculous and terrible... but also kind of great? Like, what if Die Hard wasn't as good, and had the Rock in Hong Kong? I watched this so I could listen to this week's How Did This Get Made, and I am glad I did.
+
 **The Girl in the Spider's Web**
 
 We're on our third Lisbeth actress, and while Claire Foy more than filled the shoes of Rooney Mara, the same can't quite be said for whoever replaced Daniel Craig. This was a fun, twisty movie, that was inadvertently stressful for my partner because of all the snow and ice driving. Lisbeth continues to deliver her brand of justice, while "then Lisbeth hacks the thing" is a major plot device. Kudos to all the lesbians in this, and the giant case of dildos. Fun movie.
