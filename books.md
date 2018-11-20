@@ -7,6 +7,14 @@ _years: [2017](#2017) [2018](#2018)_
 
 ### 40 Books
 
+**Circe** — Madeline Miller
+
+This book reminded me how much I remember of Greek myth and tragedy. I loved it. Circe is such an excellent protagonist, at the edges of society, ousted from gods and man alike. If you've read the Odyssey, this is a must read.
+
+**Red Clocks** — Leni Zumas
+
+A bit too close to our dystopian reality for my liking, but this was well-written, and full of strong and interesting women. I read this as I was leaving Oregon, and so a lot of it was a little bittersweet. This reads as a more realistic (sadly) handmaid's tale.
+
 **Sympathy** — Olivia Sudjic [*](#les)
 
 Wow, I loved this book. A story centered around sadness, obsession, and longing—for a family, for a lover, for a place. This was very well-written, and compelling, especially for a first effort. Some of the same Instagram ground is covered in this as is in Ingrid Goes West, but this felt more real. It's also deeply, darkly hilarious, from the description of the awful tech boyfriend, to just how bad families can be for folks.

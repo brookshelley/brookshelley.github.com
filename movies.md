@@ -5,6 +5,26 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Skyscraper**
+
+So, so ridiculous and terrible... but also kind of great? Like, what if Die Hard wasn't as good, and had the Rock in Hong Kong? I watched this so I could listen to this week's How Did This Get Made, and I am glad I did.
+
+**The Girl in the Spider's Web**
+
+We're on our third Lisbeth actress, and while Claire Foy more than filled the shoes of Rooney Mara, the same can't quite be said for whoever replaced Daniel Craig. This was a fun, twisty movie, that was inadvertently stressful for my partner because of all the snow and ice driving. Lisbeth continues to deliver her brand of justice, while "then Lisbeth hacks the thing" is a major plot device. Kudos to all the lesbians in this, and the giant case of dildos. Fun movie.
+
+**The Guilty**
+
+A wild single-room movie, that takes place completely over the phone. I love the narrative device, and the slow, dread-filled pacing. The movie largely takes place in your own imagination, helped along by excellent foley, and voice acting.
+
+**The First Purge**
+
+Yow, what a good mess. I don't know why I love the Purge films, and to be honest, this one felt a little too real. However, I watched this on Halloween, so it fit my needs of a spooky, scary movie.
+
+**Halloween (2018)**
+
+This was goofy and fun, while still being a twisty thriller. Ultimately, these are morality tales about private property ownership, lol. A+ to Jamie Lee Curtis, and also all the random bit players. Definitely a good popcorn flick with friends.
+
 **Halloween**
 
 A spooky throwback to get ready for the sequel. I guess they made a bunch of these and they were all garbage, and the new movie aims to erase them. I _think_ somehow the only one I'd seen was Season of the Witch, which is the 3rd movie in the original set. The 70s were a weird time, and the amount of nudity random "gotta take my clothes off" is just yikes. Jamie Lee Curtis did a great job. I'm hoping the pacing of the new film is more up to modern standards though, because dang, did this feel dated and slow in a lot of ways.
