@@ -7,6 +7,8 @@ categories: blog
 
 {% include nav.md %}
 
+# Moving to the Bay
+
 ## Queers and Steers
 
 As a Texan, and a lesbian, I knew eventually I’d end up in California. That’s what we do. We leave Texas, and go west. I’ve spent the past four years hundreds of miles north in Portland, OR working remotely for various companies. I loved the trees, and the few amazing friends I made there, but found it hard to get through the long, lonely winters. It didn’t help that most of my jobs were remote—Portland has a burgeoning tech scene, but in general jobs haven’t kept up with rising cost of living. Working remotely meant rent was easier to pay, but that most of my world existed elsewhere. This all changed when [my last company](https://www.turbinelabs.io), my favorite job ever, shut down and went to work for [Slack](https://slack.com). I joined in the fun. Working for Slack, for me, also meant moving to the bay.
