@@ -1,4 +1,11 @@
-# Moving to the Bay
+---
+layout: posts
+title: moving to the bay
+description: media diet
+categories: blog
+---
+
+{% include nav.md %}
 
 ## Queers and Steers
 
