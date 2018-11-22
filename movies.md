@@ -5,6 +5,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Crazy Rich Asians**
+
+This was a schlocky romcom about a very rarefied set of Chinese Singaporeans. It was fun enough, and now both of the people I saw it with want to flood the aisle of a building during their wedding. Moms are a lot.
+
+**Girl with a Dragon Tattoo** (rewatch)
+
+My partner hasn’t seen these, and I would watch them again basically whenever, so here we are.
+
+**Ant Man and the Wasp** (rewatch)
+
+Just as delightful the second go-round. More fun superhero movies please.
+
 **Skyscraper**
 
 So, so ridiculous and terrible... but also kind of great? Like, what if Die Hard wasn't as good, and had the Rock in Hong Kong? I watched this so I could listen to this week's How Did This Get Made, and I am glad I did.
