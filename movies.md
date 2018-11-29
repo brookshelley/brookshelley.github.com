@@ -5,6 +5,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Hereditary**
+
+Granted, the central twist was spoiled for me, but so much of this movie felt joyless. Theoretically this movie should’ve been right up my alley, but honestly I would’ve rather rewatched the VVitch for the umpteenth time.
+
+**Widow**
+
+This was one of my favorite movies of the year. Wow. A all badass lady heist movie with actual stakes! Everyone delivers in this film, and it was a hoot. A+
+
 **Crazy Rich Asians**
 
 This was a schlocky romcom about a very rarefied set of Chinese Singaporeans. It was fun enough, and now both of the people I saw it with want to flood the aisle of a building during their wedding. Moms are a lot.
