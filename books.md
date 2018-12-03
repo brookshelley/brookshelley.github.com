@@ -7,7 +7,11 @@ _years: [2017](#2017) [2018](#2018)_
 
 ### 42 Books
 
-**Circe** — Madeline Miller
+**The Dark Archive** — Victoria Schwab [**](#ghost)
+
+A fun, strange YA book about what happens after death, and the teens who defend the afterlife. There were some cool twists, and story details throughout, but the world building could have been better. Honestly every time I read one of these, I think, “wouldn’t this be better if it were gay?”, and reader, yes, yes it would. These sorts of books must really speak to teens though, because they portray adults as largely ineffectual idiots, who occasionally get in the way. 
+
+**Circe** — Madeline Miller [**](#ghost)
 
 This book reminded me how much I remember of Greek myth and tragedy. I loved it. Circe is such an excellent protagonist, at the edges of society, ousted from gods and man alike. If you've read the Odyssey, this is a must read.
 
