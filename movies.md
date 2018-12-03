@@ -5,11 +5,15 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Fast & the Furious** (rewatch)
+
+A few friends hadn’t watched this before, so we drank a bit, and had a rip-roaring good time seeing this again. Everyone is decked-out in the most late 90s gear, the camera work is bonkers, and the cars are cool, but painted like awful hot wheels. I _love_ this series.h
+
 **Hereditary**
 
 Granted, the central twist was spoiled for me, but so much of this movie felt joyless. Theoretically this movie should’ve been right up my alley, but honestly I would’ve rather rewatched the VVitch for the umpteenth time.
 
-**Widow**
+**Widows**
 
 This was one of my favorite movies of the year. Wow. A all badass lady heist movie with actual stakes! Everyone delivers in this film, and it was a hoot. A+
 
