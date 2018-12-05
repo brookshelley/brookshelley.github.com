@@ -165,16 +165,11 @@ story.
 
 **Villainess**
 
-What a wonderfully bonkers movie. It kicks off with wild first-person murder
-fest, and just goes off-the-rails from there. One of the bloodier and wilder action films I've seen in a long time. Loved it.
+What a wonderfully bonkers movie. It kicks off with wild first-person murder fest, and just goes off-the-rails from there. One of the bloodier and wilder action films I've seen in a long time. Loved it.
 
 **The Incredibles 2**
 
-Watched this a few hours after the first one. The animation has gotten a LOT
-better, even though the first one honestly aged pretty well, since they didn't
-try to make it photorealistic. The plot was ridiculous again, and they definitely
-leaned hard into the "men are bad at childcare" shit that I suspected they would.
-Fun enough though anyways.
+Watched this a few hours after the first one. The animation has gotten a LOT better, even though the first one honestly aged pretty well, since they didn't try to make it photorealistic. The plot was ridiculous again, and they definitely leaned hard into the "men are bad at childcare" shit that I suspected they would. Fun enough though anyways.
 
 **The Incredibles**
 
@@ -238,9 +233,7 @@ need. TIL Michael Douglas is still around.
 
 **Red Sparrow**
 
-I will never believe for one second that the protagonist would fall for Joel
-Edgerton's bland spyman. For some reason, I expected this movie to be set
-during the cold war, but instead it's vaguely now. This had more sexual
+I will never believe for one second that the protagonist would fall for Joel Edgerton's bland spyman. For some reason, I expected this movie to be set during the cold war, but instead it's vaguely now. This had more sexual
 assault than I expected too, which is a fucking bummer. The saving grace in
 this film is that by and large Jennifer Lawrence kills or beats all the men
 in the movie. I can only hope she gets cast in more movies where she
@@ -258,10 +251,8 @@ movie, and hope the director/writer Desiree makes more films soon.
 
 **Solo**
 
-This was probably tied with Last Jedi for my least favorite of the new Star
-Wars, but I liked it better than pretty much any of the old or prequel
-ones. It was fun, had a few rad women, and didn't go overboard on "remember
-this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
+This was probably tied with Last Jedi for my least favorite of the new Star Wars, but I liked it better than pretty much any of the old or prequel
+ones. It was fun, had a few rad women, and didn't go overboard on "remember this?" fanservice. I laughed a few times, and I'm hoping they make sequels.
 
 **Deadpool 2**
 
@@ -353,11 +344,7 @@ curious if they'll try to make more.
 
 **Lost Boys**
 
-I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched
-and talked about it, so my roommate and I sat down for a revisit. It held
-up. There's something fantastic about watching these very gay vampire boys
-run around and be punk teens. Listen to Imogen's podcast if you can, bc she
-says everything I'd wanna cover. Oh, and watch this movie.
+I hadn't seen this movie for a long time, but recently [Imogen](https://imogenwatchesclassicfilms.wordpress.com) watched and talked about it, so my roommate and I sat down for a revisit. It held up. There's something fantastic about watching these very gay vampire boys run around and be punk teens. Listen to Imogen's podcast if you can, bc she says everything I'd wanna cover. Oh, and watch this movie.
 
 **Black Panther**
 
@@ -528,8 +515,7 @@ Lake House was better, and didn't have Keanu. It's basically this.
 
 **The Girl with All the Gifts**
 
-Another great zombie movie, with a super cute protagonist. Cute kid zombies
-are great.
+Another great zombie movie, with a super cute protagonist. Cute kid zombies are great.
 
 **Raw**
 
@@ -571,10 +557,7 @@ I've enjoyed other movies from this studio more – Coraline for one – but thi
 **Baby Driver**
 
 I'd avoided watching this because I hadn't read great things about it, save for [this review by Matt Haughey](https://15minutes.inthemorni.ng/baby-driver-was-fantastic-2acd21be54ba). While I agree with him that the opening action scene was stellar, so
-were the short films BMW made with greats like Wong Kar Wai a few years ago
-to sell cars. I liked watching this film, but it's unfortunate that the men
-were two-dimensional, and the women collapsed in on themselves, with no
-characterization, or much motivation. I'd expected a bit more of Edgar
+were the short films BMW made with greats like Wong Kar Wai a few years ago to sell cars. I liked watching this film, but it's unfortunate that the men were two-dimensional, and the women collapsed in on themselves, with no characterization, or much motivation. I'd expected a bit more of Edgar
 Wright, but on the upside, the musical cues were also quite good. I'm not
 fully sure if this is a tribute to old McQueen movies, or what, but it was
 alright, but I can't co-sign the _fantastic_ from the above. It was
@@ -588,10 +571,7 @@ good boy," is something that will always apply to the white male criminal.
 **Valerian**
 
 The short version is that this was very targetted towards a Chinese release, partially due to the studio financing, and even Besson was
-[promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty
-dang ridiculous, and had super traditional and boring gender roles and
-"marriage is the best" kind of crap. Still, the visuals were incredible,
-and it was a fun space romp. Recommended.
+[promoting it on Weibo](http://chinafilminsider.com/valerian-city-thousand-planets-passes-china-censorship/). I had a great time watching this movie, but it was pretty dang ridiculous, and had super traditional and boring gender roles and "marriage is the best" kind of crap. Still, the visuals were incredible, and it was a fun space romp. Recommended.
 
 **Secret Life of Pets**
 
@@ -623,9 +603,7 @@ watching on Netflix, perhaps?
 **2012**
 
 A beautifully terrible film by the guy who brought us
-The Day After Tomorrow. I love a movie where we're led to believe that John
-Cusack is the best driver in the world, and a writer-cum-action hero. I
-love watching this movie when I'm camping, or hiking for a few days,
+The Day After Tomorrow. I love a movie where we're led to believe that John Cusack is the best driver in the world, and a writer-cum-action hero. I love watching this movie when I'm camping, or hiking for a few days,
 because it's so ridiculous, and also it's wild to watch the world end,
 however silly the movie.
 
@@ -701,9 +679,7 @@ movie.
 
 **Spiderman: Homecoming**
 
-This is the kind of superhero film that makes me smile. I think this is the
-best reboot of the Spiderman franchise, and it is filled with silly, fun
-moments, that emphasize the more joyful aspects of the character. I'm
+This is the kind of superhero film that makes me smile. I think this is the best reboot of the Spiderman franchise, and it is filled with silly, fun moments, that emphasize the more joyful aspects of the character. I'm
 looking forward to the next few. Marvel seems like they're just going to
 keep making better movies than DC, save for the Nolan Batman movies.
 Speaking of Batman – the second best modern Batman (Michael Keaton) also
@@ -713,7 +689,7 @@ plays the Vulture in this movie. Go figure. Anyways, this was a fun romp.
 
 Everyone besides Dan is terrible in this movie, and Dan is hella
 co-dependent. This is a biting satire of the lives folks live in pursuit of
-Instagram perfection. #blessed #wow_millenials #the_other_olsen
+Instagram perfection.
 
 **Death Becomes Her**
 
@@ -725,10 +701,7 @@ prothesis in this movie is _hella_ Beetlejuice. I loved it.
 **New IT**
 
 I think I'm broken inside, because jump scares and all of the "scary" bits
-of this film didn't phase me. It was at times pretty cute, but the misogyny
-and against the only girl in the group was the scariest thing of all. I'm
-interested to see what they do with the second part of this movie. The
-visuals were kinda neat and well-done.
+of this film didn't phase me. It was at times pretty cute, but the misogyny and against the only girl in the group was the scariest thing of all. I'm interested to see what they do with the second part of this movie. The visuals were kinda neat and well-done.
 
 **Friend Request**
 
@@ -752,9 +725,7 @@ great. I hope he got paid for this trash.
 
 **xXx: The Return of Xander Cage**
 
-Wow, this movie was over-the-top ridiculous. And the terrible coat was back
-from the first movie. I think this canonically takes place in the Marvel
-universe, because of Samuel L. Jackson. I have no idea why xXx uses
+Wow, this movie was over-the-top ridiculous. And the terrible coat was back from the first movie. I think this canonically takes place in the Marvel universe, because of Samuel L. Jackson. I have no idea why xXx uses
 "extreme sports" people, soccer stars, and a DJ(?), but here we are. I love
 this very, very goofy series, and bought this movie with a big grin when it
 was no longer available for rent. Everyone is having a blast, and it's a
