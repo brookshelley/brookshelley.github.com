@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Slice**
+
+Super goofy horror film with lots of great folks. I think B movies can only rarely be made great from the start, and this one could’ve used a little less effort. 
+
 **The Fast & the Furious** (rewatch)
 
 A few friends hadn’t watched this before, so we drank a bit, and had a rip-roaring good time seeing this again. Everyone is decked-out in the most late 90s gear, the camera work is bonkers, and the cars are cool, but painted like awful hot wheels. I _love_ this series.h
