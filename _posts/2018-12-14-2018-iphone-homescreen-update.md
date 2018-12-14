@@ -11,7 +11,7 @@ categories: blog
 
 Back to a single screen.
 
-![iphone](assets/photos/iphone2018.jpeg)
+![iphone](/assets/photos/iphone2018.jpeg)
 
 It’s been a year and change since I posted about my [iPhone apps and homescreen](https://medium.com/@brookshelley/2017-homescreen-ac92817eae60). I tend to try out new apps pretty often, but now that I use an iPad and an Apple Watch every day, I generally stick with things that support all 3 of my screens well. Some apps have stuck around, but many have been replaced by better (for me) choices. Trying to settle into apps that I use for a long stretch is challenging as businesses fail, or apps stagnate, so here we are.
 
