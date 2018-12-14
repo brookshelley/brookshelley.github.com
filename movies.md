@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Death of Stalin** (rewatch)
+
+It’s the season for rewatching films.
+
 **Slice**
 
 Super goofy horror film with lots of great folks. I think B movies can only rarely be made great from the start, and this one could’ve used a little less effort. 
