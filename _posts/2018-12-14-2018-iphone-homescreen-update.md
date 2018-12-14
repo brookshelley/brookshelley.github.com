@@ -17,23 +17,23 @@ It’s been a year and change since I posted about my [iPhone apps and homescree
 
 **Timepage**—without support for the new style of WatchOS complications, I switched to Fantastical again. I don’t _love_ it, but I want to use the same app in both places.
 
-**Casts**—replaced with Overcast.
+**Casts**—replaced with **Overcast**.
 
-**Maps**—replaced with Google Maps.
+**Maps**—replaced with **Google Maps**.
 
-**Airmail**—replaced with Spark.
+**Airmail**—replaced with **Spark**.
 
-**Twitter**—replaced with Tweetbot
+**Twitter**—replaced with **Tweetbot**.
 
-**Spotify**—replaced with Apple Music.
+**Spotify**—replaced with **Apple Music**.
 
 **Instagram**—I quit Instagram around the start of 2018 in a dual-effort to rid myself of FB-owned apps, and to stop using an increasingly user-antagonistic app that really bummed me out more than it made me happy.
 
-**Todoist**—replaced with Things.
+**Todoist**—replaced with **Things**.
 
-**Google Photos**—replaced with Apple Photos.
+**Google Photos**—replaced with **Apple Photos**.
 
-**iCloud Drive**—this became Files.
+**iCloud Drive**—this became **Files**.
 
 **Tons of folders**—this felt overwhelming, and eventually I decided against it, and went back to titles instead of emoji, and now whittled my apps down to a single folder.
 
