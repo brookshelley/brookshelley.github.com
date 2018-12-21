@@ -11,13 +11,23 @@ categories: mediadiet
 
 ## Books
 
-**The Dark Archive** -- Victoria Schwab [**](#ghost)
+**Provenance** — Ann Leckie
+
+A different planet and culture than the Raadchai from her trilogy, but a very compelling story. I got very confused for a while about who was who, but eventually I sorted it out.
+
+**The Dark Archive** — Victoria Schwab [**](#ghost)
 
 A fun, strange YA book about what happens after death, and the teens who defend the afterlife. There were some cool twists, and story details throughout, but the world building could have been better. Honestly every time I read one of these, I think, "wouldn’t this be better if it were gay?", and reader, yes, yes it would. These sorts of books must really speak to teens though, because they portray adults as largely ineffectual idiots, who occasionally get in the way. 
 
 ## Movies
 
+**Death of Stalin** (rewatch)
 
+It’s the season for rewatching films.
+
+**Slice**
+
+Super goofy horror film with lots of great folks. I think B movies can only rarely be made great from the start, and this one could’ve used a little less effort. 
 
 **The Fast & the Furious** (rewatch)
 

@@ -5,7 +5,11 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-### 42 Books
+### 43 Books
+
+**Provenance** -- Ann Leckie
+
+A different planet and culture than the Raadchai from her trilogy, but a very compelling story. I got very confused for a while about who was who, but eventually I sorted it out.
 
 **The Dark Archive** — Victoria Schwab [**](#ghost)
 
