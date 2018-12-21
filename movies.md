@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Equalizer: 2**
+
+This is apparent the first sequel Denzel has ever made. I’ve loved the genre of Denzel as an ultraviolent avenging angel ever since I saw Man on Fire. Some folks may prefer John Wick, and granted, those movies have a great style, but damn, the Equalizer is a series I hope to see more of in the future.
+
 **The Death of Stalin** (rewatch)
 
 It’s the season for rewatching films.
