@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**The Favourite**
+
+A lesbian triumph. Olivia Coleman had me laughing constantly with her performance as the queen, and Rachel Weiss & Emma Stone were a delight. This movie was a bizarre, hilarious, and strangely shot film; using fisheye lenses, and lots of smooth pans on a rail made for a truly odd experience. There was quite a bit of creative anachronism, and some very adorable ducks. Easily one of the best movies I saw this year.
+
 **The Equalizer: 2**
 
 This is apparent the first sequel Denzel has ever made. I’ve loved the genre of Denzel as an ultraviolent avenging angel ever since I saw Man on Fire. Some folks may prefer John Wick, and granted, those movies have a great style, but damn, the Equalizer is a series I hope to see more of in the future.
