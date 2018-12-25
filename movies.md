@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Spider-Man: Into the Spiderverse**
+
+Such a fun,silly movie. I recently played the Spider-Man PS4 game, so it was cool to see Miles return. Also, I’m a fan of Spider-Gwen, and I’m stoked she got a movie appearance. The whole theater was cracking up for over half of the film, and then it got a little serious and action-y. I really hope they make another one of these. The animation was wild, and super original too.
+
 **The Favourite**
 
 A lesbian triumph. Olivia Coleman had me laughing constantly with her performance as the queen, and Rachel Weiss & Emma Stone were a delight. This movie was a bizarre, hilarious, and strangely shot film; using fisheye lenses, and lots of smooth pans on a rail made for a truly odd experience. There was quite a bit of creative anachronism, and some very adorable ducks. Easily one of the best movies I saw this year.
