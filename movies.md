@@ -7,7 +7,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 **Spider-Man: Into the Spiderverse**
 
-Such a fun,silly movie. I recently played the Spider-Man PS4 game, so it was cool to see Miles return. Also, I’m a fan of Spider-Gwen, and I’m stoked she got a movie appearance. The whole theater was cracking up for over half of the film, and then it got a little serious and action-y. I really hope they make another one of these. The animation was wild, and super original too.
+Such a fun, silly movie. I recently played the Spider-Man PS4 game, so it was cool to see Miles return. Also, I’m a fan of Spider-Gwen, and I’m stoked she got a movie appearance. The whole theater was cracking up for over half of the film, and then it got a little serious and action-y. I really hope they make another one of these. The animation was wild, and super original too.
 
 **The Favourite**
 

@@ -5,9 +5,13 @@ _years: [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
-### 43 Books
+### 44 Books
 
-**Provenance** -- Ann Leckie
+**Night Film** — Marisa Pessl
+
+Night Film was generally an enjoyable book, but the multiple times Pessl uses trans people as a prop for "isn’t this a weird, twisted, gross thing?" are just boring and betray a fundamental lack of imagination. Trans people exist, and we sure as fuck read books. Grow up.
+
+**Provenance** — Ann Leckie
 
 A different planet and culture than the Raadchai from her trilogy, but a very compelling story. I got very confused for a while about who was who, but eventually I sorted it out.
 
