@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Bird Box**
+
+Spooky fun times. A bit of Blindness, a bit of the Happening, and a bit of Sandra Bullock. This was a star vehicle, with lots of randomly awesome small characters. Worth a watch, especially if you’re already a Netflix person.
+
 **Spider-Man: Into the Spiderverse**
 
 Such a fun, silly movie. I recently played the Spider-Man PS4 game, so it was cool to see Miles return. Also, I’m a fan of Spider-Gwen, and I’m stoked she got a movie appearance. The whole theater was cracking up for over half of the film, and then it got a little serious and action-y. I really hope they make another one of these. The animation was wild, and super original too.
