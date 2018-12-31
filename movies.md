@@ -5,6 +5,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018)_
 
 ## 2018 <a name="2018"></a>
 
+**Hearts Beat Loud**
+
+I cried through a lot of this, because the dad was so good. A+ always here for rebellious lesbian daughters with amazing musical talent and cool girlfriends. Also here for every person in the cast, and a random Jeff Tweedy cameo. Also Best American Girl was a dope song/Puberty 2 was an amazing album. I will rewatch this.
+
 **Bird Box**
 
 Spooky fun times. A bit of Blindness, a bit of the Happening, and a bit of Sandra Bullock. This was a star vehicle, with lots of randomly awesome small characters. Worth a watch, especially if you’re already a Netflix person.
