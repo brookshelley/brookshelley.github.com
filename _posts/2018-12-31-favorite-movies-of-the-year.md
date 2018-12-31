@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: My Favorite Movies of 2018
+title: favorite movies of 2018
 description: 76 movies, and a few winners
 categories: blog
 ---
