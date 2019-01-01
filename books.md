@@ -7,6 +7,14 @@ _years: [2017](#2017) [2018](#2018)_
 
 ### 44 Books
 
+**Semiosis** — Sue Burke
+
+A late entry for one of my favorite books of the year. Dang. Lots of excellent bio-SF, along with intergenerational power struggles, and a fascinating way of telling a story. I am excited to see what happens in the second part of this book later this year, but for now, if you like xenobiology, post-apocalyptic fiction, or just interesting SF, read this.
+
+**Invisible Library** — Genevieve Cogman
+
+A bit steampunk, and a bit interdimensional Doctor Who. I liked this book enough to buy the next one in the series. It’s a fun romp with some promising world-building.
+
 **Night Film** — Marisa Pessl
 
 Night Film was generally an enjoyable book, but the multiple times Pessl uses trans people as a prop for "isn’t this a weird, twisted, gross thing?" are just boring and betray a fundamental lack of imagination. Trans people exist, and we sure as fuck read books. Grow up.
