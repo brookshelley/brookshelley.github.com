@@ -1,7 +1,7 @@
 {% include nav.md %}
 
 # book list
-_years: [2017](#2017) [2018](#2018) [2019](#2019)_
+_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
@@ -577,6 +577,126 @@ to a younger person.
 Some light-hearted YA to close out the year. This was a well-told, if
 sometimes upsetting story. A lot of this had me wondering: straight people,
 are you ok?
+
+## 2016 <a name="2016"></a>
+
+## 58 books
+
+**The Broken Kingdom** — NK Jemison
+
+**The Laugh of the Medusa** — Helene Cixous
+
+**Fun Home** — Allison Bechdel
+
+**Under the Udala Trees** — Chinelo Okaparanta
+
+**Fair Play** — Tove Jansson
+
+**Binti** — Nnedi Okafor
+
+**The Language of Power** — Rosemary Kirstein
+
+**Fantasian** — Larissa Pham
+
+**The Dispossessed** — Ursula K Le Guin
+
+**When the Sick Rule the World** — Dodie Bellamy
+
+**Year of the Monsoon** — Caren J. Werlinger
+
+**The Internet of Garbage** — Sarah Jeong
+
+**The Hundred Thousand Kingdoms** — NK Jemison
+
+**The Lost Steerswoman** — Rosemary Kirstein
+
+**Women** — Chloe Caldwell
+
+**Glamourpuss** — Cat Fitzpatrick
+
+**The Obelisk Gate** — NK Jemison
+
+**The Fifth Season** — NK Jemison
+
+**How to Become a Really Not Famous Trans Lady Writer** — Torrey Peters
+
+**Infect Your Friends and Loved Ones** — Torrey Peters
+
+**The Outskirter’s Secret** — Rosemary Kirstein 
+
+**Moral Disorder and Other Stories** — Margaret Atwood
+
+**In Between** — Jane Hoppen
+
+**The Steerswoman** — Rosemary Kirstein
+
+**Love Ruins Everything** — Karen X. Tulchinsky
+
+**The Long Way to a Small, Angry Planet** — Becky Chambers
+
+**The Stone Angel** — Margaret Laurence
+
+**Dora: A Headcase** — Lidia Yuknavitch
+
+**Black Wave** — Michelle Tea
+
+**Expecting Something Else** — AM O’Malley
+
+**By Blood** — Ellen Ullman
+
+**Oranges Are Not the Only Fruit** — Jeanette Winterson
+
+**Uprooted** — Naomi Novik
+
+**The Strange Library** — Haruki Murakami
+
+**The Masker** — Torrey Peters
+
+**A Gathering of Shadows** — VE Schwab
+
+**Escapades** — MJ Williamz
+
+**Lagoon** — Nnedi Okafor
+
+**Spark Joy** — Marie Kondo
+
+**Synners** — Pat Cadigan
+
+**The Five Dysfunctions of a Team** — Patrick Lencioni
+
+**Desert of the Heart** — Jane Rule
+
+**Magic for Beginners** — Kelly Link
+
+**Broken Monsters** — Lauren Beuke
+
+**Juliet Takes a Breath** — Gabby Rivera
+
+**Men Explain Things to Me** — Rebecca Solnit
+
+**Eileen** — Otessa Moshfegh
+
+**Friendship** — Emily Gould
+
+**Your Illustrated Guide to Becoming One with the Universe** — Yumi Sakugawa
+
+**All the Birds in the Sky** — Charlie Jane Anders
+
+**Feast of Souls** — CF Friedman
+
+**The Lathe of Heaven** — Ursula K Le Guin
+
+**The Blue Place** — Nicola Griffith
+
+**Slouching Towards Bethlehem** — Joan Didion
+
+**Ancillary Mercy** — Ann Leckie
+
+**Chelsea Girls** — Eileen Myles
+
+**The New Fuck You** — Various Authors (edited by Eileen Miles)
+
+**Pussy, King of the Pirates** — Kathy Acker
 
 ## Footnotes
 
