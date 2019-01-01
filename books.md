@@ -1,11 +1,13 @@
 {% include nav.md %}
 
 # book list
-_years: [2017](#2017) [2018](#2018)_
+_years: [2017](#2017) [2018](#2018) [2019](#2019)_
+
+## 2019 <a name="2019"></a>
 
 ## 2018 <a name="2018"></a>
 
-### 44 Books
+### 47 Books
 
 **Semiosis** — Sue Burke
 
