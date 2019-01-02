@@ -5,8 +5,6 @@ description: Thinking about XOXO this weekend & healing
 categories: blog
 ---
 
-{% include nav.md %}
-
 # XOXO 2018 + One Year Later
 
 ## My 3rd XOXO

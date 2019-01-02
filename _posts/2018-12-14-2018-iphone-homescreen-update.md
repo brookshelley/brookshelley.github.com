@@ -5,8 +5,6 @@ description: the apps I use on my iPhone
 categories: blog
 ---
 
-{% include nav.md %}
-
 # 2018 iPhone Homescreen
 
 Back to a single screen.

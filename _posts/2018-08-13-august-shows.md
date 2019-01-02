@@ -5,8 +5,6 @@ description: hop along & deafheaven shows
 categories: blog
 ---
 
-{% include nav.md %}
-
 # Two Concerts in August
 
 A few years ago, after moving to Portland, I discovered a secret: you can do

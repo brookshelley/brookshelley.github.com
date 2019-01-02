@@ -5,8 +5,6 @@ description: my 2018 albums of the year
 categories: blog
 ---
 
-{% include nav.md %}
-
 # My Favorite Albums of the Year
 
 _in no particular order_ [On Apple Music](https://itunes.apple.com/us/playlist/favorites-of-2018/pl.u-PJExpCqGgBj)

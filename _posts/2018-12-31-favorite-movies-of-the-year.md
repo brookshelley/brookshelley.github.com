@@ -5,8 +5,6 @@ description: 76 movies, and a few winners
 categories: blog
 ---
 
-{% include nav.md %}
-
 # Favorite Movies of 2018
 
 This year started off with one of the goofiest movies I’d see all year: Murder on the Orient Express. I watched it with my friend Magda in Osaka right after the new year, in my “watch bad movies in Japan” tradition. Luckily, I also saw some amazing films:

@@ -5,8 +5,6 @@ description: A fantastic new collection of trans speculative fiction
 categories: blog
 ---
 
-{% include nav.md %}
-
 # A Review of Invasions by Calvin Gimpelevich
 
 It begins with a rip, the tearing sound of velcro—mix and match nipples kick off this [delightfully strange collection](http://www.instarbooks.com/books/invasions.html) of speculative fiction, trans body-horror, and water-logged zombies. Calvin impressed me last year with his part in [Meanwhile, Elsewhere](https://medium.com/@brookshelley/a-review-of-meanwhile-elsewhere-166ec11bff7d), revisited here as the excellent Rent, Don't Sell. This story explores a world in which bodies are traded for a time for fitness or fetish and how trans people deal with this faustian bargain. Another tale invites us to an isolated cabin for a wedding party that begins to fray at the edges in a blizzard. And, while every story isn't is a life-or-death one, but the weight of mortality permeates each page.

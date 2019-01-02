@@ -5,8 +5,6 @@ description: posting on my blog
 categories: blog
 ---
 
-{% include nav.md %}
-
 # Trying this out
 
 Inspired by both [Nick](https://roadrunnertwice.dreamwidth.org) and

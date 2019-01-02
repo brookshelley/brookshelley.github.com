@@ -5,8 +5,6 @@ description: why I started to lift heavy things
 categories: blog
 ---
 
-{% include nav.md %}
-
 # Powerlifting and getting "swole"
 
 ## Young Brook

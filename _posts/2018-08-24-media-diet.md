@@ -5,8 +5,6 @@ description: media diet
 categories: mediadiet
 ---
 
-{% include nav.md %}
-
 # Media diet for August 2018
 
 ## Books

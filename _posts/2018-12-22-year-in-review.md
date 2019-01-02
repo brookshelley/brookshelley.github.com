@@ -5,8 +5,6 @@ description: a long year full of change
 categories: blog
 ---
 
-{% include nav.md %}
-
 # 2018 in Review
 
 ## Started in Japan

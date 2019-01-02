@@ -5,8 +5,6 @@ description: media diet
 categories: blog
 ---
 
-{% include nav.md %}
-
 # Moving to the Bay
 
 ## Queers and Steers
