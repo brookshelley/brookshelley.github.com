@@ -4,6 +4,10 @@
 
 ## online
 
+**Ninth Letter**
+
+[Trans New Wave](http://www.ninthletter.com/trans-new-wave)
+
 **Oregon Humanities**
 
 [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
