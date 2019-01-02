@@ -21,7 +21,18 @@
 {% endfor %}
 [Older posts on Medium](https://medium.com/@brookshelley/)
 
-## Media Diet
+# Media Diet
+
+{% assign postsByYear = site.categories.blog | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+## {{ year.name }}
+{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+<li><a href="{{ post.url }}">{{ post.title }}</a>
+&nbsp;<span>{{ post.date | date_to_string }}</span></li>
+{% endfor %}
+{% endfor %}
+{% endfor %}
+
 
 {% for post in site.categories.mediadiet %}
 <li>
