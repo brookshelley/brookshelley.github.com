@@ -10,7 +10,6 @@
 {% for post in month.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
 &nbsp;<span>{{ post.date | date_to_string }}</span></li>
-<br />
 {% endfor %}
 {% endfor %}
 {% endfor %}
@@ -32,7 +31,6 @@
 {% for post in month.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
 &nbsp;<span>{{ post.date | date_to_string }}</span></li>
-<br />
 {% endfor %}
 {% endfor %}
 {% endfor %}
