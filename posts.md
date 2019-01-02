@@ -25,7 +25,7 @@
 
 # Media Diet
 
-{% assign postsByYear = site.categories.blog | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 ## {{ year.name }}
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
