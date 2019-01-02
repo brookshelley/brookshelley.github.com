@@ -38,7 +38,7 @@
 
 [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
-## podcast
+## podcasts
 
 [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
