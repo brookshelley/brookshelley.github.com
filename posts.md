@@ -9,7 +9,7 @@
 {% for month in postsByMonth %}
 ### {{ month.name }}
 {% for post in month.items %}
-<li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}-{{ post.date | date_to_string }}</a></li>
 {% endfor %}
 {% endfor %}
 {% endfor %}
