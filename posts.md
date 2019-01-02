@@ -14,18 +14,12 @@
 {% endfor %}
 {% endfor %}
 
-{% for post in site.categories.blog %}
-<li>
-  <a href="{{ post.url }}">{{ post.title }}</a>
-   &nbsp;<span>{{ post.date | date_to_string }}</span>
-</li>
-{% endfor %}
 [Older posts on Medium](https://medium.com/@brookshelley/)
 
 # Media Diet
 
-{% assign postsByYear2 = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear2 %}
+{% assign postsByYears = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYears %}
 ## {{ year.name }}
 {% for post in year.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
