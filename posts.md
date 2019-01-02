@@ -24,11 +24,10 @@
 
 # Media Diet
 
-{% assign postsByYear = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
+{% assign postsByYear2 = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear2 %}
 ## {{ year.name }}
-{% for month in postsByMonth %}
-{% for post in month.items %}
+{% for post in year.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
 &nbsp;<span>{{ post.date | date_to_string }}</span></li>
 {% endfor %}
