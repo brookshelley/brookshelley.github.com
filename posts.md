@@ -2,14 +2,14 @@
 
 ## Posts
 
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.categories.blog | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 ## {{ year.name }}
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 ### {{ month.name }}
 {% for post in month.items %}
-<li><a href="{{ post.url }}">{{ post.title }}-{{ post.date | date_to_string }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a>&nbsp;<span>{{ post.date | date_to_string }}</span>{{ post.date | date_to_string }}/li>
 {% endfor %}
 {% endfor %}
 {% endfor %}
