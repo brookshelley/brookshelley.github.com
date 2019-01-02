@@ -1,1 +1,1 @@
-[writing](https://brookshelley.com/index) | [blog](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [photos](http://vsco.co/brookshelley/images/1)
+[writing](https://brookshelley.com/index) | [blog](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [tv list](https://brookshelley.com/tv)
