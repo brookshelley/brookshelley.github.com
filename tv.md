@@ -1,5 +1,3 @@
-{% include nav.md %}
-
 # tv list
 _years: [2018](#2018) [2019](#2019)_
 

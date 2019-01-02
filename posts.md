@@ -1,5 +1,3 @@
-{% include nav.md %}
-
 # blog
 
 ### 2018

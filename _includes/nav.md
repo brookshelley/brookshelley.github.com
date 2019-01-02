@@ -1,1 +1,3 @@
 [writing](https://brookshelley.com/index) | [blog](https://brookshelley.com/posts) | [book list](https://brookshelley.com/books) | [movie list](https://brookshelley.com/movies) | [tv list](https://brookshelley.com/tv)
+
+{% include nav.md %}
