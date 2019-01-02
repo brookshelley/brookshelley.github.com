@@ -15,7 +15,7 @@ _years: [2018](#2018) [2019](#2019)_
 
 **Brooklyn 99**
 
-**Terrace House: Next Door, New Doors, and Aloha State
+**Terrace House: Next Door, New Doors, and Aloha State**
 
 **Dennou Coil**
 
