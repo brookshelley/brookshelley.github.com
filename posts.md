@@ -18,7 +18,7 @@
 
 # Media Diet
 
-#2019
+## 2019
 
 {% for post in site.categories.mediadiet19 %}
 <li>
