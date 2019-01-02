@@ -42,6 +42,10 @@
 
 [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
+[Dear Prudence: Sept 12, 2018](http://www.slate.com/articles/podcasts/dear_prudence/2018/09/dear_prudence_podcast_the_sister_misery_edition.html)
+
+[Dear Prudence:  Nov 2, 2016](https://slate.com/human-interest/2016/11/dear-prudence-podcast-asian-fetishes-racist-group-texts-and-ambien-zombies.html)
+
 ## zines
 
 [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
