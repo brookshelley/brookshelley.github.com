@@ -15,7 +15,8 @@
 {% endfor %}
 {% endfor %}
 
-[Older posts on Medium](https://medium.com/@brookshelley/)
+## Older posts
+[on Medium](https://medium.com/@brookshelley/)
 
 # Media Diet
 
