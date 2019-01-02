@@ -18,17 +18,15 @@
 
 # Media Diet
 
-{% assign postsByYear = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-## {{ year.name }}
-{% for post in year.items %}
-<li><a href="{{ post.url }}">{{ post.title }}</a>
-&nbsp;<span>{{ post.date | date_to_string }}</span></li>
-{% endfor %}
-{% endfor %}
+#2019
+
+{% for post in site.categories.mediadiet19 %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
 {% endfor %}
 
-
+## 2018
 {% for post in site.categories.mediadiet %}
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a>
