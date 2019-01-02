@@ -28,8 +28,11 @@
 {% assign postsByYear = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 ## {{ year.name }}
+{% for month in postsByMonth %}
+{% for post in month.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
 &nbsp;<span>{{ post.date | date_to_string }}</span></li>
+<br />
 {% endfor %}
 {% endfor %}
 {% endfor %}
