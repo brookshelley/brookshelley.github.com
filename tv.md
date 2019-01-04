@@ -3,140 +3,150 @@ _years: [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
-**Tidying Up with Marie Kondo**
+Tidying Up with Marie Kondo
 
-**Chef & My Fridge**
+Chef & My Fridge
 
-**Counterpart**
+Counterpart
+
+Doctor Who
+
+Into the Dark
+
+Dirk Gently
+
+Terror in Resonance
+
+The Gifted
 
 ## 2018 <a name="2018"></a>
 
-**Brooklyn 99**
+Brooklyn 99
 
-**Terrace House: Next Door, New Doors, and Aloha State**
+Terrace House: Next Door, New Doors, and Aloha State
 
-**Dennou Coil**
+Dennou Coil
 
-**Grand Tour**
+Grand Tour
 
-**Atelier**
+Atelier
 
-**Devil May Crybaby**
+Devil May Crybaby
 
-**Good Place**
+Good Place
 
-**Magicians**
+Magicians
 
-**The Tunnel**
+The Tunnel
 
-**The Bridge**
+The Bridge
 
-**Girl’s Last Tour**
+Girl’s Last Tour
 
-**Kemono Friends**
+Kemono Friends
 
-**Kokkoku**
+Kokkoku
 
-**Darling in the Franxx**
+Darling in the Franxx
 
-**Letterkenny**
+Letterkenny
 
-**Altered Carbon**
+Altered Carbon
 
-**Counterpart**
+Counterpart
 
-**B: The Beginning**
+B: The Beginning
 
-**a place farther than the universe**
+a place farther than the universe
 
-**Veep**
+Veep
 
-**Babylon Berlin**
+Babylon Berlin
 
-**Friends from College**
+Friends from College
 
-**Chef & My Fridge**
+Chef & My Fridge
 
-**Wild Wild Country**
+Wild Wild Country
 
-**Playground**
+Playground
 
-**The Americans**
+The Americans
 
-**Adventure Time**
+Adventure Time
 
-**Bob’s Burgers**
+Bob’s Burgers
 
-**Steven Universe**
+Steven Universe
 
-**Gravity Falls**
+Gravity Falls
 
-**Killing Eve**
+Killing Eve
 
-**Atlanta**
+Atlanta
 
-**Baskets**
+Baskets
 
-**The Rain**
+The Rain
 
-**Forbrydelsen**
+Forbrydelsen
 
-**The Dark**
+The Dark
 
-**Parts Unknown**
+Parts Unknown
 
-**Worth It**
+Worth It
 
-**FLCL**
+FLCL
 
-**Making It**
+Making It
 
-**Wrecked**
+Wrecked
 
-**The League**
+The League
 
-**Burning Love**
+Burning Love
 
-**Billions**
+Billions
 
-**Sharp Objects**
+Sharp Objects
 
-**Innocents**
+Innocents
 
-**The Chris Gethard Show**
+The Chris Gethard Show
 
-**Jack Ryan**
+Jack Ryan
 
-**Hang-ups**
+Hang-ups
 
-**Midnight Sun**
+Midnight Sun
 
-**Maniac**
+Maniac
 
-**Double-Decker**
+Double-Decker
 
-**Documental**
+Documental
 
-**Zombieland Saga**
+Zombieland Saga
 
-**Origin**
+Origin
 
-**Patriot**
+Patriot
 
-**Sabrina (Netflix)**
+Sabrina (Netflix)
 
-**Svartsjön**
+Svartsjön
 
-**Travel Man**
+Travel Man
 
-**King of the Hill**
+King of the Hill
 
-**Nightflyers**
+Nightflyers
 
-**Patriot Act**
+Patriot Act
 
-**Jordskott**
+Jordskott
 
-**Runaways**
+Runaways
 
-**Bandersnatch**
+Bandersnatch
