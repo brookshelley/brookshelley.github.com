@@ -5,7 +5,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 **Assasination Nation**
 
-I’m still not sure what I saw. I _think_ this aims to be a cautionary tale about mob rule, privacy, and misogyny. It’s brutal, graphic, and so full of -isms, I can’t say I recommend it. It’s wild that this movie played in theaters. I’m kinda stoked Hari Nef got to be a mean teen trans lady. By the end there’s a revenge bloodbath that I can’t tell if I was meant to find cathartic, or sad. 
+I’m still not sure what I saw. I _think_ this aims to be a cautionary tale about mob rule, privacy, and misogyny. It’s brutal, graphic, and so full of -isms, I can’t say I recommend it. It’s wild that this movie played in theaters. I’m kinda stoked Hari Nef got to be a mean teen trans lady. By the end there’s a revenge bloodbath that I can’t tell if I was meant to find cathartic, or sad. This is definitely the most misanthropic and nihilistic movie I've seen in years.
 
 ## 2018 <a name="2018"></a>
 
