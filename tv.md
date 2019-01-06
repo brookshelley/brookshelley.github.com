@@ -19,6 +19,8 @@ Terror in Resonance
 
 The Gifted
 
+Ugly Delicious
+
 ## 2018 <a name="2018"></a>
 
 Brooklyn 99
