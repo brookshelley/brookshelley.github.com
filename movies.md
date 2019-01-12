@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Shoplifters**
+
+What a fantastic film. In some ways this reminded me of the anime Tokyo Godfathers—which is also about a group of underground folks taking in a child. The way Shoplifters weaved chosen family in with delightful vignettes and outstanding performances by two children was masterful. This felt like a Japan that rarely appears in cinema—a group of folks struggling with poverty, and not sure how to be part of a society that seems to expect them to join in. I will probably rewatch this, and highly recommend it.
+
 **Hurricane Heist**
 
 I knew going in that this would be a bonkers film, having listened to the How Did This Get Made episode about it, but wow. Everyone in this film except for Maggie Grace is from England or Australia, and their accents are absurd. I feel like everyone got drunk, decided to use an “Alabama accent” and then a movie happened. Nothing that happened made sense, but also it was a hoot.
