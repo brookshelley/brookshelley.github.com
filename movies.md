@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Destroyer**
+
+Another film with Tony Kebbell—seeing him in this after seeing him in Hurricane Heist was a wild ride. I think his American accent got better. Also, Kusama seemed pretty obsessed with Kidman’s face throughout this film. This was a intense sad cop/revenge film, with elements from many old sad cop guy films—transformed into something new by letting the old cop be a woman. I really appreciated the Halt & Catch Fire alumni, as well as the always delightful Tatiana Maslany. This movie felt like a different era, and painted LA in a grim, dusty light.
+
 **Shoplifters**
 
 What a fantastic film. In some ways this reminded me of the anime Tokyo Godfathers—which is also about a group of underground folks taking in a child. The way Shoplifters weaved chosen family in with delightful vignettes and outstanding performances by two children was masterful. This felt like a Japan that rarely appears in cinema—a group of folks struggling with poverty, and not sure how to be part of a society that seems to expect them to join in. I will probably rewatch this, and highly recommend it.
