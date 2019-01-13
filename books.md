@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**9th Step Station** — Malka Older & Co.
+
+This read much like a series of Ghost in the Shell. From the NeoTokyo setting, to the ubiquitous cybernetic body mods, I expected Major Kusanagi to pop up at any juncture. That said, it also ruled. It’s been a long time since I read serialized fiction outside of comics, and the episodic nature made for a fun time. Each author added to the tale, instead of distracting with wild stylistic flourishes. I would happily read another series with Emma, Miyako, and the rest. There were less political machinations that I expected, based on other work from Older, but the story was fun, exciting, and well-told.
+
 ## 2018 <a name="2018"></a>
 
 ### 47 Books
