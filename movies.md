@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**IO**
+
+Another great eco-pocalypse movie. Limited cast and locations, but a cool premise overall. This movie was short, but definitely hit many of my speculative fiction check marks. I want to ride an ATV now.
+
 **Vox Lux**
 
 I loved the intense opening scenes of this film, and the scrolling credits—I’ve rarely seen something like this, and it felt brutal and fresh. Sadly the rest of the film felt like an idea that they forgot to film. Was she the devil? Didn’t explore that. Single mom? Didn’t explore that. There was so much buildup with no payoff. Terrorists? Nah. Long song b-roll? Yep. Even Sia couldn’t be bothered to record anything great for this film. Missed opportunity. This could‘be been Wicked and Divine, the movie.
