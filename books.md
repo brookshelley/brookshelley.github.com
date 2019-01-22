@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The Masked City** — Genevieve Cogman
+
+Another romp through alternate worlds with the rebellious librarian Irene, and her Sherlock stand-in pal Vale. The world of this book is largely a strange version of Venice, but more than the first book, other world’s tech is sprinkled throughout. I’m starting to doubt that we’ll get a high-tech book in this series, but I still hold out hope. The language is a little _too_ powerful as a deus machina, but Cogman finds ways Irene can’t deploy it constantly, and still manages to provide a level of tension and excitement.
+
 **9th Step Station** — Malka Older & Co.
 
 This read much like a series of Ghost in the Shell. From the NeoTokyo setting, to the ubiquitous cybernetic body mods, I expected Major Kusanagi to pop up at any juncture. That said, it also ruled. It’s been a long time since I read serialized fiction outside of comics, and the episodic nature made for a fun time. Each author added to the tale, instead of distracting with wild stylistic flourishes. I would happily read another series with Emma, Miyako, and the rest. There were less political machinations that I expected, based on other work from Older, but the story was fun, exciting, and well-told.
