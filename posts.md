@@ -27,6 +27,7 @@
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
+<br />
 
 ## 2018
 {% for post in site.categories.mediadiet %}
