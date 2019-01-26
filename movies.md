@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Close**
+
+Noomi Rapace is a cool, collected bodyguard for a kinda shitty heiress who eventually grows to appreciate her help. Shout out to Indira Varma too, who was great in Luther, Game of Thrones, and now as a potentially treacherous stepmom.
+
 **IO**
 
 Another great eco-pocalypse movie. Limited cast and locations, but a cool premise overall. This movie was short, but definitely hit many of my speculative fiction check marks. I want to ride an ATV now.
