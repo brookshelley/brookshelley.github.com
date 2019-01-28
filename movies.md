@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Close**
+
+Noomi Rapace is a badass bodyguard in this short, high-action thriller. The “rich girl who eventually learns she needs help” is a long-standing trope, but it’s plays well here. This movie takes place in a weird parallel reality wherein everyone uses Blackberrys.
+
 **IO**
 
 Another great eco-pocalypse movie. Limited cast and locations, but a cool premise overall. This movie was short, but definitely hit many of my speculative fiction check marks. I want to ride an ATV now.
