@@ -1,3 +1,10 @@
+---
+layout: posts
+title: learning kanji again
+description: one character at a time
+categories: blog
+---
+
 # Learning Kanji Again
 
 ![](/assets/photos/kanji.png)
