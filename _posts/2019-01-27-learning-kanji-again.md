@@ -5,8 +5,6 @@ description: one character at a time
 categories: blog
 ---
 
-# Learning Kanji Again
-
 ![](/assets/photos/kanji.png)
 
 ## My first Japanese class
