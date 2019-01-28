@@ -5,7 +5,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 **Close**
 
-Noomi Rapace is a badass bodyguard in this short, high-action thriller. The “rich girl who eventually learns she needs help” is a long-standing trope, but it’s plays well here. This movie takes place in a weird parallel reality wherein everyone uses Blackberrys.
+Noomi Rapace is a badass bodyguard in this short, high-action thriller. The “rich girl who eventually learns she needs help” is a long-standing trope, but it’s plays well here. This movie takes place in a weird parallel reality wherein everyone uses Blackberrys. Shout out to Indira Varma too, who was great in Luther, Game of Thrones, and now as a potentially treacherous stepmom.
 
 **IO**
 
