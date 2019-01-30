@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Reclaiming Your Life from IBS** — Melissa Hunt
+
+My doctor recommended this, and it's largely CBT 101 + some good notes on food and stress. I don't know if it'll be super useful, but we'll see! I don't even know if this is a problem I face, but the doctor said "probably", so lol.
+
 **The Masked City** — Genevieve Cogman
 
 Another romp through alternate worlds with the rebellious librarian Irene, and her Sherlock stand-in pal Vale. The world of this book is largely a strange version of Venice, but more than the first book, other world’s tech is sprinkled throughout. I’m starting to doubt that we’ll get a high-tech book in this series, but I still hold out hope. The language is a little _too_ powerful as a deus machina, but Cogman finds ways Irene can’t deploy it constantly, and still manages to provide a level of tension and excitement.
