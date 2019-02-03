@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Amberlough** — Lara Elena Donnelly [**](#ghost)
+
+In some ways this reminded me of the show Babylon Berlin—it feels like an alternate reality 20s Germany, replete with spies, dancers, pasties, and patsies. I think it's building up to a longer series, and so much of the plot slowly churned towards an ellipsis of an ending. I liked it, but I'm not rushing to read the next one. None of the characters necessarily captured my interest, but it was nice that the protagonists were largely gay. This book answers the question, what if folks wrote new stories with their own characters instead of fanfic.
+
 **Reclaiming Your Life from IBS** — Melissa Hunt
 
 My doctor recommended this, and it's largely CBT 101 + some good notes on food and stress. I don't know if it'll be super useful, but we'll see! I don't even know if this is a problem I face, but the doctor said "probably", so lol.
