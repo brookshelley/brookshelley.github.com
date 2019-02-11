@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Piercing**
+
+Weird. I read this book probably 10 years ago, and enjoyed it. The movie is a lighter adaptation, as it’s trickier to capture internal dialogue on film. Mia Wasikowska is outstanding as usual. I also enjoyed the general 70s aesthetic, and the cool selection of lingerie. This film only clocks in at about an hour and twenty minutes, but manages to build and release tension a few times.
+
 **Spy**
 
 I don't know why I slept on this film. I guess I like Paul Fieg movies? This is delightful fare from Melissa Mcarthy, and a solid supporting cast.
