@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Genocidal Organ** — Project Itoh
+
+A truly grim thriller about the cost of “fighting terrorism,” and the ability of language to tear apart a country. This feels eerily prescient. I can’t say I _enjoyed_ reading this book, but it’s a nihilistic political commentary that at least adds some color to what politicians might be after when they start wars and conflicts. This book is graphic, violent, and in its way, poignant.
+
 **Amberlough** — Lara Elena Donnelly [**](#ghost)
 
 In some ways this reminded me of the show Babylon Berlin—it feels like an alternate reality 20s Germany, replete with spies, dancers, pasties, and patsies. I think it's building up to a longer series, and so much of the plot slowly churned towards an ellipsis of an ending. I liked it, but I'm not rushing to read the next one. None of the characters necessarily captured my interest, but it was nice that the protagonists were largely gay. This book answers the question, what if folks wrote new stories with their own characters instead of fanfic.
