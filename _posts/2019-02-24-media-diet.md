@@ -9,6 +9,10 @@ categories: //mediadiet19
 
 ## Books
 
+**Genocidal Organ** — Project Itoh
+
+A truly grim thriller about the cost of “fighting terrorism,” and the ability of language to tear apart a country. This feels eerily prescient. I can’t say I _enjoyed_ reading this book, but it’s a nihilistic political commentary that at least adds some color to what politicians might be after when they start wars and conflicts. This book is graphic, violent, and in its way, poignant.
+
 **Amberlough** — Lara Elena Donnelly [**](#ghost)
 
 In some ways this reminded me of the show Babylon Berlin—it feels like an alternate reality 20s Germany, replete with spies, dancers, pasties, and patsies. I think it's building up to a longer series, and so much of the plot slowly churned towards an ellipsis of an ending. I liked it, but I'm not rushing to read the next one. None of the characters necessarily captured my interest, but it was nice that the protagonists were largely gay. This book answers the question, what if folks wrote new stories with their own characters instead of fanfic.
@@ -35,4 +39,16 @@ I don't know why I slept on this film. I guess I like Paul Fieg movies? This is 
 
 **Russian Doll**
 
+A Groundhog Day about depression, drugs, sex, and probably psychodynamics. It’s good.
+
 **Travellers**
+
+I’m sad this got cancelled for season 4, but it’s probably still worth watching for the 3 seasons we got. Time Travelers take over the bodies of folks in present day to prevent an apocalyptic event. Fun sci-fi.
+
+**Sex Education**
+
+Gillian Anderson & youthful hilarity. Lots of new actors and actresses in this one that I hope we’ll see again soon.
+
+**Magicians Season 4**
+
+This went from being a very good version of a solid book series, to so much more. Excellent acting. This show balances serious with silly incredibly well.
