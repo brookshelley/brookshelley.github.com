@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Anna and the Apocalypse**
+
+A high-school musical with zombies. I really don’t like musicals, to be honest. I’d heard good things about this one though, and wanted to give it a chance. The cast is doing a pretty good job throughout, though the relatively one-dimensional characters of the “hot jock” and the “asshole headmaster” are schlocky. This movie mostly made me want to watch Sean of the Dead again, which used rock music to better effect.
+
 **Polar**
 
 Mads Mikkelsen got his Takeshi Kitano take-no-prisoners action role. This movie was adapted from a comic, and it feels just like a comic, down to the choppy dialogue, fast-paced action, and dead-simple plot. It’s kinda fun, if you can get over the copious amounts of cartoonish murder.
