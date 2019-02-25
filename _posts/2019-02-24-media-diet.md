@@ -41,6 +41,10 @@ I don't know why I slept on this film. I guess I like Paul Fieg movies? This is 
 
 ## Notable TV
 
+**True Detective Season 3**
+
+There were plenty of twists, and turns, and emotional volleys in this show. Mahershala Ali and Carmen Ejogo were electric, and despite it not being about anything magic (a girl can dream of ghosts and monsters), it was still gorgeous, sad, and _true_.
+
 **Russian Doll**
 
 A Groundhog Day about depression, drugs, sex, and probably psychodynamics. It’s good.
