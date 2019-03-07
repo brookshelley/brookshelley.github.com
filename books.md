@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Vengeful** — VE Schwab
+
+An interesting sequel to Vicious, the first of the Villains series. Most of the book serves as a prologue for the lighting-fast action at the end of the book, and I’m very excited to see what these characters do next, if she continues for a third installment. I really enjoyed the character June, because who doesn’t love a shapeshifting assassin?
+
 **Genocidal Organ** — Project Itoh
 
 A truly grim thriller about the cost of “fighting terrorism,” and the ability of language to tear apart a country. This feels eerily prescient. I can’t say I _enjoyed_ reading this book, but it’s a nihilistic political commentary that at least adds some color to what politicians might be after when they start wars and conflicts. This book is graphic, violent, and in its way, poignant.
