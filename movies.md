@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Flavors of Youth**
+
+An alright film about the things we leave behind as we grow older, and the tastes and regrets we have. Most of this film is set in China, which is an interesting place to hear all the characters speak Japanese. There are three vignettes, and none really tugged my heartstrings, but it was still a well done movie.
+
 **Anna and the Apocalypse**
 
 A high-school musical with zombies. I really don’t like musicals, to be honest. I’d heard good things about this one though, and wanted to give it a chance. The cast is doing a pretty good job throughout, though the relatively one-dimensional characters of the “hot jock” and the “asshole headmaster” are schlocky. This movie mostly made me want to watch Sean of the Dead again, which used rock music to better effect.
