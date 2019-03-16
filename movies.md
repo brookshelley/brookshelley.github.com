@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Captain Marvel**
+
+Super fun! Brie Larson made for a very compelling super hero, and I love Goose with my whole heart. The 90s throwback setting was a delight, along with its soundtrack. I’m stoked to see what this sets up for future Marvel films, and hopeful that we see the Skrull again (please show up in Runaways).
+
 **Flavors of Youth**
 
 An alright film about the things we leave behind as we grow older, and the tastes and regrets we have. Most of this film is set in China, which is an interesting place to hear all the characters speak Japanese. There are three vignettes, and none really tugged my heartstrings, but it was still a well done movie.
