@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Prospect**
+
+What a cool movie. This tense space flick proved that you can do a lot of sci-fi stuff with less budget. I love media about shitty tech, and this is kind of “what happens when you’re a skint space prospector” angle down pat. This could’ve been a weird Cowboy Bebop live action, but instead tackled the idea from a different angle. Sophie Thatcher rules, too. Wherever this was shot, it was gorgeous.
+
 **Captain Marvel**
 
 Super fun! Brie Larson made for a very compelling super hero, and I love Goose with my whole heart. The 90s throwback setting was a delight, along with its soundtrack. I’m stoked to see what this sets up for future Marvel films, and hopeful that we see the Skrull again (please show up in Runaways).

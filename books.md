@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**If Cats Disappeared from the World** — Genki Kawarmura [**](#ghost)
+
+I love a good devil’s bargain, and this book is full of them. This was a cute, sweet story about the real things we should value in life, and what we’re willing to sacrifice for life. The small details and strange obsessions reminded me a lot of Haruki Murakami’s style.
+
 **Vengeful** — VE Schwab
 
 An interesting sequel to Vicious, the first of the Villains series. Most of the book serves as a prologue for the lighting-fast action at the end of the book, and I’m very excited to see what these characters do next, if she continues for a third installment. I really enjoyed the character June, because who doesn’t love a shapeshifting assassin?
