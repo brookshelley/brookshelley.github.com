@@ -7,6 +7,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 I love a good devil’s bargain, and this book is full of them. This was a cute, sweet story about the real things we should value in life, and what we’re willing to sacrifice for life. The small details and strange obsessions reminded me a lot of Haruki Murakami’s style.
 
+**The City in the Middle of the Night** [**](#ghost)
+
+A fantastic book about humankind settling on a tidally-locked planet, but instead of seeing how we cope, we learn the stories of their descendants, hundreds of years after our first tentative steps. The light is too bright and hot, and the night too cold and dark. We live on the edge in an eternal dusk/morning light. The two protagonists, Mouth, and Sophie, are on the edges of society, yearning for things they've lost or can't have, and all that leads towards. This book was a beautiful meditation on love and community, as well as memory. If you've read the Steerswoman series, you might find some familiarity, but generally the genre of lost technology and future worlds is incredibly fascinating to me.
+
 **Vengeful** — VE Schwab
 
 An interesting sequel to Vicious, the first of the Villains series. Most of the book serves as a prologue for the lighting-fast action at the end of the book, and I’m very excited to see what these characters do next, if she continues for a third installment. I really enjoyed the character June, because who doesn’t love a shapeshifting assassin?
