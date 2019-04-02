@@ -9,7 +9,7 @@ categories: mediadiet19
 
 ## Books
 
-**The City in the Middle of the Night**
+**The City in the Middle of the Night** — Charlie Jane Anders
 
 A fantastic book about humankind settling on a tidally-locked planet, but instead of seeing how we cope, we learn the stories of their descendants, hundreds of years after our first tentative steps. The light is too bright and hot, and the night too cold and dark. We live on the edge in an eternal dusk/morning light. The two protagonists, Mouth, and Sophie, are on the edges of society, yearning for things they've lost or can't have, and all that leads towards. This book was a beautiful meditation on love and community, as well as memory. If you've read the Steerswoman series, you might find some familiarity, but generally the genre of lost technology and future worlds is incredibly fascinating to me.
 
