@@ -933,7 +933,7 @@ It's a wonderful holiday time for everyone, except german models turned
 "terrorist". Points to this one for accurately pointing out that white
 people are the bad guys though.
 
-**Star W        ars: The Last Jedi**
+**Star Wars: The Last Jedi**
 
 Here for this. Love the porgs, and love Luke punking Kylo. This was a great
 combination of ridiculous and fun. I like that Rian brought more humor into
