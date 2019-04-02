@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Us**
+
+Super spooky. I don’t want to spoil anything, but the combination of very good dad jokes, incredibly talented actors, and tight pacing kept this film feeling scary and fun throughout. There’s twists and turns, and a very good boat name or two. See this movie. I’m stoked we get to see more of Peele’s work in the future.
+
 **Prospect**
 
 What a cool movie. This tense space flick proved that you can do a lot of sci-fi stuff with less budget. I love media about shitty tech, and this is kind of “what happens when you’re a skint space prospector” angle down pat. This could’ve been a weird Cowboy Bebop live action, but instead tackled the idea from a different angle. Sophie Thatcher rules, too. Wherever this was shot, it was gorgeous.
