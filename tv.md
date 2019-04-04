@@ -15,6 +15,41 @@ _years: [2018](#2018) [2019](#2019)_
 - Boogiepop Phantom
 - Dororo
 - RerideD: Derrida who leaps through time
+- My Roommate is a Cat
+- Steven Universe
+- Modern Family
+- CANAAN
+- Friends from College
+- Ghost in the Shell SAC
+- Steins; Gate 0
+- Brooklyn 99
+- Marvelous Mrs. Maisel
+- Travellers
+- Magicians
+- The Grand Tour
+- The Good Place
+- Sex Education
+- Continuum
+- Dororo
+- Skull-faced Bookseller Honda San
+- Terrace House
+- Patriot Act
+- Russian Doll
+- Umbrella Academy
+- Top Gear
+- Kyousougiga
+- Dennou Coil
+- Desus & Mero
+- Hot Ones
+- Pen15
+- King of the Hill
+- Difficult People
+- Gravity Falls
+- Billions
+- F1: Driven to Success
+- The OA
+- Hanna
+- Homecoming
 
 ## 2018 <a name="2018"></a>
 
