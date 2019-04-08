@@ -1,3 +1,10 @@
+---
+layout: posts
+title: minimal travel clothing
+description: what I wear abroad
+categories: blog
+---
+
 # Minimal Travel Clothing 
 
 Ten or so years ago, I realized I hated bringing heavy bags with me everywhere I traveled, so I slimmed down my packing to fit in one [small backpack](https://www.brookshelley.com/blog/2018/05/17/review-invisible-one-mini.html). My wardrobe generally cycles between a few pieces, so it wasn’t much of a stretch to adapt it to a month in [Japan](https://www.brookshelley.com/blog/2019/03/13/travel-kit-update.html) or Berlin. I usually write a post-trip gear update, but today is all about clothing.
