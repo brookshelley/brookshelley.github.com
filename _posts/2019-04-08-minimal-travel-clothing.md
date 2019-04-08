@@ -52,7 +52,7 @@ For bras, I stick to sports bras from Pact or Calvin Klein. I hate underwrites, 
 
 Your mileage may vary heavily on style and need for this category, but my go-tos always include the [Torre Wind Pro](https://missionworkshop.com/products/the-torre-womens-high-performance-windpro-hoodie-jacket). I recently bought a second one of these, and even though I think Mission Workshop is getting rid of their women’s line (boo hiss), this is an incredible hoodie. It is DWR coated so light rain just falls off, and also fleece-lined so by itself I can handle temperatures down to 8c/46f. Colder or wetter, and I bring an overcoat. The two coats in my rotation right now are the [Arcteryx Codetta](https://www.arcteryx.com/us/en/shop/womens/codetta-coat) and the [Snow Peak FR Rain Trench](https://snowpeak.com/products/jk-18au004-fr-rain-trench?variant=13074792972386) (which is also _fireproof_?!). Good layering means even at freezing temperatures, I do well. If it was super cold, I’d probably include a wool sweater to wear under or over my hoodie, and I’d throw my leggings on under my pants.
 
-## Shoes and socks <a name=“shoes"></a>
+## Shoes and socks <a name="shoes"></a>
 
 [Bombas](https://bombas.com/products/women-s-solid-invisibles-tan-small?variant=black) or Darn Tough are the way to go for socks. Most of the time it’s not cold enough to wear longer socks, so I wear no-shows or ankle socks. Wool means these also wick well, and wash easily—depending on your food funk, a couple days is usually fine between washes.
 
