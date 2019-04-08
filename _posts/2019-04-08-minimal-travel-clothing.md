@@ -13,17 +13,18 @@ Ten or so years ago, I realized I hated bringing heavy bags with me everywhere I
 
 Whether it’s a one week or one month-long trip, I bring the same things each time Including what I’m wearing during the flight, here’s the breakdown:
 - 3 pairs of [underwear](#underwear)
-- 2 sports bras 
+- 2 [shirts](#shirts)
+- 2 sports [bras](#underwear)
 - 2 pairs of wool [socks](#shoes)
-- 1 water-resistant hoodie
+- 1 water-resistant [hoodie](#jacket)
 - (weather-optional) 1 [jacket](#jacket)
 - 1 pair of [shoes](#shoes)
-- 1 pair of pants
-- 1 pair of shorts or leggings
+- 1 pair of [pants](#pants)
+- 1 pair of shorts or [leggings](#pants)
 
 None of the stuff I wear is particularly cheap, or particularly expensive, but on the whole, it’s held up well to lots of abuse, and many washes. The key to bringing very little clothing is a willingness to wash your clothes in the sink or shower while you bathe. If you find a washing machine, by all means, take advantage of it, but these clothes dry pretty quickly, and I prefer not to hope for something automated. If something gets destroyed (only happened once with some jeans), I can usually find a replacement, but taking stock before a trip of any of your clothing that’s in danger of ripping is a great plan.
 
-## Tops
+## Tops <a name="shirts"></a>
 
 Day or night, the tops I wear look pretty good, wick sweat ok, and tend to hold up to a day of hiking. I spent a while only wearing wool, but recently got stoked on a few other shirts. Sadly, Ryu doesn’t make the wool shirt I wear anymore, but there are a bunch of brands making wool shirts these days, so have a look around if that appeals to you.
 
@@ -33,7 +34,7 @@ A friend convinced me to try out these [hemp shirts](https://jungmaven.com/colle
 
 I wear one of these shirts while I’m sleeping, and one during the day, and kinda rotate them around. If I’m gone for longer I might bring 2 shirts and a tank top, so I don’t have to wash as much.
 
-## Bottoms
+## Bottoms <a name="pants"></a>
 
 Most of the time I wear [Outdoor Voices RecTrek pants](https://www.outdoorvoices.com/products/rectrek-pant?variant=34894684485), which are comfy, stretchy, and cute. They run out of sizes all the time or I’d have a couple pairs. They dress up for the office ok, but also handle a _lot_ of walking. Since I can’t find another black XL pair, I am currently trying out [another brand](https://coalatree.com/collections/apparel/products/slim-fit-trailhead-pants-black). These Coalatree pants are also pretty great, though the tie at the bottom of each leg is kinda ridiculous. They’re unisex, which means the fit might be weird, but they’ve also got a _ergonomic crotch gusset_ a la [Chuck Norris action jeans](https://www.artofmanliness.com/articles/chuck-norris-action-jeans/). I don’t know _why_ you’d do tons of high kicks in pants, but either of these pairs would handle them with gusto.
 
