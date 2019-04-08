@@ -37,7 +37,7 @@ This read much like a series of Ghost in the Shell. From the NeoTokyo setting, t
 
 **Ink and Bone** — Rachel Caine
 
-	A fun book about an alternate history library that is magical. This is very YA, but was enjoyable.
+A fun book about an alternate history library that is magical. This is very YA, but was enjoyable.
 
 ## 2018 <a name="2018"></a>
 
