@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The United States of Japan** — Peter Tieryas
+
+An alternate history where Japan and Germany won WW2, then proceeded to divvy up North America. Most of the book is set in the 80s, in a world of internet devices, and giant robots, ruled by the Japanese emperor. It's a brutal story at times, but was generally interesting and a good sci-fi time.
+
 **If Cats Disappeared from the World** — Genki Kawarmura [**](#ghost)
 
 I love a good devil’s bargain, and this book is full of them. This was a cute, sweet story about the real things we should value in life, and what we’re willing to sacrifice for life. The small details and strange obsessions reminded me a lot of Haruki Murakami’s style.
