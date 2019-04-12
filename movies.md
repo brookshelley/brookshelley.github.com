@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Tampopo**
+
+This was a really fun movie about how amazing food can be. Tons of literal and figurative porn scenes about noodles, eggs, and more. The western film style is kinda wacky and silly, but the overall tone was interesting. I was a bit out of it when I watched this film, so I missed some of it, but likely this'll be a rewatch.
+
 **Us**
 
 Super spooky. I don’t want to spoil anything, but the combination of very good dad jokes, incredibly talented actors, and tight pacing kept this film feeling scary and fun throughout. There’s twists and turns, and a very good boat name or two. See this movie. I’m stoked we get to see more of Peele’s work in the future.
