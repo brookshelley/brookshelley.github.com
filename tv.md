@@ -50,6 +50,9 @@ _years: [2018](#2018) [2019](#2019)_
 - The OA
 - Hanna
 - Homecoming
+- What We Do in the Shadows
+- Barry
+- Fleabag
 
 ## 2018 <a name="2018"></a>
 
