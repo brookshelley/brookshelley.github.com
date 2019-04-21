@@ -6,6 +6,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 **Little**
 
 I don’t know where to start with this weird mess of a movie. It was super funny at times, but left a lot on the cutting floor, had an utterly bizarre trans “joke”, and the worst driving scenes I’ve seen. At the same time, it was goofy, cute, and a man behind us loudly said, “that’s her when she was little”.
+
 **Glass**
 
 Well, I’ve finished Shyamalan’s weird comic trilogy. I remember watching Unbreakable in the theater at the mall near my house as a kid. I’d don’t know if that mall even exists anymore, but for a while, you could go to the arcade downstairs, and then watch a movie in the theater near the food court. I was straight-up enamored with Shyamalan at the time. Sixth Sense was fresh on my mind, and Unbreakable was bizarre, but hinted at something wild. Subsequent movies took this M. Night from a must watch icon, to an amusing auteur, and I think that’s great. The Happening is a movie I deeply love, but this trilogy never really lived up to either the mystery or weirdness of his best work. I think in an effort to make a meta-comic movie, he made something that ultimately doesn’t deliver much past a so-so premise that heroes _do_ exist. Which, is fine, but isn’t “he was dead the whole time,” or “the plants!”
