@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Still Walking**
+
+A delightful meditation on family. I watched an earlier Koreeda movie called [Nobody Knows](https://en.m.wikipedia.org/wiki/Nobody_Knows_(2004_film)) just after college, and it destroyed me. I mostly forgot about this director until [Shoplifters](#shoplifters) last year, and damn, I loved that film too. I think i only have the emotional wherewithal to watch something he made every few months, but each time I dive into his world, there’s an incredible depth to how he shows the small ways we love and lose each other. Also it’s wild to see You-san in an acting role, and not on the Terrace House couch.
+
 **Little**
 
 I don’t know where to start with this weird mess of a movie. It was super funny at times, but left a lot on the cutting floor, had an utterly bizarre trans “joke”, and the worst driving scenes I’ve seen. At the same time, it was goofy, cute, and a man behind us loudly said, “that’s her when she was little”.
@@ -67,7 +71,7 @@ I loved the intense opening scenes of this film, and the scrolling credits—I�
 
 Another film with Tony Kebbell—seeing him in this after seeing him in Hurricane Heist was a wild ride. I think his American accent got better. Also, Kusama seemed pretty obsessed with Kidman’s face throughout this film. This was a intense sad cop/revenge film, with elements from many old sad cop guy films—transformed into something new by letting the old cop be a woman. I really appreciated the Halt & Catch Fire alumni, as well as the always delightful Tatiana Maslany. This movie felt like a different era, and painted LA in a grim, dusty light.
 
-**Shoplifters**
+[**Shoplifters**](#shoplifters)
 
 What a fantastic film. In some ways this reminded me of the anime Tokyo Godfathers—which is also about a group of underground folks taking in a child. The way Shoplifters weaved chosen family in with delightful vignettes and outstanding performances by two children was masterful. This felt like a Japan that rarely appears in cinema—a group of folks struggling with poverty, and not sure how to be part of a society that seems to expect them to join in. I will probably rewatch this, and highly recommend it.
 
