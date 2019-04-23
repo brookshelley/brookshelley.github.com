@@ -5,7 +5,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 **Still Walking**
 
-A delightful meditation on family. I watched an earlier Koreeda movie called [Nobody Knows](https://en.m.wikipedia.org/wiki/Nobody_Knows_(2004_film)) just after college, and it destroyed me. I mostly forgot about this director until [Shoplifters](#shoplifters) last year, and damn, I loved that film too. I think i only have the emotional wherewithal to watch something he made every few months, but each time I dive into his world, there’s an incredible depth to how he shows the small ways we love and lose each other. Also it’s wild to see You-san in an acting role, and not on the Terrace House couch.
+A delightful meditation on family. I watched an earlier Koreeda movie called [Nobody Knows](https://en.m.wikipedia.org/wiki/Nobody_Knows_(2004_film)) just after college, and it destroyed me. I mostly forgot about this director until Shoplifters[*](#shoplifters) last year, and damn, I loved that film too. I think i only have the emotional wherewithal to watch something he made every few months, but each time I dive into his world, there’s an incredible depth to how he shows the small ways we love and lose each other. Also it’s wild to see You-san in an acting role, and not on the Terrace House couch.
 
 **Little**
 
