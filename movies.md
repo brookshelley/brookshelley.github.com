@@ -3,7 +3,9 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Little**
 
+I don’t know where to start with this weird mess of a movie. It was super funny at times, but left a lot on the cutting floor, had an utterly bizarre trans “joke”, and the worst driving scenes I’ve seen. At the same time, it was goofy, cute, and a man behind us loudly said, “that’s her when she was little”.
 
 **Glass**
 
