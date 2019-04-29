@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Killing Commentadore** — Haruki Murakami
+
+This novel feels like a return to form, and yet also building on themes and ideas Murakami laid down in earlier books. His obsessions with pits, cats, WW2 history, jazz, and simple lunches are all here. I'm a little tired of the downtrodden male narrator, but despite being first-person, generally our painter guide moved the story along, interspersed with interesting observations. If you enjoy Murakami, there's much joy here. I hope this author is with us for quite some time to come. 
+
 **The United States of Japan** — Peter Tieryas
 
 An alternate history where Japan and Germany won WW2, then proceeded to divvy up North America. Most of the book is set in the 80s, in a world of internet devices, and giant robots, ruled by the Japanese emperor. It's a brutal story at times, but was generally interesting and a good sci-fi time.
