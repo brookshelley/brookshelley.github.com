@@ -7,7 +7,7 @@ categories: blog
 
 # On Notes and ToDos
 
-![iawriter](/assets/photos/iawriter.png)
+![iawriter](/assets/photos/iAWriter.png)
 
 The [latest episode of Supercomputer](https://supercomputer.transistor.fm/#) inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand. Over the years, I've used [NVAlt](https://brettterpstra.com/projects/nvalt/), 1Writer, Bear, Evernote, Notes, and more to keep track of my thoughts, posts, and notes. Brett Terpstra keeps a [_very good list_](https://brettterpstra.com/ios-text-editors/) of all iOS text editors that includes information about their cross-platform functionality. These days, since I mostly use my iPad and iPhone when I'm not at [work](https://slack.com/), it's vital that my notes and todo apps live happily on Mac, and iOS.
 
