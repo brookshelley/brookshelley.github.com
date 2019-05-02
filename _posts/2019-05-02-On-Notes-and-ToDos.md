@@ -1,3 +1,10 @@
+---
+layout: posts
+title: on notes and todos
+description: how i do notes and todos
+categories: blog
+---
+
 # On Notes and ToDos
 
 ![iawriter](/assets/photos/iawriter.png)
