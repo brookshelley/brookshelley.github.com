@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Arctic**
+
+This was in a really intense movie about how fucking cold it can get in the Arctic, and how scary it is to be crashed there. I like to think that this is somehow an extension of the Hannibal universe, and that in order to escape capture he became a pilot.
+
 **Avengers:Endgame**
 
 This was like three movies jammed into one. It was fine, but I hope they stop doing the massive super hero stuff for a while.
