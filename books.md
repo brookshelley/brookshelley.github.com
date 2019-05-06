@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The Traveling Cat Chronicles** — Hiro Arikawa
+
+This book was an emotional rollercoaster. I should’ve be surprised, since it’s about a cat—one of the few things that makes me feel all of the emotions, but wow. This book was very, very good from start to finish. I picked it up on a whim, and it’s perhaps my favorite of the year.
+
 **How to Break Up With Your Phone** — Catherine Price
 
 A pretty solid book on establishing more thoughtful ways of dealing with our devices. The advice to think about _why_ you’re reaching for your phone when you do is extremely good, and deceptively simple. I’ve found myself trying to just be in a place without immediately flipping though phone screens to kill time, and _maybe_ it’s helping? I’m going to keep on following the advice of this book for a while, and see how it helps or doesn’t. There’s good advice on email and other types of organization in here as well.
