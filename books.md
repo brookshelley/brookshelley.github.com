@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Artificial Condition** — Martha wells
+
+It’s really nice to dive back into the series, and the MurderBot continues to be a funny narrator a distant space-bound future. I still think it’s a little odd that these were all published as novellas instead of a full-length, but the episodic quality does give me an easy place to pause and get more to drink. I hope we see more of the new ComfortBot.
+
 **Only Human** — Sylvain Neuvel
 
 A solid conclusion to an excellent series. It’s too bad there’s not any more to read, but on the upside, it never dipped into uninteresting territory. The tone of this book is a little post-apocalyptic, and I’m a sucker for that kinda thing.
