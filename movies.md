@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Burning**
+
+It’s been years since I read the story that this movie was inspired by, so I barely remember it. The pacing of Burning was slow, but each shot was artful, and each scene a strange delight. Also, the ambling, slightly clueless protagonist seemed to fit right in to Murakami world.
+
 **Arctic**
 
 This was in a really intense movie about how fucking cold it can get in the Arctic, and how scary it is to be crashed there. I like to think that this is somehow an extension of the Hannibal universe, and that in order to escape capture he became a pilot.

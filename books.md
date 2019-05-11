@@ -3,6 +3,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Only Human** — Sylvain Neuvel
+
+A solid conclusion to an excellent series. It’s too bad there’s not any more to read, but on the upside, it never dipped into uninteresting territory. The tone of this book is a little post-apocalyptic, and I’m a sucker for that kinda thing.
+
+**Waking Gods** — Sylvain Neuvel
+
+This is a series that seems to amp up the excitement with each installation. The first book set the stage, and this is the play. There is quite a bit of action, and a lot of fallout from the first book. A great sequel.
+
+**Sleeping Giants** — Sylvain Neuvel
+
+Told through a series of interview transcripts, de-briefings, and diary entries, this rad giant robot story managed to suck me in fast. I burned through this book in a couple of days, and loved every minute. I grew up on Robotech, so some of this plot felt familiar, except without all the singing. If you like giant robots, and somewhat mysterious non-governmental entities, this is a series to check out.
+
 **The Traveling Cat Chronicles** — Hiro Arikawa
 
 This book was an emotional rollercoaster. I should’ve be surprised, since it’s about a cat—one of the few things that makes me feel all of the emotions, but wow. This book was very, very good from start to finish. I picked it up on a whim, and it’s perhaps my favorite of the year.
