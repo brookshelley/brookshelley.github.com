@@ -3,7 +3,15 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
-**Artificial Condition** — Martha wells
+**Rogue Protocol** — Martha Wells
+
+I’m really loving this series. Murderbot meets a new pal on this romp on a research station.
+
+**Hatching Twitter** — Nick Bilton
+
+This was a tour of betrayal, man-children, and absurd amounts of money. I’d love to see an Armando Ianucci adaptation of this book—especially the incredibly awkward visits with Zuckerberg. Well-written, and easy to read, this kept me very entertained on my flight.
+
+**Artificial Condition** — Martha Wells
 
 It’s really nice to dive back into the series, and the MurderBot continues to be a funny narrator a distant space-bound future. I still think it’s a little odd that these were all published as novellas instead of a full-length, but the episodic quality does give me an easy place to pause and get more to drink. I hope we see more of the new ComfortBot.
 

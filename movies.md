@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Detective Pikachu**
+
+Hilarious and so, so fun. This was definitely a kids movie, but aimed solidly at kids who’re 28-35 now—my generation has the funds to relive our childhoods in cinema. I played a few Pokémon games, and watched the cartoon for a little while in middle school, and seeing all of the Pokémon I know flitting around the screen was a hoot. Ryan Reynolds did some fantastic Pikachu voice acting, matched by the incredible CGI of his fur. One of the sillier, funnier movies I’ve seen in a minute. “My clues!”
+
 **Burning**
 
 It’s been years since I read the story that this movie was inspired by, so I barely remember it. The pacing of Burning was slow, but each shot was artful, and each scene a strange delight. Also, the ambling, slightly clueless protagonist seemed to fit right in to Murakami world.
