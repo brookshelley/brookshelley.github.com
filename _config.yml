@@ -7,3 +7,5 @@ author:
 
 gems:
   - jekyll-feed
+plugins:
+  - jekyll-redirect-from
