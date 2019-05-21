@@ -3,6 +3,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Noumenon** — Marina J. Lostetter
+
+Ah! Another great multi-generational space exploration story. I don't really get why so many sci-fi books are doing this sort of thing lately, but I'm into it. What happens when a ship heads into deep space to explore a distant star? This book. It rules.
+
+**Exit Strategy** — Martha Wells
+
+A delightful end to this quadrilogy. I hope we get more Murderbot stories, but even if not, I've thoroughly enjoyed it.
+
 **Rogue Protocol** — Martha Wells
 
 I’m really loving this series. Murderbot meets a new pal on this romp on a research station.
