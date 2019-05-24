@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Wandering Earth**
+
+This is the second-highest grossing film in Chinese cinematic history. I’ve heard about this book for a while, and conceptually it’s interesting to think about the Earth moving instead of colony ships leaving, but it’s frustrating that Chinese censors meant that the themes of the film are somewhat limited. The end result felt more like The Core than Star Wars, and overall it was rather disappointing.
+
 **John Wick 3**
 
 Ridiculous from start to finish. The fights were fun, the plot moved forward at a fast clip, and this is one of my favorite silly action franchise.
