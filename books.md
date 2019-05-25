@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Noumenon: Infinity** — Marina J. Lostetter
+
+This series ruled. There were pretty significant characters who were trans, or differently abled, and I feel like they were written pretty dang well. The space exploration and discovery plotlines split and re-intertwined many times, and always kept me fascinated. Definitely one of the most interesting sci-fi series I’ve read in years.
+
 **Noumenon** — Marina J. Lostetter
 
 Ah! Another great multi-generational space exploration story. I don't really get why so many sci-fi books are doing this sort of thing lately, but I'm into it. What happens when a ship heads into deep space to explore a distant star? This book. It rules.
