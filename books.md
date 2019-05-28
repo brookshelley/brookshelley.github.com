@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The Book of M** — Peng Shepherd
+
+An interesting take on a plague/zombie-style post-apocalypse. I had trouble putting this book down, and the story kept me reading most of the day. I got to hear Shepherd read from her book at a literary event in the bay, and I’m very glad I did—this book ruled.
+
 **Noumenon: Infinity** — Marina J. Lostetter
 
 This series ruled. There were pretty significant characters who were trans, or differently abled, and I feel like they were written pretty dang well. The space exploration and discovery plotlines split and re-intertwined many times, and always kept me fascinated. Definitely one of the most interesting sci-fi series I’ve read in years.
