@@ -1,3 +1,9 @@
+---
+layout: posts
+title: on being alone
+description: post-divorce thoughts
+categories: blog
+---
 
 # on being alone.
 

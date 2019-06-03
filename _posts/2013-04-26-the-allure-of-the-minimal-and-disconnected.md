@@ -1,3 +1,9 @@
+---
+layout: posts
+title: The Allure of the Minimal and Disconnected
+description: writing on minimalism
+categories: blog
+---
 
 # The Allure of the Minimal and Disconnected
 
