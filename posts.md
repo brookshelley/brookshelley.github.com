@@ -46,8 +46,6 @@
 {% for month in postsByMonth %}
 {% for post in month.items %}
 <li><a href="{{ post.url }}">{{ post.title }}</a>
-&nbsp;<span>{{ post.date | date_to_string }}</span></li>
 {% endfor %}
-<br />
 {% endfor %}
 {% endfor %}
