@@ -15,28 +15,7 @@
 {% endfor %}
 {% endfor %}
 
-## Older posts
-[on Medium](https://medium.com/@brookshelley/)
-
 # Media Diet
-
-## 2019
-
-{% for post in site.categories.mediadiet19 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-<br />
-
-## 2018
-{% for post in site.categories.mediadiet %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
-
-# Media Diet test
 
 {% assign postsByYear = site.categories.mediadiet | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
