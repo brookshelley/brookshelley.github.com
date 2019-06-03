@@ -28,5 +28,4 @@
 {% endfor %}
 {% endfor %}
 <br />
-<br />
 {% endfor %}
