@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Sourdough** — Robin Sloan
+
+A fun book on getting into a new hobby, and getting out of tech. I’m not a baker, but I really liked how Robin described the baking process. There weren’t many characters with real depth, but our protagonist was fun.
+
 **The Book of M** — Peng Shepherd
 
 An interesting take on a plague/zombie-style post-apocalypse. I had trouble putting this book down, and the story kept me reading most of the day. I got to hear Shepherd read from her book at a literary event in the bay, and I’m very glad I did—this book ruled.
