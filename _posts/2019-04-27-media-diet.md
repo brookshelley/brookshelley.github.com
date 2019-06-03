@@ -2,7 +2,7 @@
 layout: posts
 title: april
 description: media diet
-categories: mediadiet19
+categories: mediadiet
 ---
 
 # Media Diet for April
