@@ -24,7 +24,7 @@
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 {% for post in month.items %}
-<li><a href="{{ post.url }}">{{ post.title }}</a>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 {% endfor %}
 <br />
