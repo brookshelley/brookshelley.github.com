@@ -27,5 +27,5 @@
 <li><a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
 {% endfor %}
-</ br>
+<br />
 {% endfor %}
