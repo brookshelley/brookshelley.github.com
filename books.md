@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Exhalation: Stories** — Ted Chiang
+
+Chiang is one of the only authors I’ve read that truly puts the “speculative” into speculative fiction. Combining a curiosity about math, physics, and philosophy, Exhalation’s stories show a very adept storyteller playing with quite a few ideas. Each story is so different, and yet similarly great. I really hope Chiang writes a novel at some point, because I want to roam around his world’s for much longer.
+
 **Sourdough** — Robin Sloan
 
 A fun book on getting into a new hobby, and getting out of tech. I’m not a baker, but I really liked how Robin described the baking process. There weren’t many characters with real depth, but our protagonist was fun.
