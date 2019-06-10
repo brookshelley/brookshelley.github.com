@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Starfish**
+
+A largely solo trek through grief, loneliness, and the end of the world. The soundtrack to Starfish was excellent, as was the performance of Ginny Gardner. Without spoiling anything, it’s best to say this movie goes in interesting directions and is shot beautifully.
+
 **Wandering Earth**
 
 This is the second-highest grossing film in Chinese cinematic history. I’ve heard about this book for a while, and conceptually it’s interesting to think about the Earth moving instead of colony ships leaving, but it’s frustrating that Chinese censors meant that the themes of the film are somewhat limited. The end result felt more like The Core than Star Wars, and overall it was rather disappointing.
