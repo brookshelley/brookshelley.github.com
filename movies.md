@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**X-Men: Dark Phoenix**
+
+This movie wasn't as bad as critics have said, which isn't exactly a ringing endorsement. Out of the[ two treatments](https://en.wikipedia.org/wiki/X-Men:_The_Last_Stand) of the Dark Phoenix, I think this one was better. The story was a bit odd, but overall, it was fun and a lot of shit blew up. B- summer pap.
+
 **Starfish**
 
 A largely solo trek through grief, loneliness, and the end of the world. The soundtrack to Starfish was excellent, as was the performance of Ginny Gardner. Without spoiling anything, it’s best to say this movie goes in interesting directions and is shot beautifully.
