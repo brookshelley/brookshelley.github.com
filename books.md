@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The Calculating Stars** — Mary Robinette Kowal
+
+This is an interesting alternate history where a disaster changes the fate of the planet, and accelerates the space race. Unfortunately, no disaster can change the rampant misogyny and racism of the men in power in this world. The protagonist, Dr. York, is a calculator, and dreams of being an astronaut, after years of flying planes as a WASP. I’m excited to read the sequel, but so many of the scenes of men being jerks to everyone else were pretty frustrating. 
+
 **Exhalation: Stories** — Ted Chiang
 
 Chiang is one of the only authors I’ve read that truly puts the “speculative” into speculative fiction. Combining a curiosity about math, physics, and philosophy, Exhalation’s stories show a very adept storyteller playing with quite a few ideas. Each story is so different, and yet similarly great. I really hope Chiang writes a novel at some point, because I want to roam around his world’s for much longer.
