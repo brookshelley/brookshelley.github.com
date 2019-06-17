@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**An Elderly Lady Is Up to No Good** — Helene Tursten
+
+Delightfully wicked tales of a murderous octogenarian. I laughed, and cringed in turn. A short, strange read.
+
 **The Calculating Stars** — Mary Robinette Kowal
 
 This is an interesting alternate history where a disaster changes the fate of the planet, and accelerates the space race. Unfortunately, no disaster can change the rampant misogyny and racism of the men in power in this world. The protagonist, Dr. York, is a calculator, and dreams of being an astronaut, after years of flying planes as a WASP. I’m excited to read the sequel, but so many of the scenes of men being jerks to everyone else were pretty frustrating. 
