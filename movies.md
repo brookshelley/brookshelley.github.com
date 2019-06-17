@@ -3,6 +3,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**Force Majeure**
+
+A slow burn of a movie. Largely, this is about a family, and a father who is kind of a shit. Tormund from GoT shows up. Lots of skiing. Grey fog. Fin.
+
 **Ralph Breaks the Internet**
 
 This was super cute, with a nice mix of weird jokes and internet references. It’s wild how many amazing actors they got to join in the strange fun. If you liked the first film, you’ll enjoy the new one.
