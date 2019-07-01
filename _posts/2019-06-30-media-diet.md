@@ -2,7 +2,7 @@
 layout: posts
 title: june
 description: media diet
-categories: mediadiet19
+categories: mediadiet
 ---
 
 # Media diet for June 2019
