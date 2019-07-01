@@ -43,6 +43,18 @@ This series ruled. There were pretty significant characters who were trans, or d
 
 ## Movies
 
+**Force Majeure**
+
+A slow burn of a movie. Largely, this is about a family, and a father who is kind of a shit. Tormund from GoT shows up. Lots of skiing. Grey fog. Fin.
+
+**Ralph Breaks the Internet**
+
+This was super cute, with a nice mix of weird jokes and internet references. It’s wild how many amazing actors they got to join in the strange fun. If you liked the first film, you’ll enjoy the new one.
+
+**X-Men: Dark Phoenix**
+
+This movie wasn't as bad as critics have said, which isn't exactly a ringing endorsement. Out of the[ two treatments](https://en.wikipedia.org/wiki/X-Men:_The_Last_Stand) of the Dark Phoenix, I think this one was better. The story was a bit odd, but overall, it was fun and a lot of shit blew up. B- summer pap.
+
 **Starfish**
 
 A largely solo trek through grief, loneliness, and the end of the world. The soundtrack to Starfish was excellent, as was the performance of Ginny Gardner. Without spoiling anything, it’s best to say this movie goes in interesting directions and is shot beautifully.
