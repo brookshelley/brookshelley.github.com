@@ -1,6 +1,7 @@
 # writing
 
 ## online
+<hr>
 
 **Ninth Letter**
 
@@ -29,6 +30,7 @@
 [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
 ## books
+<hr>
 
 [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
 
@@ -36,7 +38,8 @@
 
 [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
-## podcasts 
+## podcasts
+<hr>
 
 [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
@@ -45,5 +48,6 @@
 [Dear Prudence:  Nov 2, 2016](https://slate.com/human-interest/2016/11/dear-prudence-podcast-asian-fetishes-racist-group-texts-and-ambien-zombies.html)
 
 ## zines
+<hr>
 
 [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
