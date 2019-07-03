@@ -3,13 +3,17 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+**The Fated Sky** — Mary Robinette Kowal
+
+More cool space stuff! I enjoyed the pacing more in this book, and despite the frustration with very 50s attitudes that still pervade the modern world, I enjoyed journeying with these two books to mars.
+
 **An Elderly Lady Is Up to No Good** — Helene Tursten
 
 Delightfully wicked tales of a murderous octogenarian. I laughed, and cringed in turn. A short, strange read.
 
 **The Calculating Stars** — Mary Robinette Kowal
 
-This is an interesting alternate history where a disaster changes the fate of the planet, and accelerates the space race. Unfortunately, no disaster can change the rampant misogyny and racism of the men in power in this world. The protagonist, Dr. York, is a calculator, and dreams of being an astronaut, after years of flying planes as a WASP. I’m excited to read the sequel, but so many of the scenes of men being jerks to everyone else were pretty frustrating. 
+This is an interesting alternate history where a disaster changes the fate of the planet, and accelerates the space race. Unfortunately, no disaster can change the rampant misogyny and racism of the men in power in this world. The protagonist, Dr. York, is a calculator, and dreams of being an astronaut, after years of flying planes as a WASP. I’m excited to read the sequel, but so many of the scenes of men being jerks to everyone else were pretty frustrating.
 
 **Exhalation: Stories** — Ted Chiang
 
@@ -69,7 +73,7 @@ A pretty solid book on establishing more thoughtful ways of dealing with our dev
 
 **Killing Commentadore** — Haruki Murakami
 
-This novel feels like a return to form, and yet also building on themes and ideas Murakami laid down in earlier books. His obsessions with pits, cats, WW2 history, jazz, and simple lunches are all here. I'm a little tired of the downtrodden male narrator, but despite being first-person, generally our painter guide moved the story along, interspersed with interesting observations. If you enjoy Murakami, there's much joy here. I hope this author is with us for quite some time to come. 
+This novel feels like a return to form, and yet also building on themes and ideas Murakami laid down in earlier books. His obsessions with pits, cats, WW2 history, jazz, and simple lunches are all here. I'm a little tired of the downtrodden male narrator, but despite being first-person, generally our painter guide moved the story along, interspersed with interesting observations. If you enjoy Murakami, there's much joy here. I hope this author is with us for quite some time to come.
 
 **The United States of Japan** — Peter Tieryas
 
@@ -133,7 +137,7 @@ A different planet and culture than the Raadchai from her trilogy, but a very co
 
 **The Dark Archive** — Victoria Schwab [**](#ghost)
 
-A fun, strange YA book about what happens after death, and the teens who defend the afterlife. There were some cool twists, and story details throughout, but the world building could have been better. Honestly every time I read one of these, I think, “wouldn’t this be better if it were gay?”, and reader, yes, yes it would. These sorts of books must really speak to teens though, because they portray adults as largely ineffectual idiots, who occasionally get in the way. 
+A fun, strange YA book about what happens after death, and the teens who defend the afterlife. There were some cool twists, and story details throughout, but the world building could have been better. Honestly every time I read one of these, I think, “wouldn’t this be better if it were gay?”, and reader, yes, yes it would. These sorts of books must really speak to teens though, because they portray adults as largely ineffectual idiots, who occasionally get in the way.
 
 **Circe** — Madeline Miller [**](#ghost)
 
@@ -728,7 +732,7 @@ are you ok?
 
 **Infect Your Friends and Loved Ones** — Torrey Peters
 
-**The Outskirter’s Secret** — Rosemary Kirstein 
+**The Outskirter’s Secret** — Rosemary Kirstein
 
 **Moral Disorder and Other Stories** — Margaret Atwood
 
