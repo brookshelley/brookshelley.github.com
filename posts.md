@@ -3,7 +3,7 @@
 {% assign postsByYear = site.categories.blog | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 ## {{ year.name }}
-<hr>
+<hr />
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 ### {{ month.name }}
