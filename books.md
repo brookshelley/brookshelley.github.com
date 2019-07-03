@@ -7,6 +7,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 More cool space stuff! I enjoyed the pacing more in this book, and despite the frustration with very 50s attitudes that still pervade the modern world, I enjoyed journeying with these two books to mars.
 
+**The Bone Clocks** — David Mitchell
+
+A delightful collision of strange characters across time. This book is _just_ fantastical enough to scratch my sci-fi itch, and literary enough to keep me satisfied. I hadn’t read Michell in a while, but diving back in was like slipping on a well-fitting shoe. My only complaint is that I got a bit sick of “psycho-“ being applied to every magic thing, as it felt a bit too much like RPG spell naming, lol.
+
 **An Elderly Lady Is Up to No Good** — Helene Tursten
 
 Delightfully wicked tales of a murderous octogenarian. I laughed, and cringed in turn. A short, strange read.
