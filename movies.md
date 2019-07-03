@@ -2,6 +2,7 @@
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
+<hr>
 
 **Force Majeure**
 
@@ -132,6 +133,7 @@ I knew going in that this would be a bonkers film, having listened to the How Di
 I’m still not sure what I saw. I _think_ this aims to be a cautionary tale about mob rule, privacy, and misogyny. It’s brutal, graphic, and so full of -isms, I can’t say I recommend it. It’s wild that this movie played in theaters. I’m kinda stoked Hari Nef got to be a mean teen trans lady. By the end there’s a revenge bloodbath that I can’t tell if I was meant to find cathartic, or sad. This is definitely the most misanthropic and nihilistic movie I've seen in years.
 
 ## 2018 <a name="2018"></a>
+<hr>
 
 **Hearts Beat Loud**
 
@@ -567,6 +569,7 @@ make it slightly better, and pre-roll video that repeated "NO NO NO" in
 English to admonish us for even considering texting or talking.
 
 ## 2017 <a name="2017"></a>
+<hr>
 
 _this list is super truncated because i forgot keep it until july_
 
@@ -1008,6 +1011,7 @@ combination of ridiculous and fun. I like that Rian brought more humor into
 the world of the star war.
 
 ## 2016 <a name="2016"></a>
+<hr>
 
 **Nine Lives**
 
