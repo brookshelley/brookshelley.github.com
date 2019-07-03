@@ -2,6 +2,7 @@
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
+<hr>
 
 **The Fated Sky** — Mary Robinette Kowal
 
@@ -120,6 +121,7 @@ This read much like a series of Ghost in the Shell. From the NeoTokyo setting, t
 A fun book about an alternate history library that is magical. This is very YA, but was enjoyable.
 
 ## 2018 <a name="2018"></a>
+<hr>
 
 ### 47 Books
 
@@ -693,6 +695,7 @@ sometimes upsetting story. A lot of this had me wondering: straight people,
 are you ok?
 
 ## 2016 <a name="2016"></a>
+<hr>
 
 ### 58 books
 
