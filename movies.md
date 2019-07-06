@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Midsommar**
+
+Wow. What a gorgeous, twisted, wild film. From the music to the ultra-bright summer of it all, I loved this movie. If you’re quite squeamish, give it a pass. Otherwise, skål!
+
 **Force Majeure**
 
 A slow burn of a movie. Largely, this is about a family, and a father who is kind of a shit. Tormund from GoT shows up. Lots of skiing. Grey fog. Fin.
