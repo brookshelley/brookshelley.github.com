@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Poppy War** — R. F. Kuang
+
+This book was brutal. Kuang transformed the rape of Nanking into a fantasy tale of gods, magic, and martial arts. The slow build of the martial arts academy quickly breaks down into the horrors of war. This is a grim book with even grimmer source material. This book was well-researched and skillfully written, and I will definitely continue on with Rin and the Cike into the sequel.
+
 **The Fated Sky** — Mary Robinette Kowal
 
 More cool space stuff! I enjoyed the pacing more in this book, and despite the frustration with very 50s attitudes that still pervade the modern world, I enjoyed journeying with these two books to mars.
