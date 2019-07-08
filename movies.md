@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Hospitalitié (歓待)**
+
+A strange movie reminiscent of a short story I read years ago where. house guests slowly take over a family’s home. It’s dark, funny, and a poignant commentary on xenophobia.
+
 **Midsommar**
 
 Wow. What a gorgeous, twisted, wild film. From the music to the ultra-bright summer of it all, I loved this movie. If you’re quite squeamish, give it a pass. Otherwise, skål!
