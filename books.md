@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Claire DeWitt and the City of the Dead** — Sara Gran
+	
+An alright mystery book, but more than a few times, I think the author attempted to add _grit_ but just ended up sounding like a very awkward narrator. Also points off for a trans slur—like, c’mon, I don’t care who your narrator or, or how much of a fuck-up she is, leave us alone.	
+
 **Paradise Rot** — Jenny Hval
 
 A strange story of roommates, love, and interior mold. I hope Hval writes more strange books.
