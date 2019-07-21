@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
-title: brook's site
+title: brookshelley dot com
 description: my work and media reviews
 author:
     name: "brook shelley"
-    email: "brook@trash.ly"
-
+    email: "brookshelley+blog@gmail.com"
 gems:
   - jekyll-feed
 plugins:
