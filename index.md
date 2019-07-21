@@ -1,3 +1,5 @@
 # latest posts
 
-{{ site.posts.last.content }}
+{{ site.posts.first.content }}
+{{ site.posts.second.content }}
+{{ site.posts.third.content }}
