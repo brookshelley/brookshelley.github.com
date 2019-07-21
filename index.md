@@ -1,7 +1,7 @@
 # latest posts
 
 {% for post in site.posts limit: 4  %}
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="{{ post.url }}">{{ post.date }}</a>
 
 {{ post.content }}
 <hr />
