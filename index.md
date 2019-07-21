@@ -4,5 +4,5 @@
 <a href="{{ post.url }}">{{ post.title }}</a>
 
 {{ post.content }}
-
+<hr />
 {% endfor %}
