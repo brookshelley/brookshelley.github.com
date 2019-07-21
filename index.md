@@ -1,8 +1,4 @@
----
-layout: none
----
+# latest posts
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-</div>
+<h1>{{ site.posts.last.title }}</h1>
+{{ site.posts.last.content }}
