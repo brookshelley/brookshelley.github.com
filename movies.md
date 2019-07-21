@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Thoroughbreads**
+
+A fantastically creepy film about ennui and friendship. I loved it.
+
 **Spiderman: Far from Home**
 
 This is exactly what I want from a superhero movie: fun. The stakes were much smaller than an Avengers movie, despite this film happening in the aftermath of both the “blip” and many deaths, and that’s a good thing. Instead of world-changing events, we got to enjoy Peter and his classmates goofing around in Europe, and the zany world of Mysterio. I loved this movie. The action was exciting, and the jokes were silly and fun.
