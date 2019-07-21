@@ -1,5 +1,7 @@
 {% for post in site.posts limit: 4  %}
 {{ post.content }}
-<hr />
+<br />
 [Permalink]({{ post.url }})
+
+<hr />
 {% endfor %}
