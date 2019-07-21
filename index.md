@@ -1,8 +1,7 @@
 # latest posts
 
 {% for post in site.posts limit: 4  %}
-	
-    <article>
+     <article>
     	<header>
 			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 		</header>
@@ -15,5 +14,4 @@
 			</ul>
 		</div>
     </article>
-
 {% endfor %}
