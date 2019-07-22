@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**A Vigilante**
+
+This was hard to watch. It was very well done, and intensely paced, but the abuse in the films was painful. There’s a grim morality in this film, and a certain catharsis in seeing abusers punished, but fuck.
+
 **Thoroughbreads**
 
 A fantastically creepy film about ennui and friendship. I loved it.
