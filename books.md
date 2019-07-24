@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Dune** — Frank Herbert
+
+A classic. I read this when I was a kid, but hadn’t reread it since then. It’s weird, long, and great. The rest of the series is supposed to be bizarre, so I can’t wait. The spice must flow.
+
 **Claire DeWitt and the City of the Dead** — Sara Gran
 	
 An alright mystery book, but more than a few times, I think the author attempted to add _grit_ but just ended up sounding like a very awkward narrator. Also points off for a trans slur—like, c’mon, I don’t care who your narrator or, or how much of a fuck-up she is, leave us alone.	
