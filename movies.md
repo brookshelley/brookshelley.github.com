@@ -4,6 +4,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Farewell**
+
+I cried a lot during this film. Awkwafina did a fantastic job, and it's cool to see a major US release mostly in Mandarin. If you've recently lost a grandparent, or have gone through family illness, this might just hit you really hard.
+
+**Once Upon a Time in Hollywood**
+
+This was a very strange movie, even by Tarentino's standards. A mix of fake show clips, stories of a man and his valet, and glimpses into the Manson family. I laughed quite a bit, and generally found this movie to be a blast.
+
 **A Vigilante**
 
 This was hard to watch. It was very well done, and intensely paced, but the abuse in the films was painful. There’s a grim morality in this film, and a certain catharsis in seeing abusers punished, but fuck.
