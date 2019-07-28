@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: sister spit piece: pre-cunt-up
+title: sister spit
 description: writing on lesbian history
 categories: blog
 ---
