@@ -4,7 +4,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-**Hobbes & Shaw**
+**Hobbs & Shaw**
 
 A very silly buddy comedy. They talk about balls a bit too often for a movie with two 50 year old protagonists, but it was fun at times. There’s very little connection between this and Fast & Furious, but if you like Stratham & The Rock, you’ll have fun.
 
