@@ -4,6 +4,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Book of Joan** — Lydia Yuknavitch
+
+This was a very strange, disjointed tale of a post-apocalyptic redemption narrative. I can’t say that I know a lot about Joan of Arc, but I trust that Yuknavitch drew from her history to write this. I can’t decide quite how I feel about this, but I will say that I found the author’s obsession with genitals and gender rather much. Does the author dislike trans people? Was she attempting to suggest that they are leading us to a dark, genderless place? This was unclear. There was a blurb that claimed this author is at the forefront of writing about gender fluidity, and I would say instead, she is mired deep in the past.
+
+**Magic for Liars** — Sarah Gailey
+
+Ah! I loved this book. What a brilliant marriage of noir and magic school. I devoured it in two sittings with a big grin on my face. Gailey is a delight, and after seeing them read the first chapter in person, I couldn’t wait to dive in. I hope they write more novels soon.
+
+**River of Teeth** — Sarah Gailey
+
+What an absurd romp. This would’ve worked better for me if I enjoyed cowboys or the romance of men, but still it was fun enough. I don’t think I’ll read the next few books in this series, but I’m certain my friend in book club will devour them. Well-written and imagined, just not for me.
+
 **Dune** — Frank Herbert
 
 A classic. I read this when I was a kid, but hadn’t reread it since then. It’s weird, long, and great. The rest of the series is supposed to be bizarre, so I can’t wait. The spice must flow.
