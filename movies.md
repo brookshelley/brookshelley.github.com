@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Lobster**
+
+I can now say that I have indeed considered the Lobster. After seeing The Favourite earlier this year, I decided to go back to watch Yorgos Lanthimos‘ other films. I’m glad I did. This was fantastic.
+
 **The Ceremony (儀式)**
 
 A bizarre 70s Japanese film about family, duty, and incest. Reading about this film, it seems like much of it was meant to be an indictment of the older generation, as well as the younger generation’s unwillingness to speak out against tradition. As a film, it’s truly strange, but also brutal in its methodical breakdown of the protagonist.
