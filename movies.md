@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Killing of a Sacred Deer**
+
+Wow, this was an eerie film. At this point I’ve enough of Yorgos Lanthimos’ films that I enter into them thinking “what’s the strange twist?” This film delivered on that quite well. I love the strange, flat performance Lanthimos actors provide—they lure you into this world with everything just _a bit_ off. Also the young man in the film was _haunting_. 
+
 **First Reformed**
 
 I went into this movie thinking "it's about religion and maybe climate change". That covers it to a degree, but beyond that is so much truth and sadness. This was a grim, beautiful film that struck me right at the core—both as an ex-religious person, and someone who often mourns for the end of life for so many folks effected by climate change. The movie, at it's core, asks if there's any forgiveness for our destruction of the planet, for our destruction of humanity. I don't have an answer to that question. This film however, was excellent.
