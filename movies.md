@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Quake**
+
+A good reminder that disaster movies don’t need to have the glitz and glam of a big budget Hollywood film. This sequel to The Wave was rather slowly-paced, but exciting as it picked up steam.
+
 **Killing of a Sacred Deer**
 
 Wow, this was an eerie film. At this point I’ve enough of Yorgos Lanthimos’ films that I enter into them thinking “what’s the strange twist?” This film delivered on that quite well. I love the strange, flat performance Lanthimos actors provide—they lure you into this world with everything just _a bit_ off. Also the young man in the film was _haunting_. 
