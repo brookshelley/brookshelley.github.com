@@ -4,3 +4,5 @@
 [Permalink: {{ post.title }}]({{ post.url }})
 <hr />
 {% endfor %}
+
+View the <a href="/posts">archive</a>
