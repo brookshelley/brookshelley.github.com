@@ -6,7 +6,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 **Bad Times at the El Royale**
 
-
+This was fun enough, with a pretty good ensemble cast. Nothing really stuck out as excellent, and in a few ways it felt like a less-ambitious Tarantino film.
 
 **The Quake**
 
