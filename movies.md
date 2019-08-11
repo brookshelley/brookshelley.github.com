@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Bad Times at the El Royale**
+
+
+
 **The Quake**
 
 A good reminder that disaster movies don’t need to have the glitz and glam of a big budget Hollywood film. This sequel to The Wave was rather slowly-paced, but exciting as it picked up steam.
