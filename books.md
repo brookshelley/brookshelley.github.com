@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**From the Fatherland with Love** — Ryu Murakami
+
+One of the more bonkers books that Ryu Murakami has written, it combines both  his fascination with violence with a scathing satire on bureaucracy. I couldn’t put this down and found myself alternatively horrified and laughing.
+
 **The Book of Joan** — Lydia Yuknavitch
 
 This was a very strange, disjointed tale of a post-apocalyptic redemption narrative. I can’t say that I know a lot about Joan of Arc, but I trust that Yuknavitch drew from her history to write this. I can’t decide quite how I feel about this, but I will say that I found the author’s obsession with genitals and gender rather much. Does the author dislike trans people? Was she attempting to suggest that they are leading us to a dark, genderless place? This was unclear. There was a blurb that claimed this author is at the forefront of writing about gender fluidity, and I would say instead, she is mired deep in the past.
