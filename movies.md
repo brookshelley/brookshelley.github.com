@@ -6,7 +6,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 **Battle Angel Alita**
 
-I read this comic when I was younger, and it’s kind of neat to see it made into a live action film. I still can’t get over the uncanny valley eyes that Rose Salazar’s character has though. Overall, this was a fun action film.
+I read this comic when I was younger, and it’s kind of neat to see it made into a live action film. I still can’t get over the uncanny valley eyes that Rose Salazar’s character had, or the goofy "love story". Overall, this was a fun action film.
 
 **The Predator**
 
