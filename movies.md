@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Predator**
+
+I’ve seen folks watching this on a bunch of planes in the past year or so, and as a long-time fan of the Predator, I entered into it grudgingly. The first two films were tight thrillers, but at this point, I can’t tell what the series wants to be. If you can watch this for free, I guess it’s ok?
+
 **Bad Times at the El Royale**
 
 This was fun enough, with a pretty good ensemble cast. Nothing really stuck out as excellent, and in a few ways it felt like a less-ambitious Tarantino film.
