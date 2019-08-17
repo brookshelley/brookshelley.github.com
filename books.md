@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Psychology of Time Travel** — Kate Mascarenhas
+
+Ah, time-travel and lesbians: two of my favorite things. This book was an interesting take on time-travel, and inevitable meeting of your future and past selves. I really enjoyed the small strange moments between characters.
+
 **From the Fatherland with Love** — Ryu Murakami
 
 One of the more bonkers books that Ryu Murakami has written, it combines both  his fascination with violence with a scathing satire on bureaucracy. I couldn’t put this down and found myself alternatively horrified and laughing.
