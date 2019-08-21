@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Light Brigade** — Kameron Hurley
+
+Definite Catch-22 vibes throughout this book, with a hearty helping of Starship Troopers. If you like time-travel and space military, this is a solid read.
+
 **The Psychology of Time Travel** — Kate Mascarenhas
 
 Ah, time-travel and lesbians: two of my favorite things. This book was an interesting take on time-travel, and inevitable meeting of your future and past selves. I really enjoyed the small strange moments between characters.
