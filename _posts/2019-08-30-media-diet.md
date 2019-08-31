@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:
+title: august
 description: media diet
 categories: mediadiet
 ---
