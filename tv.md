@@ -53,6 +53,27 @@ _years: [2018](#2018) [2019](#2019)_
 - What We Do in the Shadows
 - Barry
 - Fleabag
+- Kanata no Astra
+- Arukawa Under the Bridge
+- Carole & Tuesday
+- Keiji Yugami
+- Gundam: Iron Blooded Orphans
+- Succession
+- The Team
+- Mindhunger
+- Shangri-la
+- O Maidens in Your Savage Season
+- Nichijou
+- Dark
+- Patriot
+- Another Period
+- Archer
+- Flowers
+- Great British Bake-off & Bake-Off Professionals
+- Nathan for You
+- Summer Camp Island
+- Moominvalley
+- True Blood
 
 ## 2018 <a name="2018"></a>
 
