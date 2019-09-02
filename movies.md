@@ -4,6 +4,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Godzilla: King of Monsters**
+
+Ridiculous, but exactly what I expected. A bit of Godzilla, a bit of the Core. I'm fascinated by the idea that "eco-terrorists" have wide-reaching military power, lol. Shin Godzilla is still the best movie in the series, hands down, but this was a silly action romp.
+
+**MI-5**
+
+I fondly remember the British show *Spooks*, which ended in 2011. This movie was a nice reminder of the great things about that silly spy show. 
+
 **Battle Angel Alita**
 
 I read this comic when I was younger, and it’s kind of neat to see it made into a live action film. I still can’t get over the uncanny valley eyes that Rose Salazar’s character had, or the goofy "love story". Overall, this was a fun action film.
