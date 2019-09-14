@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Steven Universe: The Movie**
+
+I'm not super fond of musicals, and this was most certainly a musical. Generally, I've enjoyed Steven Universe, but more so when it's weird, and not saccharine. This movie leaned more towards the latter, so it was cute, but not really my bag. If singing and supportive friendships are your favorite part of the show, you'll love the movie. 
+
 **Godzilla: King of Monsters**
 
 Ridiculous, but exactly what I expected. A bit of Godzilla, a bit of the Core. I'm fascinated by the idea that "eco-terrorists" have wide-reaching military power, lol. Shin Godzilla is still the best movie in the series, hands down, but this was a silly action romp.
