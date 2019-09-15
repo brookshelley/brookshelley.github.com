@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Raven Strategem** — Yoon Ha Lee
+
+All the world building and deciphering of the strange calendrical system paid off in full in this book. Getting a hint of what Jedao/Cheris might want at the end of Ninefox, this book deals with the aftermath of a dangerously peerless tactician let loose in the galaxy. I enjoyed all the strange details of the hexarchs, and imagining what each moth looked like. It’s been a minute since a sci-fi book got me so excited. This series can feel like a slog at first, but I think it’s worth it.
+
 **Ninefox Gambit** — Yoon Ha Lee
 
 This was one of the more challenging sci-fi books I've read in a while. Ultimately, figuring out what the hell was going on was well worth-it, but the first half or so was a frantic dog paddle to stay afloat. The world of NineFox Gambit is deeply strange, with technology that borders on magic that requires an empire to hold to a strict calendar for it to function. We follow a rad lady, with a homicidal general trapped in her head as she runs what seems like a suicide mission. I'm excited to read the rest of this series.
