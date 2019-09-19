@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Gideon the Ninth** — Tamsyn Muir
+
+Queer space necromancers! Queer space necromancers! OMG. This book was utterly bizarre, and a hell of a lot of fun. I’m a fan of low-tech future space stories, where for the most part the book seems more like fantasy than sci-fi, so this book was a joy. Plus there was necromancy! Apparently there are going to be two more books in this series, which is a delightful thing to learn, because I want to stretch out and learn more about this strange universe.
+
 **Raven Strategem** — Yoon Ha Lee
 
 All the world building and deciphering of the strange calendrical system paid off in full in this book. Getting a hint of what Jedao/Cheris might want at the end of Ninefox, this book deals with the aftermath of a dangerously peerless tactician let loose in the galaxy. I enjoyed all the strange details of the hexarchs, and imagining what each moth looked like. It’s been a minute since a sci-fi book got me so excited. This series can feel like a slog at first, but I think it’s worth it.
