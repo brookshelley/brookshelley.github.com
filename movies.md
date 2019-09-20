@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Aniara**
+
+TL;DR: Low-budget sci-fi cruise ship. This movie reminded me of a Twilight Zone episode, at least in its premise. I really enjoy movies where something goes horribly awry, and "what if we're stuck in space forever" definitely meets that criteria, but unlike the Twilight Zone, there's no big twist, just a slow sadness. There's a certain charm to the fact that it's Swedish as well. Plus, there’s space lesbians. We’re everywhere.
+
 **Mega Time Squad**
 
 Completely silly and fun. Low-budget time travel movies are often awesome (think Primer), but what if it was also a very low-brow comedy? Sweet as.
