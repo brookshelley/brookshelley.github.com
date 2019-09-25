@@ -1,8 +1,12 @@
-# movie list
+embarrassed# movie list
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
+
+**Eighth Grade**
+
+The idea of this movie made me _very_ anxious. Middle school is rough, and I was on edge for most of the film wondering if something very bad would happen, or if Checkov's AR-15 would reappear. **Spoiler Alert** No. There're definitely some sad moments, and some very tender and sweet ones, but no one big terrible event occurs. This isn't that kind of movie. Instead, Eighth Grade perfectly encapsulates how nervous and awkward we felt in our youth, and just how embarassed we were by our parents. I loved it.
 
 **Between Two Ferns**
 
@@ -30,7 +34,7 @@ Ridiculous, but exactly what I expected. A bit of Godzilla, a bit of the Core. I
 
 **MI-5**
 
-I fondly remember the British show *Spooks*, which ended in 2011. This movie was a nice reminder of the great things about that silly spy show. 
+I fondly remember the British show *Spooks*, which ended in 2011. This movie was a nice reminder of the great things about that silly spy show.
 
 **Battle Angel Alita**
 
@@ -50,7 +54,7 @@ A good reminder that disaster movies don’t need to have the glitz and glam of 
 
 **Killing of a Sacred Deer**
 
-Wow, this was an eerie film. At this point I’ve enough of Yorgos Lanthimos’ films that I enter into them thinking “what’s the strange twist?” This film delivered on that quite well. I love the strange, flat performance Lanthimos actors provide—they lure you into this world with everything just _a bit_ off. Also the young man in the film was _haunting_. 
+Wow, this was an eerie film. At this point I’ve enough of Yorgos Lanthimos’ films that I enter into them thinking “what’s the strange twist?” This film delivered on that quite well. I love the strange, flat performance Lanthimos actors provide—they lure you into this world with everything just _a bit_ off. Also the young man in the film was _haunting_.
 
 **First Reformed**
 
