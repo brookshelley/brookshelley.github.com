@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Hollow Kingdom** — Kira Jane Buxton
+
+Still not sure how i feel about this book. I think the idea of the book was better than the execution.
+
 **Gideon the Ninth** — Tamsyn Muir
 
 Queer space necromancers! Queer space necromancers! OMG. This book was utterly bizarre, and a hell of a lot of fun. I’m a fan of low-tech future space stories, where for the most part the book seems more like fantasy than sci-fi, so this book was a joy. Plus there was necromancy! Apparently there are going to be two more books in this series, which is a delightful thing to learn, because I want to stretch out and learn more about this strange universe.

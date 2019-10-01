@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Promare**
+
+A wild visual ride with a rather bizarre (it’s Trigger, naturally) story of fire people and the folks who fight them. There’s mecha, tons of goofy jokes, and even though it felt a little long, it was fun.
+
 **Eighth Grade**
 
 The idea of this movie made me _very_ anxious. Middle school is rough, and I was on edge for most of the film wondering if something very bad would happen, or if Checkov's AR-15 would reappear. **Spoiler Alert** No. There're definitely some sad moments, and some very tender and sweet ones, but no one big terrible event occurs. This isn't that kind of movie. Instead, Eighth Grade perfectly encapsulates how nervous and awkward we felt in our youth, and just how embarassed we were by our parents. I loved it.
