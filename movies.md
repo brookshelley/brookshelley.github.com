@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Day Shall Come**
+
+An utterly bizarre and fantastic satire about the very real lengths the state goes to in order to prop up folks with no real chance of committing “terrorist acts”. It’s worrying watching [this interview](https://www.youtube.com/watch?v=LqUsiV8LPkM) to get more behind the scenes of this film. Morris makes seriously strange stuff, and this is no exception.
+
 **High Life**
 
 Space dads! I don’t know if this is a genre, but perhaps it should be since Interstellar, High Life, and Ad Astra all appear to answer: "what if dads, but in space". However there was a _lot_ of assault in this film... it’s largely about felons being jettisoned into space, and artificial insemination experiments, it turns out. If you like very grim space movies, this might be for you.
