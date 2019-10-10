@@ -4,7 +4,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-**Hollow Kingdom** — Kira Jane Buxton
+**Pattern Recognition** — William Gibson
+
+A reread of a favorite. I might or might not partially owe Cayce for a major style inspiration for my daily wardrobe. This story has a lot of artifacts of the early oughts, but most of it feels delightfully timeless.
+
+**Hollow Kingdom** — Kira Jane Buxton [**](#ghost)
 
 Still not sure how i feel about this book. I think the idea of the book was better than the execution.
 
