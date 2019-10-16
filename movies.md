@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**The Art of Self Defense**
+
+The dialog delivery was definitely from the Yorgos Lanthimos school of deadpan, and the general vibe was extremely absurdist. I loved this film. Quite a bit of this movie was unexpected, and had me cracking up. A genuinely odd delight.
+
 **The Day Shall Come**
 
 An utterly bizarre and fantastic satire about the very real lengths the state goes to in order to prop up folks with no real chance of committing “terrorist acts”. It’s worrying watching [this interview](https://www.youtube.com/watch?v=LqUsiV8LPkM) to get more behind the scenes of this film. Morris makes seriously strange stuff, and this is no exception.
