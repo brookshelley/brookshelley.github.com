@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**What We Do in the Shadows**
+
+A rewatch of an utter classic of mockumentary. So many quotable lines and absurdly delightful scenes. The last word in vampire media.
+
 **The Art of Self Defense**
 
 The dialog delivery was definitely from the Yorgos Lanthimos school of deadpan, and the general vibe was extremely absurdist. I loved this film. Quite a bit of this movie was unexpected, and had me cracking up. A genuinely odd delight.
