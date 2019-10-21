@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**Revenant Gun**
+
+The final book in the Ninefox trilogy, and definitely the horniest one. If you military guys, there’s probably some fun for you in here. For me though, this was a great conclusion to a often confusing and wild series. I still don’t understand all of the math, but I love the world. There were some really interesting character choices here, and even though I wish we’d seen more of Cheris and Jedao chatting, the bits we did get were rad. This series was fantastic overall.
+
 **Pattern Recognition** — William Gibson
 
 A reread of a favorite. I might or might not partially owe Cayce for a major style inspiration for my daily wardrobe. This story has a lot of artifacts of the early oughts, but most of it feels delightfully timeless.
