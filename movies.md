@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**In the Shadow of the Moon**
+
+A mid-flight watch on my way to Tokyo. Pretty interesting, engaging flick that gets weird.
+
 **Parasite**
 
 There isn’t a lot I can say about this without spoiling the whole endeavor, but suffice it to say this movie is incredible. There’s _so much_ going on in every shot, and the actors performances are incredible. This is a rare movie that just keeps building and building throughout. Truly one of the best directors working.
