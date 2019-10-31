@@ -4,6 +4,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+**To Be Taught, If Fortunate** — Becky Chambers
+
+This is one of the best sci-fi short novellas I’ve read in a while. It’s not quite hard SF, but I love all the little details. The characters are great, and just casually queer, and there’s just enough suspense to make it a real page-turner. A triumph.
+
 **The Guest Cat** — Takashi Hiraide [**](#ghost)
 
 Definitely cried reading this one. I’m a sucker for Japanese cat literature for sure.
@@ -894,3 +898,4 @@ are you ok?
 [**](#ghost) <a name="ghost"></a> Ghost Book Club
 
 [***](#scifi) <a name="scifi"></a> Sci-fi/Fantasy Book Club
+Was
