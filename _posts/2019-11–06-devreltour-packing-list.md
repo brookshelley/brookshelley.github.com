@@ -1,5 +1,7 @@
 # DevRel Tour Packing list
 
+As usual, when I go on a DevRel tour, I like to write about what I've packed. This trip was a 3 week journey from Tokyo, through Kyoto, to Osaka, and back. As I write this, halfway through the trip, I feel very good about the amount of stuff I brought.
+
 ## Bags
 
 - RYU Quick Pack 18L
@@ -77,10 +79,10 @@ At some point, maybe I can travel with only USB-C cables, but that world doesn�
 
 ## Other stuff
 
+![weeks](/assets/photos/weeks2019.jpeg)
+
 - Toiletries
 - Hobonichi Weeks & Kaweco Al EF fountain pen
 - お土産
 
 The usual assortment of unguents, potions, and a toothbrush, along with my trusty new pen and notebook. I *love* this Kaweco pen, which is both completely blacked-out, and compact. I also brought some small gifts for 東京と大阪の同僚。
-
-
