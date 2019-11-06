@@ -6,6 +6,7 @@
 - Topo Designs Trip Pack
 
 ![bags](/assets/photos/ryubag2019.jpeg)
+
 ![bag2](/assets/photos/travelbag2019.jpeg)
 
 Last time I went to Japan, I brought the DSPTCH Waist Bag as my day bag, and my shoulders immediately regretted it. I think my days or a one-shoulder bag with a computer are pretty much over. This time I returned to my tried and true setup. I’ve reviewed or written about both of these bags previously.
@@ -22,7 +23,11 @@ These are great for clothes and toiletries, and additionally ensure that even in
 
 This time around, I loaded my toothbrush and some other non-leaky toiletries into this bag because I noticed the metal tip of my electric toothbrush kept *almost* poking through my dry bag.
  
-## Jackets
+## Clothes
+
+![clothes](/assets/photos/clothes.jpeg)
+
+### Jackets
 
 - Mission Workshop Torre Windshell
 
@@ -32,32 +37,34 @@ My daily jacket. I’ve got two of these and they’re awesome. Not quite waterp
 
 If it rains, I’m covered.
 
-## Shirts
+### Shirts
 
 - Wool t-shirts from Ryu and Icebreaker
 
 A great way to stay dry and warm or cool. These wash easily and are comfy for all-day-travel.
 
-## Pants
+### Pants
 
 - Two pairs of Outdoor Voices RecTrek pants
 
 I wear these to work daily, and they’re pretty ideal. Comfy, flexible, and a bit water-resistant. The pockets are also *huge* which means my phone fits easily in a front pocket.
 
-## Shoes and socks
+### Shoes and socks
 
 - Blundstones
 - Bombas no-show
 
 These shoes go on and off pretty easily, and look nice enough for business meetings while still feeling good for longer walks. Half of this trip was a vacation, where I wandered around all day, including hiking. I almost went with my new KOIO shoes, but at the last minute, opted for slip-one with a *lot* of grip.
 
-## Underwear
+### Underwear
 
 - Wool stuff from Icebreaker
 
 Wool is the way to go. I’ve tried other solutions and they were nice enough, but ultimately, wool holds up the best and wicks super well.
 
 ## Tech gear
+
+![electronics](/assets/photos/electronics2019.jpeg)
 
 - Kindle Oasis
 - Battery
