@@ -4,6 +4,8 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
+### 51 books
+
 **How to Do Nothing** — Jenny Odell
 
 Now that I've finally finished her book, I can wholeheartedly recommend it. This isn't the self-help palp that so many books about your phone are, but instead a wildly revelatory piece on bioregionalism, art, mystery, and birds. So many cool birds. This is a book I had to sip, because every few pages were full of so many ideas I wanted to savor them. I learned quite a bit from Jenny in these pages, and I am lucky to count her as a friend. Don't worry if it takes you a while to read this, just buy a copy and meander through California through it.
@@ -77,7 +79,7 @@ What an absurd romp. This would’ve worked better for me if I enjoyed cowboys o
 A classic. I read this when I was a kid, but hadn’t reread it since then. It’s weird, long, and great. The rest of the series is supposed to be bizarre, so I can’t wait. The spice must flow.
 
 **Claire DeWitt and the City of the Dead** — Sara Gran
-	
+
 An alright mystery book, but more than a few times, I think the author attempted to add _grit_ but just ended up sounding like a very awkward narrator. Also points off for a trans slur—like, c’mon, I don’t care who your narrator or, or how much of a fuck-up she is, leave us alone.	
 
 **Paradise Rot** — Jenny Hval
