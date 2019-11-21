@@ -1,11 +1,10 @@
-theme: jekyll-swiss
+theme: jekyll-theme-minimal
 title: dill & fennel
 description: a blog
 author:
     name: "brook shelley"
     email: "brookshelley+blog@gmail.com"
 gems:
-  - jekyll-feed 
-  - jekyll-swiss
+  - jekyll-feed
 plugins:
   - jekyll-redirect-from
