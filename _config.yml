@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-swiss
 title: dill & fennel
 description: a blog
 author:
@@ -6,5 +6,6 @@ author:
     email: "brookshelley+blog@gmail.com"
 gems:
   - jekyll-feed
+  - jekyll-swiss
 plugins:
   - jekyll-redirect-from
