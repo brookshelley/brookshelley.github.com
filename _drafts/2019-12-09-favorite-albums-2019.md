@@ -19,6 +19,7 @@
 6) **Beast on Beast** — Gabby's World
 7) **Placeholder** — Hand Habits
 8) **Memory Streams** — Portico Quartet
+  I first heard this band at a vinyl bar in Oakland, and their latest album rules.
 9) **Trust In The Lifeforce Of The Deep Mystery** — The Comet Is Coming
 10) **Nowhere Now Here** — MONO
 11) **Patience** — Manequin Pussy
