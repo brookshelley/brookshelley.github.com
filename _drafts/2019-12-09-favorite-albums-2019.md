@@ -1,3 +1,11 @@
+---
+layout: posts
+title: Favorite Albums of 2019
+description: closing out the decade 
+categories: blog
+---
+
+
 # My Favorite Albums of 2019
 
 ## The Playlist
