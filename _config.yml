@@ -5,7 +5,7 @@ author:
     name: "brook shelley"
     email: "brookshelley+blog@gmail.com"
 gems:
-  - jekyll-feed
+  - jekyll-feed 
   - jekyll-swiss
 plugins:
   - jekyll-redirect-from
