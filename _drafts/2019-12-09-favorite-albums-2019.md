@@ -60,9 +60,11 @@ categories: blog
 
 12) **Crush on Me** — Sir Babygirl
 
-   
+   I’m really enjoying the new influx of queer and lesbian pop music these days. This album is infectiously catchy and often hilarious. Put it on and enjoy the short bouts of sun this winter.
 
 13) **Miss Universe** — Nilüfer Yanya
+
+		
 
 14) **Hifalutin** — Lowly
 
