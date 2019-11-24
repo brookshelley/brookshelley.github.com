@@ -56,7 +56,11 @@ categories: blog
 
 11) **Patience** — Manequin Pussy
 
+   A chill mix of punk and indie rock jams. I think I first saw this band at a show/benefit for Bernie Sanders that I didn’t know was a benefit. It was a super washed crowd, but Manequin Pussy owned bones. This record rules.
+
 12) **Crush on Me** — Sir Babygirl
+
+   
 
 13) **Miss Universe** — Nilüfer Yanya
 
