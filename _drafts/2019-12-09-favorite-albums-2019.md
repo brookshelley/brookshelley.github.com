@@ -64,9 +64,11 @@ categories: blog
 
 13) **Miss Universe** — Nilüfer Yanya
 
-		
+  I'm not sure how to describe this album, but it's a jam. A bit of r&b, a bit of indie rock, and a lot of really solid tunes. I've put this album on a repeat a few times this year.		
 
 14) **Hifalutin** — Lowly
+
+  
 
 15) **Weird** — Juliana Hatfield
 

@@ -6,6 +6,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ### 52 books
 
+**The Infinite Wait** — Julia Wertz
+
+My friend Jenny recommended this one a while ago, and I finally got around to reading it. I couldn’t put it down. It’s hilarious, sad, and very close to home. I’d never heard of Wertz until now, but I plan to immediately buy all her comics.
+
 **The Future of Another Timeline** — Annalee Newitz
 
 Wow. This book was a triumph, and seriously seals Newitz as a scifi master. I only wish I could explore this world for longer. A perfect blend of history, speculation, and feminism—this book imagines a world in which collective action is possible deep into the past. Dang.
