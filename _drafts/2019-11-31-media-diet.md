@@ -1,12 +1,18 @@
 ---
 layout: posts
-title:
+title: Media diet for November
 description: november media diet
 categories: mediadiet
 ---
 # Media diet for November
 
+It’s finally chilly hygge-weather in the Bay Area, so I’ve been reading a lot after returning from a long trip to Japan. I hope wherever you are, you’re warm and feel loved.
+
 ## Books
+
+**The Future of Another Timeline** — Annalee Newitz
+
+Wow. This book was a triumph, and seriously seals Newitz as a scifi master. I only wish I could explore this world for longer. A perfect blend of history, speculation, and feminism—this book imagines a world in which collective action is possible deep into the past. Dang.
 
 **How to Do Nothing** — Jenny Odell
 
