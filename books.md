@@ -4,7 +4,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-### 52 books
+### 53 books
 
 **The Infinite Wait** — Julia Wertz
 
