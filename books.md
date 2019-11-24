@@ -4,7 +4,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-### 51 books
+### 52 books
+
+**The Future of Another Timeline** — Annalee Newitz
+
+Wow. This book was a triumph, and seriously seals Newitz as a scifi master. I only wish I could explore this world for longer. A perfect blend of history, speculation, and feminism—this book imagines a world in which collective action is possible deep into the past. Dang.
 
 **How to Do Nothing** — Jenny Odell
 
