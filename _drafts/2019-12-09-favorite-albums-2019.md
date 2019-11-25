@@ -81,6 +81,10 @@ categories: blog
 
 17) **Four of Arrows** — Great Grandpa
 
+  For a sophmore effort this is a really fun, mature album. I like that they've moved from more straightforward poppy indie music to a little more melodic rock.
+
 18) **Two Hands** — Big Thief
+
+  Honestly, the fact that Big Thief put out *two* incredible albums this year is wild to me. I love both of their 2019 records, but Two Hands especially keeps going back on the stereo. It's gorgeous. Jia Tolentino wrote about them recently, and I recommend [reading her piece](https://www.newyorker.com/culture/cultural-comment/the-ordinary-brilliance-of-big-thief).
 
 19) **Any Human Friend**— Marika Hackman
