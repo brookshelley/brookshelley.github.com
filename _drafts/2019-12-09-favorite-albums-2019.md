@@ -64,22 +64,23 @@ categories: blog
 
 13) **Miss Universe** — Nilüfer Yanya
 
-  I'm not sure how to describe this album, but it's a jam. A bit of r&b, a bit of indie rock, and a lot of really solid tunes. I've put this album on a repeat a few times this year.		
+  I'm not sure how to describe this album, but it's a jam. A bit of r&b, a bit of indie rock, and a lot of really solid tunes. I've put this album on a repeat a few times this year.
 
 14) **Hifalutin** — Lowly
 
-  Super dance-y-yet-downtempo album. I can throw this on for a variety of moods, and it seems to always suit them. There’s something about Denmark that must inspire people to make brilliant music—this album was recorded in a small warehouse near Aarhus. 
+  Super dance-y-yet-downtempo album. I can throw this on for a variety of moods, and it seems to always suit them. There’s something about Denmark that must inspire people to make brilliant music—this album was recorded in a small warehouse near Aarhus.
 
 15) **Weird** — Juliana Hatfield
 
-Oh hey, an album that feels like I do sometimes: “I'm staying in
-My hair’s not right/And if I go out/Somebody might
-Take me for a functioning/Human being”. I’m sure I heard Hatfield before this album, but this is the one where she came together for me as an artist.
+  Oh hey, an album that feels like I do sometimes: “I'm staying in/My hair’s not right/And if I go out/Somebody might
+  Take me for a functioning/Human being”. I’m sure I heard Hatfield before this album, but this is the one where she came together for me as an artist.
 
 16) **Fibs** — Anna Meredith
 
+  This album is a solid jam. Anna Meredith's compositions feel important, weird, and powerful. I often listen to this album in the morning to wake up and feel better about the day.
+
 17) **Four of Arrows** — Great Grandpa
 
-18) **Two Hands** — Big Thief	
+18) **Two Hands** — Big Thief
 
 19) **Any Human Friend**— Marika Hackman
