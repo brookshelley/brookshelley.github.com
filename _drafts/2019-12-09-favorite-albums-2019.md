@@ -68,9 +68,13 @@ categories: blog
 
 14) **Hifalutin** — Lowly
 
-  
+  Super dance-y-yet-downtempo album. I can throw this on for a variety of moods, and it seems to always suit them. There’s something about Denmark that must inspire people to make brilliant music—this album was recorded in a small warehouse near Aarhus. 
 
 15) **Weird** — Juliana Hatfield
+
+Oh hey, an album that feels like I do sometimes: “I'm staying in
+My hair’s not right/And if I go out/Somebody might
+Take me for a functioning/Human being”. I’m sure I heard Hatfield before this album, but this is the one where she came together for me as an artist.
 
 16) **Fibs** — Anna Meredith
 
