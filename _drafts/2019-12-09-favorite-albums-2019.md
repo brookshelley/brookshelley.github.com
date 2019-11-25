@@ -87,4 +87,8 @@ categories: blog
 
   Honestly, the fact that Big Thief put out *two* incredible albums this year is wild to me. I love both of their 2019 records, but Two Hands especially keeps going back on the stereo. It's gorgeous. Jia Tolentino wrote about them recently, and I recommend [reading her piece](https://www.newyorker.com/culture/cultural-comment/the-ordinary-brilliance-of-big-thief).
 
-19) **Any Human Friend**— Marika Hackman
+19) **Any Human Friend** — Marika Hackman
+
+  "I've got BDE/I think it's a venereal disease". Ugh. This album is an instant lesbian classic. I've loved every album Hackman has put out, with That Iron Taste immediately pulling me in, and constantly being on rotation. I got to see her perform in Portland a few years back, and the show was outstanding. Between her soft vocal delivery, which whispers with poetry and sensuality, and the brutally raw lyrical content... just wow.
+
+20) **Meaning** — Field Mouse
