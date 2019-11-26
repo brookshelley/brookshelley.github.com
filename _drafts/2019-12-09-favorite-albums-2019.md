@@ -92,3 +92,5 @@ categories: blog
   "I've got BDE/I think it's a venereal disease". Ugh. This album is an instant lesbian classic. I've loved every album Hackman has put out, with That Iron Taste immediately pulling me in, and constantly being on rotation. I got to see her perform in Portland a few years back, and the show was outstanding. Between her soft vocal delivery, which whispers with poetry and sensuality, and the brutally raw lyrical content... just wow.
 
 20) **Meaning** — Field Mouse
+
+  
