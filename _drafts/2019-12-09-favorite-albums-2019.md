@@ -91,6 +91,8 @@ categories: blog
 
   "I've got BDE/I think it's a venereal disease". Ugh. This album is an instant lesbian classic. I've loved every album Hackman has put out, with That Iron Taste immediately pulling me in, and constantly being on rotation. I got to see her perform in Portland a few years back, and the show was outstanding. Between her soft vocal delivery, which whispers with poetry and sensuality, and the brutally raw lyrical content... just wow.
 
-20) **Meaning** — Field Mouse
+20) **Lost Wisdom Pt.** — Mount Eerie
+
+  After the utter devastation of his past two albums, this truly sad album about an impending divorce with beautiful guest vocals from Julie Doiron almost comes as a relief. This is a tragedy I can almost understand, feelings I have felt. Microphones and Mount Eerie have held me through many hard times, and this album is an excellent entry into their discography.
 
   
