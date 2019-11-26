@@ -1,4 +1,3 @@
-Blog
 ---
 layout: posts
 title: DevRel Tour Packing List
