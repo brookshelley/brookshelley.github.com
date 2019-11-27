@@ -13,7 +13,7 @@ Another year has rushed past, and with it, another iPhone update and some change
 
 ## Some Things Change
 
-**Fantastical**—Last year I said "This is definitely the app I am most interested in replacing." I replaced it with **iOS Calendar** not too long after writing this post because of the cleaner look, date view icon, and a better visualization of my next meeting on my phone and watch. I still hope that someday Apple opens up the ability to change icons based on events or time, but until they do, I'll have a hard time moving away from the default calendar.
+**Fantastical**—Last year I said "This is definitely the app I am most interested in replacing." I replaced it with **iOS Calendar** not too long after writing this post because of the cleaner look, date view icon, and a better visualization of my next meeting on my phone and watch. I also really hate how Fantastical uses space on the iPad. I still hope that someday Apple opens up the ability to change icons based on events or time, but until they do, I'll have a hard time moving away from the default calendar.
 
 **Bear**—I moved completely off of Bear in favor of **iAWriter**, largely due to [Working Copy](https://workingcopy.app), which is an excellent Git client for iOS devices, and means I can use iAWriter's file function to open up posts like this one that live in my personal blog's Drafts folder.
 
@@ -53,3 +53,6 @@ A few of the apps that live inside my large catch-all folder and are opened via 
 
 **1Password**—All my passwords live here, and are super long and complex. Similar to Things, I don't think I could work the same way without 1Password.
 
+## Wrap-up
+
+Last year I suggested my list of apps might not shift much, but five of my major home screen apps changed due to updates and simplicity. I'm happy this year with the apps that I use and due to my requirements of quality Apple Watch, Mac, and iPadOS cross-platform functionality the bar is really high for other apps to knock these off of my phone. I'm very excited about iOS 14, especially with news that it might be more stable than the particularly rough iOS 13 release. Perhaps Apple will give more features to devs that unlock unimagined new functionality. We'll find out in 6 months.
