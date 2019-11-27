@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 64 Movies
+### 65 Movies
+
+**Terminator: Dark Fate**
+
+A nice return to form. This felt like a nice natural extension to Terminator 2, and while it wasn't a great film by any means, it was a fun romp with lots of goofy jokes, explosions, and Mackenzie Davis. 
 
 **Edge of Tomorrow**
 

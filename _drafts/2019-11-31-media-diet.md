@@ -28,6 +28,10 @@ This was a neat YA that ended far before I thought it would—my edition had alm
 
 ## Movies
 
+**Terminator: Dark Fate**
+
+A nice return to form. This felt like a nice natural extension to Terminator 2, and while it wasn't a great film by any means, it was a fun romp with lots of goofy jokes, explosions, and Mackenzie Davis. 
+
 **Edge of Tomorrow**
 
 This was a rewatch after a listening to a recent episode of the [Incomparables](https://www.theincomparable.com/theincomparable/485/). I have a special place in my heart for movies where Tom Cruise is supposed to be a tough guy, and if you add in mechanized suits? Hell yes. It’s not the best film, but it’s very fun.
