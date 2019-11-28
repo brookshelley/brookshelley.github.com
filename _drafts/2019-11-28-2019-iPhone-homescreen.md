@@ -11,7 +11,11 @@ Another year has rushed past, and with it, another iPhone update and some change
 
 ![2019 iPhone Screen](/assets/photos/2019iphone.png)
 
+I've posted these for the past few years, so if you want to see what apps I was using in [2017, here you go](https://medium.com/@brookshelley/2017-homescreen-ac92817eae60).
+
 ## Some Things Change
+
+**3 app dock**—I moved my Twitter app out of my dock in order to spend less time on Twitter. I figured if I wanted to to launch it I could easily search for it, but perhaps by having it out of reach I wouldn't launch the app out of habit or boredom. This worked pretty well.  
 
 **Fantastical**—Last year I said "This is definitely the app I am most interested in replacing." I replaced it with **iOS Calendar** not too long after writing this post because of the cleaner look, date view icon, and a better visualization of my next meeting on my phone and watch. I also really hate how Fantastical uses space on the iPad. I still hope that someday Apple opens up the ability to change icons based on events or time, but until they do, I'll have a hard time moving away from the default calendar.
 
