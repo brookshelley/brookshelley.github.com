@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 65 Movies
+### 66 Movies
+
+**Uncle Boonmee Who Can Recall His Past Lives**
+
+I’ve had this on my to-watch list for years, and finally decided to dive in. It was a beautiful and strange mediation on life, death, and family. 
 
 **Terminator: Dark Fate**
 

@@ -4,6 +4,7 @@ title: Media diet for November
 description: november media diet
 categories: mediadiet
 ---
+
 # Media diet for November
 
 It’s finally chilly hygge-weather in the Bay Area, so I’ve been reading a lot after returning from a long trip to Japan. I hope wherever you are, you’re warm and feel loved.
@@ -27,6 +28,10 @@ Now that I've finally finished her book, I can wholeheartedly recommend it. This
 This was a neat YA that ended far before I thought it would—my edition had almost 100 pages of previews after the book. I enjoyed the magic system, despite the unfortunate teen romance that tends to plague YA. I'll likely read more of this series, in hopes that it continues to build a cool world.
 
 ## Movies
+
+**Uncle Boonmee Who Can Recall His Past Lives**
+
+I’ve had this on my to-watch list for years, and finally decided to dive in. It was a beautiful and strange mediation on life, death, and family. 
 
 **Terminator: Dark Fate**
 
