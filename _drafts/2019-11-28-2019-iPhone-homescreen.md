@@ -5,7 +5,7 @@ description: 2019 iOS Homescreen Update
 categories: blog
 ---
 
-# Single Screen Life
+# Single screen life
 
 Another year has rushed past, and with it, another iPhone update and some changes to my phone since [last year's setup](https://www.brookshelley.com/blog/2018/12/14/2018-iphone-homescreen-update.html). My use of a single screen of apps continues, with a few major and minor changes alongside. 
 
@@ -13,7 +13,7 @@ Another year has rushed past, and with it, another iPhone update and some change
 
 I've posted these for the past few years, so if you want to see what apps I was using in [2017, here you go](https://medium.com/@brookshelley/2017-homescreen-ac92817eae60).
 
-## Some Things Change
+## Some things change
 
 **3 app dock**—I moved my Twitter app out of my dock in order to spend less time on Twitter. I figured if I wanted to to launch it I could easily search for it, but perhaps by having it out of reach I wouldn't launch the app out of habit or boredom. This worked pretty well.  
 
@@ -27,7 +27,7 @@ I've posted these for the past few years, so if you want to see what apps I was 
 
 **Fiery Feeds**—***Reeder 4** came out* and it's amazing. I moved to Reeder 4 on all of my devices, and I love it. The read later feature has also replaced Safari's read later for me in all instances. I don't use Bionic reading, but it's a neat feature regardless. I continue to use [Feedbin](https://feedbin.com) to back my RSS.
 
-## Some Things Stay the Same
+## Some things stay the same
 
 **Overcast** — Overcast is great. This year it just got better, from CarPlay, to the watch, to my phone. I am really excited for Marco to update for more Airplay 2 features as he mentioned in a recent episode of [ATP](https://atp.fm/episodes/352). There are other podcast apps out there, but for smart-speed, playlists, and everything else, there is only Overcast.
 
