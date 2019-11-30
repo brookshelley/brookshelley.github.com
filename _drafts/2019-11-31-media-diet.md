@@ -35,6 +35,8 @@ This was a neat YA that ended far before I thought it would—my edition had alm
 
 **Fast Color**
 
+The preview of this movie had me hoping it was a potential adaptation of NK Jeminson's Broken Earth trilogy, but alas, it wasn't. Fortunately, it was still a fun movie about family and mutant powers. I wish there was a little more substance to the whole film, but on the upside, the mood was pretty interesting. Also it's weird seeing a belter as a sheriff (please see the Expanse for more details).
+
 **Uncle Boonmee Who Can Recall His Past Lives**
 
 I’ve had this on my to-watch list for years, and finally decided to dive in. It was a beautiful and strange mediation on life, death, and family. 
