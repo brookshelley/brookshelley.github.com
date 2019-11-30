@@ -4,7 +4,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-### 53 books
+### 54 books
+
+**The Starless Sea** — Erin Morgenstern
+
+I read this in a delightful haze during the holiday weekend. I love stories like these, that are also about stories, and books, and love. I remember liking the Night Circus, but I absolutely adore The Starless Sea. This is a book for those of us who love exploring, and digging into a fantastical tale.
 
 **The Infinite Wait** — Julia Wertz
 
