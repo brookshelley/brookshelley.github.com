@@ -11,6 +11,10 @@ It’s finally chilly hygge-weather in the Bay Area, so I’ve been reading a lo
 
 ## Books
 
+**The Starless Sea** -- Erin Morgenstern
+
+I read this in a delightful haze during the holiday weekend. I love stories like these, that are also about stories, and books, and love. I remember liking the Night Circus, but I absolutely adore The Starless Sea. This is a book for those of us who love exploring, and digging into a fantastical tale.
+
 **The Infinite Wait** -- Julia Wertz
 
 My friend Jenny recommended this one a while ago, and I finally got around to reading it. I couldn’t put it down. It’s hilarious, sad, and very close to home. I’d never heard of Wertz until now, but I plan to immediately buy all her comics.
