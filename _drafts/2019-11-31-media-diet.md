@@ -33,6 +33,8 @@ This was a neat YA that ended far before I thought it would—my edition had alm
 
 ## Movies
 
+**Fast Color**
+
 **Uncle Boonmee Who Can Recall His Past Lives**
 
 I’ve had this on my to-watch list for years, and finally decided to dive in. It was a beautiful and strange mediation on life, death, and family. 
