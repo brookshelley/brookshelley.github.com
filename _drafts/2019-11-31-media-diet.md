@@ -33,6 +33,10 @@ This was a neat YA that ended far before I thought it would—my edition had alm
 
 ## Movies
 
+**Knives Out**
+
+Sadly, I wasn't feeling great so I missed a bit of this, but I think I got all the important bits. I really want to see this again in the near future. The overall tone of the film was fantastic, and the comedic hits were delightful.
+
 **Fast Color**
 
 The preview of this movie had me hoping it was a potential adaptation of NK Jeminson's Broken Earth trilogy, but alas, it wasn't. Fortunately, it was still a fun movie about family and mutant powers. I wish there was a little more substance to the whole film, but on the upside, the mood was pretty interesting. Also it's weird seeing a belter as a sheriff (please see the Expanse for more details).
