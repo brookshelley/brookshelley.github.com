@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 67 Movies
+### 68 Movies
+
+**Knives Out**
+
+Sadly, I wasn't feeling great so I missed a bit of this, but I think I got all the important bits. I really want to see this again in the near future. The overall tone of the film was fantastic, and the comedic hits were delightful.
 
 **Fast Color**
 
