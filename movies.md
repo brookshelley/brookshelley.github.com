@@ -5,9 +5,15 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 <hr>
 ### 68 Movies
 
+**Ready or Not**
+
+Lol can't wait to never get remarried. Rich people are the worst. Also it's a real bummer that "satanists" get such a bad wrap in a world where the christians are the ones actually harming children. Fuck the [satanic panic](https://overcast.fm/+VX6lxzezs)
+
 **Knives Out**
 
 Sadly, I wasn't feeling great so I missed a bit of this, but I think I got all the important bits. I really want to see this again in the near future. The overall tone of the film was fantastic, and the comedic hits were delightful.
+
+Second time emphasized how excellent this film was. A really great ride.
 
 **Fast Color**
 
