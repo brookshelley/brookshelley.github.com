@@ -6,3 +6,7 @@ categories: mediadiet
 ---
 
 # Media diet for
+
+## Books
+
+## Movies
