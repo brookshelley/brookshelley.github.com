@@ -4,7 +4,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 ## 2019 <a name="2019"></a>
 <hr>
 
-### 54 books
+### 55 books
+
+**This is How You Lose the Time War** — 
+
+A deeply strange time-travel romance between two competing spies, Blue and Red. The central conceit of shifting threads of history and letter-leaving was fun, but at times I honestly had no idea what was going on. I really enjoyed this book.
 
 **The Starless Sea** — Erin Morgenstern
 
