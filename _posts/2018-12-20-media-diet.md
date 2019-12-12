@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for December
+title: Media Diet for December
 description: media diet
 categories: mediadiet
 ---

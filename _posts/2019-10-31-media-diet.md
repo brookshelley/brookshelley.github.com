@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for October
+title: Media Diet for October
 description: media diet
 categories: mediadiet
 ---

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for September
+title: Media Diet for September
 description: media diet
 categories: mediadiet
 ---

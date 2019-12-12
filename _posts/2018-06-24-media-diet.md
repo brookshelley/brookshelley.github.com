@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for June
+title: Media Diet for June
 description: media diet
 categories: mediadiet
 ---
