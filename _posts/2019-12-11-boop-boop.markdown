@@ -6,7 +6,6 @@ author: brook
 tags:
   - blog
 category: blog
-blog: true
 ---
 
 ## testing 
