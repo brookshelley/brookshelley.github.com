@@ -5,8 +5,6 @@ description: post-divorce thoughts
 categories: blog
 ---
 
-# on being alone.
-
 A bit about this last few months.
 
 It first hit me the night she left. The quiet. Before, there was rustling in the house, subtle signs of her presence, affection in the same space. Now, the night was too quiet, her form did not move with breath next to me. I was alone. My cats tried to fill the void. The wandered, and meowed, and looked for her in closets and cabinets — or so it seemed to me, as I projected my sadness onto them.

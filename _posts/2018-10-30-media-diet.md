@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: october
+title: Media diet for October 2018
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for October 2018
 
 ## Books
 

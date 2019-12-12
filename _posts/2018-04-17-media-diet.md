@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: april
+title: Media Diet for April 2018
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for April 2018
 
 ## Books
 

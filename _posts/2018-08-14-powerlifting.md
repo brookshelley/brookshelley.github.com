@@ -5,8 +5,6 @@ description: why I started to lift heavy things
 categories: blog
 ---
 
-# Powerlifting and getting "swole"
-
 ## Young Brook
 
 Growing up, I never wanted to be big. My parents were both over 6' tall, and I

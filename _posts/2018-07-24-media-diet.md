@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: july
+title: Media diet for July 2018
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for June 2018
 
 ## Books
 

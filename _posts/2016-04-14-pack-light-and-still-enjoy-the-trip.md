@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: pack light and still enjoy the trip
+title: Pack light and still enjoy the trip
 description: Why I choose to travel with a 16L bag everywhere I go.
 categories: blog
 ---
-
-# Pack light and still enjoy your trip
 
 Why I choose to travel with a 16L bag everywhere I go.
 
