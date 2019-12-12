@@ -5,6 +5,7 @@ date: 2019-12-11
 tags:
   - 
 category: mediadiet
+blog: true
 ---
 
 ## Books
