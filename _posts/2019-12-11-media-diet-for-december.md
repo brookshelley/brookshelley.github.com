@@ -1,5 +1,5 @@
 ---
-layout: mediadiet
+layout: posts
 title: "Media diet for December"
 date: 2019-12-11
 tags:
