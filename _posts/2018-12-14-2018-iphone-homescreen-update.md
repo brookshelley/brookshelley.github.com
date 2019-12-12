@@ -5,8 +5,6 @@ description: the apps I use on my iPhone
 categories: blog
 ---
 
-# 2018 iPhone Homescreen
-
 Back to a single screen.
 
 ![iphone](/assets/photos/iphone2018.jpeg)

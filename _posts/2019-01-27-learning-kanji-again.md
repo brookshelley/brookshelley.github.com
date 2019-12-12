@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: learning kanji again
+title: Learning kanji again
 description: one character at a time
 categories: blog
 ---

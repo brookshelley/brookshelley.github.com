@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: august
+title: Media diet for August 2019
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for August
 
 ## Books
 

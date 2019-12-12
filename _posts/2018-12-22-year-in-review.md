@@ -5,8 +5,6 @@ description: a long year full of change
 categories: blog
 ---
 
-# 2018 in Review
-
 ## Started in Japan
 
 Last year, I hopped on a plane to Tokyo before the countdown began, and landed in the evening of the 1st of January. Making my way to my rental apartment in Koenji, the city was quiet as folks celebrated with their family. It was a strange trip. I got to do my hatsumode at Meiji Jingu with thousands of people, and see the Emperor’s second to last speech before his groundbreaking abdication next year. Parks were closed, but fortunately, izakayas were open. My friend Magda met up with me later that week, and I showed her Tokyo, Osaka, and Kyoto. It was her first trip to Japan, and we both had a blast eating food and visiting a cool ryokan.

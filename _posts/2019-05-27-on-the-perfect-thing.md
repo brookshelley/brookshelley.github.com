@@ -5,8 +5,6 @@ description: why do we search for the best stuff?
 categories: blog
 ---
 
-# On the perfect Thing
-
 The search for the best, most optimized, beautiful, light, and pleasing things.
 
 ## Why do we search?

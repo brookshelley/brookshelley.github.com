@@ -5,8 +5,6 @@ description: lots of shows around the world
 categories: blog
 ---
 
-# Favorite TV Shows of 2018
-
 This year I travelled quite a bit—almost 90 hours in the air. When I fly I always have my Kindle, but I usually find myself binge-watching a tv show, and keep my Plex loaded on my iPad with things to see. I watch shows on Netflix and Amazon Prime as well, but the local storage and caching isn’t always dependable for planes, and nothing is more disappointing than getting on a plane and finding out that your shows won’t play. These shows are a mix of joyful, and melancholy, and I loved each one.
 
 **Patriot**

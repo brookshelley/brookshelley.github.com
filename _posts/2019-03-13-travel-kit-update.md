@@ -5,8 +5,6 @@ description: 2019 travel kit
 categories: blog
 ---
 
-# Travel kit update
-
 Since 2019, I updated my kit a [little bit](https://twitter.com/brookshelley/status/1100823338497105921), but mostly it stayed the same.
 
 ## One old bag, one new

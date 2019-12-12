@@ -5,8 +5,6 @@ description: things to wear
 categories: blog
 ---
 
-# Wardrobe Refresh
-
 As my clothes gradually wear out, I’m slowly trying to replace everything with my current favorites. This makes for a very simple wardrobe that works for all 4 seasons. 
 
 Lots of this stuff is wool, all of it is pretty durable, and when possible I tried to find vendors that were environmentally friendly and smaller. 
