@@ -1,0 +1,14 @@
+---
+layout: post
+title: "BOOP BOOP"
+date: 2019-12-11
+author: brook
+tags:
+  - blog
+category: blog
+blog: true
+---
+
+## testing 
+
+This is a blog post
