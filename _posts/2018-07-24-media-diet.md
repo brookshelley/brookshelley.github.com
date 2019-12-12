@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for July 2018
+title: Media diet for July
 description: media diet
 categories: mediadiet
 ---

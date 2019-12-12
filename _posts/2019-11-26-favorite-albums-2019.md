@@ -5,9 +5,6 @@ description: closing out the decade
 categories: blog
 ---
 
-
-# My Favorite Albums of 2019
-
 ## The Playlist
 
 [Here's all the albums I really loved this year](https://music.apple.com/us/playlist/favorites-of-2019/pl.u-vp3jjIrk0xN) easily accessible as an Apple Playlist.

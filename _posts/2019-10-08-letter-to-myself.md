@@ -5,8 +5,6 @@ description: writing a cathartic letter to myself
 categories: blog
 ---
 
-# A letter to young Brook
-
 (this is a very earnest post, and if you're here for backpacks and travel, maybe skip this one)
 
 Hey Brook,

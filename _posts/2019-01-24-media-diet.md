@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for January 2019
+title: Media diet for January
 description: media diet
 categories: mediadiet
 ---

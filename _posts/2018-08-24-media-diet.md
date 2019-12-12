@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for August 2018
+title: Media diet for August
 description: media diet
 categories: mediadiet
 ---

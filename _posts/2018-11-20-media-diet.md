@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for November 2018
+title: Media diet for November
 description: media diet
 categories: mediadiet
 ---

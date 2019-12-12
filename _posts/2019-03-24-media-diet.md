@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media Diet for March 2019
+title: Media Diet for March
 description: media diet
 categories: mediadiet
 ---

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Media diet for May 2018
+title: Media diet for May
 description: media diet
 categories: mediadiet
 ---

@@ -5,8 +5,6 @@ description: 2019 iOS Homescreen Update
 categories: blog
 ---
 
-# Single screen life
-
 Another year has rushed past, and with it, another iPhone update and some changes to my phone since [last year's setup](https://www.brookshelley.com/blog/2018/12/14/2018-iphone-homescreen-update.html). My use of a single screen of apps continues, with a few major and minor changes alongside. 
 
 ![2019 iPhone Screen](/assets/photos/2019iphone.png)
