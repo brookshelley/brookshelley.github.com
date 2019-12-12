@@ -6,7 +6,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ### 55 books
 
-**This is How You Lose the Time War** — 
+**This is How You Lose the Time War** — Amal el-Mohtar and Max Gladstone
 
 A deeply strange time-travel romance between two competing spies, Blue and Red. The central conceit of shifting threads of history and letter-leaving was fun, but at times I honestly had no idea what was going on. I really enjoyed this book.
 
@@ -96,7 +96,7 @@ A classic. I read this when I was a kid, but hadn’t reread it since then. It�
 
 **Claire DeWitt and the City of the Dead** — Sara Gran
 
-An alright mystery book, but more than a few times, I think the author attempted to add _grit_ but just ended up sounding like a very awkward narrator. Also points off for a trans slur—like, c’mon, I don’t care who your narrator or, or how much of a fuck-up she is, leave us alone.	
+An alright mystery book, but more than a few times, I think the author attempted to add _grit_ but just ended up sounding like a very awkward narrator. Also points off for a trans slur—like, c’mon, I don’t care who your narrator or, or how much of a fuck-up she is, leave us alone.
 
 **Paradise Rot** — Jenny Hval
 
