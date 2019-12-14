@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Dill and Fennel: A Newsletter
+title: A Newsletter
 description: a few links and thoughts in your inbox
 categories: blog
 ---
