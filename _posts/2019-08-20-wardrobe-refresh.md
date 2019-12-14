@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: wardrobe refresh
+title: Wardrobe Refresh
 description: things to wear
 categories: blog
 ---
