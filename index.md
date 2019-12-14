@@ -1,4 +1,5 @@
 {% for post in site.posts limit: 4  %}
+{{ page.title }}
 {{ post.content }}
 <br />
 [Permalink: {{ post.title }}]({{ post.url }})
