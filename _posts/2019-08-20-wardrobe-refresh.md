@@ -37,7 +37,9 @@ Lots of this stuff is wool, all of it is pretty durable, and when possible I tri
 
 ## Socks
 
-[8 pairs of socks](https://bombas.com/products/womens-no-shows-one-color-eight-pack?variant=black) — Great wool socks that pack light and dry quickly.
+[8 pairs of socks](https://bombas.com/products/womens-no-shows-one-color-eight-pack?variant=black) — Great socks that pack light and dry quickly.
+
+Alternatively [8 pairs of wool socks](https://darntough.com/products/womens-ss18-vertex-no-show-tab-ultra-light?variant=13339995701301) — These hold up well, wash easily, and dry fast.
 
 ## Pajamas
 
@@ -54,3 +56,11 @@ Lots of this stuff is wool, all of it is pretty durable, and when possible I tri
 ## Rain coat
 
 [Coat](https://arcteryx.com/us/en/shop/womens/andra-coat) — Very low-key and stealth. This jacket looks just as good in the city as it does on a hike.
+
+## Knit cap
+
+[1 Wool Watch Cap](https://www.tannergoods.com/products/merino-watch-cap) — This cap is perfectly warm and soft.
+
+## Shoes
+
+[Sturdy leather boots](https://www.blundstone.com/shop/black-premium-leather-v-cut-boots-womens-style-510) — If I only had one pair of shoes, Blundstones would be it. They're sturdy as fuck, and slip on and off for visits to Japan. They're also comfortable.
