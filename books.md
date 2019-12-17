@@ -6,6 +6,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ### 55 books
 
+**Interference** — Sue Burke
+
+A fun follow-up to a great book from last year. I loved seeing how modern Earth folks mixed with the people on the rainbow bamboo planet. I was surprised to find that we only followed a single generation of characters this time, but I did enjoy how they were more fleshed-out.
+
 **This is How You Lose the Time War** — Amal el-Mohtar and Max Gladstone
 
 A deeply strange time-travel romance between two competing spies, Blue and Red. The central conceit of shifting threads of history and letter-leaving was fun, but at times I honestly had no idea what was going on. I really enjoyed this book.
