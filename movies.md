@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 68 Movies
+### 69 Movies
+
+**Ad Astra**
+
+Space Brad Pitt! We’ve sent most leading men to space, but never Pitt (I didn’t check this too carefully). Also this had Donald Sutherland, who is a personal favorite. I appreciate that none of the things in space made sound at least. Sad dads in space. It was pretty, and exciting, but ultimately didn’t really give me much to latch onto.
 
 **Ready or Not**
 
