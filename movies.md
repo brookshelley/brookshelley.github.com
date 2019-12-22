@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 69 Movies
+### 70 Movies
+
+**Star Wars: Rise of Skywalker**
+
+Frankly [this post from Film Critic Hulk](https://www.patreon.com/posts/emperor-only-has-32504876) covered my feelings well. I described it as a movie trying to fellate itself. Scenes rarely got to breathe, and the movie felt packed with fab service and confusing backtracking from Last Jedi. Also wow, they just dropped a bunch of character storylines.
 
 **Ad Astra**
 
