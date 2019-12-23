@@ -928,4 +928,3 @@ are you ok?
 [**](#ghost) <a name="ghost"></a> Ghost Book Club
 
 [***](#scifi) <a name="scifi"></a> Sci-fi/Fantasy Book Club
-Was
