@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 70 Movies
+### 71 Movies
+
+**Psycho Pass**
+
+The episodes of this show already feel fairly cinematic, so stretching the show to nearly 2 hours felt right. It was super jarring to hear random English throughout the film though—at the start I thought I was accidentally watching a dub.
 
 **Star Wars: Rise of Skywalker**
 
