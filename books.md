@@ -6,6 +6,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ### 56 books
 
+**Dept. of Speculation** — Jenny Offill
+
+A gorgeous and sad book that captures long relationships so well. I loved for narrator and the strange poetic style of storytelling. I read this in two sittings and was enraptured.
+
 **Dead Astronauts** — Jeff Vandermeer
 
 This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me. 
