@@ -3,7 +3,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 <hr>
-### 72 Movies
+### 73 Movies
+
+**Uncut Gems**
+
+This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems. 
 
 **One Cut of the Dead**
 
