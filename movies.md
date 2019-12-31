@@ -9,7 +9,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 **Ford vs. Ferrari**
 
 A blast! I love car racing so much, and this film was a gorgeous vision of a famous showdown between an incredible car company, and Ford. I grew up hearing stories about Shelby, and this film brought him to life.
-Testing
+
 **Uncut Gems**
 
 This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems. 
