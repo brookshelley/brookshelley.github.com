@@ -9,7 +9,6 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 **Ford vs. Ferrari**
 
 A blast! I love car racing so much, and this film was a gorgeous vision of a famous showdown between an incredible car company, and Ford. I grew up hearing stories about Shelby, and this film brought him to life.
->>>>>>> 2037020b633aff7d652f0747c1f4b44c44feeda8
 
 **Uncut Gems**
 
