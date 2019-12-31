@@ -772,6 +772,7 @@ system. Lots of discussion of class, immigration, and identity. The narrator was
 a little distracting, but it was an interesting narrative conceit.
 
 ## 2017 <a name="2017"></a>
+<hr>
 
 ### 70 Books
 
