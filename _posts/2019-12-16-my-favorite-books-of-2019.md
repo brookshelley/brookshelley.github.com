@@ -4,8 +4,8 @@ title: "My Favorite Books of 2019"
 date: 2019-12-16
 tags:
   - books
-description: books I loved this year
-categories: blog
+category: blog
+blog: true
 ---
 
 This year I [read 55 books](https://www.brookshelley.com/books) and a lot of graphic novels. Fortunately, most of them were pretty great, which made it even harder to pick out my five favorite. I gravitated towards a lot of fantasy and sci-fi in 2019 as a nice way to escape or even think about a potentially scarier future. My plan to keep reading primarily female authors also paid off.

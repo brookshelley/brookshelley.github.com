@@ -1,15 +1,29 @@
 ---
+<<<<<<< HEAD
 type: posts
 title: "My Favorite Movies of 2019"
 date: 2020-01-01
 description: movies I loved this year
 tags:
   - movies
+=======
+layout: posts
+title: "My Favorite Movies of 2019"
+date: 2020-01-01
+tags:
+  - movies
+category: blog
+blog: true
+>>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
 ---
 
 Out of [74 movies](https://letterboxd.com/brookshelley/films/), I wanted to pick a few that really stood out, and then talk briefly about a few that I really didn't enjoy. I went to the theater quite a bit this year, as I live pretty close to one with couch-seats and luckily have a few film-buddies to meet up with. Other films that I didn't get a chance to see while they were on the big screen were rented at home or watched through a myriad of streaming services I've accrued over the years.
 
+<<<<<<< HEAD
 ![favorite movies photo](https://www.brookshelley.com/assets/photos/letterboxd.jpeg)
+=======
+![favorite movies photo](/assets/photos/letterboxd.jpeg)
+>>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
 
 ---
 
@@ -110,3 +124,8 @@ I don't know why I love Resident Evil movies so much, but the fact that Paul W.S
 **Dune**
 
 The David Lynch version of Dune, in all of its weirdness, was one of the movies I watched on repeat as a child. I know, that explains a lot, right? I can't wait to see what Denis Villeneuve does with the subject matter. The spice must flow!
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1

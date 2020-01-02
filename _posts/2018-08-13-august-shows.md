@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: two concerts
+title: two concerts in August
 description: hop along & deafheaven shows
 categories: blog
 ---
-
-# Two Concerts in August
 
 A few years ago, after moving to Portland, I discovered a secret: you can do
 almost anything alone. I'd lived in Austin for most of my life, and as I

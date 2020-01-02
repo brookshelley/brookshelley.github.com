@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: 3rd XOXO & 1 Year Later
+title: XOXO 2018 + One Year Later
 description: Thinking about XOXO this weekend & healing
 categories: blog
 ---
-
-# XOXO 2018 + One Year Later
 
 ## My 3rd XOXO
 

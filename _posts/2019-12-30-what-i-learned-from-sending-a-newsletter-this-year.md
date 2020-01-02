@@ -4,8 +4,8 @@ title: "What I learned from sending a newsletter this year"
 date: 2019-12-30
 tags:
   -
-description: weekly links were pretty fun
-categories: blog
+category: blog
+blog: true
 ---
 
 Way back in February of 2019, I sent my first newsletter—a repost of a [blog post about learning Japanese](https://dillandfennel.substack.com/p/learning-japanese-again), then petered out for a bit. In July, I began sending [weekly link emails](https://dillandfennel.substack.com/p/weekly-links), which I managed to keep up through the end of the year. It's been quite a fun Sunday activity, so I thought I'd chat a bit about what the experience of weekly link writing was like.

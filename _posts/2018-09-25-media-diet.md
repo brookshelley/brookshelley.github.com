@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: september
+title: Media Diet for September
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for September 2018
 
 ## Books
 

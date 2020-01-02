@@ -5,8 +5,6 @@ description: don't burn down the whole ding dang forest
 categories: blog
 ---
 
-# Smoke gets in your eyes
-
 Due to a series of forest fires, Portland has looked like an alien planet for the past few weeks.
 
 ![aqi search](/assets/photos/aqi.png)

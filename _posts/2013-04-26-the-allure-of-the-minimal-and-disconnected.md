@@ -5,8 +5,6 @@ description: writing on minimalism
 categories: blog
 ---
 
-# The Allure of the Minimal and Disconnected
-
 ## The Future
 
 Most films that show our future are full of glitz and glamour, a fantastical land of flying vehicles. People live in clean, modern homes, and have their lives radically improved through technology, and want for nothing. Families and workers seamlessly keep in touch, and share parts of their lives with their friends and companions, and generally embrace the technology all around them.

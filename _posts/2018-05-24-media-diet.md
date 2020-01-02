@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: may
+title: Media Diet for May
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for May 2018
 
 ## Books
 

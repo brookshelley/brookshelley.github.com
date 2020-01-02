@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: april
+title: Media Diet for April
 description: media diet
 categories: mediadiet
 ---
-
-# Media Diet for April
 
 https://screenanarchy.com/assets_c/2018/02/IFFR2018-review-Niswog-main-thumb-860xauto-70015.jpg
 

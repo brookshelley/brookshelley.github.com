@@ -5,8 +5,6 @@ description: review of a new backpack for euro travel
 categories: blog
 ---
 
-# Invisible One Mini Review
-
 Bags are my thing. Well, bags and shoes. Traveling as much as I do, having a dependable, comfortable, and sleek bag is pretty important. For the past two or so years, I've depended on my Topo Designs Trip Pack for short trips, and then nested it inside of my Ryu QuickPack for longer trips abroad. This has worked out well, but walking around Copenhagen, and going through a variety of international airport security, I wondered if I could consolidate to one bag, with an easier way to access my laptop and other stuff. The [Invisible One Mini](https://www.opposethis.com/products/invisible-backpack-one-mini) seemed like a great way to test this out. I was drawn to the design of the bag, and the ethos of the company: "Each year we reiterate and improve our designs..." which I've witnessed as I've watched them iterate over the years.
 
 ![One Mini photo](/assets/photos/oneminifront.jpeg)

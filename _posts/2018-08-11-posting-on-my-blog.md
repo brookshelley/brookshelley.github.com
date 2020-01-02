@@ -5,8 +5,6 @@ description: posting on my blog
 categories: blog
 ---
 
-# Trying this out
-
 Inspired by both [Nick](https://roadrunnertwice.dreamwidth.org) and
 [Matt](https://a.wholelottanothing.org), I've decided to try my hand at
 blogging again on this site. I don't know how often I'll post, but at least

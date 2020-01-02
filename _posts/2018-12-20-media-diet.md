@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: december
+title: Media Diet for December
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for December 2018
 
 ## Books
 

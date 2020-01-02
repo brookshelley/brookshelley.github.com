@@ -5,8 +5,6 @@ description: a wild collection by Simon Jacobs
 categories: blog
 ---
 
-# Masterworks Review
-
 I wish I knew more about art. Reading the titular story, I found myself reaching for my phone to understand each scene in the strange and delightful post-apocalyptic tale. As I held the painting in my mind, and explored the flooded wastes with Liam, Nell, and Co. I found myself enamored by the framing. How often are our relationships held together by a retelling of an old picture? Are we always trying to build a life out of the classics of our youth? There’s a survey of life, and an exploration of lost moments in these vignettes. 
 
 The opening tale of this collection plants us in Ohio, a place, we see, where even supportive friends or loved ones can’t save you from the yawning abyss. The suburban Olive Garden echoes in my mind with all the breadsticks I absorbed through my high school years. These youth were me, and the chasm felt real then too. From there, we follow a mother who lost a son, and a sliver of a life exploring a name—just enough of both to leave the reader wanting more. Then, a journey through art, mentioned above. It’s strange and beautiful, and a great opportunity to learn about the great works of fine art, if like this reviewer, you largely skipped-out on art class.

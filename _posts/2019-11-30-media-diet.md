@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: Media diet for November
+title: Media Diet for November
 description: november media diet
 categories: mediadiet
 ---
-
-# Media diet for November
 
 It’s finally chilly hygge-weather in the Bay Area, so I’ve been reading a lot after returning from a long trip to Japan. I hope wherever you are, you’re warm and feel loved.
 

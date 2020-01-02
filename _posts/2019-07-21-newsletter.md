@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: A Weekly Link Newsletter
+title: A Newsletter
 description: a few links and thoughts in your inbox
 categories: blog
 ---
-
-# Dill and Fennel: A Newsletter
 
 It’s official: I’ve joined the newsletter trend in earnest. I’ve had [a newsletter](https://dillandfennel.substack.com) for a few months now, but I wasn’t sure what to really _do_ with it. Fortunately, I realized what I love to see the most from some of my [favorite](https://craigmod.com/roden/) [newsletters](https://desert.glass) is links to what these authors are reading this week—little jewels from internet wanderings. 
 

@@ -5,8 +5,6 @@ description: a review of the debut short-story collection by Danny Ortberg
 categories: blog
 ---
 
-# A Review of the Merry Spinster
-
 “Daughters are as good a thing as any…” begins _The Merry Spinster_ by Danny Ortberg’s wild reimagining of the Little Mermaid that ends in such grim fashion as to make the reader nod solemnly and intone, “truly, these are the end of times.” And yet, what a romp of a dark timeline. Unlike _Texts from Jane Eyre_, his first book of imagined text conversations from literary characters, this reader at least felt prepared for these fables, stories, and tall-tales through study of European folklore. Even more, each story brought a sly smile to my face as I discovered the layers of joyful twisting of stories well and lesser-known.
 
 “Fear Not: An Incident Log” tells of a heavenly bureaucrat who, they assure us, “(has) never once been reprimanded for how I comport myself under the sun.” We spend the story learning of the machinations of a certain kind of supernatural world, adjacent to the typical christian god, angels, and satan. As I read this story, I laughed out loud in public, and felt a welling of joy.

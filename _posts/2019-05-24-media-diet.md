@@ -1,11 +1,9 @@
 ---
 layout: posts
-title: may
+title: Media Diet for May
 description: media diet
 categories: mediadiet
 ---
-
-# Media diet for May 2019
 
 This was a really great month for books largely because I got really into the Themis Files series. Price’s book on breaking up with your phone also encouraged me to pick up my Kindle more than I refreshed Twitter, and honestly, so far that’s been a positive experience. 
 

@@ -5,8 +5,6 @@ description: the best iPad I've ever used
 categories: blog
 ---
 
-# 2018 iPad Pro Review
-
 Today my phone buzzed to tell me my new iPad had arrived at my office. I rushed down to the mailroom, and eagerly ripped open the packaging. For a few years I’ve used an iPad Pro 9.7” as my primary travel computer when I didn’t need to work on Kubernetes/DevOps stuff, and I’ve loved it. Whether I was watching shows on Netflix or Plex that I’d downloaded before a flight, editing my website in Working Copy, or just editing photos and browsing Twitter, this was the machine I wanted to use.
 
 Now, I have 1.3” more screen, a more lap-capable keyboard, and 120hz refresh, and I couldn’t be happier.
