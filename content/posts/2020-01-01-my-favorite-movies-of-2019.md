@@ -9,7 +9,7 @@ tags:
 
 Out of [74 movies](https://letterboxd.com/brookshelley/films/), I wanted to pick a few that really stood out, and then talk briefly about a few that I really didn't enjoy. I went to the theater quite a bit this year, as I live pretty close to one with couch-seats and luckily have a few film-buddies to meet up with. Other films that I didn't get a chance to see while they were on the big screen were rented at home or watched through a myriad of streaming services I've accrued over the years.
 
-![favorite movies photo](https://www.brookshelley.com/assets/photos/letterboxd.jpeg)
+![favorite movies photo](/photos/letterboxd.jpeg)
 
 ---
 
