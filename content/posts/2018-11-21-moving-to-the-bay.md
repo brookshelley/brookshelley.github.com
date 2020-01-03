@@ -1,8 +1,10 @@
 ---
 layout: posts
 title: moving to the bay
-description: media diet
-categories: blog
+date: 2018-11-21
+description: from portland to oakland
+tags:
+  - thoughts
 ---
 
 ## Queers and Steers

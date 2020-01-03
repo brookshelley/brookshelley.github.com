@@ -1,13 +1,16 @@
 ---
 type: posts
 title: smoke gets in your eyes
+date: 2018-08-20
+tags:
+  - thoughts
 description: don't burn down the whole ding dang forest
 categories: blog
 ---
 
 Due to a series of forest fires, Portland has looked like an alien planet for the past few weeks.
 
-![aqi search](/assets/photos/aqi.png)
+![aqi search](/photos/aqi.png)
 
 Every day I wake up and google "air quality" to see just how much I need to stay indoors, next to my air filter. My gym has closed for a few days for two weeks, and walking outside just plain sucks.
 

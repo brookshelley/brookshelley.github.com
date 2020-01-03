@@ -1,8 +1,10 @@
 ---
 layout: posts
 title: september
+date: 2018-09-25
 description: media diet
-categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 ## Books

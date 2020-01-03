@@ -22,7 +22,7 @@ met in SF at Karaoke who lives in Portland—Hi Mehan.
 
 ## Hop Along & Thin Lips
 
-![Hop along](/assets/photos/photo-2.jpeg)
+![Hop along](/photos/photo-2.jpeg)
 
 Friday was [Hop Along](https://hopalong.bandcamp.com), with [Thin Lips](https://xxthinlipsxx.bandcamp.com) opening. I've never seen either of these
 Philly bands before, but they were both excellent. Thin lips is a punk-y band
@@ -41,7 +41,7 @@ loved one?
 
 ## Deafheaven
 
-![Deafheaven](/assets/photos/photo.jpeg)
+![Deafheaven](/photos/photo.jpeg)
 
 Sunday night, I saw [Deafheaven](https://deafheavens.bandcamp.com), who're kind
 of "metal for folks who don't like metal". They're sick, and both times I've

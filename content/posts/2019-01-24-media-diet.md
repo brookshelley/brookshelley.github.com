@@ -1,7 +1,10 @@
 ---
 layout: posts
 title: january
+date: 2019-01-24
 description: media diet
+tags:
+  - mediadiet
 categories: mediadiet
 ---
 

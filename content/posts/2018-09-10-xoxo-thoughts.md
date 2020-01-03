@@ -1,9 +1,11 @@
 ---
 layout: posts
 title: post-xoxo thoughts
+date: 2018-09-10
 description: wow, that was a lot.
-categories: blog
----
+tags:
+  - thoughts
+  ---
 
 In my [previous post](https://www.brookshelley.com/blog/2018/09/05/3rd-xoxo-and-anniversary.html), I talked about anticipating XOXO 2018, which ended last night. Today, I am tired, happy, and trying to remember what to do for work when I'm not awkwardly wandering around a stadium full of 2000+ people.
 

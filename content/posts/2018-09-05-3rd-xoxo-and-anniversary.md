@@ -3,8 +3,9 @@ type: posts
 title: 3rd XOXO & 1 Year Later
 date: 2018-09-05
 description: Thinking about XOXO this weekend & healing
-categories: blog
----
+tags:
+  - thoughts
+  ---
 
 ## My 3rd XOXO
 

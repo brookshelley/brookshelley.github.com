@@ -1,8 +1,10 @@
 ---
 layout: posts
 title: slower reading
+date: 2019-02-10
 description: a balm of smtp & rss
-categories: blog
+tags
+  - thoughts
 ---
 
 With the death of [Google Reader in 2013](https://lifehacker.com/google-reader-is-shutting-down-here-are-the-best-alter-5990456) it seems like many folks gave up on RSS. Fortunately, not only is RSS still alive, but it's thriving. Between Newsletters and a return to blogging by many writers, thinkers, and web folks, RSS is an excellent way to find news and joy. While Twitter and other networks flounder, open standards provide a simple way to read. RSS means no trolls and no reply gifs. It’s you, and the content.

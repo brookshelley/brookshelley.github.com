@@ -1,8 +1,11 @@
 ---
 layout: posts
 title: 2018 iPhone Homescreen
+date: 2018-12-14
 description: the apps I use on my iPhone
-categories: blog
+tags:
+  - iPhone
+  - homescreen
 ---
 
 Back to a single screen.

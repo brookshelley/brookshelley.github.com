@@ -3,7 +3,8 @@ type: posts
 date: 2018-08-24
 title: august
 description: media diet
-categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 ## Books

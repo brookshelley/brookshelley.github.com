@@ -1,8 +1,10 @@
 ---
 layout: posts
 title: december
+date: 2018-12-20
 description: media diet
-categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 ## Books

@@ -10,7 +10,7 @@ tags:
 
 Bags are my thing. Well, bags and shoes. Traveling as much as I do, having a dependable, comfortable, and sleek bag is pretty important. For the past two or so years, I've depended on my Topo Designs Trip Pack for short trips, and then nested it inside of my Ryu QuickPack for longer trips abroad. This has worked out well, but walking around Copenhagen, and going through a variety of international airport security, I wondered if I could consolidate to one bag, with an easier way to access my laptop and other stuff. The [Invisible One Mini](https://www.opposethis.com/products/invisible-backpack-one-mini) seemed like a great way to test this out. I was drawn to the design of the bag, and the ethos of the company: "Each year we reiterate and improve our designs..." which I've witnessed as I've watched them iterate over the years.
 
-![One Mini photo](/assets/photos/oneminifront.jpeg)
+![One Mini photo](/photos/oneminifront.jpeg)
 
 ## Pockets and zips
 
@@ -18,7 +18,7 @@ My Topo Designs Trip Pack has three compartments—a main area where I can slip 
 
 The 2018 One Mini has a zipper pocket in the front, that's charmingly asymmetrical. A flap unzips, revealing a pocket that can hold an iPad or Kindle, a zipper-sealable area for keys, chapstick, glasses cloth, etc, and two smaller pouches. These pouches are the perfect size for a portable battery, and a Hobonichi Techo. There's a bit of additional space in the big zipper area for my MacBook charger as well. The entire big pouch is almost the width and heigh of the bag, but because of the clever organization, it doesn't feel like I'll lose things in it.
 
-![One Mini pocket](/assets/photos/oneminipocket.jpeg)
+![One Mini pocket](/photos/oneminipocket.jpeg)
 
 On the top of the bag, there's a big zipper that opens the main compartment, which I use to hold a hoodie, my water bottle, and also a small bag of underwear and clothes for travel. Because of the front organization, I don't need to dig in this compartment often, and only need to keep a few easy-to-find or pack-to-leave unpack-at-destination items in it. This is a big improvement over the Topo Bag.
 
