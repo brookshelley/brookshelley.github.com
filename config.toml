@@ -7,7 +7,7 @@ copyright = "© Copyright Brook Shelley 2020"
 
 
 # Enable syntax highlighting.
-pygmentsstyle = "solarized-dark"
+pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -19,8 +19,8 @@ paginate = 5
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
         featherIconsCDN = true
-	favicon = "https://brookshelley.com/IMG_0017%20copy.png"
-	logo = "https://brookshelley.com/IMG_0017%20copy.png"
+	favicon = "/content/666.png"
+	logo = "/content/666.png"
 
         mode = "dark" # "dark", "auto", "light"
         # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
