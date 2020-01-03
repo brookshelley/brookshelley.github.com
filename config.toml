@@ -1,0 +1,85 @@
+baseURL = "https://www.brookshelley.com/brookshelley/"
+languageCode = "en-us"
+title = "dill & fennel"
+theme = "ezhil"
+
+copyright = "© Copyright Brook Shelley 2020"
+
+
+# Enable syntax highlighting.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 5
+
+[params]
+	mainSections = ["posts"]
+        subtitle = "a blog"
+	disableDisqusTypes = ["page", "posts"]
+	disableDateTypes = ["page"]
+        featherIconsCDN = true
+	favicon = "https://brookshelley.com/IMG_0017%20copy.png"
+	logo = "https://brookshelley.com/IMG_0017%20copy.png"
+
+        mode = "dark" # "dark", "auto", "light"
+        # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+        # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+        customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+
+[menu]
+
+  [[menu.main]]
+    name = "archive"
+    url = "/posts"
+    weight = 1
+    
+  [[menu.main]]
+    name = "media diet"
+    url = "/tags/mediadiet/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about"
+    weight = 3
+
+  [[menu.main]]
+    name = "book list"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/books"
+    weight = -100
+
+  [[menu.main]]
+    name = "movie list"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/movies"
+    weight = -100
+
+  [[menu.main]]
+    name = "writing"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/writing"
+    weight = -100
+
+[[menu.main]]
+    name = "newsletter"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://buttondown.email/brookshelley"
+    weight = 2
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/brookshelley"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/brookshelley"
