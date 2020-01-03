@@ -4,11 +4,8 @@ title: "Media diet for December"
 date: 2019-12-31
 tags:
   - Media diet
-<<<<<<< HEAD
 description: what I watched and read this month
-=======
-category: mediadiet
->>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
+categories: mediadiet
 ---
 
 ## Books
@@ -19,11 +16,7 @@ A gorgeous and sad book that captures long relationships so well. I loved for na
 
 **Dead Astronauts** — Jeff Vandermeer
 
-<<<<<<< HEAD
 This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me.
-=======
-This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me. 
->>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
 
 **Interference** — Sue Burke
 
@@ -41,11 +34,7 @@ A blast! I love car racing so much, and this film was a gorgeous vision of a fam
 
 **Uncut Gems**
 
-<<<<<<< HEAD
 This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems.
-=======
-This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems. 
->>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
 
 **One Cut of the Dead**
 
@@ -65,8 +54,4 @@ Space Brad Pitt! We’ve sent most leading men to space, but never Pitt (I didn�
 
 **Ready or Not**
 
-<<<<<<< HEAD
 Lol can't wait to never get remarried. Rich people are the worst. Also it's a real bummer that "satanists" get such a bad wrap in a world where the christians are the ones actually harming children. Fuck the [satanic panic](https://overcast.fm/+VX6lxzezs)
-=======
-Lol can't wait to never get remarried. Rich people are the worst. Also it's a real bummer that "satanists" get such a bad wrap in a world where the christians are the ones actually harming children. Fuck the [satanic panic](https://overcast.fm/+VX6lxzezs)
->>>>>>> 28da6d9cb0a63ee42db68aa0eb3741be583ec0e1
