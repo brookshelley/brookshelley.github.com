@@ -4,6 +4,8 @@ title: wardrobe refresh
 date: 2019-08-20
 description: things to wear
 categories: blog
+tags:
+  - travel
 ---
 
 As my clothes gradually wear out, I’m slowly trying to replace everything with my current favorites. This makes for a very simple wardrobe that works for all 4 seasons.

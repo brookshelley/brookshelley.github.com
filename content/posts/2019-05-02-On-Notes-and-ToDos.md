@@ -1,11 +1,14 @@
 ---
 layout: posts
 title: on notes and todos
+date: 2019-05-02
 description: how i do notes and todos
 categories: blog
+tags:
+  - process
 ---
 
-![iawriter](/assets/photos/iAWriter.png)
+![iawriter](/photos/iAWriter.png)
 
 The [latest episode of Supercomputer](https://supercomputer.transistor.fm/#) inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand. Over the years, I've used [NVAlt](https://brettterpstra.com/projects/nvalt/), 1Writer, Bear, Evernote, Notes, and more to keep track of my thoughts, posts, and notes. Brett Terpstra keeps a [_very good list_](https://brettterpstra.com/ios-text-editors/) of all iOS text editors that includes information about their cross-platform functionality. These days, since I mostly use my iPad and iPhone when I'm not at [work](https://slack.com/), it's vital that my notes and todo apps live happily on Mac, and iOS.
 
@@ -23,7 +26,7 @@ But what about my todos?!
 
 I work at a company in San Francisco who's goal is to "make work life simpler, more pleasant and more productive." I think we're good at it, but I've found that I need a separate place to keep track of my work tasks, my life tasks, and all the random junk I need quick access to when I'm going through my week. [Things](https://culturedcode.com/things/) is that app for me. I made a Project for everything I work on, and Areas for things like "stuff to buy" or "stuff to watch".
 
-![projects](/assets/photos/projects.png)
+![projects](/photos/projects.png)
 
 My main view is Today, where tasks I need to finish by bedtime live. When the workday ends, anything I haven't accomplished gets moved to tomorrow—this is a conscious choice over having those tasks follow me home. That means that I don't have the psychic dread of "more work", but can still look at Things for things like the code to my therapist's office, or a reminder to scoop the cat litter. I love it. Things is the perfect example of just heavy enough feature-wise to handle power-users while only exposing simple features for everyone else. The search is amazing, especially on Mac, where all you need to do is _start typing_. Sure, there's no location-based reminders, but honestly at a certain point, _in my opinion_ you're just faffing around and avoiding work by adding so many layers to your todo process. Get shit done instead of doing loads of metalwork.
 

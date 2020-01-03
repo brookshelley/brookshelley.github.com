@@ -1,8 +1,11 @@
 ---
 layout: posts
 title: april
+date: 2019-04-27
 description: media diet
 categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 https://screenanarchy.com/assets_c/2018/02/IFFR2018-review-Niswog-main-thumb-860xauto-70015.jpg

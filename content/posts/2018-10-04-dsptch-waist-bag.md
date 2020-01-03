@@ -11,27 +11,27 @@ Recently, I ordered a [medium Sling Pack](https://www.dsptch.com/collections/pac
 
 TL;DR this bag is fantastic for exactly what I bought it for—carrying an iPad and a few other things to meetings, or very short trips. A+ would buy again.
 
-![Front](/assets/photos/wb_front.jpeg)
+![Front](/photos/wb_front.jpeg)
 
 ## Pockets and zips
 
 I _love_ the way the pockets and zipper are laid out in this bag. The top of the bag is accessible via a single, incredibly tactile zipper pull. Seriously, this zipper pull is rad. Once unzipped, the main compartment is broken into two parts: one slightly padded iPad sleeve, and a slightly larger main area with a D-ring for keys. My 12" MacBook _fits_ in the main area, which WOW. Not much else fits in the main area if I put my laptop in here, but still, this is unbelievably cool. With an iPad, a Kindle Oasis, a rolled-up shirt, a pair of underwear, keys, and toiletries this compartment is pretty tightly packed, but the zipper is sufficiently robust (it's a big YKK), so I don't feel worried about it failing.
 
-![Main](/assets/photos/wb_main.jpeg)
+![Main](/photos/wb_main.jpeg)
 
 The front of the bag is a flap with two super cool magnetic [Fidlock®](http://www.fidlock.com/en/fasteners/snap.html) snaps. Pulling down slightly on each side reveals two slightly baggy pockets with elastic at the top. These pockets both have a vertical separation between the front and back of the pocket. I can fit a [USB-C battery pack](https://www.anker.com/products/variant/powercore-13000-c/A1216011) and cables, plus some headphones on one side, and a [Hobonichi Techo](https://www.1101.com/store/techo/en/), a [Lamy Safari](https://www.jetpens.com/LAMY-Safari-Fountain-Pen-Charcoal-Black-Fine-Nib/pd/5075?gclid=EAIaIQobChMImKKypcvt3QIVhWB-Ch2pAQarEAQYAiABEgKbO_D_BwE), and keycards, lip balm, and essential oil in the other. I've also fit a Kindle Oasis in one of the pockets, but it was a tight fit, and I prefer keeping it in the main bag pocket. The ease of popping open the snaps after pulling the bag around to the front reminds me why I loved messenger bags back in the day. It's super cool. I love having all of my stuff easily-accessible, but I'm also glad my load ends up light enough not to hurt my shoulder. More on that later.
 
-![Pockets](/assets/photos/wb_pockets.jpeg)
+![Pockets](/photos/wb_pockets.jpeg)
 
 ## Material
 
 The DSPTCH site says this bag is 1680D Ballistic Nylon with DWR coating, lined with 410D Nylon Packcloth with DWR coating. I haven't tested this bag in the rain yet, but the zip isn't seam-sealed, so while I'd trust it in a light rain, I wouldn't swim with it. I bring a dry bag with me everywhere for toiletries though, and it's sufficiently large I could put the bag in it in a pinch, so I'm not too worried. The material feels very nice, and high-quality, and the stitching and construction inspires confidence. The zipper pull is lightly textured on both sides, as well as contoured for a thumb and forefinger such that every use of it makes me smile.
 
-![Main](/assets/photos/wb_zip.jpeg)
+![Main](/photos/wb_zip.jpeg)
 
 This is a bag you will want to open and close. The Fidlock® snaps are similarly fun to use. The strap is pretty solid as well, and my only complaint is that I wish the clasp was metal/magnetic instead of plastic, even though the plastic feels solid. This bag generally feels like it will hold up for over 10 years, and Dpstch warranties it, which gives me even more confidence as I lug it around. I'd be amiss if I didn't mention the "high air flow back mesh for longer periods of wear," which means I don't end up with _as much_ sweat on my back when I'm walking around in over environments >20˚.
 
-![Back](/assets/photos/wb_back.jpeg)
+![Back](/photos/wb_back.jpeg)
 
 ## Size
 

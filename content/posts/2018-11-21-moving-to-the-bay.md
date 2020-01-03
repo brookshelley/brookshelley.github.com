@@ -15,11 +15,11 @@ As a Texan, and a lesbian, I knew eventually I’d end up in California. That’
 
 From the time I knew I had a job at Slack, to moving was all of two weeks. I started as soon as I could to ensure I didn’t run out of cash, and with the help of a moving company, all my stuff was packed-up and shipped the Saturday before my second week of work. Sunday meant driving Snorri, my friend [Amanda](https://twitter.com/local___honey), and some clothes for 10 hours to my new home [near an IKEA](https://en.m.wikipedia.org/wiki/Emeryville,_California). It was a pretty drive, despite all the wild rain, and switchbacks. Snorri yelled intermittently.
 
-![driving](/assets/photos/driving.jpeg)
+![driving](/photos/driving.jpeg)
 
 Eventually, we arrived, quickly looted an IKEA for a few chairs, and set up my weird apartment. My stuff wouldn’t arrive for 2 weeks, so I was living that cool spy life until then.
 
-![spy life](/assets/photos/spylife.jpeg)
+![spy life](/photos/spylife.jpeg)
 
 ## A month flew by
 
