@@ -2,7 +2,7 @@
 type: posts
 tags:
   - thoughts
-date: 2015-10-19
+date  : 2015-10-19
 title: Thoughts on Grace Hopper Conference
 description: a review of my only grace hopper
 categories: blog
