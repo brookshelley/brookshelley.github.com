@@ -19,8 +19,8 @@ paginate = 5
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
         featherIconsCDN = true
-	favicon = "/content/666.png"
-	logo = "/content/666.png"
+	favicon = "/666.png"
+	logo = "/666.png"
 
         mode = "dark" # "dark", "auto", "light"
         # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
