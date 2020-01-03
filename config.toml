@@ -19,7 +19,7 @@ paginate = 5
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
         featherIconsCDN = true
-	favicon = "/66.png"
+	favicon = "/66.ico"
 	logo = "/666.png"
 
         mode = "dark" # "dark", "auto", "light"
