@@ -1,0 +1,9 @@
+{{ $cssOpts := (dict "targetPath" "styles/syntax.css") }}
+{{ $base := resources.Get "css/index.css" }}
+{{ $syntax := resources.Get "css/syntax.css" }}
+
+{{ $style := slice $base $syntax | resources.Concat "bundle.css" | minify }}
+
+<style amp-custom>
+{{ $style.Content | safeCSS }}
+</style>
