@@ -3,7 +3,7 @@ layout: posts
 title: slower reading
 date: 2019-02-10
 description: a balm of smtp & rss
-tags
+tags:
   - thoughts
 ---
 
