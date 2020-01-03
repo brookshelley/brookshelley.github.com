@@ -1,8 +1,11 @@
 ---
 type: posts
 title: powerlifting
+date: 2018-08-14
 description: why I started to lift heavy things
 categories: blog
+tags:
+  - thoughts
 ---
 
 ## Young Brook
