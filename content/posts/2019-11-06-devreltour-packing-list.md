@@ -16,13 +16,13 @@ As usual, when I go on a DevRel tour, I like to write about what I've packed. Th
 - RYU Quick Pack 18L
 - Topo Designs Trip Pack
 
-![bags](/assets/photos/ryubag2019.jpeg)
+![bags](/photos/ryubag2019.jpeg)
 
-![bag2](/assets/photos/travelbag2019.jpeg)
+![bag2](/photos/travelbag2019.jpeg)
 
 Last time I went to Japan, I brought the DSPTCH Waist Bag as my day bag, and my shoulders immediately regretted it. I think my days or a one-shoulder bag with a computer are pretty much over. This time I returned to my tried and true setup. I’ve reviewed or written about both of these bags previously.
 
-![drybags](/assets/photos/drybags2019.jpeg)
+![drybags](/photos/drybags2019.jpeg)
 
 - Two Sea-to-summit dry bags
 
@@ -30,13 +30,13 @@ These are great for clothes and toiletries, and additionally ensure that even in
 
 - One Topo Designs accessory bag
 
-![drybagsinsidebigbag](/assets/photos/drybagsinside.jpeg)
+![drybagsinsidebigbag](/photos/drybagsinside.jpeg)
 
 This time around, I loaded my toothbrush and some other non-leaky toiletries into this bag because I noticed the metal tip of my electric toothbrush kept *almost* poking through my dry bag.
 
 ## Clothes
 
-![clothes](/assets/photos/clothes.jpeg)
+![clothes](/photos/clothes.jpeg)
 
 ### Jackets
 
@@ -75,7 +75,7 @@ Wool is the way to go. I’ve tried other solutions and they were nice enough, b
 
 ## Tech gear
 
-![electronics](/assets/photos/electronics2019.jpeg)
+![electronics](/photos/electronics2019.jpeg)
 
 - Kindle Oasis
 - Battery
@@ -88,7 +88,7 @@ At some point, maybe I can travel with only USB-C cables, but that world doesn�
 
 ## Other stuff
 
-![weeks](/assets/photos/weeks2019.jpeg)
+![weeks](/photos/weeks2019.jpeg)
 
 - Toiletries
 - Hobonichi Weeks & Kaweco Al EF fountain pen
