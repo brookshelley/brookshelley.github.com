@@ -68,7 +68,7 @@ paginate = 5
     weight = -100
 
 [[menu.footer]]
-    name = "newsletter"
+    name = "newsletter  "
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
