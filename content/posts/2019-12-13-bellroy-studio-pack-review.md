@@ -8,7 +8,7 @@ tags:
 description: a review of a great backpack
 ---
 
-![Bellroy Studio Backpack](photos/bellroybackpack.jpeg)
+![Bellroy Studio Backpack](/photos/bellroybackpack.jpeg)
 
 A new backpack for everyday carry, and travel.
 
