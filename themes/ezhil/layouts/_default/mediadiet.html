@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+
+<body>
+	<div class="container wrapper list">
+		{{ partial "head.html" . }}
+
+		<h1 class="page-title">Media Diet Archive</h1>
+
+		<ul class="posts">
+			{{ partial "by-page-date.html" . }}
+		</ul>

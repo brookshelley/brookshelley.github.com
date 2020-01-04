@@ -1,6 +1,13 @@
 <div class="footer wrapper">
 	<nav class="nav">
 	<div>
+		<ul class="flat">
+			{{ range .Site.Menus.footer }}
+			<li>
+				<a href="{{ .URL }}">{{ .Name }}</a>
+			</li>
+			{{ end }}
+		</ul>
 	brook 2020
 	</div>
 	</nav>
