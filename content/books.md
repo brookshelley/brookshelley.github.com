@@ -4,7 +4,7 @@ draft: false
 type: page
 ---
 
-_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
+_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)
 
 ## 2020 {#2020}
 
@@ -17,6 +17,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 This is an interesting take on apocalyptic fiction. With an AI protagonist and a dying sun, the story careens across the Americas and then even further. There’s a strange love story I didn’t care much for, but otherwise this was a nice romp.
 
 ## 2019 {#2019}
+
 <hr>
 
 ### 56 books
@@ -442,7 +443,8 @@ A fun book about an alternate history library that is magical. This is very YA,
 but was enjoyable.
 
 ## 2018 {#2018}
-<hr>
+
+---
 
 ### 47 Books
 
@@ -787,7 +789,8 @@ system. Lots of discussion of class, immigration, and identity. The narrator was
 a little distracting, but it was an interesting narrative conceit.
 
 ## 2017 {#2017}
-<hr>
+
+---
 
 ### 70 Books
 
@@ -1061,7 +1064,8 @@ Some light-hearted YA to close out the year. This was a well-told, if sometimes
 upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 ## 2016 {#2016}
-<hr>
+
+---
 
 ### 58 books
 
