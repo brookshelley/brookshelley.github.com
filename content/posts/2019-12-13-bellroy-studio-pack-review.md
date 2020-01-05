@@ -8,7 +8,7 @@ tags:
 description: a review of a great backpack
 ---
 
-![Bellroy Studio Backpack](/assets/photos/bellroybackpack.jpeg)
+![Bellroy Studio Backpack](/photos/bellroybackpack.jpeg)
 
 A new backpack for everyday carry, and travel.
 
@@ -30,13 +30,13 @@ All-in-all, this bag feels like a great balance between a daily size and one tha
 
 ## Features
 
-![Bellroy Front Pocket](/assets/photos/bellroysmall.jpg)
+![Bellroy Front Pocket](/photos/bellroysmall.jpg)
 
 This bag is a top-loader, with a generously-wide opening, and a fidlock magnetic closure I can open with one hand using the small fabric loop. This flap makes for an easy way to use the main compartment, while keeping the rain off of my stuff. On the outside, there’s a pocket a little bit lower than mid-way that zips shut, and has pockets for pens, AirPods, and a few other things along with a key loop on a long fabric loop. Usually, I keep a Hobonichi Weeks, a Kaweco fountain pen, house keys, AirPods Pro and my work badge in here.
 
 Inside of the main bag area, there’s a laptop area that can hold up to a 16” MacBook Pro—the new one with the real escape key—or an iPad Pro of either size. The bottom of the bag is generously padded to keep your stuff safe, and the laptop sleeve ends before the bottom for more safety. On the front wall of the main bag opening there is another zipped compartment for glasses, cables, or other odds and ends that you don’t need as often.
 
-![Bellroy Main Pocket](/assets/photos/mainbellroy.jpg)
+![Bellroy Main Pocket](/photos/mainbellroy.jpg)
 
 ## Colors and Materials
 
