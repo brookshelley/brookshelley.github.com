@@ -6,6 +6,16 @@ type: page
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
+## 2020 {#2020}
+
+- - - 
+
+### 1 book
+
+**Emily Eternal** — M.G. Wheaton
+
+This is an interesting take on apocalyptic fiction. With an AI protagonist and a dying sun, the story careens across the Americas and then even further. There’s a strange love story I didn’t care much for, but otherwise this was a nice romp.
+
 ## 2019 {#2019}
 <hr>
 
