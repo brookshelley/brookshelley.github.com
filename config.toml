@@ -73,6 +73,11 @@ paginate = 5
     pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
     weight = 2
+    
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
 [[params.social]]
 name = "Github"
