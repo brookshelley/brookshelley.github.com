@@ -20,7 +20,7 @@ paginate = 5
 	disableDateTypes = ["page"]
   featherIconsCDN = true
 	# excludedTypes = ["mediadiet"]
-	favicon = "/faveicon.ico"
+	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "dark" # "dark", "auto", "light"
         # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
@@ -73,6 +73,11 @@ paginate = 5
     pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
     weight = 2
+    
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
 [[params.social]]
 name = "Github"
