@@ -12,6 +12,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ### 1 book
 
+**The Walking Man** — Jiro Taniguchi
+
+The art in this manga is gorgeous. I especially love the way the leaves and grass are drawn. The stories are largely dialogue-less vignettes that meander through cities and the countryside, taking it all in. When I open this book, I wish I were in Japan again, following stray cats around town.
+
 **Emily Eternal** — M.G. Wheaton
 
 This is an interesting take on apocalyptic fiction. With an AI protagonist and a dying sun, the story careens across the Americas and then even further. There’s a strange love story I didn’t care much for, but otherwise this was a nice romp.

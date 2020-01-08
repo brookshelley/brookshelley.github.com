@@ -4,10 +4,17 @@ draft: false
 type: page
 ---
 
-_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
+_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
-## 2019 <a name="2019"></a>
-<hr>
+## 2020 {#2020}
+
+**The Lighthouse**
+
+The first thing I noticed in this film was the tight, constrained feel of a square frame with deep black and white images. I immediately had to look around for [how this was made](https://www.musicbed.com/blog/filmmaking/cinematography/breaking-down-the-cinematography-of-the-lighthouse/). The VVitch is one of my favorite movies of all time, and Eggers doesn't disappoint in this haunting film either. The dread builds as the antipathy between the two men grows. A joy.
+
+## 2019 {#2019}
+
+---
 
 ### 74 Movies
 
@@ -552,8 +559,9 @@ revenge bloodbath that I can’t tell if I was meant to find cathartic, or sad.
 This is definitely the most misanthropic and nihilistic movie I've seen in
 years.
 
-## 2018 <a name="2018"></a>
-<hr>
+## 2018 {#2018}
+
+---
 
 **Hearts Beat Loud**
 
@@ -1097,8 +1105,9 @@ I saw this in Japan, so I had a beer and french fries to make it slightly
 better, and pre-roll video that repeated "NO NO NO" in English to admonish us
 for even considering texting or talking.
 
-## 2017 <a name="2017"></a>
-<hr>
+## 2017 {#2017}
+
+---
 
 _this list is super truncated because i forgot keep it until july_
 
@@ -1553,8 +1562,9 @@ Here for this. Love the porgs, and love Luke punking Kylo. This was a great
 combination of ridiculous and fun. I like that Rian brought more humor into the
 world of the star war.
 
-## 2016 <a name="2016"></a>
-<hr>
+## 2016 {#2016}
+
+---
 
 **Nine Lives**
 
