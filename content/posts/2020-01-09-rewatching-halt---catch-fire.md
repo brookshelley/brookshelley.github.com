@@ -1,6 +1,7 @@
 ---
 type: posts
 title: "Rewatching Halt & Catch Fire"
+description: an amazing show for the second time 
 date: 2020-01-09
 tags:
   - thoughts
