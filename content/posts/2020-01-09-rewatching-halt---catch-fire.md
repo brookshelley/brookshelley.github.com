@@ -11,7 +11,7 @@ tags:
 
 When Halt & Catch Fire first aired, I was lucky enough to clue in and watch it weekly on AMC. As a Texan with a dad who occasionally worked in or at least around tech, and then joined the industry myself, it captured the world I grew up in incredibly well. Starting out a little rough, it became a show all about family and how ambition can destroy everything. H&CF remains one of my favorite shows of all time, and despite it being entirely too emotionally intense to watch again before now, I happily tuned back in this past fall.
 
-/photos/Halt.jpg
+![halt and catch fire logo](/photos/Halt.jpg)
 
 ## A rewatch begins
 
