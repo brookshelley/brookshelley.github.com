@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 3 books
+### 4 books
+
+**Throne of Glass** — Sarah J. Maas
+
+I was drawn to this book by the front cover and the vague notion that it might be like Gideon the Ninth. It’s not exactly super different, but it’s clearly YA, where Gideon is not. I may continue the series, as it was decently compelling, but I wish it were more genre and less youth.
 
 **Unsubscribe** — Jocelyn Glei
 
