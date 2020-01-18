@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Matrix: Reloaded**
+
+Really starting the year off right. We talked through most of the exposition, which was like 75% of the movie. I hadn’t seen this since it came out, and it really didn’t hold up.
+
 **The Lighthouse**
 
 The first thing I noticed in this film was the tight, constrained feel of a square frame with deep black and white images. I immediately had to look around for [how this was made](https://www.musicbed.com/blog/filmmaking/cinematography/breaking-down-the-cinematography-of-the-lighthouse/). The VVitch is one of my favorite movies of all time, and Eggers doesn't disappoint in this haunting film either. The dread builds as the antipathy between the two men grows. A joy.
