@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 4 books
+### 5 books
+
+**Uncanny Valley** — Anna Weiner
+
+Ah, the tech industry. I’ve been working in this world for over a decade and this book felt like a survey of it. I know a few people mentioned in the chapters, and am unfortunately very familiar with many of the events. I think Weiner did a great job of capturing the constant, weird feeling of trying to survive and often getting lost in the self-satisfied world of tech founders and “disruption”.
 
 **Throne of Glass** — Sarah J. Maas
 
