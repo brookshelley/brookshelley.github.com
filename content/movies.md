@@ -8,6 +8,8 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+I found out I don’t need to worry about climate change because it’s just rain, ya know? This film was gorgeous and fun and o loved the cat in it with my entire heart.
+
 **Matrix: Reloaded**
 
 Really starting the year off right. We talked through most of the exposition, which was like 75% of the movie. I hadn’t seen this since it came out, and it really didn’t hold up.
