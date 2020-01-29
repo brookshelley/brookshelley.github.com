@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 5 books
+### 6 books
+
+**Mainline** — Deborah Christiansen
+
+A fun throwback to the world of cyber decks and assassins. I wish I’d found this in 1996, but it holds up well. The plot got a little convoluted, but supposedly there’s a very recent sequel, so perhaps there will be payoff.
 
 **Uncanny Valley** — Anna Weiner
 
