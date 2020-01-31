@@ -37,6 +37,8 @@ This is an interesting take on apocalyptic fiction. With an AI protagonist and a
 
 ## Movies
 
+**Weathering with You**
+
 I found out I don’t need to worry about climate change because it’s just rain, ya know? This film was gorgeous and fun and o loved the cat in it with my entire heart.
 
 **Matrix: Reloaded**
