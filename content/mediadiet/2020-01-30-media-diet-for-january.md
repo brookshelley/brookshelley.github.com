@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: "Media diet for January"
+title: "january"
 date: 2020-01-30
 tags:
-  - 
+  -
 category: mediadiet
 ---
 
