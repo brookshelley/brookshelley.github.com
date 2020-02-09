@@ -12,6 +12,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ### 6 books
 
+**Agency** — William Gibson
+
+A nearly present-day story of AI, art, and San Francisco. I really enjoyed this Peripheral sequel, though I think on the whole the fashion and strange web world of the previous trilogy was more my speed. I hope we get one more book with Netherton, Ash and company.
+
 **Mainline** — Deborah Christiansen
 
 A fun throwback to the world of cyber decks and assassins. I wish I’d found this in 1996, but it holds up well. The plot got a little convoluted, but supposedly there’s a very recent sequel, so perhaps there will be payoff.
