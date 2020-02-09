@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Psycho Pass Movie Trilogy**
+
+After season 3, Psycho Pass had a trilogy of films in Japan. They’re fun continuations of the characters from all three seasons, and a bit of a sequel to the first movie. The future this film presents is pretty grim, but the animation is fantastic.
+
 **Weathering With You**
 
 I found out I don’t need to worry about climate change because it’s just rain, ya know? This film was gorgeous and fun and o loved the cat in it with my entire heart.
