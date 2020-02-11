@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Gennocidal Organ**
+
+I read the book this movie is based on last year, and it’s a truly brutal story of linguistics and massive unrest. This movie is grim in a way that feels a little too prescient. Definitely one of the better anime thrillers I’ve seen in a while though.
+
 **Psycho Pass Movie Trilogy**
 
 After season 3, Psycho Pass had a trilogy of films in Japan. They’re fun continuations of the characters from all three seasons, and a bit of a sequel to the first movie. The future this film presents is pretty grim, but the animation is fantastic.
