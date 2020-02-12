@@ -10,7 +10,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 **Anna**
 
-Another lady assassin movie. It was a helluva ride and I enjoyed it. I don’t think it added anything huge to the genre, but I’m just glad to have more cool movies about tough women.
+Another lady assassin movie. It was a helluva ride and I enjoyed it. I don’t think it added anything huge to the genre, but I’m just glad to have more cool movies about tough women. That said, I wish Anna had been able to just be with her girlfriend instead of randomly fucking spymasters.
 
 **Gennocidal Organ**
 
