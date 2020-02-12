@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Anna**
+
+Another lady assassin movie. It was a helluva ride and I enjoyed it. I don’t think it added anything huge to the genre, but I’m just glad to have more cool movies about tough women.
+
 **Gennocidal Organ**
 
 I read the book this movie is based on last year, and it’s a truly brutal story of linguistics and massive unrest. This movie is grim in a way that feels a little too prescient. Definitely one of the better anime thrillers I’ve seen in a while though.
