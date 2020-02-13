@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Elle**
+
+Yow. That was... a lot of movie. Isabelle Huppert was fantastic, but I don't know if I could recommend it. Definitely one of the stranger Verhoeven movies I've seen.
+
 **Anna**
 
 Another lady assassin movie. It was a helluva ride and I enjoyed it. I don’t think it added anything huge to the genre, but I’m just glad to have more cool movies about tough women. That said, I wish Anna had been able to just be with her girlfriend instead of randomly fucking spymasters.
