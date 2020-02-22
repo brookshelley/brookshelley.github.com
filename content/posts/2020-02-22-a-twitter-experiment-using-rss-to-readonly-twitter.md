@@ -36,6 +36,7 @@ If this seems interesting to you, you'll need three things:
 - **Twitter usernames** you'd like to follow, or a list of those users. For this step, I highly recommend limiting yourself to users who tweet infrequently, or folks you absolutely love to read tweets from. Some folks are just joyful and funny, and I feel glad to see their updates whenever I check in. Other users are high-signal, but low frequency, so they're also ideal for this experiment.
 
 Also two books I recommend if you're considering this and other ways that your life is made worse by a twitch to open things on your phone whenever life gets a little dull:
+
 - [Unsubscribe by Jocelyn Glei](https://jkglei.com/unsubscribe/)
 - [How to Break Up With Your Phone by Catherine Price](http://www.catherine-price.com/how-to-break-up-with-your-phone)
 
