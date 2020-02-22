@@ -13,7 +13,7 @@ I've been on Twitter for over a decade, and found that lately it's been more dep
 
 ## A test
 
-While I thought about my problem this weekend, I saw yet another friend swear off of the bird site for the month—I wondered if I could do the same. Would I miss it? Would I have trouble restraining myself from the twitch to launch the app and check in? Further, since a few writers post links to long-form writing on Twitter, might I actually miss some truly good stuff? 
+While I thought about my problem last weekend, I saw yet another friend swear off of the bird site for the month—I wondered if I could do the same. Would I miss it? Would I have trouble restraining myself from the twitch to launch the app and check in? Further, since a few writers post links to long-form writing on Twitter, might I actually miss some truly good stuff? 
 
 RSS is my main avenue for reading longer-form articles, and keeping up with the news and tech news—what if I could also use RSS for a few important-to-me Twitter accounts? Twitter [dropped official RSS support](https://mashable.com/2012/09/05/twitter-api-rss/) before most people even knew Twitter existed, so a native solution was out of the question. Fortunately, a friend in the #xoxo Slack pointed out that many RSS services handle this natively—including, it turned out, Feedbin.
 
