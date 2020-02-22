@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 6 books
+### 8 books
+
+**Outline** — Rachel Cusk
+
+This was recommended to me, but I can’t say I loved it. The story here read more as a series of strange anecdotes, without a lot of core thread to grasp. There are two more books in this series, but I think I may pass on them.
 
 **Agency** — William Gibson
 

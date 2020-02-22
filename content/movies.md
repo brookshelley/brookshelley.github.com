@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Phantom Thread**
+
+Wow, this movie was hilarious from top to bottom. A friend (hi Drew) invited me to see it for the first time in 70mm, and all I want to do is channel Woodcock every day. "What am I supposed to do with that?". What a joy. I can't wait to watch this again.
+
 **First Love**
 
 A strange mistaken gangster film. This was much more straightforward than many Takeshi Miike films, but still managed to add in some really bizarre bits, and even some surprises. 
