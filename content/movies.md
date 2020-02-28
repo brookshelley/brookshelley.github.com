@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Jojo Rabbit**
+
+A deeply strange film about learning how to be a person and unlearn fanaticism. There were some pretty excellent cameos in this, and a very dark comedic beat.
+
 **Phantom Thread**
 
 Wow, this movie was hilarious from top to bottom. A friend (hi Drew) invited me to see it for the first time in 70mm, and all I want to do is channel Woodcock every day. "What am I supposed to do with that?". What a joy. I can't wait to watch this again.
