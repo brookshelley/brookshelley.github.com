@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 9 books
+### 10 books
+
+**The Longing for Less** — Kyle Chayka
+
+This was far funnier than I expected, and also taught me a lot about a few areas of art and architecture I didn’t know about. A really informative and fun book.
 
 **しろくまカフェ　1**
 
