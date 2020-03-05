@@ -1,5 +1,5 @@
 var fuse; // holds our search engine
-var searchVisible = false; 
+var searchVisible = false;
 var firstRun = true; // allow us to delay loading json data unless search activated
 var list = document.getElementById('searchResults'); // targets the <ul>
 var first = list.firstChild; // first child of search list
@@ -29,7 +29,7 @@ document.addEventListener('keydown', function(event) {
       }
       else {
         document.getElementById("fastSearch").style.visibility = "hidden"; // hide search box
-        document.activeElement.blur(); // remove focus from search box 
+        document.activeElement.blur(); // remove focus from search box
         searchVisible = false; // search not visible
       }
   }
@@ -69,7 +69,7 @@ document.addEventListener('keydown', function(event) {
 // ==========================================
 // execute search as each character is typed
 //
-document.getElementById("searchInput").onkeyup = function(e) { 
+document.getElementById("searchInput").onkeyup = function(e) {
   executeSearch(this.value);
 }
 
@@ -88,7 +88,7 @@ function fetchJSONFile(path, callback) {
     }
   };
   httpRequest.open('GET', path);
-  httpRequest.send(); 
+  httpRequest.send();
 }
 
 
@@ -96,7 +96,7 @@ function fetchJSONFile(path, callback) {
 // load our search index, only executed once
 // on first call of search box (CMD-/)
 //
-function loadSearch() { 
+function loadSearch() {
   fetchJSONFile('/index.json', function(data){
 
     var options = { // fuse.js options; check fuse.js website for details
@@ -108,7 +108,7 @@ function loadSearch() {
       keys: [
         'title',
         'description',
-	'tags'
+        'type'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
@@ -117,7 +117,7 @@ function loadSearch() {
 
 
 // ==========================================
-// using the index we loaded on CMD-/, run 
+// using the index we loaded on CMD-/, run
 // a search query (for "term") every time a letter is typed
 // in the search box
 //
@@ -128,9 +128,9 @@ function executeSearch(term) {
   if (results.length === 0) { // no results based on what was typed into the input box
     resultsAvailable = false;
     searchitems = '';
-  } else { // build our html 
+  } else { // build our html
     for (let item in results.slice(0,5)) { // only show first 5 results
-      searchitems = searchitems + '<li><a href="' + results[item].permalink + '" tabindex="0">' + '<span class="title">' + results[item].title + '</span><br /> '</a></li>';
+      searchitems = searchitems + '<li><a href="' + results[item].permalink + '" tabindex="0">' + '<span class="title">' + results[item].title + '<br />' + '</span>' + '<br>' + results[item].date + '</a></li>';
     }
     resultsAvailable = true;
   }

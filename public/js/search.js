@@ -65,10 +65,10 @@ function populateResults(result){
     if(snippet.length<1){
       snippet += contents.substring(0,summaryInclude*2);
     }
-    //pull template from hugo templarte definition
+    //pull template from hugo template definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet});
+    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet,date:value.item.date});
     $('#search-results').append(output);
 
     $.each(snippetHighlights,function(snipkey,snipvalue){
@@ -106,4 +106,3 @@ function render(templateString, data) {
   }
   return templateString;
 }
-

@@ -463,11 +463,6 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/posts/2015-09-14-xoxo/</loc>
-    <lastmod>2015-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.brookshelley.com/posts/2014-3-4-on-being-alone/</loc>
     <lastmod>2014-03-04T00:00:00+00:00</lastmod>
   </url>
@@ -496,6 +491,10 @@
   
   <url>
     <loc>https://www.brookshelley.com/writing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/posts/2015-09-14-xoxo/</loc>
   </url>
   
 </urlset>
