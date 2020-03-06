@@ -1,5 +1,5 @@
 ---
-layout: mediadiet
+type: mediadiet
 title: march
 date: 2019-03-24
 description: media diet

@@ -1,5 +1,5 @@
 ---
-layout: mediadiet
+type: mediadiet
 title: february
 description: media diet
 categories: mediadiet
