@@ -1,5 +1,5 @@
 ---
-layout: mediadiet
+type: mediadiet
 title: december
 date: 2018-12-20
 description: media diet

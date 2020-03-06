@@ -1,5 +1,5 @@
 ---
-layout: mediadiet
+type: mediadiet
 title: may
 date: 2019-05-24
 description: media diet

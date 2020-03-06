@@ -108,7 +108,8 @@ function loadSearch() {
       keys: [
         'title',
         'description',
-        'type'
+        'type',
+        'content'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
