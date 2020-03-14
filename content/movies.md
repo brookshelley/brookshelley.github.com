@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Contagion**
+
+I saw this in the theater when it first came out, but I haven’t seen it since then. This felt like a timely movie considering our current circumstances. I forgot Jude Law plays a weird crank reporter.
+
 **Jojo Rabbit**
 
 A deeply strange film about learning how to be a person and unlearn fanaticism. There were some pretty excellent cameos in this, and a very dark comedic beat.
