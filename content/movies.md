@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Casino Royale**
+
+Rewatching this in preparation for the eventual release of the final Daniel Craig bond film. It holds pretty well, save for the hilariously old-looking Sony phones and bootcut khakis. I’d forgotten Mads Mikkelsen was in this.
+
 **Contagion**
 
 I saw this in the theater when it first came out, but I haven’t seen it since then. This felt like a timely movie considering our current circumstances. I forgot Jude Law plays a weird crank reporter.
