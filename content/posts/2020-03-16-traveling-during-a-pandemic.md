@@ -58,3 +58,7 @@ I’m additionally wearing a duplicate of most of what I brought, save for the j
 ## Koenji social distancing
 
 My trip started in Koenji, where I stayed at my [favorite BNA](https://www.bna-hotel.com). By and large, I kept to my room, or did some socially-distanced hiking around Suginami. Lawson was a block away, and provided coffee and onigiri, but I also had coffees at Coffee AMP and INC near the train station. Honestly, other than mounting panic online, I found it to be relaxing to stick close to home. I went out for food a couple of times, but honestly felt a little afraid to go out. If I were in Oakland right now, it’s likely I wouldn’t have left the house this week at all, save for a walk around the block.
+
+## To be continued...
+
+*Look for part two and maybe part 3 in the next week or two. Writing this is helping me feel a little less cabin fever*
