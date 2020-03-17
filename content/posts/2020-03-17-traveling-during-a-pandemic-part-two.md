@@ -5,6 +5,7 @@ date: 2020-03-17
 description: a strange trip to Osaka
 tags:
   - travel
+  - japan
 ---
 
 **Wow, things sure are quiet...**
