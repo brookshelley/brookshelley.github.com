@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Quantum of Solace**
+
+Far less memorable than Casino Royale. The first chase was fun, but a lot of the rest of the film kinda just meanders. I do appreciate the little nods towards older James Bond films though. 
+
 **Casino Royale**
 
 Rewatching this in preparation for the eventual release of the final Daniel Craig bond film. It holds pretty well, save for the hilariously old-looking Sony phones and bootcut khakis. I’d forgotten Mads Mikkelsen was in this.

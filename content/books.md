@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 10 books
+### 11 books
+
+**Wanderers** — Chuck Wendig
+
+Phew, that was a dark fucking book. With the pandemic going on in the world right now, this wasn’t a very good idea to read, but I’m glad I finished it. Just about every bad thing you can imagine happens in this book, so I have a hard time recommending it, but perhaps for folks who don’t believe in global warming or in the danger of a pandemic, this will give them pause.
 
 **The Longing for Less** — Kyle Chayka
 
