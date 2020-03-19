@@ -44,3 +44,6 @@ Lawsons came through with another chuhai for my tv-filled evening. First up was 
 
 I set my alarm for a video call with my friend Haley, then headed to bed. 
 
+*read [part 1](https://www.brookshelley.com/posts/2020-03-17-traveling-during-a-pandemic/) or [part 3](https://www.brookshelley.com/posts/2020-03-19-traveling-during-a-pandemic-part-three/)* 
+
+

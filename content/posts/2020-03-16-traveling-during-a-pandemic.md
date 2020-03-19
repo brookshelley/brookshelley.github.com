@@ -61,4 +61,4 @@ My trip started in Koenji, where I stayed at my [favorite BNA](https://www.bna-h
 
 ## To be continued...
 
-*Look for part two and maybe part 3 in the next week or two. Writing this is helping me feel a little less cabin fever*
+*read [part 2](https://www.brookshelley.com/posts/2020-03-17-traveling-during-a-pandemic-part-two/) or [part 3](https://www.brookshelley.com/posts/2020-03-19-traveling-during-a-pandemic-part-three/)* 

@@ -81,3 +81,5 @@ After a climb down the hill, I dropped by a 7/11 to pick up cash, then got ramen
 I made a fresh cup of Haiku-roasted Ethiopian coffee beans, and read for a while before exploring the city more for dinner.
 
 I knew I would be sad to leave this place on Friday.
+
+*read [part 1](https://www.brookshelley.com/posts/2020-03-16-traveling-during-a-pandemic/) or [part 2](https://www.brookshelley.com/posts/2020-03-19-traveling-during-a-pandemic-part-two/)*
