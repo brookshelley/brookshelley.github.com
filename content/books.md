@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - - 
 
-### 11 books
+### 12 books
+
+**A Song for a New Day** — Sarah Pinsker
+
+Welp, my second book for the month was another plague book, albeit one that largely took place in the aftermath of a pox. I enjoyed this book quite a bit, even if it was a _little_ too hopeful for my usual taste. Honestly, it was a little refreshing to read a book where cool women make music and care about each other, and hope for the future. Thanks Haley for the tip on this one.
 
 **Wanderers** — Chuck Wendig
 
