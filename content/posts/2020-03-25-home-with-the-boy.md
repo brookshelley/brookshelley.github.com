@@ -8,4 +8,4 @@ tags:
 ---
 
 Made it home safely and started my California quarantine
-[snorri at home](https://www.brookshelley.com/photos/home1.jph)
+![snorri at home](https://www.brookshelley.com/photos/home1.jph)
