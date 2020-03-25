@@ -2,7 +2,7 @@
 type: posts
 title: "Home with the boy"
 date: 2020-03-25
-description: microblog
+description: back from Japan
 tags:
   - microblog
 ---
