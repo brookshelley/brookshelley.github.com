@@ -8,6 +8,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**The Martian**
+
+Another rewatch. I had a FaceTime call where my friend Lena and I discussed Halt and Catch Fire, which reminded me how much I enjoyed this film, which I took to be about the competence of McKenzie Davis’ character. This was my first time watching this movie in 4K though, which made it look pretty amazing. Also, I always forget Donald Glover was in this.
+
+**Skyfall**
+
+Perhaps one of the only movies to use a Land Rover Defender in a car chase, this is pure fun. The filming and action scenes were a wild step-up from the previous two films, and the stakes felt high throughout.
+
 **Quantum of Solace**
 
 Far less memorable than Casino Royale. The first chase was fun, but a lot of the rest of the film kinda just meanders. I do appreciate the little nods towards older James Bond films though. 
