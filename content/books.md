@@ -8,11 +8,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
-- - - 
+- - -
 
 ### 13 books
 
-**Empress of Forever**
+**Empress of Forever** — Max Gladstone
 
 A fun space romp with a Jobsian lesbian protagonist and a strange cast of characters. This quickly shifts into a very different book from what it starts as, but I still loved it. More space lesbians, please.
 
