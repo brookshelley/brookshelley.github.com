@@ -12,6 +12,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ### 13 books
 
+**The Factory** — Hiroko Oyamada
+
+A strange, short book with some challenging dialogue formatting. I really loved the small vignettes of slightly-slanted banal work life in The Factory. I'm excited to read more of Oyamada's work, because despite reading quite a bit of Japanese fiction, I haven't had the chance to read very many Japanese women. I hope that I either get better at kanji to the point I can read from the source, or more translators translate other women.
+
 **Empress of Forever** — Max Gladstone
 
 A fun space romp with a Jobsian lesbian protagonist and a strange cast of characters. This quickly shifts into a very different book from what it starts as, but I still loved it. More space lesbians, please.
