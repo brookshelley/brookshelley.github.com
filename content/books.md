@@ -10,7 +10,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 13 books
+### 14 books
 
 **The Factory** — Hiroko Oyamada
 
@@ -27,6 +27,10 @@ Welp, my second book for the month was another plague book, albeit one that larg
 **Wanderers** — Chuck Wendig
 
 Phew, that was a dark fucking book. With the pandemic going on in the world right now, this wasn’t a very good idea to read, but I’m glad I finished it. Just about every bad thing you can imagine happens in this book, so I have a hard time recommending it, but perhaps for folks who don’t believe in global warming or in the danger of a pandemic, this will give them pause.
+
+**Lurking** — Joanne McNeil
+
+A very interesting look at the history of the internet as a user. One of the best non-fiction books I’ve read in a while.
 
 **The Longing for Less** — Kyle Chayka
 
