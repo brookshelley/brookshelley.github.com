@@ -1,5 +1,5 @@
 ---
-title: "watching"
+title: "movie list"
 draft: false
 type: page
 ---

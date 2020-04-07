@@ -1,5 +1,5 @@
 ---
-title: "reading”
+title: "book list”
 draft: false
 type: page
 ---
