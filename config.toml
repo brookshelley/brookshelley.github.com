@@ -50,14 +50,14 @@ paginate = 5
     weight = 3
 
   [[menu.main]]
-    name = "book list"
+    name = "reading"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/books"
     weight = -100
 
   [[menu.main]]
-    name = "movie list"
+    name = "watching"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/movies"
@@ -71,7 +71,7 @@ paginate = 5
     weight = -100
 
 [[menu.main]]
-    name = "newsletter  "
+    name = "newsletter"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
