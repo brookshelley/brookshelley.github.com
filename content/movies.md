@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**1917**
+
+A very intense movie but it was also beautiful in its own way. I get why this won awards. Weird cameo by Doctor Strange though.
+
 **The Martian**
 
 Another rewatch. I had a FaceTime call where my friend Lena and I discussed Halt and Catch Fire, which reminded me how much I enjoyed this film, which I took to be about the competence of McKenzie Davis’ character. This was my first time watching this movie in 4K though, which made it look pretty amazing. Also, I always forget Donald Glover was in this.
