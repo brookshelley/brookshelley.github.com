@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Birds of Prey**
+
+It’s a low bar, but this is definitely the best DCU movie since all the serious Nolan Batman films. Not only was it silly fun, it managed to build interesting characters and solid battles that put the overwrought CGI-fest of Avengers to shame. I hope if they make more of these they keep the formula. I really want to see a love story between Poison Ivy and Harley.
+
 **1917**
 
 A very intense movie but it was also beautiful in its own way. I get why this won awards. Weird cameo by Doctor Strange though.
