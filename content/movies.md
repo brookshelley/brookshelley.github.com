@@ -8,6 +8,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Steve Jobs**
+
+Oh, hey, it’s Shiv! It’s kind of fascinating that the entire story is told through the lead-up to the presentations that implanted Steve Jobs in so many of our brains. I really enjoyed seeing this, and also think it’s funny this came out only 2 years after the Kutcher film. Also, Fassbender has a way cooler vibe that the actual Jobs... I mean, he’s Magneto!
+
+**The Social Network**
+
+One of the wildest things about this movie is the that Facebook’s valuation at the time of the credits rolling was only $25 billion. A few years later, it’s nearly 500 billion. I left Facebook 3 years before this film came out, and briefly returned while in Portland. I get the sense the characters in the film might be less likable in real life.
+
 **Apollo 13**
 
 Such a fantastic film. It’s surprising how well this held up, with many practical effects and no terrible CGI. It’s been 25 years and this one still had me on the edge of my seat.
