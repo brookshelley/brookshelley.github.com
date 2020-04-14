@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**General Magic**
+
+After seeing the fictionalized versions of many of these folks in Steve Jobs, and hearing so many stories about others—some of whom I’ve met—this was a really interesting look at a company that catalyzed much of what we use every day to live online.
+
 **Steve Jobs**
 
 Oh, hey, it’s Shiv! It’s kind of fascinating that the entire story is told through the lead-up to the presentations that implanted Steve Jobs in so many of our brains. I really enjoyed seeing this, and also think it’s funny this came out only 2 years after the Kutcher film. Also, Fassbender has a way cooler vibe that the actual Jobs... I mean, he’s Magneto!
