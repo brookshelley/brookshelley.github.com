@@ -12,7 +12,7 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ### 15 books
 
-**Zero Sim Game** — SL Huang
+**Zero Sum Game** — SL Huang
 
 Ah a female protagonist who uses her math expertise to leap through windows and shoot bad guys! This book ruled. I’m not sure what this character’s “struggle” is going to be, because in the first book at least she’s a little invincible, but either way it was fun.
 

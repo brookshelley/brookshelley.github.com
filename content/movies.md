@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Portrait of a Lady on Fire**
+
+Well, fuck. That was gorgeous and sad. This movie built until my heart ached, and wove a story of falling in love.
+
 **Crawl**
 
 It’s no Underwater, but I guess if you want to see a great reason not to visit Florida, this is a perfect anti-ad.
