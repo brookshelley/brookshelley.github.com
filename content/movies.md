@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Rythym Section**
+
+A training montage revenge flick that slowly transforms into a pretty thrilling action movie.
+
 **Bloodshot**
 
 “I don’t mind the scars, I just don’t like the stories they tell.” With a time-to-tanktop of just under 5 minutes, you know from the jump this will be a new Diesel vehicle. This movie had it all: underwater tai-chi, weightlifting, Guy Pierce, and a drinking competition to hone in on Vin’s favorite shot. Of course, as a Chinese-financed movie, there’s no blood or sex or skeletons. Also why didn’t they put that one guy’s eyes in his head instead of on his chest?!
