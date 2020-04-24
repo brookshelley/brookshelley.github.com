@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Prisoners**
+
+In preparation for the eventual release of the new Dune film I wanted to familiarize myself with Villneuve’s ourve. This is a very good mystery film with a grittier Gyllenhal than his turn at Zodiac.
+
 **Rythym Section**
 
 A training montage revenge flick that slowly transforms into a pretty thrilling action movie.
