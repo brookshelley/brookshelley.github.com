@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Jumanji: Welcome to the Jungle**
+
+The extras’ costuming in this film is deeply strange, with a mix of “Indiana Jones pan-middle-east” and “Mad Max”. This whole film was a glorious mess, and I loved it.
+
 **The Guest**
 
 This was surprisingly funny and very bizarre. I really enjoy Dan Stevens, ever since his turn as Xavier’s son Legion.

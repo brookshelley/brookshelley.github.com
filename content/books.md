@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 15 books
+### 16 books
+
+**Polaris Rising** — Jessie Mihalik
+
+A mix of space caper and Harlequin Romance, there was entirely too much straight sex in this for me. But, if you think “space operas should have more picking out dresses and rough hands on waists,” then this is the book for you.
 
 **Zero Sum Game** — SL Huang
 
