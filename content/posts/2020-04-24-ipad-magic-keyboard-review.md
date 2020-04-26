@@ -9,7 +9,7 @@ tags:
   - review
 ---
 
-![iPad and Magic Keyboard](../photos/magickeyboard.jpg)
+![iPad and Magic Keyboard](/photos/magickeyboard.jpg)
 
 Watching friends and reviewers get their new Magic Keyboards in the mail all week was brutal, because every word I read about them, and video I watched just made me want to touch one more. In the time of quarantine, there’s no store to visit to try new products out, so instead we’re left waiting for delivery, and hoping everything lives up to our dreams. 
 
