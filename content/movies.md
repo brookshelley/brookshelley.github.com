@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Jumanji: Next Level**
+
+Have you ever wanted to see the Rock play Dan Devito? What about Jack Black playing a younger black guy? This movie was more bizarre than the last but hey, it was also fun.
+
 **Jumanji: Welcome to the Jungle**
 
 The extras’ costuming in this film is deeply strange, with a mix of “Indiana Jones pan-middle-east” and “Mad Max”. This whole film was a glorious mess, and I loved it.
