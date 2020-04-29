@@ -11,6 +11,13 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 **Hustlers**
 
 I love a good grift. I’m still low-key mad this wasn’t about a lesbian romance between J Lo and Constance Wu though.
+**The Commuter**
+
+A perfectly serviceable train thriller. Pretty fun.
+
+**Jumanji: Next Level**
+
+Have you ever wanted to see the Rock play Dan Devito? What about Jack Black playing a younger black guy? This movie was more bizarre than the last but hey, it was also fun.
 
 **Jumanji: Welcome to the Jungle**
 
