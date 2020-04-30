@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Game Night**
+
+Just a good time. Everyone seemed like they were having a great time, and it hopped along at a good clip while keeping me laughing.
+
 **Hustlers**
 
 I love a good grift. I’m still low-key mad this wasn’t about a lesbian romance between J Lo and Constance Wu though.
