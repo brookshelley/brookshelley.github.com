@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**After the Storm**
+
+Koreeda is one of the best directors when it comes to presenting the sadly funny banality of life. I can’t fathom someone else who could present a deadbeat dad and dysfunctional family with such pathos. This isn’t quite as heartrending as Shoplifters, but it comes close.
+
 **Game Night**
 
 Just a good time. Everyone seemed like they were having a great time, and it hopped along at a good clip while keeping me laughing.
