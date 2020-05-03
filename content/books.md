@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 16 books
+### 17 books
+
+**Spook Country**
+
+A delightful reread of a really fun Gibson near-future/near-past adventure. There are so many moments in this book that make me super jealous I didn’t conceive of them. The Blue Ant trilogy owns bones.
 
 **Polaris Rising** — Jessie Mihalik
 
