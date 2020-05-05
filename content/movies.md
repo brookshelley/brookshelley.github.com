@@ -8,6 +8,18 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Saturday Night**
+
+A fun documentary with rather overwrought camera-work that shows what preparing for and shooting SNL is like. It’s kinda wild to see the sheer number of writers and staff that make it come alive.
+
+**The Exorcist**
+
+Pretty creepy, with great special effects considering the time. I always root for the demons in any one of these, and definitely wondered while watching this how many more kids priests hurt than these imagined evil spirits. The devil, it turns out, was the church all along.
+
+**Vivarium**
+
+Started creepy, got way creepier. I appreciate the unwillingness to tell the viewer what the fuck is happening. This plays out like a great Ursula K Le Guin novel.
+
 **After the Storm**
 
 Koreeda is one of the best directors when it comes to presenting the sadly funny banality of life. I can’t fathom someone else who could present a deadbeat dad and dysfunctional family with such pathos. This isn’t quite as heartrending as Shoplifters, but it comes close.
