@@ -8,6 +8,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**The Dead Don’t Die**
+
+This movie so badly wanted to be clever, it is the film equivalent to wearing a “funny shirt” from Hot Topic and explaining the joke to everyone before they can even laugh.
+
+**The Lodge**
+
+One of the better horror films I’ve seen in a while, with a very scary house, and an excellent secluded location.
+
 **Saturday Night**
 
 A fun documentary with rather overwrought camera-work that shows what preparing for and shooting SNL is like. It’s kinda wild to see the sheer number of writers and staff that make it come alive.
