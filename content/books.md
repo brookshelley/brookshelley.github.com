@@ -12,11 +12,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ### 18 books
 
-**Zero History**
+**Zero History** — William Gibson 
 
 I read this slowly to really savor it. The last book in the Blue Ant trilogy is the most oddball and fun, but always comes with the knowledge that I won’t get to adventure with Millgrim and Hollis again until I reread the series yet again in the future. It’s fascinating how thoroughly Gibson identified the coming brand drops, denim obsession, and obsession with quadrocopters. As a sage of the near future, he feels unparalleled. 
 
-**Spook Country**
+**Spook Country** — William Gibson 
 
 A delightful reread of a really fun Gibson near-future/near-past adventure. There are so many moments in this book that make me super jealous I didn’t conceive of them. The Blue Ant trilogy owns bones.
 
