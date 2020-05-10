@@ -8,6 +8,10 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Sonic the Hedgehog**
+
+Weird how much more low-key enjoyable this was than the last movie I watched. From the delightfully bad puns, to Jim Carrey having way too much fun, to Ben Schwartz just being himself, this was a nice Saturday afternoon romp. I went in expecting basically nothing, and was pleasantly surprised. 
+
 **The Dead Don’t Die**
 
 This movie so badly wanted to be clever, it is the film equivalent to wearing a “funny shirt” from Hot Topic and explaining the joke to everyone before they can even laugh.
