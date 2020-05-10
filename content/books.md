@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 17 books
+### 18 books
+
+**Zero History**
+
+I read this slowly to really savor it. The last book in the Blue Ant trilogy is the most oddball and fun, but always comes with the knowledge that I won’t get to adventure with Millgrim and Hollis again until I reread the series yet again in the future. It’s fascinating how thoroughly Gibson identified the coming brand drops, denim obsession, and obsession with quadrocopters. As a sage of the near future, he feels unparalleled. 
 
 **Spook Country**
 
