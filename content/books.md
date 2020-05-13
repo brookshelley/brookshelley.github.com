@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 18 books
+### 19 books
+
+**Finna** — Nino Cipri
+
+A fun romp through an IKEA multiverse with a queer couple and a missing grandma. I had fun with this, and the short length meant I blazed through it almost too fast. I hope there’s more from Cipri soon.
 
 **Zero History** — William Gibson 
 
