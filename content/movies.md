@@ -8,6 +8,14 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
 
+**Nightmare on Elm Street**
+
+Did you know Depp was in this? I certainly didn’t! This is the second movie I’ve watched because of the podcast **The Scaredy Cats** wherein one host of Reply All tries to help the other host inure himself to horror films. With all of the cultural cachet this movie had, it was interesting to see how quickly they showed Freddy himself. Freddy also seemed shorter than I imagined. I also always find it funny when all the “high school” actors are in their twenties. Why not just set it in college?
+
+**Upgrade**
+
+An interesting take on the post-human world. It’s a schlocky, funny, gory AF film, and not very into its own violence. Also it was rad to see Betty Gabriel from Get Out again.
+
 **Sonic the Hedgehog**
 
 Weird how much more low-key enjoyable this was than the last movie I watched. From the delightfully bad puns, to Jim Carrey having way too much fun, to Ben Schwartz just being himself, this was a nice Saturday afternoon romp. I went in expecting basically nothing, and was pleasantly surprised. 
