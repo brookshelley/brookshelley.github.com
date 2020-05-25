@@ -10,7 +10,11 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 - - -
 
-### 19 books
+### 20 books
+
+**Network Effect** — Martha Wells
+
+It’s nice to really stretch my legs in the Murderbot world. I hope Wells writes more novels in this fun universe, and we get to see Murderbot grow further past its general emotional discomfort.
 
 **Finna** — Nino Cipri
 
