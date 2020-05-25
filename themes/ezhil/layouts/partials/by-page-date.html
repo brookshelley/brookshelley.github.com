@@ -2,7 +2,7 @@
 <!-- Groups content by month according to the "date" field in front matter -->
 {{ range .Pages.GroupByDate "2006" }}
 <h3>{{ .Key }}</h3>
---- 
+<hr>
 <ul>
     {{ range .Pages }}
     <li>
