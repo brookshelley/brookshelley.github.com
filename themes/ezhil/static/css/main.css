@@ -93,7 +93,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: raleway,sans-serif;
     line-height: 1.2;
     color: #603ad0;
-    font-weight: 200;
+    font-weight: bold;
 }
 
 h1 {
@@ -180,6 +180,10 @@ ul {
 
 .post ul li p {
     display: inline;
+}
+
+.list a {
+  font-size: 2rem;
 }
 
 .highlight pre {
