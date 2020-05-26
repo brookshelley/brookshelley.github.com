@@ -156,7 +156,7 @@ ul.flat {
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 5;
+    margin-left: 5px;
 }
 
 .prevent-collapse {
@@ -164,7 +164,7 @@ ul.flat li {
 }
 
 .page-title {
-    margin: 0;
+    margin-left: 2px;
 }
 
 .smaller {
@@ -289,6 +289,7 @@ ul {
     font-size: 0.725rem;
     color: #999;
     margin-bottom: 1px;
+    margin-left: 5px;
 }
 
 .post .post-header {
@@ -305,7 +306,7 @@ ul {
 }
 
 .post .post-header .meta {
-    padding-left: 5px;
+    padding-left: 2px;
     margin-top: 1px;
 }
 
@@ -337,7 +338,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .footer {
