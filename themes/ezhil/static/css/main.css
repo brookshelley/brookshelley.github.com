@@ -189,7 +189,7 @@ ul {
 .highlight pre {
     margin-bottom: 0;
     margin-top: 0;
-    padding: 20px;
+    padding: 10px;
     background-color: transparent !important;
 }
 
@@ -204,11 +204,11 @@ ul {
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .header {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     padding-bottom: 10px;
 }
 
@@ -225,7 +225,7 @@ ul {
 }
 
 .header nav {
-    margin-top: 20px;
+    margin-top: 10px;
     border-top: 1px solid #f4f4f4;
 }
 
@@ -257,11 +257,11 @@ ul {
     padding: 0;
     border: none;
     min-width: 50px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 .header .site-description nav ul svg {
-    max-height: 15px;
+    max-height: 10px;
 }
 
 .section .section-header {
@@ -274,7 +274,7 @@ ul {
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .recent-posts .posts .post .meta,
@@ -286,7 +286,7 @@ ul {
 }
 
 .post .post-header {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .post .post-header .title {
@@ -322,7 +322,7 @@ ul {
     border-radius: 4px;
     padding: 0px 6px;
     color: #603ad0;
-    line-height: 20px;
+    line-height: 10px;
     font-size: 12px;
     text-decoration: none;
     margin: 0 1px;
@@ -338,8 +338,8 @@ ul {
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
-    padding: 20px 0;
-    margin-top: 20px;
+    padding: 10px 0;
+    margin-top: 10px;
 }
 
 .page-title {
@@ -347,11 +347,11 @@ ul {
 }
 
 .tag-cloud {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .tag-cloud a {
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 .pagination {
@@ -370,8 +370,8 @@ ul {
 }
 
 .pagination .page-prev {
-    margin-right: 20px;
-    padding-right: 20px;
+    margin-right: 10px;
+    padding-right: 10px;
 }
 
 .pagination .page-item.page-prev {
@@ -384,7 +384,7 @@ ul {
 
 @media (max-width: 767px) {
     body {
-        padding: 20px;
+        padding: 10px;
     }
 
     h1 {
@@ -399,11 +399,6 @@ ul {
     h3 {
         font-size: 1.2rem;
     }
-
-    h4 {
-        font-size: 1rem;
-    }
-
     .container {
         margin-top: 10px;
     }
