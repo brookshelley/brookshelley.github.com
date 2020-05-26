@@ -286,14 +286,15 @@ ul {
     font-size: 0.725rem;
     color: #999;
     margin-bottom: 1px;
+    margin-left: 2px;
 }
 
 .post .post-header {
     margin-bottom: 5px;
+    margin-left: 2px
 }
 
 .post .post-header .title {
-    margin-left: 5px;
     margin-right: 5px;
 }
 
@@ -334,7 +335,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .footer {
