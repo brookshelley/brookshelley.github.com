@@ -44,6 +44,13 @@ img {
     display: block;
 }
 
+logo {
+    margin: 10px, 10px, 15px, 15px;
+    max-width: 80%;
+    float: left;
+    display: block;
+}
+
 a img {
     border:none;
 }
