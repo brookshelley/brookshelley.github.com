@@ -14,7 +14,7 @@
 				<div class="post">
 					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span
 							class="draft-label">DRAFT</span> {{ end }}</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
+					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
 					<span class="description">
 						{{ if isset .Params "description" }}
 						{{ .Description }}

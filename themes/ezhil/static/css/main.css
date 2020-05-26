@@ -159,7 +159,7 @@ h6 {
     }
 
 ul {
-    padding-left: 5px;
+    padding-left: 25px;
 }
 
 ul.flat {
@@ -171,7 +171,7 @@ ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
-    margin-left: 0px;
+    margin-left: 25px;
     margin-top: 5px;
 }
 
@@ -182,6 +182,8 @@ ul.flat li {
 .page-title {
     margin-left: 25px;
     margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: 200;
 }
 
 .smaller {
@@ -195,7 +197,7 @@ ul {
 .site-title a {
 	color: #603ad0;
 	text-decoration: none;
-    font-size: 40px;
+    font-size: 30px;
     text-align: left;
     margin-left: 10px;
     padding-top: 20px;
@@ -211,10 +213,12 @@ ul {
 
 .post ul li {
     margin-bottom: 5px;
+    margin-left: 25px;
 }
 
 .post ul li p {
     display: inline;
+    margin-left: 25px;
 }
 
 .list h1 {
@@ -227,8 +231,8 @@ ul {
   font-weight: 300;
 }
 
-.title {
-  font-weight: 300;
+.blogtitle {
+  font-weight: 200;
   font-size: 18px;
 }
 
@@ -276,13 +280,13 @@ ul {
     margin-top: 5px;
     margin-bottom: 5px;
     border-top: 1px solid #f4f4f4;
+    text-align: center;
 }
 
 .header nav ul,
 .header nav li {
     margin-left: 20px;
     margin-right: 20px;
-    text-align: justify;
 }
 
 .header nav ul.flat {
@@ -329,6 +333,7 @@ ul {
 
 .recent-posts .posts .post {
     margin-bottom: 15px;
+    margin-left: 25px;
 }
 
 .recent-posts .posts .post .meta,
@@ -337,7 +342,6 @@ ul {
     font-size: 16px;
     color: #999;
     margin-bottom: 0px;
-    margin-left: 25px;
 }
 
 .post .post-header {
@@ -346,6 +350,7 @@ ul {
 }
 
 .post .post-header .title {
+    font-size: 30px;
     margin-right: 5px;
 }
 
@@ -386,7 +391,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 5px;
+    margin-left: 25px;
 }
 
 .footer {
@@ -454,20 +459,22 @@ ul {
     }
 
     h3 {
-        font-size: 16px;
+        font-size: 20px;
     }
+
     .container {
         margin-top: 1px;
     }
+
     ul.flat {
-    margin: 0;
+    margin-left: 25px;
     padding: 2px;
 }
 
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 1px;
+    margin-left: 25px;
     margin-top: 5px;
 }
 
@@ -503,6 +510,6 @@ ul.flat li {
   border-bottom: 1px dotted #333;
 }
 
-#searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block; }
+/*#searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block; }
 #searchResults { visibility: hidden; display: inline-block; width: 250px; }
-#searchResults a { text-decoration: none !important; padding: 5px; display: inline-block; }
+#searchResults a { text-decoration: none !important; padding: 5px; display: inline-block; }*/
