@@ -1,13 +1,13 @@
 body {
     font-family: "Quicksand", sans-serif;
     font-weight: 300;
-    color: #F3F2F3;
+    color: #000;
+    background-color: #F3F2F3;
     line-height: 1.6;
     font-size: 14px;
 }
 
 a, a:hover {
-    /*color: #603ad0;*/
     color: #603ad0;
     text-decoration: none;
     word-break: break-word;
