@@ -109,12 +109,14 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
     font-size: 30px;
     font-weight: 300;
+    margin-left: 10px;
 }
 
 h2 {
     font-size: 20px;
     font-weight: 300;
     line-height: 1.4;
+    margin-left: 10px;
 }
 
 /*h3 {
