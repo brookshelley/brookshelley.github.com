@@ -1,7 +1,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-  	<!--a href="https://www.brookshelley.com/ ">
+	<!--a href="https://www.brookshelley.com/ ">
 	<img src={{ .Site.Params.logo }} alt="thanks helen" height="66" width="66"/>
 	</a-->
 	{{- $title := ( .Title ) -}}
@@ -14,14 +14,14 @@
 	{{- if isset .Site.Params "favicon" -}}
 	<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
 	{{- end -}}
-	
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#603ad0">
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="theme-color" content="#603ad0">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#603ad0">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="theme-color" content="#603ad0">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{{ with .OutputFormats.Get "rss" -}}
@@ -30,7 +30,7 @@
 
 	{{- template "_internal/opengraph.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
-	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300|Quicksand:300,400" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?Raleway:200,300|Quicksand:300,400,600" rel="stylesheet">
 
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
@@ -38,9 +38,11 @@
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customCSS }}" />
 	{{ end }}
 	{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
-	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css"
+		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} />
 	{{- if isset .Site.Params "customdarkcss" }}
-	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customDarkCSS }}" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customDarkCSS }}"
+		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} />
 	{{- end }}
 	{{- end }}
 
