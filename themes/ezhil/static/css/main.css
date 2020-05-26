@@ -40,7 +40,7 @@ hr {
 img {
     margin: 5px;
     max-width: 100%;
-    display: float;
+    float: left;
 }
 
 a img {
