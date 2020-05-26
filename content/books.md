@@ -1255,7 +1255,7 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 **Pussy, King of the Pirates** — Kathy Acker
 
-## Footnotes
+## footnotes
 
 ---
 
