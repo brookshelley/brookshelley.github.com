@@ -496,7 +496,7 @@ ul.flat li {
   border-bottom: 1px dotted #333;
 }
 
-#searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block;}
+/*#searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }*/
+#searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block; }
 #searchResults { visibility: inherit; display: inline-block; width: 250px; }
 #searchResults a { text-decoration: none !important; padding: 5px; display: inline-block; }
-/*#searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }*/
