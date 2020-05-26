@@ -1225,7 +1225,7 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 **Magic for Beginners** — Kelly Link
 
-**Broken Monsters** — Lauren Beuke
+**Broken Monsters** — Lauren Beukes
 
 **Juliet Takes a Breath** — Gabby Rivera
 
