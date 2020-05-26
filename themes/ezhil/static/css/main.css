@@ -37,9 +37,9 @@ hr {
 }
 
 img {
-    margin: 10px auto 10px auto;
+    margin: 5px, 5px, 15px, 15px;
     max-width: 100%;
-    display: block;
+    float: left;
 }
 
 a img {
