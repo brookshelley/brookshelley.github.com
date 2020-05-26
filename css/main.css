@@ -286,7 +286,7 @@ ul {
 }
 
 .post .post-header {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .post .post-header .title {
@@ -299,7 +299,7 @@ ul {
 
 .post .post-header .meta {
     padding-left: 5px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .post .draft-label {
@@ -313,7 +313,7 @@ ul {
 
 .post-tags .tags li {
     margin-bottom: 0;
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 .post-tags .tags a {
@@ -439,8 +439,8 @@ ul {
   background-color: #000;
   border-bottom: 1px dotted #333;
 }
-  #searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block;}
 
+#searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block;}
 #searchResults { visibility: inherit; display: inline-block; width: 250px; }
 #searchResults a { text-decoration: none !important; padding: 5px; display: inline-block; }
-  #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
+#searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
