@@ -163,7 +163,7 @@ ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
-    margin-left: 1px;
+    margin-left: 0px;
     margin-top: 5px;
     /*font-variant: small-caps;*/
 }
@@ -173,7 +173,7 @@ ul.flat li {
 }
 
 .page-title {
-    margin-left: 2px;
+    margin-left: 0px;
     margin-bottom: 0px;
 }
 
@@ -190,7 +190,7 @@ ul {
 	text-decoration: none;
     font-size: 30px;
     font-weight: 300px;
-    margin: 70px auto;
+    margin: 5px auto;
 }
 
 .post ul li {
@@ -292,7 +292,7 @@ ul {
     padding: 0;
     border: none;
     min-width: 30px;
-    margin-left: 5px;
+    /*margin-left: 5px;*/
 }
 
 .header .site-description nav ul svg {
@@ -319,7 +319,6 @@ ul {
     color: #999;
     margin-bottom: 1px;
     margin-left: 5px;
-    margin-left: 2px;
 }
 
 .post .post-header {
@@ -345,7 +344,7 @@ ul {
     text-decoration: none;
     padding: 1px 1px;
     border-radius: 1px;
-    margin-left: 5px;
+    /*margin-left: 5px;*/
     background-color: #f9f2f4;
 }
 
@@ -363,7 +362,7 @@ ul {
     line-height: 14px;
     font-size: 14px;
     text-decoration: none;
-    margin: 0 1px;
+    margin: 1px;
 }
 
 .list .posts .post .meta {
