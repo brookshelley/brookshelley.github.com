@@ -3,8 +3,9 @@
 {{ partial "header.html" . }}
 
 <body>
-
 	<div class="container wrapper list">
+		{{ partial "head.html" . }}
+
 		{{ if isset .Data "Term" }}
 			<h1>Entries tagged - "{{ .Data.Term }}"</h1>
 		{{ else }}
