@@ -47,7 +47,7 @@ img {
 }
 
 .logo {
-    margin: 5px auto;
+    margin: 1px auto;
     display: block;
     float: left;
 }
@@ -101,7 +101,6 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: raleway,sans-serif;
-    line-height: 1;
     color: #603ad0;
     font-weight: 200;
 }
@@ -189,8 +188,17 @@ ul {
 	color: #603ad0;
 	text-decoration: none;
     font-size: 30px;
-    font-weight: 300px;
-    margin: 5px auto;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 20px;
+    margin-bottom: 1px;
+}
+
+.site-title h1 {
+    text-align: left;
+    /*margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;*/
 }
 
 .post ul li {
@@ -238,17 +246,16 @@ ul {
 }
 
 .container {
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .header {
+    margin-top: 10px;
     margin-bottom: 2px;
-    padding-bottom: 2px;
 }
 
 .header h1 {
   font-size: 30px;
-  line-height: 1.5rem;
 }
 
 .header h2 {
@@ -283,7 +290,6 @@ ul {
 }
 
 .header .site-description {
-    display: flex;
     justify-content: space-between;
 }
 
@@ -297,6 +303,12 @@ ul {
 
 .header .site-description nav ul svg {
     max-height: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.header .site-description nav.social {
+    text-align: right;
 }
 
 .section .section-header {
