@@ -8,6 +8,10 @@ body {
     padding: 10px auto;
 }
 
+b, strong {
+    font-weight: 600;
+}
+
 a, a:hover {
     color: #603ad0;
     text-decoration: none;
@@ -38,14 +42,12 @@ hr {
 }
 
 img {
-    margin: 15px auto;
-    max-width: 80%;
+    margin: 5px auto;
     display: block;
 }
 
-logo {
-    margin: 15px auto;
-    max-width: 80%;
+.logo {
+    margin: 5px auto;
     display: block;
     float: left
 }
@@ -159,11 +161,11 @@ ul.flat {
 
 ul.flat li {
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     list-style: none;
     margin-left: 1px;
     margin-top: 5px;
-    font-variant: small-caps;
+    /*font-variant: small-caps;*/
 }
 
 .prevent-collapse {
@@ -187,6 +189,7 @@ ul {
 	color: #603ad0;
 	text-decoration: none;
     font-size: 30px;
+    font-weight: 300px
 }
 
 .post ul li {
@@ -204,7 +207,12 @@ ul {
 
 .list h2 {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: 300;
+}
+
+.title {
+  font-weight: 300;
+  font-size: 18px;
 }
 
 .list a {
@@ -427,7 +435,7 @@ ul {
     }
 
     h3 {
-        font-size: 1.2rem;
+        font-size: 16px;
     }
     .container {
         margin-top: 1px;
