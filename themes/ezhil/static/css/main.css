@@ -321,7 +321,7 @@ ul {
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 1px;
+    margin-bottom: 15px;
 }
 
 .recent-posts .posts .post .meta,
@@ -329,7 +329,7 @@ ul {
 .list .posts .post .meta {
     font-size: 16px;
     color: #999;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     margin-left: 0px;
 }
 
