@@ -49,7 +49,7 @@ img {
 .logo {
     margin: 5px auto;
     display: block;
-    float: left
+    float: left;
 }
 
 a img {
@@ -109,14 +109,12 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
     font-size: 30px;
     font-weight: 300;
-    margin-left: 10px;
 }
 
 h2 {
     font-size: 20px;
     font-weight: 300;
     line-height: 1.4;
-    margin-left: 10px;
 }
 
 /*h3 {
@@ -191,7 +189,8 @@ ul {
 	color: #603ad0;
 	text-decoration: none;
     font-size: 30px;
-    font-weight: 300px
+    font-weight: 300px;
+    margin: 70px auto;
 }
 
 .post ul li {
@@ -293,7 +292,7 @@ ul {
     padding: 0;
     border: none;
     min-width: 30px;
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .header .site-description nav ul svg {
