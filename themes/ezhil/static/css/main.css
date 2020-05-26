@@ -139,6 +139,7 @@ h6 {
 
 .container {
     max-width: 900px;
+    padding: 5px;
 }
 
 ul {
