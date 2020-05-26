@@ -176,7 +176,7 @@ ul {
 
 .site-title a {
 	color: #603ad0;
-	text-decoration: none !important;
+	text-decoration: none;
   font-size: 30px;
 }
 
@@ -188,10 +188,6 @@ ul {
     display: inline;
 }
 
-.list a {
-  font-size: 14px;
-}
-
 .list h1 {
   font-size: 30px;
   font-weight: 300;
@@ -200,6 +196,10 @@ ul {
 .list h2 {
   font-size: 20px;
   font-weight: 200;
+}
+
+.list a {
+  font-size: 14px;
 }
 
 .highlight pre {
@@ -226,6 +226,8 @@ ul {
 .header {
     margin-bottom: 2px;
     padding-bottom: 2px;
+    font-size: 30px;
+    font-weight: 300;
 }
 
 .header h1 {
@@ -417,6 +419,7 @@ ul {
 
     h2 {
         font-size: 20px;
+        font-weight: 300;
     }
 
     h3 {
