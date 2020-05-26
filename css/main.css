@@ -10,7 +10,7 @@ a, a:hover {
     color: #603ad0;
     text-decoration: none;
     word-break: break-word;
-    font-size: 3rem;
+    font-size: 20rem;
 }
 
 html,button,input,select,textarea {
@@ -82,7 +82,7 @@ blockquote em {
 
 a,a:hover {
     color: #603ad0;
-    text-decoration: none
+    font-weight: bold;
 }
 
 a:hover {
@@ -189,7 +189,7 @@ ul {
 .highlight pre {
     margin-bottom: 0;
     margin-top: 0;
-    padding: 10px;
+    padding: 5px;
     background-color: transparent !important;
 }
 
@@ -208,8 +208,8 @@ ul {
 }
 
 .header {
-    margin-bottom: 10px;
-    padding-bottom: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
 }
 
 .header h1,
@@ -225,7 +225,7 @@ ul {
 }
 
 .header nav {
-    margin-top: 10px;
+    margin-top: 5px;
     border-top: 1px solid #f4f4f4;
 }
 
@@ -242,8 +242,8 @@ ul {
     display: inline-block;
     list-style: none;
     margin-left: 0;
-    margin-right: 10px;
-    margin-top: 10px;
+    margin-right: 50px;
+    margin-top: 5px;
     text-transform: capitalize;
 }
 
@@ -269,12 +269,12 @@ ul {
     font-weight: 600;
     text-transform: uppercase;
     color: #999;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     letter-spacing: 1px;
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .recent-posts .posts .post .meta,
@@ -282,7 +282,7 @@ ul {
 .list .posts .post .meta {
     font-size: 0.725rem;
     color: #999;
-    margin-bottom: 4px;
+    margin-bottom: 5px;
 }
 
 .post .post-header {
@@ -305,9 +305,9 @@ ul {
 .post .draft-label {
     color: #a00;
     text-decoration: none;
-    padding: 2px 4px;
-    border-radius: 4px;
-    margin-left: 6px;
+    padding: 1px 2px;
+    border-radius: 1px;
+    margin-left: 5px;
     background-color: #f9f2f4;
 }
 
@@ -319,8 +319,8 @@ ul {
 .post-tags .tags a {
     display: inline-block;
     border: 1px solid #a00;
-    border-radius: 4px;
-    padding: 0px 6px;
+    border-radius: 5px;
+    padding: 0px 5px;
     color: #603ad0;
     line-height: 10px;
     font-size: 12px;
@@ -338,7 +338,7 @@ ul {
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
-    padding: 10px 0;
+    padding: 5px 0;
     margin-top: 10px;
 }
 
@@ -384,7 +384,7 @@ ul {
 
 @media (max-width: 767px) {
     body {
-        padding: 10px;
+        padding: 5px;
     }
 
     h1 {
