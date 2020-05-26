@@ -6,7 +6,7 @@ type: page
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
-## 2020: 20 books{#2020}
+## 2020: 20 books {#2020}
 
 - - -
 
@@ -94,7 +94,7 @@ The art in this manga is gorgeous. I especially love the way the leaves and gras
 
 This is an interesting take on apocalyptic fiction. With an AI protagonist and a dying sun, the story careens across the Americas and then even further. There’s a strange love story I didn’t care much for, but otherwise this was a nice romp.
 
-## 2019 - 56 books {#2020}
+## 2019: 56 books {#2019}
 
 ---
 
@@ -518,7 +518,7 @@ Older, but the story was fun, exciting, and well-told.
 A fun book about an alternate history library that is magical. This is very YA,
 but was enjoyable.
 
-## 2018 — 47 books {#2018}
+## 2018: 47 books {#2018}
 
 ---
 
@@ -862,7 +862,7 @@ Really enjoyed this futuristic look at America and the fall of our current
 system. Lots of discussion of class, immigration, and identity. The narrator was
 a little distracting, but it was an interesting narrative conceit.
 
-## 2017 — 70 books {#2017}
+## 2017: 70 books {#2017}
 
 ---
 
@@ -1135,7 +1135,7 @@ person.
 Some light-hearted YA to close out the year. This was a well-told, if sometimes
 upsetting story. A lot of this had me wondering: straight people, are you ok?
 
-## 2016 — 58 books {#2016}
+## 2016: 58 books {#2016}
 
 ---
 
