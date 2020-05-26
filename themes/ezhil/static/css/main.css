@@ -6,6 +6,7 @@ body {
     line-height: 1.6;
     font-size: 15px;
     padding: 10px auto;
+    overflow-x: hidden;
 }
 
 b, strong {
