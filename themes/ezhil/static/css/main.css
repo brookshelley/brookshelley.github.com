@@ -85,6 +85,10 @@ a,a:hover {
     font-weight: bold;
 }
 
+b {
+    font-weight: 800;
+}
+
 a:hover {
     text-decoration: underline
 }
@@ -97,12 +101,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 30px;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 20px;
 }
 
 /*h3 {
@@ -183,7 +187,7 @@ ul {
 }
 
 .list a {
-  font-size: 2rem;
+  font-size: 20px;
 }
 
 .highlight pre {
