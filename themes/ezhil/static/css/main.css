@@ -40,6 +40,7 @@ img {
     margin: 5px, 5px, 15px, 15px;
     max-width: 100%;
     float: left;
+    display: inline-block;
 }
 
 a img {
