@@ -12,8 +12,14 @@ b, strong {
     font-weight: 600;
 }
 
-a, a:hover {
+a {
     color: #603ad0;
+    text-decoration: none;
+    word-break: break-word;
+}
+
+a:hover {
+    color: #8f75de;
     text-decoration: none;
     word-break: break-word;
 }
@@ -88,15 +94,6 @@ blockquote cite {
 
 blockquote em {
     font-weight: 600;
-}
-
-a,a:hover {
-    color: #603ad0;
-    text-decoration: none
-}
-
-a:hover {
-    text-decoration: underline
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -500,4 +497,4 @@ ul.flat li {
 #searchResults li .title { font-size: 1.0em; margin-bottom: 5px; display: inline-block;}
 #searchResults { visibility: inherit; display: inline-block; width: 250px; }
 #searchResults a { text-decoration: none !important; padding: 5px; display: inline-block; }
-#searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
+/*#searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }*/
