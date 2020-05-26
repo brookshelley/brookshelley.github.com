@@ -6,6 +6,8 @@ body {
     line-height: 1.6;
     font-size: 15px;
     padding: 10px auto;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 b, strong {
@@ -460,7 +462,6 @@ ul.flat li {
     margin-left: 1px;
     margin-top: 5px;
     font-variant: small-caps;
-}
 }
 
 #fastSearch {
