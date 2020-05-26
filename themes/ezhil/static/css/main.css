@@ -38,9 +38,9 @@ hr {
 }
 
 img {
-    margin: 5px auto;
+    margin: 5px;
     max-width: 100%;
-    display: block;
+    display: float;
 }
 
 a img {
@@ -50,9 +50,7 @@ a img {
 logo {
   margin-left: 5px;
   margin-right: 15px;
-  float:left;
-  height: 66px;
-  width: 66px;
+  float: left;
 }
 
 figure {
