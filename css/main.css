@@ -407,6 +407,7 @@ ul {
     text-align: right;
 }
 
+/*
 @media (max-width: 767px) {
     body {
         padding: 1px;
@@ -429,6 +430,7 @@ ul {
         margin-top: 1px;
     }
 }
+*/
 
 #fastSearch {
   visibility: hidden;
