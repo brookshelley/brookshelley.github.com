@@ -189,11 +189,17 @@ ul {
 }
 
 .list a {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .list h1 {
   font-size: 30px;
+  font-weight: 300;
+}
+
+.list h2 {
+  font-size: 20px;
+  font-weight: 200;
 }
 
 .highlight pre {
@@ -209,7 +215,7 @@ ul {
 }
 
 .wrapper {
-    max-width: 760px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
