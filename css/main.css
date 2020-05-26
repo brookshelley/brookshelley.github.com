@@ -37,7 +37,7 @@ hr {
 }
 
 img {
-    margin: 10px auto 10px auto;
+    margin: 5px auto 5px auto;
     max-width: 100%;
     display: block;
 }
@@ -389,7 +389,7 @@ ul {
 
 @media (max-width: 767px) {
     body {
-        padding: 5px;
+        padding: 1px;
     }
 
     h1 {
@@ -405,7 +405,7 @@ ul {
         font-size: 1.2rem;
     }
     .container {
-        margin-top: 5px;
+        margin-top: 1px;
     }
 }
 
