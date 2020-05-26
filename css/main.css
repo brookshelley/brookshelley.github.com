@@ -162,7 +162,7 @@ ul.flat li {
 }
 
 .page-title {
-    margin: 0;
+    margin-bottom: 1px;
 }
 
 .smaller {
@@ -349,7 +349,7 @@ ul {
 }
 
 .page-title {
-    margin-bottom: 0;
+    margin-bottom: 1px;
 }
 
 .tag-cloud {
