@@ -38,17 +38,16 @@ hr {
 }
 
 img {
-    margin: 10px, 10px, 15px, 15px;
+    margin: 15px auto;
     max-width: 80%;
-    float: left;
     display: block;
 }
 
 logo {
-    margin: 10px, 10px, 15px, 15px;
+    margin: 15px auto;
     max-width: 80%;
-    float: left;
     display: block;
+    float: left
 }
 
 a img {
