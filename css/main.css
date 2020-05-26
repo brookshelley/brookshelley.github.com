@@ -155,7 +155,7 @@ ul.flat {
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 0;
+    margin-left: 5;
 }
 
 .prevent-collapse {
@@ -335,7 +335,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .footer {
@@ -435,7 +435,7 @@ ul {
 
 #searchResults li {
   list-style: none;
-  margin-left: 0em;
+  margin-left: 1px;
   background-color: #000;
   border-bottom: 1px dotted #333;
 }
