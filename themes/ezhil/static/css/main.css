@@ -1,16 +1,17 @@
 body {
     font-family: "Quicksand", sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #ffffff;
     line-height: 1.5;
     font-size: 16px;
+    margin-left: 5px;
 }
 
 a, a:hover {
     color: #603ad0;
     text-decoration: none;
     word-break: break-word;
-    font-size: 2rem;
+    font-size: 20px;
 }
 
 html,button,input,select,textarea {
@@ -37,7 +38,7 @@ hr {
 }
 
 img {
-    margin: 10px auto 10px auto;
+    margin: 5px auto 5px auto;
     max-width: 100%;
     display: block;
 }
@@ -77,12 +78,16 @@ blockquote cite {
 }
 
 blockquote em {
-    font-weight: 600;
+    font-weight: 300;
 }
 
 a,a:hover {
     color: #603ad0;
-    font-weight: bold;
+    font-weight: 200;
+}
+
+b {
+    font-weight: 400;
 }
 
 a:hover {
@@ -93,16 +98,17 @@ h1,h2,h3,h4,h5,h6 {
     font-family: raleway,sans-serif;
     line-height: 1.2;
     color: #603ad0;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 h1 {
-    font-size: 3rem;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 300;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 20px;
+    font-weight: 200;
 }
 
 /*h3 {
@@ -150,7 +156,7 @@ ul.flat {
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 0;
+    margin-left: 5;
 }
 
 .prevent-collapse {
@@ -183,7 +189,7 @@ ul {
 }
 
 .list a {
-  font-size: 2rem;
+  font-size: 20px;
 }
 
 .highlight pre {
@@ -242,7 +248,7 @@ ul {
     display: inline-block;
     list-style: none;
     margin-left: 0;
-    margin-right: 50px;
+    margin-right: 30px;
     margin-top: 1px;
     text-transform: capitalize;
 }
@@ -256,7 +262,7 @@ ul {
     margin: 0;
     padding: 0;
     border: none;
-    min-width: 50px;
+    min-width: 30px;
     margin-left: 10px;
 }
 
@@ -266,7 +272,7 @@ ul {
 
 .section .section-header {
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 400;
     text-transform: uppercase;
     color: #999;
     margin-bottom: 1px;
@@ -290,7 +296,8 @@ ul {
 }
 
 .post .post-header .title {
-    margin: 0;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .post-tags a {
@@ -330,7 +337,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .footer {
@@ -384,12 +391,12 @@ ul {
 
 @media (max-width: 767px) {
     body {
-        padding: 5px;
+        padding: 1px;
     }
 
     h1 {
         font-size: 1.8rem;
-          font-weight: bold;
+        font-weight: 300;
     }
 
     h2 {
@@ -400,7 +407,7 @@ ul {
         font-size: 1.2rem;
     }
     .container {
-        margin-top: 5px;
+        margin-top: 1px;
     }
 }
 
@@ -430,7 +437,7 @@ ul {
 
 #searchResults li {
   list-style: none;
-  margin-left: 0em;
+  margin-left: 1px;
   background-color: #000;
   border-bottom: 1px dotted #333;
 }
