@@ -32,7 +32,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin: 1rem 0;
+    margin: 1px 0;
     padding: 0;
 }
 
@@ -66,7 +66,7 @@ blockquote {
     font-style: italic;
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
-    border-left: 3px solid;
+    border-left: 5px solid;
     border-color: #603ad0;
     padding-left: 20px;
 }
@@ -82,7 +82,7 @@ blockquote em {
 
 a,a:hover {
     color: #603ad0;
-    text-decoration: none
+    font-weight: bold;
 }
 
 a:hover {
@@ -97,7 +97,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 2.75rem;
+    font-size: 3rem;
     font-weight: bold;
 }
 
@@ -175,7 +175,7 @@ ul {
 }
 
 .post ul li {
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 .post ul li p {
@@ -189,7 +189,7 @@ ul {
 .highlight pre {
     margin-bottom: 0;
     margin-top: 0;
-    padding: 20px;
+    padding: 5px;
     background-color: transparent !important;
 }
 
@@ -204,12 +204,12 @@ ul {
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .header {
-    margin-bottom: 20px;
-    padding-bottom: 10px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
 }
 
 .header h1,
@@ -225,7 +225,7 @@ ul {
 }
 
 .header nav {
-    margin-top: 20px;
+    margin-top: 2px;
     border-top: 1px solid #f4f4f4;
 }
 
@@ -242,8 +242,8 @@ ul {
     display: inline-block;
     list-style: none;
     margin-left: 0;
-    margin-right: 10px;
-    margin-top: 10px;
+    margin-right: 50px;
+    margin-top: 1px;
     text-transform: capitalize;
 }
 
@@ -257,11 +257,11 @@ ul {
     padding: 0;
     border: none;
     min-width: 50px;
-    margin-left: 15px;
+    margin-left: 10px;
 }
 
 .header .site-description nav ul svg {
-    max-height: 15px;
+    max-height: 10px;
 }
 
 .section .section-header {
@@ -269,12 +269,12 @@ ul {
     font-weight: 600;
     text-transform: uppercase;
     color: #999;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     letter-spacing: 1px;
 }
 
 .recent-posts .posts .post {
-    margin-bottom: 20px;
+    margin-bottom: 1px;
 }
 
 .recent-posts .posts .post .meta,
@@ -282,11 +282,11 @@ ul {
 .list .posts .post .meta {
     font-size: 0.725rem;
     color: #999;
-    margin-bottom: 4px;
+    margin-bottom: 1px;
 }
 
 .post .post-header {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .post .post-header .title {
@@ -299,15 +299,15 @@ ul {
 
 .post .post-header .meta {
     padding-left: 5px;
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 .post .draft-label {
     color: #a00;
     text-decoration: none;
-    padding: 2px 4px;
-    border-radius: 4px;
-    margin-left: 6px;
+    padding: 1px 1px;
+    border-radius: 1px;
+    margin-left: 5px;
     background-color: #f9f2f4;
 }
 
@@ -319,10 +319,10 @@ ul {
 .post-tags .tags a {
     display: inline-block;
     border: 1px solid #a00;
-    border-radius: 4px;
-    padding: 0px 6px;
+    border-radius: 5px;
+    padding: 0px 5px;
     color: #603ad0;
-    line-height: 20px;
+    line-height: 10px;
     font-size: 12px;
     text-decoration: none;
     margin: 0 1px;
@@ -338,8 +338,8 @@ ul {
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
-    padding: 20px 0;
-    margin-top: 20px;
+    padding: 5px 0;
+    margin-top: 5px;
 }
 
 .page-title {
@@ -347,11 +347,11 @@ ul {
 }
 
 .tag-cloud {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .tag-cloud a {
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 .pagination {
@@ -370,8 +370,8 @@ ul {
 }
 
 .pagination .page-prev {
-    margin-right: 20px;
-    padding-right: 20px;
+    margin-right: 10px;
+    padding-right: 10px;
 }
 
 .pagination .page-item.page-prev {
@@ -384,7 +384,7 @@ ul {
 
 @media (max-width: 767px) {
     body {
-        padding: 20px;
+        padding: 5px;
     }
 
     h1 {
@@ -399,13 +399,8 @@ ul {
     h3 {
         font-size: 1.2rem;
     }
-
-    h4 {
-        font-size: 1rem;
-    }
-
     .container {
-        margin-top: 10px;
+        margin-top: 5px;
     }
 }
 
