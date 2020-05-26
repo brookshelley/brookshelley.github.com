@@ -156,13 +156,14 @@ ul {
 
 ul.flat {
     margin: 0;
-    padding: 0;
+    padding: 2px;
 }
 
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 5px;
+    margin-left: 1px;
+    font-variant: small-caps;
 }
 
 .prevent-collapse {
