@@ -424,6 +424,18 @@ ul {
     .container {
         margin-top: 1px;
     }
+    ul.flat {
+    margin: 0;
+    padding: 2px;
+}
+
+ul.flat li {
+    display: inline-block;
+    list-style: none;
+    margin-left: 1px;
+    margin-top: 5px;
+    font-variant: small-caps;
+}
 }
 
 #fastSearch {
