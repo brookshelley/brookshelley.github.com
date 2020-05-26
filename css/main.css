@@ -5,6 +5,7 @@ body {
     background-color: #F3F2F3;
     line-height: 1.6;
     font-size: 14px;
+    max-width: 95%;
 }
 
 a, a:hover {
@@ -140,6 +141,7 @@ h6 {
 .container {
     max-width: 900px;
     padding: 5px;
+    margin: 5px;
 }
 
 ul {
