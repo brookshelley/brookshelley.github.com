@@ -4,6 +4,7 @@ body {
     color: #ffffff;
     line-height: 1.5;
     font-size: 16px;
+    margin-left: 5px;
 }
 
 a, a:hover {
@@ -295,7 +296,8 @@ ul {
 }
 
 .post .post-header .title {
-    margin: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .post-tags a {
