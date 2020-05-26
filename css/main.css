@@ -82,7 +82,7 @@ blockquote em {
 
 a,a:hover {
     color: #603ad0;
-    font-weight: bold;
+    font-weight: 300;
 }
 
 b {
@@ -394,7 +394,7 @@ ul {
 
     h1 {
         font-size: 1.8rem;
-          font-weight: 300;
+        font-weight: 300;
     }
 
     h2 {
