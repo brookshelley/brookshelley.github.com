@@ -5,7 +5,7 @@ body {
     background-color: #F3F2F3;
     line-height: 1.6;
     font-size: 14px;
-    max-width: 95%;
+    margin: 5px auto;
 }
 
 a, a:hover {
@@ -39,7 +39,7 @@ hr {
 
 img {
     margin: 10px, 10px, 15px, 15px;
-    max-width: 90%;
+    max-width: 80%;
     float: left;
     display: block;
 }
@@ -139,10 +139,8 @@ h6 {
 }
 
 .container {
-    max-width: 900px;
-    padding: 5px;
-    margin: 5px;
-}
+    max-width: 760px;
+    }
 
 ul {
     padding-left: 5px;
@@ -407,7 +405,7 @@ ul {
     text-align: right;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 760px) {
     body {
         padding: 1px;
     }
