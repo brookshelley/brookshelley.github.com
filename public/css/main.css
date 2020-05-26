@@ -1,7 +1,7 @@
 body {
     font-family: "Quicksand", sans-serif;
     font-weight: 400;
-    color: #000000;
+    color: #F3F2F3;
     line-height: 1.6;
     font-size: 16px;
 }
@@ -14,16 +14,16 @@ a, a:hover {
 }
 
 html,button,input,select,textarea {
-    color: black;
+    color: white;
 }
 
 ::-moz-selection {
-    background: black;
+    background: #603ad0;
     text-shadow: none;
 }
 
 ::selection {
-    background: black;
+    background: #603ad0;
     text-shadow: none;
 }
 
