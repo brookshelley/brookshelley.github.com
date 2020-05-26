@@ -37,10 +37,10 @@ hr {
 }
 
 img {
-    margin: 5px, 5px, 15px, 50px;
+    margin: 5px, 5px, 15px, 15px;
     max-width: 100%;
     float: left;
-    display: inline-block;
+    display: block;
 }
 
 a img {
