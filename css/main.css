@@ -178,7 +178,7 @@ ul {
 .site-title a {
 	color: #603ad0;
 	text-decoration: none;
-  font-size: 30px;
+    font-size: 30px;
 }
 
 .post ul li {
@@ -200,7 +200,7 @@ ul {
 }
 
 .list a {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .highlight pre {
@@ -227,8 +227,6 @@ ul {
 .header {
     margin-bottom: 2px;
     padding-bottom: 2px;
-    font-size: 30px;
-    font-weight: 300;
 }
 
 .header h1 {
@@ -241,10 +239,6 @@ ul {
     padding: 0;
     font-size: 20px;
     line-height: 1.5rem;
-}
-
-.header h2 {
-    font-size: 20px;
 }
 
 .header nav {
@@ -289,7 +283,7 @@ ul {
 }
 
 .section .section-header {
-    font-size: 0.75rem;
+    font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     color: #999;
@@ -304,7 +298,7 @@ ul {
 .recent-posts .posts .post .meta,
 .post .post-header .meta,
 .list .posts .post .meta {
-    font-size: 0.725rem;
+    font-size: 16px;
     color: #999;
     margin-bottom: 1px;
     margin-left: 5px;
@@ -409,8 +403,7 @@ ul {
     text-align: right;
 }
 
-/*
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
     body {
         padding: 1px;
     }
@@ -432,7 +425,6 @@ ul {
         margin-top: 1px;
     }
 }
-*/
 
 #fastSearch {
   visibility: hidden;
