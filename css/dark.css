@@ -1,5 +1,5 @@
 body {
-	color: #ddd;
+	color: #fff;
 	background-color: #000;
 }
 
@@ -32,7 +32,7 @@ a,a:hover {
 
 .site-description a,
 .site-description a:hover {
-	color: #ddd;
+	color: #fff;
 	text-decoration: underline;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 }
 
 .site-title a {
-	color: #000;
+	color: #fff;
 	text-decoration: none !important;
 }
 
