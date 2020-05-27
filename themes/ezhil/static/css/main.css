@@ -165,7 +165,7 @@ h6 {
 .container {
     max-width: 100%;
     margin-left: 10px;
-    }
+}
 
 ul {
     padding-left: 25px;
@@ -241,12 +241,12 @@ ul {
 }
 
 .blogtitle {
-  font-weight: 200;
-  font-size: 18px;
+    font-weight: 200;
+    font-size: 18px;
 }
 
 .list a {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 .highlight pre {
@@ -482,17 +482,6 @@ ul {
     .container {
         margin-top: 1px;
     }
-
-    ul.flat {
-    margin-left: 25px;
-    padding: 2px;
-}
-
-ul.flat li {
-    display: inline-block;
-    list-style: none;
-    margin-left: 25px;
-    margin-top: 5px;
 }
 
 #fastSearch {
