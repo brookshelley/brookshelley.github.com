@@ -17,7 +17,7 @@ p {
 }
 
 .markdown {
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 b, strong {
@@ -181,7 +181,7 @@ ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 5px;
 }
 
@@ -190,7 +190,7 @@ ul.flat li {
 }
 
 .page-title {
-    margin-left: 25px;
+    margin-left: 20px;
     margin-bottom: 0px;
     font-size: 30px;
     font-weight: 200;
@@ -221,12 +221,12 @@ ul {
 
 .post ul li {
     margin-bottom: 5px;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .post ul li p {
     display: inline;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .list h1 {
@@ -345,7 +345,7 @@ ul {
 
 .recent-posts .posts .post {
     margin-bottom: 15px;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .recent-posts .posts .post .meta,
@@ -403,7 +403,7 @@ ul {
 
 .list .posts .post .meta {
     margin-bottom: 0;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 
 .footer {
@@ -480,14 +480,14 @@ ul {
     }
 
     ul.flat {
-    margin-left: 25px;
+    margin-left: 20px;
     padding: 2px;
 }
 
 ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 25px;
+    margin-left: 20px;
     margin-top: 5px;
 }
 
