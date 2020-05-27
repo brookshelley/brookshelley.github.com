@@ -13,8 +13,18 @@
 			</ul>
 		</nav>
 	</div>
-
+	
 	<nav class="nav">
+	  	<ul class="flat">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li>
+    <a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+</nav>
+
+	<!--nav class="nav">
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
 			<li>
@@ -22,6 +32,6 @@
 			</li>
 			{{ end }}
 		</ul>
-	</nav>
+	</nav-->
 	<hr />
 </div>
