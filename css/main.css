@@ -358,8 +358,6 @@ ul {
 }
 
 .post .post-header {
-    margin-bottom: 5px;
-    margin-left: 2px
 }
 
 .post .post-header .title {
@@ -461,9 +459,6 @@ ul {
 }
 
 @media (max-width: 760px) {
-    body {
-        padding: 1px;
-    }
 
     h1 {
         font-size: 30px;
@@ -477,10 +472,6 @@ ul {
 
     h3 {
         font-size: 20px;
-    }
-
-    .container {
-        margin-top: 1px;
     }
 }
 
