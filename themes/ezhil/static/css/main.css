@@ -60,6 +60,8 @@ img {
 }
 
 .logo {
+    margin-top: 0px;
+    margin-bottom: 0px;
     margin-left: 0px;
     display: block;
     float: left;
@@ -190,6 +192,11 @@ ul.flat li {
 
 ul {
     list-style: disc inside;
+}
+
+.site-title {
+    line-height: 66px;
+    margin-bottom: 0px;
 }
 
 .site-title a {
