@@ -1,6 +1,6 @@
 body {
     font-family: "Faustina", serif;
-    font-weight: 566;
+    font-weight: 500;
     color: #000;
     background-color: #FFF;
     line-height: 1.6;
@@ -20,19 +20,22 @@ b, strong {
 }
 
 a {
+    font-family: quicksand,sans-serif;
     color: #603ad0;
     text-decoration: none;
     word-break: break-word;
 }
 
 a:hover {
+    font-family: quicksand,sans-serif;
     color: #8f75de;
     text-decoration: none;
     word-break: break-word;
 }
 
 .active {
-  color: #8f75de;
+    font-family: quicksand,sans-serif;
+    color: #8f75de;
 }
 
 html,button,input,select,textarea {
@@ -110,18 +113,20 @@ blockquote em {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: quicksand,sans-serif;
     color: #603ad0;
     font-weight: 200;
     margin-left: 20px;
 }
 
 h1 {
+    font-family: quicksand,sans-serif;
     font-size: 30px;
     font-weight: 300;
 }
 
 h2 {
+    font-family: quicksand,sans-serif;
     font-size: 20px;
     font-weight: 300;
     line-height: 1.4;
@@ -160,7 +165,7 @@ h6 {
 .container {
     max-width: 100%;
     margin-left: 10px;
-    }
+}
 
 ul {
     padding-left: 25px;
@@ -204,8 +209,9 @@ ul {
 }
 
 .site-title a {
-	color: #603ad0;
-	text-decoration: none;
+    font-family: quicksand,sans-serif;
+    color: #603ad0;
+    text-decoration: none;
     font-size: 30px;
     margin-left: 10px;
     padding-top: 30px;
@@ -223,22 +229,24 @@ ul {
 }
 
 .list h1 {
-  font-size: 30px;
-  font-weight: 300;
+    font-family: quicksand,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
 }
 
 .list h2 {
-  font-size: 20px;
-  font-weight: 300;
+    font-family: quicksand,sans-serif;
+    font-size: 20px;
+    font-weight: 300;
 }
 
 .blogtitle {
-  font-weight: 200;
-  font-size: 18px;
+    font-weight: 200;
+    font-size: 18px;
 }
 
 .list a {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 .highlight pre {
@@ -267,10 +275,12 @@ ul {
 }
 
 .header h1 {
-  font-size: 30px;
+    font-family: quicksand,sans-serif;
+    font-size: 30px;
 }
 
 .header h2 {
+    font-family: quicksand,sans-serif;
     margin: 0;
     padding: 0;
     font-size: 20px;
@@ -278,6 +288,7 @@ ul {
 }
 
 .header nav {
+    font-family: quicksand,sans-serif;
     margin-top: 5px;
     margin-bottom: 5px;
     border-top: 1px solid #f4f4f4;
@@ -324,6 +335,7 @@ ul {
 }
 
 .section .section-header {
+    font-family: quicksand,sans-serif;
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
@@ -351,6 +363,7 @@ ul {
 }
 
 .post .post-header .title {
+    font-family: quicksand,sans-serif;
     font-size: 30px;
     margin-right: 5px;
 }
@@ -379,6 +392,7 @@ ul {
 }
 
 .post-tags .tags a {
+    font-family: quicksand,sans-serif;
     display: inline-block;
     border: 1px solid #a00;
     border-radius: 5px;
@@ -396,6 +410,7 @@ ul {
 }
 
 .footer {
+    font-family: quicksand,sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
@@ -405,6 +420,7 @@ ul {
 }
 
 .page-title {
+    font-family: quicksand,sans-serif;
     margin-bottom: 0px;
 }
 
@@ -466,17 +482,6 @@ ul {
     .container {
         margin-top: 1px;
     }
-
-    ul.flat {
-    margin-left: 25px;
-    padding: 2px;
-}
-
-ul.flat li {
-    display: inline-block;
-    list-style: none;
-    margin-left: 25px;
-    margin-top: 5px;
 }
 
 #fastSearch {
