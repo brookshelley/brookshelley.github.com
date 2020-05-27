@@ -115,7 +115,7 @@ blockquote em {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: quicksand,sans-serif;
     color: #603ad0;
     font-weight: 200;
     margin-left: 20px;
@@ -228,19 +228,19 @@ ul {
 }
 
 .list h1 {
-  font-family: raleway,sans-serif;
+  font-family: quicksand,sans-serif;
   font-size: 30px;
   font-weight: 300;
 }
 
 .list h2 {
-  font-family: raleway,sans-serif;
+  font-family: quicksand,sans-serif;
   font-size: 20px;
   font-weight: 200;
 }
 
 .blogtitle {
-  font-family: raleway,sans-serif;
+  font-family: quicksand,sans-serif;
   font-weight: 200;
   font-size: 18px;
 }
