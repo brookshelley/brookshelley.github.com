@@ -13,17 +13,21 @@
 			</ul>
 		</nav>
 	</div>
-	
-	<nav class="nav">
-	  	<ul class="flat">
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-    <li>
-    <a {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-    </li>
-    {{ end }}
-</nav>
 
+	<nav class="nav">
+		{{ $current := . }}
+ 		<ul class="flat">
+			{{ range .Site.Menus.main }}
+		 <li class="flat">
+			 {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+			 {{ $active = or $active (eq .Name $current.Title) }}
+			 {{ $active = or $active (and (eq .Name "archive") (eq $current.Section "posts")) }}
+			 {{ $active = or $active (and (eq .Name "media diet") (eq $current.Section "mediadiet")) }}
+			 	<a href="{{ .URL }}" class="{{ if $active }}active{{ end }}">{{.Name }}</a>
+		 </li>
+ {{ end }}
+ </ul>
+ </nav>
 	<!--nav class="nav">
 		<ul class="flat">
 			{{ range .Site.Menus.main }}

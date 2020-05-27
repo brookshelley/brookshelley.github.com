@@ -31,6 +31,10 @@ a:hover {
     word-break: break-word;
 }
 
+.active {
+  color: #8f75de;
+}
+
 html,button,input,select,textarea {
     color: #8f75de;
 }
