@@ -15,14 +15,14 @@ paginate = 5
 
 [params]
 	mainSections = ["posts"]
-  subtitle = "a blog"
+    subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-  featherIconsCDN = true
+    featherIconsCDN = true
 	# excludedTypes = ["mediadiet"]
 	favicon = "/favicon.ico"
 	logo = "/666.png"
-	mode = "dark" # "dark", "auto", "light"
+	mode = "auto" # "dark", "auto", "light"
         # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
         # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
         # customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
@@ -63,10 +63,8 @@ paginate = 5
     url = "/writing"
     weight = 3
 
-[[menu.main]]
+  [[menu.main]]
     name = "newsletter"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
     weight = 6
 
