@@ -1,6 +1,6 @@
 body {
     font-family: "Faustina", serif;
-    font-weight: 500;
+    font-weight: 300;
     color: #000;
     background-color: #FFF;
     line-height: 1.6;
@@ -13,10 +13,15 @@ body {
 
 .markdown {
     margin-left: 25px;
+    font-weight: 300;
 }
 
 b, strong {
-    font-weight: 600;
+    font-weight: 700;
+}
+
+i {
+    font-weight: 566;
 }
 
 a {
@@ -116,13 +121,13 @@ h1,h2,h3,h4,h5,h6 {
     font-family: quicksand,sans-serif;
     color: #603ad0;
     font-weight: 200;
-    margin-left: 20px;
 }
 
 h1 {
     font-family: quicksand,sans-serif;
     font-size: 30px;
     font-weight: 300;
+    margin-left: 20px;
 }
 
 h2 {
@@ -176,14 +181,14 @@ ul {
 
 ul.flat {
     margin: 0;
-    padding: 2px;
+    padding: 1px;
 }
 
 ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
-    margin-left: 25px;
+    margin-left: 1px;
     margin-top: 5px;
 }
 
@@ -273,7 +278,7 @@ ul {
 
 .header {
     margin-top: 10px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
 }
 
 .header h1 {
@@ -297,8 +302,6 @@ ul {
 
 .header nav ul,
 .header nav li {
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 .header nav ul.flat li {
@@ -311,7 +314,6 @@ ul {
 }
 
 .header .site-description nav {
-    margin-left: 20px;
     padding: 0;
     border: none;
     min-width: 30px;
@@ -320,7 +322,7 @@ ul {
 .header .site-description nav ul svg {
     max-height: 10px;
     margin-left: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
 }
 
 .header .site-description nav.social {
