@@ -11,6 +11,10 @@ body {
     max-width: 90%;
 }
 
+p {
+  font-family: "Faustina", serif;
+}
+
 .markdown {
     margin-left: 25px;
 }
