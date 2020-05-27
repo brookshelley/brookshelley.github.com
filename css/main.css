@@ -219,7 +219,6 @@ ul {
 }
 
 .post ul li {
-    margin-bottom: 5px;
     margin-left: 25px;
 }
 
@@ -289,8 +288,6 @@ ul {
 
 .header nav {
     font-family: quicksand,sans-serif;
-    margin-top: 5px;
-    margin-bottom: 5px;
     border-top: 1px solid #f4f4f4;
     text-align: center;
 }
@@ -301,16 +298,9 @@ ul {
     margin-right: 20px;
 }
 
-.header nav ul.flat {
-    padding: 0;
-}
-
 .header nav ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 0;
-    margin-right: 30px;
-    margin-top: 5px;
 }
 
 .header .site-description {
