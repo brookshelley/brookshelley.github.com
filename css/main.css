@@ -13,6 +13,7 @@ body {
 
 p {
   font-family: "Faustina", serif;
+  font-weight: 566;
 }
 
 .markdown {
@@ -235,7 +236,7 @@ ul {
 .list h2 {
   font-family: raleway,sans-serif;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 .blogtitle {
@@ -332,7 +333,7 @@ ul {
 
 .section .section-header {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 200;
     text-transform: uppercase;
     color: #999;
     margin-bottom: 1px;
@@ -463,11 +464,12 @@ ul {
 
     h2 {
         font-size: 20px;
-        font-weight: 300;
+        font-weight: 200;
     }
 
     h3 {
         font-size: 20px;
+        font-weight: 200;
     }
 
     .container {
