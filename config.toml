@@ -15,14 +15,14 @@ paginate = 5
 
 [params]
 	mainSections = ["posts"]
-  subtitle = "a blog"
+    subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-  featherIconsCDN = true
+    featherIconsCDN = true
 	# excludedTypes = ["mediadiet"]
 	favicon = "/favicon.ico"
 	logo = "/666.png"
-	mode = "dark" # "dark", "auto", "light"
+	mode = "auto" # "dark", "auto", "light"
         # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
         # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
         # customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
@@ -35,47 +35,38 @@ paginate = 5
   [[menu.main]]
     name = "archive"
     url = "/posts"
-    weight = 1
+    weight = 5
 
   [[menu.main]]
     name = "media diet"
     url = "/mediadiet"
-    weight = 1
+    weight = 4
 
   [[menu.footer]]
     identifier = "about"
     name = "about"
-    pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = 3
+    weight = 1
 
   [[menu.main]]
     name = "reading"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/books"
-    weight = -100
+    weight = 1
 
   [[menu.main]]
     name = "watching"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/movies"
-    weight = -100
+    weight = 2
 
   [[menu.main]]
     name = "writing"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/writing"
-    weight = -100
+    weight = 3
 
-[[menu.main]]
+  [[menu.main]]
     name = "newsletter"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "https://buttondown.email/brookshelley"
-    weight = 2
+    weight = 6
 
 [[params.social]]
 name = "RSS"

@@ -1,8 +1,8 @@
 body {
-    font-family: "Quicksand", sans-serif;
-    font-weight: 300;
+    font-family: "Faustina", serif;
+    font-weight: 566;
     color: #000;
-    background-color: #000;
+    background-color: #FFF;
     line-height: 1.6;
     font-size: 15px;
     overflow-x: hidden;
@@ -29,6 +29,10 @@ a:hover {
     color: #8f75de;
     text-decoration: none;
     word-break: break-word;
+}
+
+.active {
+  color: #8f75de;
 }
 
 html,button,input,select,textarea {
