@@ -62,7 +62,7 @@ paginate = 5
     weight = 2
 
   [[menu.main]]
-    name = "writing"
+    name = "wrote"
     url = "/writing"
     weight = 3
 
