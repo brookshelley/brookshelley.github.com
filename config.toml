@@ -41,11 +41,6 @@ paginate = 5
 [menu]
 
   [[menu.main]]
-    name = "archive"
-    url = "/posts"
-    weight = 5
-
-  [[menu.main]]
     name = "media diet"
     url = "/mediadiet"
     weight = 4
@@ -71,10 +66,10 @@ paginate = 5
     url = "/writing"
     weight = 3
 
-  [[menu.main]]
-    name = "newsletter"
-    url = "https://buttondown.email/brookshelley"
-    weight = 6
+[[params.social]]
+name = "newsletter"
+icon = "mail"
+url = "https://buttondown.email/brookshelley"
 
 [outputs]
 		home = ["HTML", "RSS", "JSON"]

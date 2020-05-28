@@ -1,10 +1,10 @@
 body {
     font-family: "Faustina", serif;
-    font-weight: 566;
+    font-weight: 300;
     color: #000;
     background-color: #FFF;
     line-height: 1.6;
-    font-size: 15px;
+    font-size: 16px;
     overflow-x: hidden;
     margin-left: 10px;
     margin-right: 10px;
@@ -13,26 +13,35 @@ body {
 
 .markdown {
     margin-left: 25px;
+    font-weight: 300;
 }
 
 b, strong {
-    font-weight: 600;
+    font-weight: 700;
+}
+
+i {
+    font-weight: 566;
 }
 
 a {
+    font-family: quicksand,sans-serif;
     color: #603ad0;
     text-decoration: none;
     word-break: break-word;
 }
 
 a:hover {
+    font-family: quicksand,sans-serif;
     color: #8f75de;
     text-decoration: none;
     word-break: break-word;
 }
 
 .active {
-  color: #8f75de;
+    font-family: quicksand,sans-serif;
+    color: #8f75de;
+    margin: 2px auto;
 }
 
 html,button,input,select,textarea {
@@ -52,7 +61,8 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin:  5;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 0;
 }
 
@@ -110,22 +120,28 @@ blockquote em {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: quicksand,sans-serif;
     color: #603ad0;
     font-weight: 200;
-    margin-left: 20px;
 }
 
 h1 {
+    font-family: quicksand,sans-serif;
     font-size: 30px;
     font-weight: 300;
+    margin-left: 20px;
 }
 
 h2 {
+    font-family: quicksand,sans-serif;
     font-size: 20px;
     font-weight: 300;
     line-height: 1.4;
-    margin-left: 0px;
+}
+
+.archive {
+    text-align: right;
+    margin-left: 5px;
 }
 
 /*h3 {
@@ -160,23 +176,27 @@ h6 {
 .container {
     max-width: 100%;
     margin-left: 10px;
-    }
+}
 
 ul {
     padding-left: 25px;
 }
 
 ul.flat {
-    margin: 0;
-    padding: 2px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    padding: 5px;
+    line-height: 1;
 }
 
 ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
-    margin-left: 25px;
-    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .prevent-collapse {
@@ -204,16 +224,16 @@ ul {
 }
 
 .site-title a {
-	color: #603ad0;
-	text-decoration: none;
+    font-family: quicksand,sans-serif;
+    color: #603ad0;
+    text-decoration: none;
     font-size: 30px;
     margin-left: 10px;
     padding-top: 30px;
     margin-bottom: 1px;
 }
 
-.post ul li {
-    margin-bottom: 5px;
+.post li {
     margin-left: 25px;
 }
 
@@ -223,22 +243,24 @@ ul {
 }
 
 .list h1 {
-  font-size: 30px;
-  font-weight: 300;
+    font-family: quicksand,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
 }
 
 .list h2 {
-  font-size: 20px;
-  font-weight: 300;
+    font-family: quicksand,sans-serif;
+    font-size: 20px;
+    font-weight: 300;
 }
 
 .blogtitle {
-  font-weight: 200;
-  font-size: 18px;
+    font-weight: 200;
+    font-size: 18px;
 }
 
 .list a {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 .highlight pre {
@@ -263,14 +285,16 @@ ul {
 
 .header {
     margin-top: 10px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
 }
 
 .header h1 {
-  font-size: 30px;
+    font-family: quicksand,sans-serif;
+    font-size: 30px;
 }
 
 .header h2 {
+    font-family: quicksand,sans-serif;
     margin: 0;
     padding: 0;
     font-size: 20px;
@@ -278,28 +302,16 @@ ul {
 }
 
 .header nav {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    font-family: quicksand,sans-serif;
     border-top: 1px solid #f4f4f4;
-    text-align: center;
-}
-
-.header nav ul,
-.header nav li {
+    text-align: left;
     margin-left: 20px;
     margin-right: 20px;
-}
-
-.header nav ul.flat {
-    padding: 0;
 }
 
 .header nav ul.flat li {
     display: inline-block;
     list-style: none;
-    margin-left: 0;
-    margin-right: 30px;
-    margin-top: 5px;
 }
 
 .header .site-description {
@@ -307,7 +319,6 @@ ul {
 }
 
 .header .site-description nav {
-    margin-left: 20px;
     padding: 0;
     border: none;
     min-width: 30px;
@@ -316,7 +327,7 @@ ul {
 .header .site-description nav ul svg {
     max-height: 10px;
     margin-left: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
 }
 
 .header .site-description nav.social {
@@ -324,6 +335,7 @@ ul {
 }
 
 .section .section-header {
+    font-family: quicksand,sans-serif;
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
@@ -345,12 +357,12 @@ ul {
     margin-bottom: 0px;
 }
 
-.post .post-header {
-    margin-bottom: 5px;
-    margin-left: 2px
-}
+/*.post .post-header {
+    
+}*/
 
 .post .post-header .title {
+    font-family: quicksand,sans-serif;
     font-size: 30px;
     margin-right: 5px;
 }
@@ -379,6 +391,7 @@ ul {
 }
 
 .post-tags .tags a {
+    font-family: quicksand,sans-serif;
     display: inline-block;
     border: 1px solid #a00;
     border-radius: 5px;
@@ -396,6 +409,7 @@ ul {
 }
 
 .footer {
+    font-family: quicksand,sans-serif;
     text-align: right;
     font-size: 0.75em;
     color: #999;
@@ -405,6 +419,7 @@ ul {
 }
 
 .page-title {
+    font-family: quicksand,sans-serif;
     margin-bottom: 0px;
 }
 
@@ -445,9 +460,6 @@ ul {
 }
 
 @media (max-width: 760px) {
-    body {
-        padding: 1px;
-    }
 
     h1 {
         font-size: 30px;
@@ -462,21 +474,6 @@ ul {
     h3 {
         font-size: 20px;
     }
-
-    .container {
-        margin-top: 1px;
-    }
-
-    ul.flat {
-    margin-left: 25px;
-    padding: 2px;
-}
-
-ul.flat li {
-    display: inline-block;
-    list-style: none;
-    margin-left: 25px;
-    margin-top: 5px;
 }
 
 #fastSearch {
