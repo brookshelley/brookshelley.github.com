@@ -32,6 +32,19 @@ h1,h2,h3,h4,h5,h6 {
 	text-decoration: underline;
 }
 
+.recent-posts .posts .post .meta,
+.post .meta,
+.list .posts .post .meta {
+    font-size: 16px;
+    color: #888;
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+
+.description {
+		color: #F3F2F3;
+}
+
 .post-tags .tags a {
     border: 1px solid #ddd;
 	color: #ddd;
@@ -45,6 +58,7 @@ h1,h2,h3,h4,h5,h6 {
 .header nav,
 .footer {
 	border-color: #333;
+	color: #888;
 }
 
 .highlight {
