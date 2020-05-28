@@ -299,6 +299,7 @@ ul {
     font-family: quicksand,sans-serif;
     border-top: 1px solid #f4f4f4;
     text-align: center;
+    margin-left: 5px;
 }
 
 .header nav ul,
