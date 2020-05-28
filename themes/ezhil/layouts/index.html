@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 {{ partial "header.html" . }}
-
 <body>
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
@@ -12,8 +11,7 @@
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span
-							class="draft-label">DRAFT</span> {{ end }}</div>
+					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}
 					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
 					<span class="description">
 						{{ if isset .Params "description" }}

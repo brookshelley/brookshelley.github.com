@@ -41,7 +41,7 @@ a:hover {
 .active {
     font-family: quicksand,sans-serif;
     color: #8f75de;
-    margin-left: 5px;
+    margin: 2px auto;
 }
 
 html,button,input,select,textarea {
@@ -61,7 +61,8 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin:  5;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 0;
 }
 
@@ -182,16 +183,20 @@ ul {
 }
 
 ul.flat {
-    margin: 0;
-    padding: 1px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    padding: 5px;
+    line-height: 1;
 }
 
 ul.flat li {
     display: inline-block;
     font-size: 18px;
     list-style: none;
+    margin-right: 5px;
     margin-left: 5px;
-    margin-top: 5px;
 }
 
 .prevent-collapse {
@@ -228,7 +233,7 @@ ul {
     margin-bottom: 1px;
 }
 
-.post ul li {
+.post li {
     margin-left: 25px;
 }
 
@@ -299,12 +304,9 @@ ul {
 .header nav {
     font-family: quicksand,sans-serif;
     border-top: 1px solid #f4f4f4;
-    text-align: center;
-    margin-left: 5px;
-}
-
-.header nav ul,
-.header nav li {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .header nav ul.flat li {
