@@ -44,12 +44,12 @@ paginate = 5
     weight = 1
 
   [[menu.main]]
-    name = "reading"
+    name = "read"
     url = "/books"
     weight = 1
 
   [[menu.main]]
-    name = "watching"
+    name = "watched"
     url = "/movies"
     weight = 2
 
