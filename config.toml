@@ -15,20 +15,28 @@ paginate = 5
 
 [params]
 	mainSections = ["posts"]
-    subtitle = "a blog"
+  subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-    featherIconsCDN = true
-	# excludedTypes = ["mediadiet"]
+  featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "auto" # "dark", "auto", "light"
-        # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-        # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-        # customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+	[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
+	[[params.social]]
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/brookshelley"
+
+	[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/brookshelley"
 
 [menu]
 
@@ -68,17 +76,5 @@ paginate = 5
     url = "https://buttondown.email/brookshelley"
     weight = 6
 
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/brookshelley"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/brookshelley"
+[outputs]
+		home = ["HTML", "RSS", "JSON"]
