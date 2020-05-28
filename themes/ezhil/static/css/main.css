@@ -303,10 +303,6 @@ ul {
     margin-left: 5px;
 }
 
-.header nav ul,
-.header nav li {
-}
-
 .header nav ul.flat li {
     display: inline-block;
     list-style: none;
