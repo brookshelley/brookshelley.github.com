@@ -41,6 +41,7 @@ a:hover {
 .active {
     font-family: quicksand,sans-serif;
     color: #8f75de;
+    margin-left: 5px;
 }
 
 html,button,input,select,textarea {
