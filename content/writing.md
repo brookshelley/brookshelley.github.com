@@ -4,58 +4,42 @@ draft: false
 type: page
 ---
 
-## online
-<hr>
+### Ninth Letter—[Trans New Wave](http://www.ninthletter.com/trans-new-wave)
 
-**Ninth Letter**
+### Oregon Humanities—[Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
-[Trans New Wave](http://www.ninthletter.com/trans-new-wave)
+### The Toast
 
-**Oregon Humanities**
+- [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
-[Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
+- [Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
 
-**The Toast**
+- [Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
 
-[Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
+- [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
-[Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
+### [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
 
-[Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
+### [Medium archive](https://medium.com/@brookshelley/)
 
-[Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
+### Little Red Tarot**—[Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
-**Uses This**
+### books
 
-[Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
+- [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
 
-**Medium**
+- [Transfigure](http://transfigureproject.com/brook-shelley/)
 
-[All posts](https://medium.com/@brookshelley/)
+- [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
-**Little Red Tarot**
 
-[Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
+- [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
 
-## books
-<hr>
 
-[F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
+### podcasts
 
-[Transfigure](http://transfigureproject.com/brook-shelley/)
+- [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
-[Lean Out](http://www.orbooks.com/catalog/lean-out/)
+- [Dear Prudence: Sept 12, 2018](http://www.slate.com/articles/podcasts/dear_prudence/2018/09/dear_prudence_podcast_the_sister_misery_edition.html)
 
-## podcasts
-<hr>
-
-[I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
-
-[Dear Prudence: Sept 12, 2018](http://www.slate.com/articles/podcasts/dear_prudence/2018/09/dear_prudence_podcast_the_sister_misery_edition.html)
-
-[Dear Prudence:  Nov 2, 2016](https://slate.com/human-interest/2016/11/dear-prudence-podcast-asian-fetishes-racist-group-texts-and-ambien-zombies.html)
-
-## zines
-<hr>
-
-[The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
+- [Dear Prudence:  Nov 2, 2016](https://slate.com/human-interest/2016/11/dear-prudence-podcast-asian-fetishes-racist-group-texts-and-ambien-zombies.html)

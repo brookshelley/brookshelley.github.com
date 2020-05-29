@@ -1,5 +1,5 @@
 body {
-	color: #ddd;
+	color: #ccc;
 	background-color: #000;
 }
 
@@ -21,8 +21,12 @@ blockquote {
 	border-color: #ddd;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2 {
 	color: #603ad0;
+}
+
+h3 {
+	color: #f4f4f4;
 }
 
 a,a:hover {
