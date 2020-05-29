@@ -1,6 +1,6 @@
 body {
     font-family: "Faustina", serif;
-    font-weight: 300;
+    font-weight: 500;
     color: #000;
     background-color: #FFF;
     line-height: 1.6;
@@ -122,20 +122,20 @@ blockquote em {
 h1,h2,h3,h4,h5,h6 {
     font-family: quicksand,sans-serif;
     color: #603ad0;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 h1 {
     font-family: quicksand,sans-serif;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 500;
     margin-left: 25px;
 }
 
 h2 {
     font-family: quicksand,sans-serif;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 500;
     line-height: 1.4;
 }
 
@@ -143,23 +143,6 @@ h2 {
     text-align: right;
     margin-left: 5px;
 }
-
-/*h3 {
-    font-size: 1.6rem;
-}
-
-
-h4 {
-    font-size: 1.2rem;
-}
-
-h5 {
-    font-size: 1rem;
-}
-
-h6 {
-    font-size: .9rem;
-}*/
 
 .align-center {
     text-align: center;
@@ -184,19 +167,37 @@ ul {
 
 ul.flat {
     margin-left: 0px;
-    margin-right: 5px;
+    margin-right: 0px;
     margin-top: 3px;
     margin-bottom: 0px;
     padding: 5px;
     line-height: 1;
 }
 
+.footer ul.flat {
+    margin: 0px auto;
+    line-height: 1;
+    text-align: left;
+}
+
 ul.flat li {
     display: inline-block;
-    font-size: 18px;
+    font-size: 16px;
     list-style: none;
     margin-right: 5px;
     margin-left: 5px;
+}
+
+.flatfoot ul li {
+    font-size: 14px;
+    text-align: center;
+    list-style: none;
+}
+
+.flatfoot-about {
+    text-align: center;
+    list-style: none;
+    font-size: 12px;
 }
 
 .prevent-collapse {
@@ -255,7 +256,7 @@ ul {
 }
 
 .blogtitle {
-    font-weight: 200;
+    font-weight: 300;
     font-size: 18px;
 }
 
@@ -314,24 +315,28 @@ ul {
     list-style: none;
 }
 
-.header .site-description {
+.footer .site-description {
     justify-content: space-between;
 }
 
-.header .site-description nav {
+.footer a {
+    margin: 1px auto;
+}
+
+.footer .site-description nav {
     padding: 0;
     border: none;
     min-width: 30px;
 }
 
-.header .site-description nav ul svg {
+.footer .site-description nav ul svg {
     max-height: 10px;
     margin-left: 5px;
     margin-bottom: 1px;
 }
 
-.header .site-description nav.social {
-    text-align: right;
+.footer .site-description nav.social {
+    text-align: left;
 }
 
 .section .section-header {
@@ -411,12 +416,10 @@ ul {
 
 .footer {
     font-family: quicksand,sans-serif;
-    text-align: right;
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
-    padding: 5px 0;
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 .page-title {
