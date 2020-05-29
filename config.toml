@@ -48,8 +48,6 @@ paginate = 5
     	icon = "info"
     url = "/about"
 
-
-
 [menu]
 
   [[menu.main]]
