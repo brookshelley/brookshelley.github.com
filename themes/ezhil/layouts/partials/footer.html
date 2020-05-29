@@ -1,30 +1,21 @@
 <div class="footer">
 	<div class="site-description"></div>
-	<nav class="nav social">
+	  <nav class="nav social">
 		<ul class="flatfoot-about">
 			{{- range $index, $key := .Site.Params.Social -}}
-			<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+			<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i>
+			</a>
 			{{- end -}}
 		</ul>
-
-		<ul class="flatfoot-about"> {{ range .Site.Menus.footer }}
-			<li class="flatfoot">
-				<a href="{{ .URL }}">{{ .Name }}</a>
-			</li>
-			{{ end }}
+		<ul>
 			<li class="flatfoot">
 				brook 2020
 			</li>
 		</ul>
-	</nav>
-</div>
-</div>
-</nav>
+	  </nav>
+    </div>
 </div>
 
-{{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
 {{- with .Site.Params.Social -}}
 <script>feather.replace()</script>
 {{- end -}}
