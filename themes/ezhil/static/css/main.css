@@ -89,7 +89,7 @@ h1,h2,h3 {
 
 h1 {
   font-family: quicksand,sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 500;
     margin-left: 25px;
 }
@@ -97,7 +97,7 @@ h1 {
 h2 {
   font-family: quicksand,sans-serif;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 1.4;
 }
 
