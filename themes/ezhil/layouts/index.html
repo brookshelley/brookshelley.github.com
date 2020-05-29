@@ -8,11 +8,11 @@
 		<h1>blog</h1>
 		<div class="recent-posts section">
 			<div class="posts">
-			<hr />
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
+				<hr />
 					<div class="meta">{{ dateFormat "Jan 2" .Date }}
 						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> <!--&mdash;
 						<span class="description">
