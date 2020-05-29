@@ -22,7 +22,8 @@ h1,h2,h3 {
 .list .posts .post .meta {
     font-size: 16px;
     color: #888;
-    margin-bottom: 5px;
+    margib-top: 5px;
+    margin-bottom: 10px;
     margin-left: 25px;
 }
 
