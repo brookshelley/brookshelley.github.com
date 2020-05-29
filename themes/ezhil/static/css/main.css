@@ -182,6 +182,11 @@ ul.flat li {
     margin-left: 25px;
 }
 
+.post title {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    }
+
 .blogtitle {
     font-weight: 300;
     font-size: 18px;
