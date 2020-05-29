@@ -8,6 +8,7 @@
 		<h1>blog</h1>
 		<div class="recent-posts section">
 			<div class="posts">
+			<hr />
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
