@@ -5,9 +5,14 @@
 <body>
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
-		
-		<h1 class="title">media diet<h1/>
 
+		<h1 class="title">media diet</h1>
+
+<ul>
+	<h2>lists</h2>
+		<li><a href="/books">read</a></li>
+		<li><a href="/movies">watched</a></li>
+</ul>
 		<ul class="posts">
 			{{ partial "by-page-date.html" . }}
 		</ul>

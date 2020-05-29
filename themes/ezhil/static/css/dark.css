@@ -17,18 +17,13 @@ h1,h2,h3 {
 	color: #603ad0;
 }
 
-.recent-posts .posts .post .meta,
-.post
-.list .posts .post .meta {
+.posts .post .meta,
+.list {
     font-size: 16px;
     color: #888;
     margin-top: 5px;
     margin-bottom: 10px;
     margin-left: 25px;
-}
-
-.meta {
-margin-right: 10px;
 }
 
 .description {

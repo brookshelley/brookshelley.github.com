@@ -4,17 +4,17 @@ body {
     color: #000;
     background-color: #FFF;
     line-height: 1.2;
-    font-size: 17px;
+    font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden;
-    margin-left: 10px;
-    margin-right: 10px;
+    /*margin-left: 10px;
+    margin-right: 10px;*/
     max-width: 100%;
 }
 
 .container {
     max-width: 100%;
-    margin-left: 10px;
-    margin-top: 15px;
+    /*margin-left: 10px;
+    margin-top: 15px;*/
 }
 
 .markdown {
@@ -116,8 +116,8 @@ h3 {
 }
 
 ul {
-    padding-left: 25px;
     list-style: none;
+    margin-left: 0px;
 }
 
 ul.flat {
@@ -137,18 +137,27 @@ ul.flat li {
     margin-left: 5px;
 }
 
-.flatfoot ul li {
+ul.flatfoot li {
     font-size: 14px;
     text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+li {
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .flatfoot-about {
     text-align: center;
     font-size: 12px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .page-title {
-    margin-left: 25px;
+    margin-left: px;
     margin-bottom: 0px;
     font-size: 30px;
     font-weight: 300;
@@ -164,28 +173,27 @@ ul.flat li {
     color: #603ad0;
     text-decoration: none;
     font-size: 30px;
-    margin-left: 10px;
+    margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px;
-}
-
-.post ul li {
-    margin-left: 25px;
-    margin-top: 5px;
-    margin-bottom: 10px;
-    line-height: 1.4;
-    list-style: none;
-}
-
-.post ul li p {
-    display: inline;
-    margin-left: 25px;
 }
 
 .post title {
     margin-top: 10px;
     margin-bottom: 15px;
     }
+
+.posts .post .meta, .list {
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+}
+
+.post-tags .tags a {
+	margin-left: 25px;
+	color: #ddd;
+}
 
 .blogtitle {
     font-weight: 300;
@@ -225,8 +233,8 @@ ul.flat li {
     border-top: 1px solid #f4f4f4;
     text-align: left;
     margin-top: 5px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .header nav ul.flat li {
@@ -250,12 +258,12 @@ ul.flat li {
 
 .footer .site-description nav ul svg {
     max-height: 10px;
-    margin-left: 5px;
-    margin-bottom: 1px;
+    margin-left: 0px;
+    margin-bottom: 5px;
 }
 
 .footer .site-description nav.social {
-    text-align: left;
+    text-align: center;
 }
 
 .section .section-header {
