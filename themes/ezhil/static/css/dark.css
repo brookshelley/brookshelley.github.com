@@ -18,12 +18,16 @@ h1,h2,h3 {
 }
 
 .recent-posts .posts .post .meta,
-.post .meta,
+.post
 .list .posts .post .meta {
     font-size: 16px;
     color: #888;
     margin-bottom: 5px;
     margin-left: 25px;
+}
+
+.meta {
+margin-right: 10px;
 }
 
 .description {
