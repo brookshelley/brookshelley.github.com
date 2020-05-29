@@ -183,6 +183,7 @@ ul.flat li {
 .blogtitle {
     font-weight: 300;
     font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .list a {
