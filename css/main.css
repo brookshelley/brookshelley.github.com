@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
     margin-left: 10px;
     margin-right: 10px;
-    max-width: 90%;
+    max-width: 100%;
 }
 
 .markdown {
@@ -196,7 +196,6 @@ ul.flat li {
 
 .flatfoot-about {
     text-align: center;
-    list-style: none;
     font-size: 12px;
 }
 
@@ -420,6 +419,7 @@ ul {
     color: #999;
     border-top: 1px solid #f4f4f4;
     margin-top: 1px;
+    margin-left: 25px;
 }
 
 .page-title {

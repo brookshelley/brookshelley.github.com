@@ -49,6 +49,8 @@ hr, .header nav,
 .footer {
 	border-color: #333;
 	color: #888;
+	max-width: 760px;
+	text-align: center;
 }
 
 .highlight {
