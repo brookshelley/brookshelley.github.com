@@ -1,8 +1,14 @@
 <div class="footer wrapper">
 	<nav class="nav">
 		<div>
+			<nav class="nav social">
 			<ul class="flat">
-				{{ range .Site.Menus.footer }}
+				{{- range $index, $key := .Site.Params.Social -}}
+				<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+				{{- end -}}
+			</ul>
+		
+		<ul class="flat"> {{ range .Site.Menus.footer }}
 				<li>
 					<a href="{{ .URL }}">{{ .Name }}</a>
 				</li>
