@@ -25,6 +25,8 @@
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
 	<link
 		href="https://fonts.googleapis.com/css2?family=Faustina:wght@400;566;700&family=Quicksand:wght@300;400&display=swap"
 		rel="stylesheet" />
