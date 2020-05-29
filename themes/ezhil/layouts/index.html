@@ -13,7 +13,7 @@
 				{{ range $paginator.Pages }}
 				<div class="post">
 					<div class="meta">{{ dateFormat "Jan 2" .Date }}
-						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
+						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> <!--&mdash;
 						<span class="description">
 							{{ if isset .Params "description" }}
 							{{ .Description }}
@@ -22,7 +22,7 @@
 							{{ else }}
 							{{ .RawContent | markdownify }}
 							{{ end }}
-						</span>
+						</span-->
 					</div>
 					{{ end }}
 					{{ template "partials/paginator.html" . }}
