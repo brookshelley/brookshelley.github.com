@@ -1,7 +1,6 @@
 body {
 	color: #F3F2F3;
 	background-color: #000;
-	margin: 5px;
 }
 
 ::-moz-selection {
@@ -14,11 +13,7 @@ body {
     text-shadow: none
 }
 
-blockquote {
-	border-color: #ddd;
-}
-
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3 {
 	color: #603ad0;
 }
 
@@ -36,7 +31,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .post-tags .tags a {
-    border: 1px solid #ddd;
+	margin-left: 25px;
 	color: #ddd;
 }
 
