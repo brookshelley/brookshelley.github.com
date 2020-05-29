@@ -60,7 +60,7 @@ hr {
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #f4f4f4;
     margin-left: 20px;
     margin-right: 20px;
     padding: 0;
@@ -129,7 +129,7 @@ h1 {
     font-family: quicksand,sans-serif;
     font-size: 30px;
     font-weight: 300;
-    margin-left: 20px;
+    margin-left: 25px;
 }
 
 h2 {
@@ -346,20 +346,17 @@ ul {
 
 .recent-posts .posts .post {
     margin-bottom: 15px;
-    margin-left: 25px;
 }
 
 .recent-posts .posts .post .meta,
-.post .post-header .meta,
+.post .meta,
 .list .posts .post .meta {
     font-size: 16px;
-    color: #999;
-    margin-bottom: 0px;
+    color: #111;
+    margin-bottom: 5px;
+    margin-left: 25px;
 }
 
-/*.post .post-header {
-    
-}*/
 
 .post .post-header .title {
     font-family: quicksand,sans-serif;
@@ -372,8 +369,12 @@ ul {
 }
 
 .post .post-header .meta {
-    padding-left: 2px;
+    padding-left: 0px;
     margin-top: 1px;
+}
+
+.description {
+    color: #cccdff;
 }
 
 .post .draft-label {
@@ -382,7 +383,7 @@ ul {
     padding: 1px 1px;
     border-radius: 1px;
     /*margin-left: 5px;*/
-    background-color: #f9f2f4;
+    background-color: gray;
 }
 
 .post-tags .tags li {

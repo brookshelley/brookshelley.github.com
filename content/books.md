@@ -1,5 +1,5 @@
 ---
-title: "reading"
+title: "read"
 draft: false
 type: page
 ---

@@ -1,5 +1,5 @@
 ---
-title: "writing"
+title: "wrote"
 draft: false
 type: page
 ---

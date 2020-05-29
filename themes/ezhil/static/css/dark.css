@@ -14,10 +14,6 @@ body {
     text-shadow: none
 }
 
-hr {
-    border-color: #333;
-}
-
 blockquote {
 	border-color: #ddd;
 }
@@ -26,10 +22,17 @@ h1,h2,h3,h4,h5,h6 {
 	color: #603ad0;
 }
 
-.site-description a,
-.site-description a:hover {
-	color: #fff;
-	text-decoration: underline;
+.recent-posts .posts .post .meta,
+.post .meta,
+.list .posts .post .meta {
+    font-size: 16px;
+    color: #888;
+    margin-bottom: 5px;
+    margin-left: 25px;
+}
+
+.description {
+	color: #F3F2F3;
 }
 
 .post-tags .tags a {
@@ -42,9 +45,10 @@ h1,h2,h3,h4,h5,h6 {
 	text-decoration: none !important;
 }
 
-.header nav,
+hr, .header nav,
 .footer {
 	border-color: #333;
+	color: #888;
 }
 
 .highlight {
