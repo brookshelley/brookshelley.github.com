@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-{{ partialcached "header.html" . }}
+{{ partialCached "header.html" . }}
 
 <body>
 	<div class="container wrapper">
@@ -34,12 +34,9 @@
 			<ul id="searchResults">
 			</ul>
 		</div-->
+			{{ partialCached "footer.html" . }}
 		</div>
 		<!--script src="/js/fuse.js"></script>
 	<script src="/js/fastsearch.js"></script-->
-
-		{{ partialCached "footer.html" . }}
 </body>
-
-
 </html>

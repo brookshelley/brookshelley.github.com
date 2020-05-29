@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-{{ partialcached "header.html" . }}
+{{ partialCached "header.html" . }}
 
 <body>
 	<div class="container wrapper">
@@ -9,8 +9,8 @@
 		<ul class="posts">
 			{{ partial "by-page-date.html" . }}
 		</ul>
+		{{ partialCached "footer.html" . }}
 	</div>
-	{{ partialcaches "footer.html" . }}
 </body>
 
 </html>
