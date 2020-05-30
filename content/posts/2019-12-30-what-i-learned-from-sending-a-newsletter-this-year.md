@@ -27,7 +27,7 @@ The links I share come from all over the place. Sometimes I reshare things I fou
 
 ## The satisfaction of analytics
 
-I don't spend a lot of time thinking about how many readers I've accused (spoiler, not many), but I do love that I can see that folks generally _are_ reading the emails I send out. There's a small sense of accomplishment when I know that someone has found something neat because I shared it. I really do love a recommendation, and it seems like some of you do as well.
+I don't spend a lot of time thinking about how many readers I've amassed (spoiler, not many), but I do love that I can see that folks generally _are_ reading the emails I send out. There's a small sense of accomplishment when I know that someone has found something neat because I shared it. I really do love a recommendation, and it seems like some of you do as well.
 
 ## Platforms
 
@@ -37,6 +37,6 @@ With that in mind, I was eager to switch to [ButtonDown](https://buttondown.emai
 
 ## Next year
 
-My plan currently is to just _keep on keeping on_ with this weekly links newsletter, and aspire to continuing monthly blog posts about longer topics. If you have things you'd love to see, or things you want to chat about, you know [how to reach me](mailto://brookshelley+blog@gmail.com).
+My plan currently is to just _keep on keeping on_ with this weekly links newsletter, and aspire to continuing monthly blog posts about longer topics. If you have things you'd love to see, or things you want to chat about, you know [how to reach me](mailto:brookshelley+blog@gmail.com).
 
 Have a fantastic new year, and I'll see you next Sunday!

@@ -1,7 +1,6 @@
 body {
-	color: #fff;
+	color: #F3F2F3;
 	background-color: #000;
-	margin: 5px;
 }
 
 ::-moz-selection {
@@ -14,35 +13,25 @@ body {
     text-shadow: none
 }
 
-hr {
-    border-color: #333;
-}
-
-blockquote {
-	border-color: #ddd;
-}
-
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3 {
 	color: #603ad0;
 }
 
-a,a:hover {
-	color: #603ad0;
-	text-decoration: none;
+.posts .post .meta,
+.list {
+    font-size: 16px;
+    color: #888;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 25px;
 }
 
-.site-description a,
-.site-description a:hover {
-	color: #fff;
-	text-decoration: underline;
-}
-
-a:hover {
-	opacity: 0.8;
+.description {
+	color: #F3F2F3;
 }
 
 .post-tags .tags a {
-    border: 1px solid #ddd;
+	margin-left: 25px;
 	color: #ddd;
 }
 
@@ -51,9 +40,12 @@ a:hover {
 	text-decoration: none !important;
 }
 
-.header nav,
+hr, .header nav,
 .footer {
 	border-color: #333;
+	color: #888;
+	max-width: 760px;
+	text-align: center;
 }
 
 .highlight {

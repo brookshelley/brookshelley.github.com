@@ -1,8 +1,15 @@
+---
+title: "tv"
+draft: false
+type: page
+---
+
 # tv list
 _years: [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
 
+- Survivor
 - Tidying Up with Marie Kondo
 - Chef & My Fridge
 - Counterpart

@@ -1,40 +1,27 @@
 <!DOCTYPE html>
-<html>
-{{ partial "header.html" . }}
+<html lang="en">
+{{ partialCached "header.html" . }}
+
 <body>
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
 		<h1>blog</h1>
-		<div class="recent-posts section">
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
-					<span class="description">
-						{{ if isset .Params "description" }}
-						{{ .Description }}
-						{{ else if gt (len .RawContent) 120 }}
-						{{ slicestr .RawContent 0 120 }}...
-						{{ else }}
-						{{ .RawContent | markdownify }}
-						{{ end }}
-					</span>
+				<hr />
+					<div class="meta">{{ dateFormat "Jan 2" .Date }}
+						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a>
+					</div>
+					{{ end }}
+					{{ template "partials/paginator.html" . }}
 				</div>
-				{{ end }}
-				{{ template "partials/paginator.html" . }}
+				<h2 class="archive"><a href="/posts">archive</a></h2>
 			</div>
+
+			{{ partialCached "footer.html" . }}
 		</div>
-	</div>
- <div id="fastSearch">
-   <input id="searchInput" tabindex="0">
-   <ul id="searchResults">
-   </ul>
- </div>
- <script src="/js/fuse.js"></script> <!-- download and copy over fuse.js file from fusejs.io -->
- <script src="/js/fastsearch.js"></script>
-	{{ partial "footer.html" . }}
 </body>
 </html>

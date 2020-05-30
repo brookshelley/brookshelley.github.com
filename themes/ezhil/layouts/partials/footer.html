@@ -1,21 +1,20 @@
-<div class="footer wrapper">
-	<nav class="nav">
-	<div>
+<div class="footer">
 		<ul class="flat">
-			{{ range .Site.Menus.footer }}
-			<li>
-				<a href="{{ .URL }}">{{ .Name }}</a>
-			</li>
-			{{ end }}
+				<li>
+					<a href="/index.xml" title="rss"><img src="/rss.svg" alt="rss icon" height="20"width="20" /></a>
+				</li>
+				<li>
+					<a href="https://twitter.com/brookshelley" title="rss"><img src="/twitter.svg" alt="twitter icon" height="20"width="20" /></a>
+				</li>
+				<li>
+					<a href="https://buttondown.email/brookshelley" title="newsletter"><img src="/mail.svg" alt="rss icon" height="20"width="20" /></a>
+				</li>
+				<li>
+					<a href="https://github.com/brookshelley" title="github"><img src="/github.svg" alt="github icon" height="20"width="20" /></a>
+				</li>
+				<li>
+					<a href="/about" title="about"><img src="/info.svg" alt="info icon" height="20"width="20" /></a>
+				</li>
 		</ul>
-	brook 2020
-	</div>
-	</nav>
+	 brook 2020
 </div>
-
-{{ if not .Site.IsServer }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ end }}
-{{- with .Site.Params.Social -}}
-<script>feather.replace()</script>
-{{- end -}}

@@ -1,5 +1,5 @@
 ---
-title: "reading"
+title: "read"
 draft: false
 type: page
 ---
@@ -7,8 +7,6 @@ type: page
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020: 20 books {#2020}
-
-- - -
 
 **Network Effect** — Martha Wells
 
@@ -18,11 +16,11 @@ It’s nice to really stretch my legs in the Murderbot world. I hope Wells write
 
 A fun romp through an IKEA multiverse with a queer couple and a missing grandma. I had fun with this, and the short length meant I blazed through it almost too fast. I hope there’s more from Cipri soon.
 
-**Zero History** — William Gibson 
+**Zero History** — William Gibson
 
-I read this slowly to really savor it. The last book in the Blue Ant trilogy is the most oddball and fun, but always comes with the knowledge that I won’t get to adventure with Millgrim and Hollis again until I reread the series yet again in the future. It’s fascinating how thoroughly Gibson identified the coming brand drops, denim obsession, and obsession with quadrocopters. As a sage of the near future, he feels unparalleled. 
+I read this slowly to really savor it. The last book in the Blue Ant trilogy is the most oddball and fun, but always comes with the knowledge that I won’t get to adventure with Millgrim and Hollis again until I reread the series yet again in the future. It’s fascinating how thoroughly Gibson identified the coming brand drops, denim obsession, and obsession with quadrocopters. As a sage of the near future, he feels unparalleled.
 
-**Spook Country** — William Gibson 
+**Spook Country** — William Gibson
 
 A delightful reread of a really fun Gibson near-future/near-past adventure. There are so many moments in this book that make me super jealous I didn’t conceive of them. The Blue Ant trilogy owns bones.
 
@@ -95,8 +93,6 @@ The art in this manga is gorgeous. I especially love the way the leaves and gras
 This is an interesting take on apocalyptic fiction. With an AI protagonist and a dying sun, the story careens across the Americas and then even further. There’s a strange love story I didn’t care much for, but otherwise this was a nice romp.
 
 ## 2019: 56 books {#2019}
-
----
 
 **Dept. of Speculation** — Jenny Offill
 
@@ -520,8 +516,6 @@ but was enjoyable.
 
 ## 2018: 47 books {#2018}
 
----
-
 **Semiosis** — Sue Burke
 
 A late entry for one of my favorite books of the year. Dang. Lots of excellent
@@ -864,8 +858,6 @@ a little distracting, but it was an interesting narrative conceit.
 
 ## 2017: 70 books {#2017}
 
----
-
 **Reacquainted with Life** — Kokumo
 
 **The Kingdom of Gods** — NK Jemison
@@ -1137,8 +1129,6 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 ## 2016: 58 books {#2016}
 
----
-
 **The Broken Kingdom** — NK Jemison
 
 **The Laugh of the Medusa** — Helene Cixous
@@ -1255,9 +1245,7 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 **Pussy, King of the Pirates** — Kathy Acker
 
-## Footnotes
-
----
+## footnotes
 
 [*](#les) <a name="les"></a>Lesbian Book Club
 

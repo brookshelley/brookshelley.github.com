@@ -5,7 +5,6 @@ theme = "ezhil"
 
 copyright = "© Copyright Brook Shelley 2020"
 
-
 # Enable syntax highlighting.
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -19,75 +18,62 @@ paginate = 5
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
   featherIconsCDN = true
-	# excludedTypes = ["mediadiet"]
 	favicon = "/favicon.ico"
 	logo = "/666.png"
-	mode = "dark" # "dark", "auto", "light"
-        # customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-        # customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-        # customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+	mode = "auto" # "dark", "auto", "light"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+	[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
+	[[params.social]]
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/brookshelley"
+
+	[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/brookshelley"
+
+	[[params.social]]
+    name = "newsletter"
+    icon = "mail"
+    url = "https://buttondown.email/brookshelley"
+
+    [[params.social]]
+    name = "about"
+    icon = "info"
+    url = "/about"
 
 [menu]
 
   [[menu.main]]
-    name = "archive"
-    url = "/posts"
-    weight = 1
-
-  [[menu.main]]
     name = "media diet"
-    url = "/mediadiet/"
-    weight = 1
+    url = "/mediadiet"
+    weight = 4
 
   [[menu.footer]]
     identifier = "about"
     name = "about"
-    pre = "<i class='fa fa-heart'></i>"
     url = "/about"
-    weight = 3
+    weight = 1
 
   [[menu.main]]
-    name = "reading"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
+    name = "read"
     url = "/books"
-    weight = -100
+    weight = 1
 
   [[menu.main]]
-    name = "watching"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
+    name = "watched"
     url = "/movies"
-    weight = -100
-
-  [[menu.main]]
-    name = "writing"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/writing"
-    weight = -100
-
-[[menu.main]]
-    name = "newsletter"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "https://buttondown.email/brookshelley"
     weight = 2
 
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+  [[menu.main]]
+    name = "wrote"
+    url = "/writing"
+    weight = 3
 
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/brookshelley"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/brookshelley"
+[outputs]
+		home = ["HTML", "RSS"]

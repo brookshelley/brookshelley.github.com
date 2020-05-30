@@ -1,5 +1,5 @@
 ---
-title: "watching"
+title: "watched"
 draft: false
 type: page
 ---
@@ -7,8 +7,6 @@ type: page
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
 ## 2020 {#2020}
-
----
 
 **Nightmare on Elm Street**
 
@@ -20,7 +18,7 @@ An interesting take on the post-human world. It’s a schlocky, funny, gory AF f
 
 **Sonic the Hedgehog**
 
-Weird how much more low-key enjoyable this was than the last movie I watched. From the delightfully bad puns, to Jim Carrey having way too much fun, to Ben Schwartz just being himself, this was a nice Saturday afternoon romp. I went in expecting basically nothing, and was pleasantly surprised. 
+Weird how much more low-key enjoyable this was than the last movie I watched. From the delightfully bad puns, to Jim Carrey having way too much fun, to Ben Schwartz just being himself, this was a nice Saturday afternoon romp. I went in expecting basically nothing, and was pleasantly surprised.
 
 **The Dead Don’t Die**
 
@@ -135,7 +133,7 @@ Perhaps one of the only movies to use a Land Rover Defender in a car chase, this
 
 **Quantum of Solace**
 
-Far less memorable than Casino Royale. The first chase was fun, but a lot of the rest of the film kinda just meanders. I do appreciate the little nods towards older James Bond films though. 
+Far less memorable than Casino Royale. The first chase was fun, but a lot of the rest of the film kinda just meanders. I do appreciate the little nods towards older James Bond films though.
 
 **Casino Royale**
 
@@ -155,7 +153,7 @@ Wow, this movie was hilarious from top to bottom. A friend (hi Drew) invited me 
 
 **First Love**
 
-A strange mistaken gangster film. This was much more straightforward than many Takeshi Miike films, but still managed to add in some really bizarre bits, and even some surprises. 
+A strange mistaken gangster film. This was much more straightforward than many Takeshi Miike films, but still managed to add in some really bizarre bits, and even some surprises.
 
 **Elle**
 
@@ -186,8 +184,6 @@ Really starting the year off right. We talked through most of the exposition, wh
 The first thing I noticed in this film was the tight, constrained feel of a square frame with deep black and white images. I immediately had to look around for [how this was made](https://www.musicbed.com/blog/filmmaking/cinematography/breaking-down-the-cinematography-of-the-lighthouse/). The VVitch is one of my favorite movies of all time, and Eggers doesn't disappoint in this haunting film either. The dread builds as the antipathy between the two men grows. A joy.
 
 ## 2019 {#2019}
-
----
 
 ### 74 Movies
 
@@ -734,8 +730,6 @@ years.
 
 ## 2018 {#2018}
 
----
-
 **Hearts Beat Loud**
 
 I cried through a lot of this, because the dad was so good. A+ always here for
@@ -1280,8 +1274,6 @@ for even considering texting or talking.
 
 ## 2017 {#2017}
 
----
-
 _this list is super truncated because i forgot keep it until july_
 
 **Life**
@@ -1736,8 +1728,6 @@ combination of ridiculous and fun. I like that Rian brought more humor into the
 world of the star war.
 
 ## 2016 {#2016}
-
----
 
 **Nine Lives**
 
