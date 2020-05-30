@@ -4,7 +4,7 @@ body {
     color: #000;
     background-color: #FFF;
     line-height: 1.2;
-    font-size: clamp(18px, 1.4vw, 22px);
+    font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
     /*margin-left: 10px;
     margin-right: 10px;*/

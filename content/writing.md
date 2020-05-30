@@ -10,7 +10,7 @@ type: page
 
 ### Oregon Humanities
 
--[Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
+- [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
 ### The Toast
 
