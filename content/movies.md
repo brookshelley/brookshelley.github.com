@@ -181,4 +181,4 @@ Really starting the year off right. We talked through most of the exposition, wh
 
 The first thing I noticed in this film was the tight, constrained feel of a square frame with deep black and white images. I immediately had to look around for [how this was made](https://www.musicbed.com/blog/filmmaking/cinematography/breaking-down-the-cinematography-of-the-lighthouse/). The VVitch is one of my favorite movies of all time, and Eggers doesn't disappoint in this haunting film either. The dread builds as the antipathy between the two men grows. A joy.
 
-[movie archive](/moviearchive)
+## [movie archive](/moviearchive)
