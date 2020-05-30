@@ -64,8 +64,8 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #f4f4f4;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 img {
@@ -117,13 +117,14 @@ h3 {
 
 ul {
     list-style: none;
-    margin-left: 0px;
+    margin: 0px auto;
+    padding: 0px;
 }
 
 ul.flat {
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 0px;
     padding: 0px;
     line-height: 1;
@@ -140,6 +141,7 @@ ul.flat li {
 ul.flatfoot li {
     font-size: 14px;
     text-align: center;
+    margin-top:10px;
     margin-left: 0px;
     margin-right: 0px;
 }
@@ -246,10 +248,6 @@ li {
     justify-content: space-between;
 }
 
-.footer a {
-    margin: 1px auto;
-}
-
 .footer .site-description nav {
     padding: 0;
     border: none;
@@ -281,7 +279,7 @@ li {
     font-size: 0.75em;
     color: #999;
     border-top: 1px solid #f4f4f4;
-    margin-top: 1px;
+    margin-top: 10px;
     margin-left: 25px;
     margin-right: 25px;
 }
