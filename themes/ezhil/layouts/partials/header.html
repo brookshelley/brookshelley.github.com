@@ -1,6 +1,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="Description" content="a bunch of stuff brook reads, writes, and watches. also a blog.">
 	{{- $title := ( .Title ) -}}
 	{{- $siteTitle := ( .Site.Title ) -}}
 	{{- if .IsHome -}}
@@ -28,14 +29,13 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
 	<link
-		href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@566;700&family=Quicksand:wght@300;400&display=swap"
+		href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&:wght@566;700&family=Quicksand:wght@300;400;700&display=swap"
 		rel="stylesheet" />
 
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
 	{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css"
-		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} />
 		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} />
 	{{- end }}
 
@@ -44,4 +44,10 @@
 	{{- else if (isset .Site.Params "social") -}}-->
 	<script src="{{ .Site.BaseURL }}js/feather.min.js"></script>
 	{{ end }}
+	<script src="{{ .Site.BaseURL }}js/main.js"></script>
+	{{- if isset .Site.Params "customjs" -}}
+	{{- range .Site.Params.customJS }}
+	<script src="{{ $.Site.BaseURL }}{{ . }}"></script>
+	{{- end }}
+	{{- end }}
 </head>
