@@ -13,30 +13,15 @@
 				<div class="post">
 				<hr />
 					<div class="meta">{{ dateFormat "Jan 2" .Date }}
-						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> <!--&mdash;
-						<span class="description">
-							{{ if isset .Params "description" }}
-							{{ .Description }}
-							{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 }}...
-							{{ else }}
-							{{ .RawContent | markdownify }}
-							{{ end }}
-						</span-->
+						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a>
 					</div>
 					{{ end }}
 					{{ template "partials/paginator.html" . }}
 				</div>
 				<h2 class="archive"><a href="/posts">archive</a></h2>
 			</div>
-			<!--div id="fastSearch">
-			<input id="searchInput" tabindex="0">
-			<ul id="searchResults">
-			</ul>
-		</div-->
+
 			{{ partialCached "footer.html" . }}
 		</div>
-		<!--script src="/js/fuse.js"></script>
-	<script src="/js/fastsearch.js"></script-->
 </body>
 </html>
