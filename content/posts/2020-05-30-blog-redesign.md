@@ -2,9 +2,9 @@
 type: posts
 title: "Blog Redesign"
 date: 2020-05-30
-description: on my site redesign
+description: on redesigning this site
 tags:
-  - css
+  - CSS
   - design
 ---
 
