@@ -4,7 +4,7 @@ body {
     color: #000;
     background-color: #FFF;
     line-height: 1.2;
-    font-size: clamp(18px, 1.4vw, 22px);
+    font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
     /*margin-left: 10px;
     margin-right: 10px;*/
@@ -79,9 +79,11 @@ img {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
+    margin-right: 10px;
     display: block;
     float: left;
 }
+
 
 h1,h2,h3 {
 	color: #603ad0;
@@ -277,7 +279,7 @@ li {
 .footer {
     font-family: quicksand,sans-serif;
     font-size: 0.75em;
-    color: #999;
+    color: #696969;
     border-top: 1px solid #f4f4f4;
     margin-top: 10px;
     margin-left: 25px;
