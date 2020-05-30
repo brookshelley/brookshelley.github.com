@@ -3,7 +3,7 @@
 <h3>{{ .Key }}</h3>
 <ul class="archive-column">
     {{ range .Pages }}
-    <li>
+    <li class="archive-post">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
