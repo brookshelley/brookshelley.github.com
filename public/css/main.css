@@ -88,12 +88,12 @@ img {
 h1,h2,h3 {
 	color: #603ad0;
   font-family: quicksand,sans-serif;
-  font-size: 16px;
+  font-size: clamp(16px, 1.4vw, 22px);;
 }
 
 h1 {
   font-family: quicksand,sans-serif;
-    font-size: 30px;
+    font-size: clamp(25px, 1.4vw, 30px);;
     font-weight: 500;
     margin-left: 25px;
     margin-bottom: 2em;
@@ -101,7 +101,7 @@ h1 {
 
 h2 {
   font-family: quicksand,sans-serif;
-    font-size: 22px;
+    font-size: clamp(20px, 1.4vw, 25px);
     font-weight: 400;
     line-height: 1.4;
     margin-bottom: .5em;
@@ -163,7 +163,7 @@ li {
 .page-title {
     margin-left: px;
     margin-bottom: 0px;
-    font-size: 30px;
+    font-size: clamp(20px, 1.4vw, 30px);
     font-weight: 300;
 }
 
@@ -176,7 +176,7 @@ li {
     font-family: quicksand,sans-serif;
     color: #603ad0;
     text-decoration: none;
-    font-size: 30px;
+    font-size: clamp(20px, 1.4vw, 30px);
     margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px;
@@ -188,7 +188,7 @@ li {
     }
 
 .posts .post .meta, .list {
-    font-size: 16px;
+    font-size: clamp(16px, 1.4vw, 20px);;
     margin-top: 5px;
     margin-bottom: 10px;
     margin-left: 25px;
@@ -201,7 +201,7 @@ li {
 
 .blogtitle {
     font-weight: 300;
-    font-size: 18px;
+    font-size: clamp(16px, 1.4vw, 20px);;
     margin-bottom: 10px;
 }
 
@@ -221,7 +221,7 @@ li {
 
 .header h1 {
     font-family: quicksand,sans-serif;
-    font-size: 30px;
+    font-size: clamp(20px, 1.4vw, 30px);;
 }
 
 .header h2 {
