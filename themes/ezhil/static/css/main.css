@@ -117,6 +117,27 @@ h3 {
     margin-right: 25px;
 }
 
+.archive-left {
+    text-align: left;
+    float: left;
+    margin-left: 25px;
+}
+
+.archive-post a, li {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.archive-columns{
+  columns: 2;
+ -webkit-columns: 2;
+ -moz-columns: 2;
+ margin-bottom: 20px;
+}
+
+
 ul {
     list-style: none;
     margin: 0px auto;
@@ -149,7 +170,7 @@ ul.flatfoot li {
 }
 
 li {
-  margin-left: 0px;
+  margin-left: 25px;
   margin-right: 0px;
 }
 
@@ -163,7 +184,7 @@ li {
 .page-title {
     margin-left: 0px;
     margin-bottom: 0px;
-    font-size: 30px;
+    font-size: clamp(20px, 1.4vw, 25px);
     font-weight: 300;
 }
 
@@ -187,12 +208,37 @@ li {
     margin-bottom: 15px;
     }
 
-.posts .post .meta, .list {
-    font-size: 16px;
-    margin-top: 5px;
-    margin-bottom: 10px;
-    margin-left: 25px;
-}
+.posts .post .meta,
+    .list {
+        font-size: 16px;
+        color: #888;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        margin-left: 25px;
+    }
+
+.meta {
+      font-family: quicksand,sans-serif;
+    	font-size: 16px;
+    	color: #888;
+    	margin-left: 0px;
+    	margin-right: 0px;
+      padding-right: 0px;
+      width: 500px;
+      justify-content: flex-end;
+    }
+
+  .archive-meta {
+      font-family: quicksand,sans-serif;
+    	font-size: 14px;
+    	color: #888;
+    	margin-left: 0px;
+    	margin-right: 0px;
+      padding-right: 0px;
+      float: left;
+      width: 100px;
+    }
+
 
 .post-tags .tags a {
 	margin-left: 25px;
@@ -214,61 +260,38 @@ li {
     margin: 0 auto;
 }
 
-.header {
-    margin-top: 10px;
-    margin-bottom: 1px;
-}
-
 .header h1 {
     font-family: quicksand,sans-serif;
-    font-size: 30px;
+    font-size: clamp(20px, 1.4vw, 25px);
 }
 
 .header h2 {
     font-family: quicksand,sans-serif;
     margin: 0;
     padding: 0;
-    font-size: 20px;
+    font-size: clamp(20px, 1.4vw, 25px);
     line-height: 1.4rem;
 }
 
 .header nav {
     font-family: quicksand,sans-serif;
-    /*border-top: 1px solid #f4f4f4;*/
-    text-align: left;
+    text-align: center;
     margin-top: 5px;
     margin-left: 25px;
     margin-right: 25px;
 }
 
 .header nav ul.flat li {
-    display: inline-block;
+    display: inline-grid;
     list-style: none;
-}
-
-.footer .site-description {
-    justify-content: space-between;
-}
-
-.footer .site-description nav {
-    padding: 0;
-    border: none;
-    min-width: 30px;
-}
-
-.footer .site-description nav ul svg {
-    max-height: 10px;
-    margin-left: 0px;
-    margin-bottom: 5px;
-}
-
-.footer .site-description nav.social {
-    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: clamp(20px, 1.4vw, 25px);
 }
 
 .section .section-header {
     font-family: quicksand,sans-serif;
-    font-size: 20px;
+    font-size: clamp(20px, 1.4vw, 25px);
     font-weight: 300;
     text-transform: uppercase;
     color: #999;
@@ -280,10 +303,10 @@ li {
     font-family: quicksand,sans-serif;
     font-size: 0.75em;
     color: #696969;
-    border-top: 1px solid #f4f4f4;
     margin-top: 10px;
     margin-left: 25px;
     margin-right: 25px;
+    max-height: 10px;
 }
 
 .page-title {
@@ -308,14 +331,14 @@ li {
 
 .pagination .page-prev {
     margin-right: 10px;
+    margin-left: 25px;
     padding-right: 10px;
-}
-
-.pagination .page-item.page-prev {
+    margin-top: 10px;
     text-align: left;
 }
 
 .pagination .page-item.page-next {
     text-align: right;
     margin-right: 25px;
+    margin-top: 10px;
 }

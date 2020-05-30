@@ -49,11 +49,6 @@ paginate = 5
 
 [menu]
 
-  [[menu.main]]
-    name = "media diet"
-    url = "/mediadiet"
-    weight = 4
-
   [[menu.footer]]
     identifier = "about"
     name = "about"
