@@ -12,13 +12,12 @@
 		<h1>archive</h1>
 		{{ end }}
 
-		<ul class="posts">
+		<ul class="archive-columns">
 			{{- range .Pages -}}
 			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 			{{- else -}}
-			<li class="post">
-				<a href="{{ .RelPermalink }}">{{.Title}}</a> <span
-					class="meta">{{ dateFormat "Jan 2, 2006" .Date }}
+			<li class="archive-post">
+					<span class="archive-meta">{{ dateFormat "Jan 2, 2006" .Date }}</span><a href="{{ .RelPermalink }}">{{.Title}}</a>
 			</li>
 			{{- end -}}
 			{{- end -}}
