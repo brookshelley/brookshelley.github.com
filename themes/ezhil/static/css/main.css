@@ -109,7 +109,9 @@ h2 {
 }
 
 h3 {
-  color: #603ad0;;
+   margin-bottom: 5px;
+   margin-top: 1px;
+   color: #603ad0;
 }
 
 .archive {
