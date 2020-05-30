@@ -93,7 +93,7 @@ h1,h2,h3 {
 
 h1 {
   font-family: quicksand,sans-serif;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 500;
     margin-left: 25px;
     margin-bottom: 2em;
@@ -161,7 +161,7 @@ li {
 }
 
 .page-title {
-    margin-left: px;
+    margin-left: 0px;
     margin-bottom: 0px;
     font-size: 30px;
     font-weight: 300;
@@ -234,7 +234,7 @@ li {
 
 .header nav {
     font-family: quicksand,sans-serif;
-    border-top: 1px solid #f4f4f4;
+    /*border-top: 1px solid #f4f4f4;*/
     text-align: left;
     margin-top: 5px;
     margin-left: 25px;
