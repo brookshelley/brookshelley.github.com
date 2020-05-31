@@ -26,6 +26,13 @@ h1,h2,h3 {
     margin-left: 25px;
 }
 
+.meta {
+	font-size: 16px;
+	color: #888;
+	margin-left: 0px;
+	margin-right: 20px;
+}
+
 .description {
 	color: #F3F2F3;
 }

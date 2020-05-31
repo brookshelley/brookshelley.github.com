@@ -14,8 +14,6 @@ paginate = 5
 [params]
 	mainSections = ["posts"]
   subtitle = "a blog"
-	disableDisqusTypes = ["page", "posts"]
-	disableDateTypes = ["page"]
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "auto" # "dark", "auto", "light"
