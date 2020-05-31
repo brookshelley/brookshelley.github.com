@@ -1,7 +1,6 @@
 baseURL = "https://www.brookshelley.com/"
 languageCode = "en-us"
 title = "dill & fennel"
-theme = "ezhil"
 
 copyright = "© Copyright Brook Shelley 2020"
 
@@ -17,7 +16,6 @@ paginate = 5
   subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-  featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "auto" # "dark", "auto", "light"
