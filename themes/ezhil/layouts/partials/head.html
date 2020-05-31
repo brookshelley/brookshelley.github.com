@@ -1,0 +1,23 @@
+<div class="header">
+	<h1 class="site-title">
+		<a href="{{ .Site.BaseURL }}"> <img class="logo" src={{ .Site.Params.logo }} alt="thanks helen" height="66"
+				width="66" />{{ .Site.Title }}</a></h1>
+	<div class="site-description">
+	</div>
+
+	<nav class="nav">
+		{{ $current := . }}
+		<ul class="flat">
+			{{ range .Site.Menus.main }}
+			<li class="flat">
+				{{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+				{{ $active = or $active (eq .Name $current.Title) }}
+				{{ $active = or $active (and (eq .Name "archive") (eq $current.Section "posts")) }}
+				{{ $active = or $active (and (eq .Name "media diet") (eq $current.Section "mediadiet")) }}
+				<a href="{{ .URL }}" class="{{ if $active }}active{{ end }}">{{.Name }}</a>
+			</li>
+			{{ end }}
+		</ul>
+	</nav>
+	<hr />
+</div>

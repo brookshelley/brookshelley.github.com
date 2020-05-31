@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+{{ partialCached "header.html" . }}
+
+<body>
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+		<h1>media diet</h1>
+		<div class="markdown">
+		<ul class="archive-column">
+			{{ partial "by-page-date.html" . }}
+		</ul>
+	</div>
+		{{ partialCached "footer.html" . }}
+	</div>
+</body>
+
+</html>

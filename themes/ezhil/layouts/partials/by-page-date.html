@@ -1,0 +1,11 @@
+<!-- Groups content by month according to the "date" field in front matter -->
+{{ range .Pages.GroupByDate "2006" }}
+<h3>{{ .Key }}</h3>
+<ul class="archive-column">
+    {{ range .Pages }}
+    <li class="archive-post">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

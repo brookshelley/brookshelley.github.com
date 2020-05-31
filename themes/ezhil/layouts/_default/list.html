@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+{{ partialCached "header.html" . }}
+
+<body>
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+
+		{{ if isset .Data "Term" }}
+		<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+		{{ else }}
+		<h1>archive</h1>
+		{{ end }}
+
+		<ul class="archive-columns">
+			{{- range .Pages -}}
+			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+			{{- else -}}
+			<li class="archive-post">
+					<span class="archive-meta">{{ dateFormat "Jan 2, 2006" .Date }}</span><br /><a href="{{ .RelPermalink }}">{{.Title}}</a>
+			</li>
+			{{- end -}}
+			{{- end -}}
+		</ul>
+			{{ partialCached "footer.html" . }}
+	</div>
+
+</body>
+
+</html>
