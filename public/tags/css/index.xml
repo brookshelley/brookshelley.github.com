@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on dill &amp; fennel</title>
+    <link>https://www.brookshelley.com/tags/css/</link>
+    <description>Recent content in CSS on dill &amp; fennel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.brookshelley.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Redesign</title>
+      <link>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</guid>
+      <description>My personal site started off as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites. I’ve lost lots of data in the past, and ultimately it’s just much easier to keep text portable and backed-up when it’s a .txt or .md
+In the ensuing years, I’ve written a few blog posts, and listed tons of books and movies but I hadn’t done much with my site’s structure or design besides moving my static site generator from Jekyll to Hugo on a whim last year.</description>
+    </item>
+    
+  </channel>
+</rss>
