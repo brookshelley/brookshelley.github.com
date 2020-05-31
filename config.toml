@@ -1,7 +1,7 @@
 baseURL = "https://www.brookshelley.com/"
 languageCode = "en-us"
 title = "dill & fennel"
-theme = "ezhil"
+theme = "brook"
 
 copyright = "© Copyright Brook Shelley 2020"
 
