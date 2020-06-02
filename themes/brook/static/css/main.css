@@ -217,16 +217,18 @@ li {
         margin-top: 5px;
         margin-bottom: 10px;
         margin-left: 25px;
+        float: right;
     }
 
 .meta {
       font-family: quicksand,sans-serif;
     	font-size: 16px;
     	color: #888;
-    	margin-left: 0px;
-    	margin-right: 0px;
+   margin-top: 5px;
+        margin-bottom: 10px;
+        margin-left: 25px;
+    	float: left;
       padding-right: 0px;
-      float: left;
       justify-content: flex-end;
     }
 
