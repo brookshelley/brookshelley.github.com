@@ -125,8 +125,8 @@ h3 {
 }
 
 .archive-post a, li {
+  text-align: center;
     font-size: 14px;
-    text-align: left;
     margin-left: 0px;
     margin-top: 6px;
     margin-bottom: 6px;
