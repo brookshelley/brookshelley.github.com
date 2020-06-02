@@ -7,17 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>baking</title>
+      <link>https://www.brookshelley.com/tags/baking/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food</title>
+      <link>https://www.brookshelley.com/tags/food/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sourdough</title>
+      <link>https://www.brookshelley.com/tags/sourdough/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/sourdough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mediadiet</title>
       <link>https://www.brookshelley.com/tags/mediadiet/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://www.brookshelley.com/tags/css/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://www.brookshelley.com/tags/design/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/design/</guid>
       <description></description>
     </item>
     

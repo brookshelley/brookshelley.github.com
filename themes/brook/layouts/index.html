@@ -19,10 +19,11 @@
 				</div><div class="paginate">
 						{{ template "partials/paginator.html" . }}</div>
 				<!--h2 class="archive-left"><a href="/mediadiet">media diet</a><h2-->
-				<h2 class="archive"><a href="/posts">archive</a></h2>
+			<div><h2 class="archive"><a href="/posts">archive</a></h2></div>
+{{ partialCached "footer.html" . }}
 			</div>
 
-			{{ partialCached "footer.html" . }}
+
 		</div>
 </body>
 </html>
