@@ -114,8 +114,8 @@ h3 {
 }
 
 .archive {
-    text-align: right;
-    margin-right: 25px;
+    text-align: center;
+    width: 95%;
 }
 
 .archive-left {
@@ -128,7 +128,8 @@ h3 {
     font-size: 14px;
     text-align: left;
     margin-left: 0px;
-    margin-bottom: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
 
 .archive-columns{
@@ -136,7 +137,7 @@ h3 {
    -webkit-columns: 2;
    -moz-columns: 2;
    margin-bottom: 20px;
-   margin-right: 25px;
+   column-gap: 10px;
 }
 
 
@@ -214,10 +215,15 @@ li {
     .list {
         font-size: 16px;
         color: #888;
-        margin-top: 5px;
-        margin-bottom: 10px;
+        margin-top: 0px;
+        margin-bottom: 0px;
         margin-left: 25px;
     }
+
+.post {
+  float: left;
+  width: 100%;
+}
 
 .meta {
       font-family: quicksand,sans-serif;
@@ -226,8 +232,21 @@ li {
     	margin-left: 0px;
     	margin-right: 0px;
       padding-right: 0px;
-      justify-content: flex-end;
+      float: left;
+      width: 90%;
+      display: block;
     }
+    .paginate {
+          font-family: quicksand,sans-serif;
+        	font-size: 16px;
+        	color: #888;
+        	margin-left: 0px;
+        	margin-right: 0px;
+          padding-right: 0px;
+          float: left;
+          width: 100%;
+          display: block;
+  }
 
   .archive-meta {
       font-family: quicksand,sans-serif;
@@ -240,7 +259,6 @@ li {
       width: 100px;
     }
 
-
 .post-tags .tags a {
 	margin-left: 25px;
 	color: #ddd;
@@ -250,6 +268,9 @@ li {
     font-weight: 300;
     font-size: 18px;
     margin-bottom: 10px;
+    float: right;
+    display: inline;
+    width: 80%;
 }
 
 .list a {
@@ -305,7 +326,7 @@ li {
     font-size: 0.75em;
     color: #696969;
     margin-top: 10px;
-    margin-left: 25px;
+    margin-left: 45px;
     margin-right: 25px;
     max-height: 10px;
 }
