@@ -210,13 +210,16 @@ li {
     margin-bottom: 15px;
     }
 
-.posts .post .meta,
-    .list {
+.posts .list {
         font-size: 16px;
         color: #888;
         margin-top: 5px;
         margin-bottom: 10px;
         margin-left: 25px;
+    }
+    
+    .post {
+    float: right;
     }
     
 
@@ -229,6 +232,7 @@ li {
         margin-left: 25px;
       padding-right: 0px;
       justify-content: flex-end;
+      float: left
     }
 
   .archive-meta {
