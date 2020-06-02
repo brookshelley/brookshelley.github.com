@@ -37,7 +37,7 @@ My kitchen still doesn’t include a bench scraper, but since I mostly make sing
 
 ## The little things
 
-![less spring](/photos/boule1.jpg)
+![less spring](/photos/boule.jpg)
 
 After 10 or 12 loaves I started learning the small things that could compromise my loaves. Dropping proofed dough too hard into a cast iron can blow out air bubbles, which hurts the oven spring. For my fridge at least, I need to let my dough sit out for at least 5 or 10 minutes or it’s too cold going into the oven, which also hurts spring. A friend recently mentioned how every recipe has to be tweaked for _your_ kitchen, and the seasons and temperatures, and he was super right. As we get to Bay Area summer, I can already tell I won’t need the oven to bulk ferment, and my starter will activate _fast_. Every little thing reminds me that this bread is a living creature, enlivened by a colony of yeast that I guess I now have a symbiotic relationship with.
 
