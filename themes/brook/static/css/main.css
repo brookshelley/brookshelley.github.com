@@ -219,9 +219,6 @@ li {
         margin-left: 25px;
     }
     
-    .post {
-    float: right;
-    }
 
 .meta {
       font-family: quicksand,sans-serif;
@@ -230,7 +227,6 @@ li {
    margin-top: 5px;
         margin-bottom: 10px;
         margin-left: 25px;
-    	float: left;
       padding-right: 0px;
       justify-content: flex-end;
     }
