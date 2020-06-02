@@ -11,7 +11,7 @@ tags:
 
 Before March I rarely baked. Outside of a few misadventures as a kid, I’d mostly made hand pies, and a few loaves of [pulla](https://www.feastingathome.com/pulla-for-lea/), but bread was mostly beyond me. Just like the yeast that seeded Carl, my starter, sourdough making was in the air. My favorite sourdough baker Acme’s loaves became hard to get from Berkeley Bowl a few weeks into the quarantine, so I decided to follow along with everyone else, and get way too into bread making.
 
-![best loaf](photos/boule2.jpg)
+![best loaf](/photos/boule2.jpg)
 
 ## Starting with starter
 
@@ -21,7 +21,7 @@ After lots of googling, I realized the key was not only keeping the starter in t
 
 ## Finally, bread
 
-![first loaf](photos/firstloaf.jpg)
+![first loaf](/photos/firstloaf.jpg)
 
 My first loaves weren’t anything to brag about, but they were vaguely edible. I began to make bread before I really settled on a good recipe, and definitely before I had an active starter, so they were flat and dense. By my 4th loaf, I was approaching something I recognized as bread, and by my 6th, I was consistently getting a decent rise and crust. The biggest lessons during this time were around using my cast iron with and without a lid, and figuring out how to do timing so that I wasn’t trying to bulk ferment until 2am.
 
@@ -37,7 +37,7 @@ My kitchen still doesn’t include a bench scraper, but since I mostly make sing
 
 ## The little things
 
-![less spring](photos/boule1.jpg)
+![less spring](/photos/boule1.jpg)
 
 After 10 or 12 loaves I started learning the small things that could compromise my loaves. Dropping proofed dough too hard into a cast iron can blow out air bubbles, which hurts the oven spring. For my fridge at least, I need to let my dough sit out for at least 5 or 10 minutes or it’s too cold going into the oven, which also hurts spring. A friend recently mentioned how every recipe has to be tweaked for _your_ kitchen, and the seasons and temperatures, and he was super right. As we get to Bay Area summer, I can already tell I won’t need the oven to bulk ferment, and my starter will activate _fast_. Every little thing reminds me that this bread is a living creature, enlivened by a colony of yeast that I guess I now have a symbiotic relationship with.
 
