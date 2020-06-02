@@ -115,7 +115,7 @@ h3 {
 
 .archive {
     text-align: center;
-    width: 95%;
+    width: 100%;
 }
 
 .archive-left {
@@ -326,9 +326,10 @@ li {
     font-size: 0.75em;
     color: #696969;
     margin-top: 10px;
-    margin-left: 45px;
     margin-right: 25px;
     max-height: 10px;
+    float: center;
+    width: 100%
 }
 
 .page-title {
