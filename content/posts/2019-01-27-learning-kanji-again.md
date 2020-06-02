@@ -8,7 +8,7 @@ tags:
   - thoughts
 ---
 
-![](/photos/kanji.png)
+![kanji](/photos/kanji.jpg)
 
 ## My first Japanese class
 
