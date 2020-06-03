@@ -260,12 +260,12 @@ li {
     display: block;
     float: left;
     margin-right: 20px;
-    font-size: clamp(18px, 1.4vw, 25px);
+    font-size: clamp(14px, 1.4vw, 20px);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(18px, 1.4vw, 25px);
+    font-size: clamp(16px, 1.4vw, 25px);
     margin-bottom: 10px;
     margin-left: 0px;
     float: right;
