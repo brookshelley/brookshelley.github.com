@@ -367,3 +367,10 @@ li {
     margin-right: 25px;
     margin-top: 10px;
 }
+
+@media only screen 
+    and (device-width: 375px) 
+    and (device-height: 812px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+        overflow-x: hidden;
+        max-width: 375px;}
