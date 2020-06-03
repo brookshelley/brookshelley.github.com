@@ -233,7 +233,7 @@ li {
     	margin-right: 0px;
       padding-right: 0px;
       float: left;
-      width: 90%;
+      width: 100%;
       display: block;
     }
     .paginate {
@@ -264,13 +264,20 @@ li {
 	color: #ddd;
 }
 
+.blogdate {
+  display: block;
+  float: left;
+  margin-right: 20px;
+}
+
 .blogtitle {
     font-weight: 300;
     font-size: 18px;
     margin-bottom: 10px;
+    margin-left: 0px;
     float: right;
-    display: inline;
-    width: 80%;
+    display: block;
+    width: 85%;
 }
 
 .list a {
