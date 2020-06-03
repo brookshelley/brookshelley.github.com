@@ -11,8 +11,8 @@
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
-					<div class="meta"><li class ="blogdate">{{ dateFormat "02 Jan" .Date }}</li>
-						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></div>
+					<li class="meta"><p class ="blogdate">{{ dateFormat "02 Jan" .Date }}</li>
+						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
 					</div>
 					{{ end }}
 				</div><div class="paginate">
