@@ -3,27 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2020-04-30-april/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <loc>https://www.brookshelley.com/posts/2020-06-01-adventures-in-baking/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/baking/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.brookshelley.com/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/tags/mediadiet/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <loc>https://www.brookshelley.com/tags/food/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/</loc>
-    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+    <loc>https://www.brookshelley.com/posts/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/sourdough/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.brookshelley.com/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/posts/2020-05-31-may/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/mediadiet/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/css/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/design/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/posts/2020-04-30-april/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/posts/</loc>
-    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.brookshelley.com/tags/review/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -53,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2020-03-31-march/</loc>
+    <loc>https://www.brookshelley.com/posts/2020-03-31-march/</loc>
     <lastmod>2020-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2020-03-01-february/</loc>
+    <loc>https://www.brookshelley.com/posts/2020-03-01-february/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,7 +168,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2020-01-30-media-diet-for-january/</loc>
+    <loc>https://www.brookshelley.com/posts/2020-01-30-media-diet-for-january/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-12-31-media-diet-for-december/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-12-31-media-diet-for-december/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-11-30-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-11-30-media-diet/</loc>
     <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,7 +278,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-10-31-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-10-31-media-diet/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -253,7 +288,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-09-30-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-09-30-media-diet/</loc>
     <lastmod>2019-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,7 +303,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-08-30-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-08-30-media-diet/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,7 +313,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-07-25-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-07-25-media-diet/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -288,7 +323,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-06-30-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-06-30-media-diet/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-05-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-05-24-media-diet/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,7 +348,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-04-27-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-04-27-media-diet/</loc>
     <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,7 +363,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-03-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-03-24-media-diet/</loc>
     <lastmod>2019-03-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -338,7 +373,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-02-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-02-24-media-diet/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,7 +388,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2019-01-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2019-01-24-media-diet/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -378,7 +413,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-12-20-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-12-20-media-diet/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -398,7 +433,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-11-20-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-11-20-media-diet/</loc>
     <lastmod>2018-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-10-30-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-10-30-media-diet/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -423,7 +458,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-09-25-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-09-25-media-diet/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -438,7 +473,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-08-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-08-24-media-diet/</loc>
     <lastmod>2018-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -463,17 +498,17 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-07-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-07-24-media-diet/</loc>
     <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-06-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-06-24-media-diet/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-05-24-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-05-24-media-diet/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -483,7 +518,7 @@
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/mediadiet/2018-04-17-media-diet/</loc>
+    <loc>https://www.brookshelley.com/posts/2018-04-17-media-diet/</loc>
     <lastmod>2018-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -552,7 +587,15 @@
   </url>
   
   <url>
+    <loc>https://www.brookshelley.com/moviearchive/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.brookshelley.com/books/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/bookarchive/</loc>
   </url>
   
   <url>

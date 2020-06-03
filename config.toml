@@ -10,7 +10,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate = 5
+paginate = 6
 
 [params]
 	mainSections = ["posts"]

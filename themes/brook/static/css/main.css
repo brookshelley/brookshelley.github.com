@@ -6,21 +6,19 @@ body {
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
-    /*margin-left: 10px;
-    margin-right: 10px;*/
     max-width: 100%;
 }
 
 .container {
     max-width: 100%;
-    /*margin-left: 10px;
-    margin-top: 15px;*/
+    /*overflow-x: hidden;*/
 }
 
 .markdown {
     margin-left: 25px;
     margin-right: 25px;
     font-weight: 300;
+    /*overflow-x: hidden;*/
 }
 
 b, strong {
@@ -40,7 +38,7 @@ a {
 a:hover {
     font-family: quicksand,sans-serif;
     color: #8f75de;
-  }
+}
 
 .active {
     font-family: quicksand,sans-serif;
@@ -69,9 +67,9 @@ hr {
 }
 
 img {
-    margin: 5px auto;
+    margin: 10px auto;
     display: block;
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
 }
 
@@ -86,13 +84,13 @@ img {
 
 
 h1,h2,h3 {
-	color: #603ad0;
-  font-family: quicksand,sans-serif;
-  font-size: 16px;
+    color: #603ad0;
+    font-family: quicksand,sans-serif;
+    font-size: 16px;
 }
 
 h1 {
-  font-family: quicksand,sans-serif;
+    font-family: quicksand,sans-serif;
     font-size: 28px;
     font-weight: 500;
     margin-left: 25px;
@@ -100,7 +98,7 @@ h1 {
 }
 
 h2 {
-  font-family: quicksand,sans-serif;
+    font-family: quicksand,sans-serif;
     font-size: 22px;
     font-weight: 400;
     line-height: 1.4;
@@ -109,36 +107,32 @@ h2 {
 }
 
 h3 {
-   margin-bottom: 5px;
-   color: #603ad0;
+    margin-bottom: 5px;
+    color: #603ad0;
 }
 
 .archive {
-    text-align: right;
-    margin-right: 25px;
-}
-
-.archive-left {
-    text-align: left;
-    float: left;
-    margin-left: 25px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
 }
 
 .archive-post a, li {
-    font-size: 14px;
     text-align: left;
+    font-size: 16px;
     margin-left: 0px;
-    margin-bottom: 10px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-weight: 300px;
 }
 
 .archive-columns{
     columns: 2;
-   -webkit-columns: 2;
-   -moz-columns: 2;
-   margin-bottom: 20px;
-   margin-right: 25px;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    column-gap: 5px;
+    margin-bottom: 25px;
 }
-
 
 ul {
     list-style: none;
@@ -172,8 +166,8 @@ ul.flatfoot li {
 }
 
 li {
-  margin-left: 25px;
-  margin-right: 0px;
+    margin-left: 25px;
+    margin-right: 0px;
 }
 
 .flatfoot-about {
@@ -208,54 +202,77 @@ li {
 .post title {
     margin-top: 10px;
     margin-bottom: 15px;
-    }
+}
 
-.posts .list {
-        font-size: 16px;
-        color: #888;
-        margin-top: 5px;
-        margin-bottom: 10px;
-        margin-left: 25px;
-    }
-    
-    .post {
-    float: right;
-    }
-    
+.posts .post .meta,
+.list {
+    font-size: 14px;
+    color: #888;
+    margin-left: 25px;
+    max-width: 90%;
+}
+
+.post {
+    float: left;
+    width: 100%;
+}
 
 .meta {
-      font-family: quicksand,sans-serif;
-    	font-size: 16px;
-    	color: #888;
-   margin-top: 5px;
-        margin-bottom: 10px;
-        margin-left: 25px;
-      padding-right: 0px;
-      justify-content: flex-end;
-      float: left
-    }
+    font-family: quicksand,sans-serif;
+    color: #888;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    margin-bottom: 5px;
+    float: left;
+    width: 100%;
+    display: block;
+}
+.paginate {
+    font-family: quicksand,sans-serif;
+    font-size: 16px;
+    color: #888;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    float: left;
+    width: 100%;
+    display: block;
+}
 
-  .archive-meta {
-      font-family: quicksand,sans-serif;
-    	font-size: 14px;
-    	color: #888;
-    	margin-left: 0px;
-    	margin-right: 0px;
-      padding-right: 0px;
-      float: left;
-      width: 100px;
-    }
-
+.archive-meta {
+    font-family: quicksand,sans-serif;
+    font-size: 14px;
+    color: #888;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    float: left;
+    width: 100px;
+}
 
 .post-tags .tags a {
-	margin-left: 25px;
-	color: #ddd;
+    margin-left: 25px;
+    color: #ddd;
+}
+
+.blogdate {
+    display: block;
+    float: left;
+    margin-right: 0px;
+    width: 15%;
+    font-size: clamp(10px, 1.4vw, 20px);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: 18px;
-    margin-bottom: 10px;
+    font-size: clamp(16px, 1.4vw, 22px);
+    margin-left: 0px;
+    margin-right: 0px;
+    /*float: right;*/
+    display: block;
+    word-wrap: normal;
+    width: 100%;
 }
 
 .list a {
@@ -310,10 +327,11 @@ li {
     font-family: quicksand,sans-serif;
     font-size: 0.75em;
     color: #696969;
-    margin-top: 10px;
-    margin-left: 25px;
+    margin-top: 5px;
     margin-right: 25px;
     max-height: 10px;
+    float: center;
+    width: 100%;
 }
 
 .page-title {
@@ -349,3 +367,19 @@ li {
     margin-right: 25px;
     margin-top: 10px;
 }
+
+/*@media only screen 
+    and (device-width: 375px) 
+    and (device-height: 812px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+        overflow-x: hidden;
+        max-width: 375px;
+        }
+        
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+overflow-x: hidden;
+        max-width: 1024px;
+        }
+*/
