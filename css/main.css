@@ -224,7 +224,7 @@ li {
     padding-right: 0px;
     margin-bottom: 5px;
     float: left;
-    width: 80%;
+    width: 100%;
     display: block;
 }
 .paginate {
@@ -259,7 +259,7 @@ li {
     display: block;
     float: left;
     margin-right: 0px;
-    width: 15%;
+    width: 20%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
@@ -271,7 +271,7 @@ li {
     /*float: right;*/
     display: block;
     word-wrap: normal;
-    width: 65%;
+    width: 70%;
 }
 
 .list a {
