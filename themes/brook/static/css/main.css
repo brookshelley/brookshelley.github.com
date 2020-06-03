@@ -260,7 +260,7 @@ li {
     display: block;
     float: left;
     margin-right: 0px;
-    width: 5%;
+    width: 10%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
