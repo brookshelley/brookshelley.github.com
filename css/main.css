@@ -218,7 +218,6 @@ li {
 
 .meta {
     font-family: quicksand,sans-serif;
-    font-size: 16px;
     color: #888;
     margin-left: 0px;
     margin-right: 0px;
@@ -272,7 +271,7 @@ li {
     /*float: right;*/
     display: block;
     word-wrap: normal;
-    width: 80%;
+    width: 65%;
 }
 
 .list a {
