@@ -11,14 +11,12 @@
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
 				<div class="post">
-				<!--hr /-->
-					<div class="meta"><span class ="blogdate">{{ dateFormat "02 Jan" .Date }}</span>
+					<div class="meta"><li class ="blogdate">{{ dateFormat "02 Jan" .Date }}</li>
 						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></div>
 					</div>
 					{{ end }}
 				</div><div class="paginate">
 						{{ template "partials/paginator.html" . }}</div>
-				<!--h2 class="archive-left"><a href="/mediadiet">media diet</a><h2-->
 			<div><h2 class="archive"><a href="/posts">archive</a></h2></div>
 {{ partialCached "footer.html" . }}
 			</div>
