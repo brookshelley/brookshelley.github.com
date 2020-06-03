@@ -11,14 +11,14 @@ body {
 
 .container {
     max-width: 100%;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 .markdown {
     margin-left: 25px;
     margin-right: 25px;
     font-weight: 300;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 b, strong {
@@ -112,6 +112,7 @@ h3 {
 }
 
 .archive {
+    margin-top: 10px;
     text-align: center;
     width: 100%;
 }
