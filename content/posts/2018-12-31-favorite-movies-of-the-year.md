@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: favorite movies of 2018
+title: Favorite movies of 2018
 date: 2018-12-31
 description: 76 movies, and a few winners
 tags:

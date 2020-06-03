@@ -1,7 +1,7 @@
 ---
 type: posts
 date: 2019-09-03
-title: masterworks review
+title: Masterworks review
 description: a wild collection by Simon Jacobs
 categories: blog
 tags:

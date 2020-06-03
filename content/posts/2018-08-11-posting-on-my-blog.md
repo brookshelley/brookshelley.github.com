@@ -1,6 +1,6 @@
 ---
 type: posts
-title: the old is new again
+title: The old is new again
 tags:
   - process
 date: 2018-08-11

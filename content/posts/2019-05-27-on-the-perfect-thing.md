@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: on the perfect thing
+title: On the perfect thing
 tags:
   - thoughts
 date: 2019-05-27

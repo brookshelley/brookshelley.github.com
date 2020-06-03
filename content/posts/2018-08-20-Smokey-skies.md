@@ -1,6 +1,6 @@
 ---
 type: posts
-title: smoke gets in your eyes
+title: Smoke gets in your eyes
 date: 2018-08-20
 tags:
   - thoughts

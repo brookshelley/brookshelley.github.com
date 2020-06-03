@@ -1,5 +1,5 @@
 ---
-title: The Allure of the Minimal and Disconnected
+title: The Allure of the minimal
 date: 2013-04-26
 description: writing on minimalism
 type: posts

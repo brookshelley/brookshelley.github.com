@@ -1,7 +1,7 @@
 ---
 type: posts
 date: 2014-03-04
-title: on being alone
+title: On being alone
 description: post-divorce thoughts
 ---
 

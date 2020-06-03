@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: april
+title: April
 date: 2019-04-27
 description: media diet
 categories: mediadiet

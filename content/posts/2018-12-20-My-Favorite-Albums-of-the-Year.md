@@ -1,6 +1,6 @@
 ---
 type: posts
-title: my favorite albums of the year
+title: My favorite albums of the year
 description: my 2018 albums of the year
 categories: blog
 date: 2018-12-20

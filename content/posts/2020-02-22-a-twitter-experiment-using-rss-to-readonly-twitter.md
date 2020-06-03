@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "A Twitter Experiment: Using RSS to read-only Twitter"
+title: "Using RSS to read-only Twitter"
 date: 2020-02-22
 description: An experiment in leaving a social network
 tags:

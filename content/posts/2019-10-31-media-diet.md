@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: october
+title: October
 date: 2019-10-31
 description: media diet
 categories: mediadiet

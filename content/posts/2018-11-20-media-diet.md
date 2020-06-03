@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: november
+title: November
 date: 2018-11-20
 description: media diet
 tags:

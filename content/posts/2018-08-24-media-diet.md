@@ -1,7 +1,7 @@
 ---
 type: mediadiet
 date: 2018-08-24
-title: august
+title: August
 description: media diet
 tags:
   - mediadiet

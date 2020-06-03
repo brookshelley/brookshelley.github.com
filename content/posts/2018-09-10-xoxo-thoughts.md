@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: post-xoxo thoughts
+title: Post XOXO thoughts
 date: 2018-09-10
 description: wow, that was a lot.
 tags:

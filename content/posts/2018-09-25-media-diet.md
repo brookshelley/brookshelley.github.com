@@ -1,6 +1,6 @@
 ---
 layout: mediadiet
-title: september
+title: September
 date: 2018-09-25
 description: media diet
 tags:

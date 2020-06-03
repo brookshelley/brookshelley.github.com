@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: january
+title: January
 date: 2019-01-24
 description: media diet
 tags:

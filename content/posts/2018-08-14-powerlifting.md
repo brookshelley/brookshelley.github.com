@@ -1,6 +1,6 @@
 ---
 type: posts
-title: powerlifting
+title: Powerlifting
 date: 2018-08-14
 description: why I started to lift heavy things
 categories: blog

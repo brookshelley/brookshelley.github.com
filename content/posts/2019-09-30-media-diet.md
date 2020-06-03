@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: september
+title: September
 date: 2019-09-30
 description: media diet
 categories: mediadiet

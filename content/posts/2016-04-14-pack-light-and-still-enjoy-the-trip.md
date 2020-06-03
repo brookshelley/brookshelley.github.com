@@ -1,6 +1,6 @@
 ---
 type: posts
-title: pack light and still enjoy the trip
+title: Pack light and still enjoy the trip
 tags:
   - backpacks
 date: 2016-04-14

@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: july
+title: July
 date: 2019-07-25
 description: media diet
 categories: mediadiet

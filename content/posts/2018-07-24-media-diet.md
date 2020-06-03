@@ -3,7 +3,7 @@ type: mediadiet
 date: 2018-07-24
 tags:
   - mediadiet
-title: july
+title: July
 description: media diet
 categories: mediadiet
 ---

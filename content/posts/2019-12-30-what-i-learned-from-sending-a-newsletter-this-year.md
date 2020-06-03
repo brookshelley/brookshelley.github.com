@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "What I learned from sending a newsletter this year"
+title: "One year of newsletter"
 date: 2019-12-30
 tags:
   - process

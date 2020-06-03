@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: learning kanji again
+title: Learning kanji again
 date: 2019-01-27
 description: one character at a time
 categories: blog

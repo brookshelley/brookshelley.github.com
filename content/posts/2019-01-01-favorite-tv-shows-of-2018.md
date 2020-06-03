@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: favorite TV shows of 2018
+title: Favorite TV shows of 2018
 date: 2019-01-01
 description: lots of shows around the world
 tags:

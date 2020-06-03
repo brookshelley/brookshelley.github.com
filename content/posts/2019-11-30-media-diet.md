@@ -1,7 +1,7 @@
 ---
 type: mediadiet
 date: 2019-11-30
-title: november
+title: November
 description: november media diet
 categories: mediadiet
 tags:

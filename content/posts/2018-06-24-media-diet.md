@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: june
+title: June
 date: 2018-06-24
 tags:
   - mediadiet

@@ -1,7 +1,7 @@
 ---
 type: mediadiet
 date: 2018-10-30
-title: october
+title: October
 description: media diet
 tags:
   - mediadiet

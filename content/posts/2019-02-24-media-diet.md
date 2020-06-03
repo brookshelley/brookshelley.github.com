@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: february
+title: February
 description: media diet
 categories: mediadiet
 date: 2019-02-24

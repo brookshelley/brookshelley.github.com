@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: moving to the bay
+title: Moving to the bay
 date: 2018-11-21
 description: from portland to oakland
 tags:

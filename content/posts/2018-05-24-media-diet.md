@@ -1,7 +1,7 @@
 ---
 type: mediadiet
 date: 2018-05-24
-title: may
+title: May
 tags:
   - mediadiet
 description: media diet

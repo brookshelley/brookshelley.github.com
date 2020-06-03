@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: travel kit update
+title: Travel kit update
 date: 2019-03-13
 description: 2019 travel kit
 tags:
