@@ -267,7 +267,7 @@ li {
 .blogtitle {
     font-weight: 300;
     font-size: clamp(16px, 1.4vw, 22px);
-    margin-left: 10px;
+    margin-left: 0px;
     margin-right: 0px;
     float: top;
     display: block;
