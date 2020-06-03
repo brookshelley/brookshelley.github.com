@@ -235,7 +235,7 @@ li {
     margin-right: 0px;
     padding-right: 0px;
     float: left;
-    width: 80%;
+    width: 100%;
     display: block;
 }
 
@@ -259,8 +259,8 @@ li {
     display: block;
     float: left;
     margin-right: 0px;
-    width: 20%;
-    font-size: clamp(12px, 1.4vw, 20px);
+    width: 15%;
+    font-size: clamp(10px, 1.4vw, 20px);
 }
 
 .blogtitle {
@@ -271,7 +271,7 @@ li {
     /*float: right;*/
     display: block;
     word-wrap: normal;
-    width: 70%;
+    width: 100%;
 }
 
 .list a {
