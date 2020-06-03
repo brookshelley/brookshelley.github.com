@@ -208,7 +208,7 @@ li {
     font-size: 14px;
     color: #888;
     margin-left: 25px;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .post {
@@ -260,7 +260,7 @@ li {
     display: block;
     float: left;
     margin-right: 0px;
-    width: 10%;
+    width: 5%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
