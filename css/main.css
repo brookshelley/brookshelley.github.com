@@ -267,9 +267,9 @@ li {
 .blogtitle {
     font-weight: 300;
     font-size: clamp(16px, 1.4vw, 22px);
-    margin-left: 0px;
+    margin-left: 50px;
     margin-right: 0px;
-    /*float: right;*/
+    float: top;
     display: block;
     word-wrap: normal;
     width: 100%;
