@@ -11,8 +11,6 @@ body {
 
 .container {
     max-width: 100%;
-    /*margin-left: 10px;
-    margin-top: 15px;*/
 }
 
 .markdown {
@@ -69,7 +67,7 @@ hr {
 img {
     margin: 10px auto;
     display: block;
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
 }
 
