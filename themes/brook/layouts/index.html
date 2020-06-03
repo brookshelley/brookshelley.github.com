@@ -12,7 +12,7 @@
 				{{ range $paginator.Pages }}
 				<div class="post">
 				<!--hr /-->
-					<div class="meta"><span class ="blogdate">{{ dateFormat "Jan 2" .Date }}</span>
+					<div class="meta"><span class ="blogdate">{{ dateFormat "02 Jan" .Date }}</span>
 						<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></div>
 					</div>
 					{{ end }}
