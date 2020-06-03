@@ -269,7 +269,6 @@ li {
     font-size: clamp(16px, 1.4vw, 22px);
     margin-left: 0px;
     margin-right: 0px;
-    float: top;
     display: block;
     word-wrap: normal;
     width: 100%;
