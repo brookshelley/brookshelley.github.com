@@ -223,6 +223,7 @@ li {
     margin-left: 0px;
     margin-right: 0px;
     padding-right: 0px;
+    margin-bottom: 5px;
     float: left;
     width: 100%;
     display: block;
@@ -258,15 +259,14 @@ li {
 .blogdate {
     display: block;
     float: left;
-    margin-right: 5px;
+    margin-right: 0px;
     width: 10%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(14px, 1.4vw, 22px);
-    margin-bottom: 10px;
+    font-size: clamp(16px, 1.4vw, 22px);
     margin-left: 0px;
     margin-right: 0px;
     float: right;
