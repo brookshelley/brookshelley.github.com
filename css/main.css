@@ -282,7 +282,6 @@ li {
 .wrapper {
     max-width: 760px;
     margin: 0 auto;
-    overflow-x: hidden;
 }
 
 .header h1 {
