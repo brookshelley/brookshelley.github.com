@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: A Review of Invasions by Calvin Gimpelevich
+title: A Review of Invasions
 description: A fantastic new collection of trans speculative fiction
 date: 2018-10-14
 tags:
