@@ -11,12 +11,14 @@ body {
 
 .container {
     max-width: 100%;
+    overflow-x: hidden;
 }
 
 .markdown {
     margin-left: 25px;
     margin-right: 25px;
     font-weight: 300;
+    overflow-x: hidden;
 }
 
 b, strong {
@@ -205,10 +207,8 @@ li {
 .list {
     font-size: 14px;
     color: #888;
-    margin-top: 0px;
-    margin-bottom: 0px;
     margin-left: 25px;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .post {
@@ -223,8 +223,9 @@ li {
     margin-left: 0px;
     margin-right: 0px;
     padding-right: 0px;
+    margin-bottom: 5px;
     float: left;
-    width: 100%;
+    width: 80%;
     display: block;
 }
 .paginate {
@@ -235,7 +236,7 @@ li {
     margin-right: 0px;
     padding-right: 0px;
     float: left;
-    width: 100%;
+    width: 80%;
     display: block;
 }
 
@@ -258,18 +259,17 @@ li {
 .blogdate {
     display: block;
     float: left;
-    margin-right: 20px;
+    margin-right: 0px;
     width: 10%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(14px, 1.4vw, 22px);
-    margin-bottom: 10px;
+    font-size: clamp(16px, 1.4vw, 22px);
     margin-left: 0px;
     margin-right: 0px;
-    float: right;
+    /*float: right;*/
     display: block;
     word-wrap: normal;
     width: 80%;
@@ -282,6 +282,7 @@ li {
 .wrapper {
     max-width: 760px;
     margin: 0 auto;
+    overflow-x: hidden;
 }
 
 .header h1 {
