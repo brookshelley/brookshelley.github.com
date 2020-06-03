@@ -261,7 +261,7 @@ li {
     display: block;
     float: left;
     margin-right: 20px;
-    width: 15%;
+    width: 10%;
     font-size: clamp(12px, 1.4vw, 20px);
 }
 
@@ -274,7 +274,7 @@ li {
     float: right;
     display: block;
     word-wrap: normal;
-    width: 85%;
+    width: 80%;
 }
 
 .list a {
