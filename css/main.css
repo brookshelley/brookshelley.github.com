@@ -1,5 +1,5 @@
 body {
-    font-family: "Source Serif Pro", serif;
+    font-family: "IBM Plex Serif", serif;
     font-weight: 500;
     color: #000;
     background-color: #FFF;
@@ -26,7 +26,7 @@ b, strong {
 }
 
 i {
-    font-weight: 566;
+    font-weight: 500;
 }
 
 a {
