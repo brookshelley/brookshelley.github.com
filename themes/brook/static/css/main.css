@@ -89,6 +89,10 @@ hr, .header nav,
 	text-align: center;
 }
 
+.footer {
+    background-color: #333333;
+    }
+
 h1,h2,h3 {
     color: #603ad0;
     font-family: quicksand,sans-serif;
