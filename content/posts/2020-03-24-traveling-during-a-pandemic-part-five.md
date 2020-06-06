@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Traveling During a Pandemic: Part Five"
+title: "Pandemic travel: 5"
 date: 2020-03-24
 description: flying back
 tags:

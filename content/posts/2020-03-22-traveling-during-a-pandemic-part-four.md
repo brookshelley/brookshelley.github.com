@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Traveling during a pandemic: part four"
+title: "Pandemic travel: 4"
 date: 2020-03-22
 description: a trip back to Asakusa
 tags:

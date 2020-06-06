@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Traveling during a pandemic: part two"
+title: "Pandemic travel: 2"
 date: 2020-03-17
 description: a strange trip to Osaka
 tags:

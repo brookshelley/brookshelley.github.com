@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Traveling during a pandemic: part three"
+title: "Pandemic Travel: 3"
 date: 2020-03-19
 description: a few days in Onomichi
 tags:

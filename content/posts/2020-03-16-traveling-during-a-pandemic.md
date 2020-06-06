@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Traveling during a pandemic"
+title: "Pandemic travel: 1"
 date: 2020-03-16
 description: part one of a trip to Japan
 tags:
