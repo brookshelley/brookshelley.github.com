@@ -1,8 +1,8 @@
 body {
     font-family: "IBM Plex Serif", serif;
     font-weight: 300;
-    color: #000;
-    background-color: #FFF;
+    color: #404040;
+    background-color: #F3F2F3;
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
