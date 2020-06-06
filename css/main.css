@@ -1,6 +1,6 @@
 body {
     font-family: "IBM Plex Serif", serif;
-    font-weight: 300;
+    font-weight: 200;
     color: #404040;
     background-color: #F3F2F3;
     line-height: 1.2;
@@ -33,6 +33,7 @@ a {
     font-family: quicksand,sans-serif;
     color: #603ad0;
     text-decoration: none;
+    font-weight: 600;
 }
 
 a:hover {
