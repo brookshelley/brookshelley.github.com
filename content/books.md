@@ -4,7 +4,11 @@ draft: false
 type: page
 ---
 
-## 2020: 20 books {#2020}
+## 2020: 21 books {#2020}
+
+**Last Rituals** — Yrsa Sigurdadóttir
+
+A solid Scandinavian noir with a nice amount of occult content. I think the translation could’ve likely used work, as some of the phrasing seemed oddly stilted, but I can’t read Icelandic to check up on that.
 
 **Network Effect** — Martha Wells
 
