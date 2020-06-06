@@ -83,6 +83,11 @@ img {
     float: left;
 }
 
+hr, .header nav,
+.footer {
+	max-width: 760px;
+	text-align: center;
+}
 
 h1,h2,h3 {
     color: #603ad0;
