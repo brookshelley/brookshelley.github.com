@@ -2,6 +2,8 @@
 title: links week nineteen
 date: 2020-05-10
 description: weekly links
+tags:
+ - newsletter
 type: posts
 ---
 
