@@ -14,9 +14,8 @@ Here’s hoping this week’s links will give you some chill times, and maybe ev
 ## Links
 
 - Do you miss clubbing? Just getting hopped up on some fundrugs™ and shaking your booty in hopes you might get to swap spit with a cutie? Well, sans the spit bit, you might be in luck if [you can make one of these](https://www.core77.com/posts/98066/No-Social-Distancing-Required-Personal-Protective-Suit-Concept-Designed-for-Nightlife). I love this bonkers concept, because it imagines a world in which people are somehow ok with wearing spacesuits to go to a bar.
-- I don’t think any friends have taken me up on this, but I for sure wish they would try to cut their own hair with a shop vac. I love it:
+- I don’t think any friends have taken me up on this, but I for sure wish they would try to cut their own hair with a shop vac. [I love it](https://gizmodo.com/i-cut-my-hair-with-a-vacuum-cleaner-and-oh-man-i-think-1843204420).
 
-https://gizmodo.com/i-cut-my-hair-with-a-vacuum-cleaner-and-oh-man-i-think-1843204420
 
 - If the previous song is over, here’s a bit more mall music to tide you over as you read these next few pieces:
 
