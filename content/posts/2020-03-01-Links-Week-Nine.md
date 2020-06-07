@@ -2,6 +2,8 @@
 title: links week nine
 date: 2020-03-01
 description: weekly links
+tags:
+ - newsletter
 type: posts
 ---
 
