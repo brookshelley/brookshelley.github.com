@@ -1,5 +1,5 @@
 ---
-title: links: week thirteen
+title: links week thirteen
 date: 2020-03-29
 description: weekly links
 type: posts

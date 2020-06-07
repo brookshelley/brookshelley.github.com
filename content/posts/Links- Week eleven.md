@@ -1,5 +1,5 @@
 ---
-title: links: week eleven
+title: links week eleven
 date: 2020-03-15
 description: weekly links
 type: posts

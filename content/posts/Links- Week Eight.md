@@ -1,5 +1,5 @@
 ---
-title: links: week eight
+title: links week eight
 date: 2020-02-23
 description: weekly links
 type: posts

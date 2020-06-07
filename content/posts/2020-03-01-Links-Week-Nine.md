@@ -1,5 +1,5 @@
 ---
-title: links: week nine
+title: links week nine
 date: 2020-03-01
 description: weekly links
 type: posts

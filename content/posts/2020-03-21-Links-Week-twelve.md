@@ -1,5 +1,5 @@
 ---
-title: links: week twelve
+title: links week twelve
 date: 2020-03-21
 description: weekly links
 type: posts

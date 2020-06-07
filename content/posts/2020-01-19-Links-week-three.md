@@ -1,5 +1,5 @@
 ---
-title: links: week three
+title: links week three
 date: 2020-01-19
 description: weekly links
 type: posts

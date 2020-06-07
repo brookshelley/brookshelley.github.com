@@ -1,5 +1,5 @@
 ---
-title: links: week seven
+title: links week seven
 date: 2020-02-16
 description: weekly links
 tag:
