@@ -6,6 +6,12 @@ type: page
 
 ## 2020: 21 books {#2020}
 
+**Abolish Silocon Valley** — Wendy Liu
+
+> “Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
+
+As someone who is somewhat begrudgingly started working in Silicon Valley￼ after studying literature mostly as a way to make ends-meat, this book resonated strongly. The front half establishes Liu’s history, but the back half is the juicy bit. I love reading a hopeful vision of how we might reconfigure society to support humans, and not capital.
+
 **Last Rituals** — Yrsa Sigurdadóttir
 
 A solid Scandinavian noir with a nice amount of occult content. I think the translation could’ve likely used work, as some of the phrasing seemed oddly stilted, but I can’t read Icelandic to check up on that.
