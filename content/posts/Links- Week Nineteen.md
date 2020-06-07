@@ -9,7 +9,7 @@ Ten loaves of sourdough! That’s how many loaves I have made thus far during th
 
 Here’s hoping this week’s links will give you some chill times, and maybe even some laughs instead. Here’s some mood music:
 
-https://www.youtube.com/watch?v=D__6hwqjZAs&feature=emb_title
+{{< youtube 6hwqjZAs >}}
 
 ## Links
 
@@ -20,7 +20,7 @@ https://gizmodo.com/i-cut-my-hair-with-a-vacuum-cleaner-and-oh-man-i-think-18432
 
 - If the previous song is over, here’s a bit more mall music to tide you over as you read these next few pieces:
 
-https://www.youtube.com/watch?v=R7k-dw24XXI
+{{< youtube R7k-dw24XXI > }}
 
 - The fantastic essayist Rebecca Solnit covered everything from pandemic profiteering to the hope that we come out of this with a [greater respect and understanding of our interconnectedness](https://www.theguardian.com/world/2020/apr/07/what-coronavirus-can-teach-us-about-hope-rebecca-solnit).
 
@@ -34,7 +34,7 @@ Finally, I want to leave you with the single best video series I’ve seen in a 
 
 https://www.youtube.com/channel/UCffk6c4O1qGsbKtOTWhzq_A/videos
 
-I hope these links have brought you some joy, and led you through a few interesting paths. I’m off to enjoy Sonic the Hedgehog in preparation for listening to this week’s Flop House. You can follow along with my cinematic misadventures [here](https://www.brookshelley.com/movies, or [here](https://www.letterboxd.com/brookshelley/films/). If it’s sunny today, try to sit by a window or go on a chill socially distant walk. I went on my first bike ride since February yesterday, and though it was short, it really helped me feel a little more ok. It’s hard to remember, at least over here, that despite this feeling like forever, it’s only been two months. For how ever much time we have in lockdown, I’ll keep sending emails to you every week, and keep on baking very, very surprisingly good sourdough. See you next week, space cowgirls~ 
+I hope these links have brought you some joy, and led you through a few interesting paths. I’m off to enjoy Sonic the Hedgehog in preparation for listening to this week’s Flop House. You can follow along with my cinematic misadventures [here](https://www.brookshelley.com/movies), or [here](https://www.letterboxd.com/brookshelley/films/). If it’s sunny today, try to sit by a window or go on a chill socially distant walk. I went on my first bike ride since February yesterday, and though it was short, it really helped me feel a little more ok. It’s hard to remember, at least over here, that despite this feeling like forever, it’s only been two months. For how ever much time we have in lockdown, I’ll keep sending emails to you every week, and keep on baking very, very surprisingly good sourdough. See you next week, space cowgirls~ 
 
 
 
