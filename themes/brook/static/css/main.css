@@ -6,7 +6,6 @@ body {
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
-    max-width: 100%;
 }
 
 .container {
