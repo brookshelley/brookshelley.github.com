@@ -2,6 +2,8 @@
 title: links: week one
 date: 2020-01-05
 description: weekly links
+tag:
+  - newsletter
 type: posts
 ---
 

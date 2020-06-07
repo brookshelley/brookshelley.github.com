@@ -2,6 +2,8 @@
 title: links: week seventeen
 date: 2020-04-26
 description: weekly links
+tag:
+  - newsletter
 type: posts
 ---
 

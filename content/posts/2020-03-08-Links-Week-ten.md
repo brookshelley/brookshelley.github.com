@@ -2,6 +2,8 @@
 title: links: week ten
 date: 2020-03-08
 description: weekly links
+tag:
+  - newsletter
 type: posts
 ---
 
