@@ -4,7 +4,7 @@ title: DSPTCH Waist Bag Review
 description: review of a rad small bag for day trips
 date: 2018-10-04
 tags:
-  - reviews
+  - review
 ---
 
 Recently, I ordered a [medium Sling Pack](https://www.dsptch.com/collections/packs/products/sling-pouch-medium) after deciding I wanted a very small bag to bring with me to meetings or coffee shops where I only needed my iPad and a few other sundries. 11pm is not a great time to make _decisions_, so I clicked the order button before I checked measurements, and was sad when I realized it didn't actually fit my 9.7" iPad. Luckily, I was already flying to San Francisco a week later, and was able to exchange it for the [Waist Bag](https://www.dsptch.com/products/waist-bag-black), after trying it on in the store. (An aside: the guy at DSPTCH was super nice, and really helpful, which further won me over. I think they have lots of great stuff, so even if this bag is too small for you, check it out.)
