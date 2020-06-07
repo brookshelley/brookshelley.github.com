@@ -1,11 +1,11 @@
-- - -
+---
 title: links week six
 date: 2020-02-09
 description: weekly links
 tags:
  - newsletter
 type: posts
-- - -
+---
 
 **Shochu, CSS, and “enough”**
 
