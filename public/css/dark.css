@@ -19,7 +19,7 @@ h1,h2,h3 {
 
 .posts .post .meta,
 .list {
-    font-size: 16px;
+    font-size: 14px;
     color: #888;
 }
 
@@ -48,6 +48,7 @@ hr, .header nav,
 	color: #888;
 	max-width: 760px;
 	text-align: center;
+	background-color: #000;
 }
 
 .highlight {
