@@ -11,7 +11,7 @@ categories: blog
 Inspired by both [Nick](https://roadrunnertwice.dreamwidth.org) and
 [Matt](https://a.wholelottanothing.org), I've decided to try my hand at
 blogging again on this site. I don't know how often I'll post, but at least
-once a month, I'll do a [media diet](_posts/2018-07-24-media-diet.md) post,
+once a month, I'll do a [media diet](/tags/mediadiet)post,
 which clips out what I read and watched that month from the long lists I keep.
 Maybe I'll talk about other stuff too. We'll see!
 
