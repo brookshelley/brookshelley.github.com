@@ -37,7 +37,7 @@ Finally, I blogged about this before, but there’s a whole troupe of bloggers d
 
 - The recommended soundtrack for Coffeecore:
 
-{{< youtube “Eybv5_Ubvts” >}}
+{{< youtube Eybv5_Ubvts >}}
 
 Whether or not you like coffee, [this story](https://indoor-voices.blogspot.com/2020/05/coffeecore-on-city.html) will get you out of the house and sipping iced lattes, cups of black drip, and other delights in your mind. 
 
