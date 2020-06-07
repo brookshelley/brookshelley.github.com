@@ -2,6 +2,8 @@
 title: links week eighteen
 date: 2020-05-03
 description: weekly links
+tags: 
+    - newsletter
 type: posts
 ---
 

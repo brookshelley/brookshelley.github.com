@@ -2,6 +2,8 @@
 title: links week thirteen
 date: 2020-03-29
 description: weekly links
+tags:
+    - newsletter
 type: posts
 ---
 

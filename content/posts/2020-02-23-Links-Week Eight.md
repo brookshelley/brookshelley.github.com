@@ -2,6 +2,8 @@
 title: links week eight
 date: 2020-02-23
 description: weekly links
+tags: 
+    - newsletter
 type: posts
 ---
 
