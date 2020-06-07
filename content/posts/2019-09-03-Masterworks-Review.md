@@ -5,7 +5,7 @@ title: Masterworks review
 description: a wild collection by Simon Jacobs
 categories: blog
 tags:
-  - reviews
+  - review
 ---
 
 I wish I knew more about art. Reading the titular story, I found myself reaching for my phone to understand each scene in the strange and delightful post-apocalyptic tale. As I held the painting in my mind, and explored the flooded wastes with Liam, Nell, and Co. I found myself enamored by the framing. How often are our relationships held together by a retelling of an old picture? Are we always trying to build a life out of the classics of our youth? There’s a survey of life, and an exploration of lost moments in these vignettes.

@@ -89,10 +89,6 @@ hr, .header nav,
 	text-align: center;
 }
 
-.footer {
-    background-color: #333333;
-    }
-
 h1,h2,h3 {
     color: #603ad0;
     font-family: quicksand,sans-serif;
@@ -174,6 +170,7 @@ ul.flatfoot li {
     margin-top:10px;
     margin-left: 0px;
     margin-right: 0px;
+    background-color: #222;
 }
 
 li {
@@ -186,6 +183,7 @@ li {
     font-size: 12px;
     margin-left: 0px;
     margin-right: 0px;
+    margin-bottom: 5px;
 }
 
 .page-title {

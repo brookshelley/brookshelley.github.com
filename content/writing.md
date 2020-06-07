@@ -4,15 +4,15 @@ draft: false
 type: page
 ---
 
-### Ninth Letter
+## Ninth Letter
 
 [Trans New Wave](http://www.ninthletter.com/trans-new-wave)
 
-### Oregon Humanities
+## Oregon Humanities
 
 [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
-### The Toast
+## The Toast
 
 [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
@@ -22,15 +22,15 @@ type: page
 
 [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
-### [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
+## [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
 
-### [Medium archive](https://medium.com/@brookshelley/)
+## [Medium archive](https://medium.com/@brookshelley/)
 
-### Little Red Tarot
+## Little Red Tarot
 
 [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
-### books
+## books
 
 [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
 
@@ -41,7 +41,7 @@ type: page
 
 [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
 
-### podcasts
+## podcasts
 
 [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 
