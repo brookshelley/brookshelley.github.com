@@ -1,7 +1,7 @@
 ---
 type: posts
 title: "Fennel & Dill: Week 21"
-date: 2020-06-07
+date: 2020-05-24
 description: 
 tags:
   - newsletter
