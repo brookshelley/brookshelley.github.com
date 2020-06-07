@@ -24,4 +24,4 @@ I generally enjoyed the conference, but wish the compressed Friday schedule spre
 ### TL;DR
 
 Overall, I think this is a worthwhile conference, and I am going to try to attend the SF summit as well in February.
-Feel free to hit me up with any particular questions you have. They recorded the talks during a live-stream, and you can watch any them at this link [https://www.youtube.com/watch?v=vD-nwKUZ3LI](https://www.youtube.com/watch?v=vD-nwKUZ3LI)
+Feel free to hit me up with any particular questions you have. They recorded the talks during a live-stream, and you can watch any them at [this link](https://www.youtube.com/watch?v=vD-nwKUZ3LI)

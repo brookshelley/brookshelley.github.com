@@ -14,7 +14,7 @@ I hope you’ve been enjoying your time at home, with your loved ones and pets, 
 - Now that you’re stuck at home, maybe you can try [cutting your own hair](https://www.flowbee.com/Questions.htm). My entire childhood included haircuts from my dad in the garage with one of [these](https://haircut.com/products/clear-model-by-robocut-1040-w-power). I hated the sound of the shopvac, but I suppose it saved us money as a family. We were definitely style innovators in the 90s.
 - Jenny wrote this essay before the quarantine, but it’s certainly more true now than ever that we’re [unable to be self-reliant](https://www.theparisreview.org/blog/2020/01/15/the-myth-of-self-reliance/). We’re all in this together, it turns out.
 
-https://www.youtube.com/watch?v=5Cdv932eoU0
+{{< youtube “5Cdv932eoU0” >}}
 
 - I write most things these days on an iPad, and the new [2020 iPad Pros just launched](https://techcrunch.com/2020/03/24/review-100000-miles-and-one-week-with-an-ipad-pro/). Whether I’m traveling, or sitting at home with my iPad plugged in to a monitor, it’s an amazing computer. With the launch of iOS 13.4, Apple reinvented the mouse cursor in a [whole new, fun way](https://www.wired.com/story/ipad-trackpad-cursor/). 
 

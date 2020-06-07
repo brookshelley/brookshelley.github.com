@@ -17,7 +17,7 @@ If you haven't installed a desk and a nice office chair yet, I can heartily reco
 
 As we go through this week, I hope you have as much energy as all these cool ladies:
 
-https://www.youtube.com/watch?v=dCO0DXAc0tk
+{{< youtube dCO0DXAc0tk >}}
 
 Cool, right? Here's some links:
 
@@ -33,11 +33,11 @@ The next few links are related to a mindset for quarantine and the pandemic. Don
 
 Finally, I blogged about this before, but there’s a whole troupe of bloggers doing a regular column over at [Indoor Voices](https://indoor-voices.blogspot.com/), but one of the coolest ones is Coffeecore:
 
-https://1.bp.blogspot.com/-ob-X-j_hHS8/XqkGuwjkc1I/AAAAAAAAK4w/oGC5MO2D6QkSBCvIzp_zH5uQjmeqW109ACLcBGAsYHQ/s1600/sailorroundwindow.gif
+![coffeecore](https://1.bp.blogspot.com/-ob-X-j_hHS8/XqkGuwjkc1I/AAAAAAAAK4w/oGC5MO2D6QkSBCvIzp_zH5uQjmeqW109ACLcBGAsYHQ/s1600/sailorroundwindow.gif)
 
 - The recommended soundtrack for Coffeecore:
 
-https://www.youtube.com/watch?v=Eybv5_Ubvts
+{{< youtube “Eybv5_Ubvts” >}}
 
 Whether or not you like coffee, [this story](https://indoor-voices.blogspot.com/2020/05/coffeecore-on-city.html) will get you out of the house and sipping iced lattes, cups of black drip, and other delights in your mind. 
 
