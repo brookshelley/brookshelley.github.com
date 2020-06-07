@@ -1,11 +1,11 @@
-—
+- - -
 title: links week five
 date: 2020-02-03
 description: weekly links
 tags: 
     - newsletter
 type: posts
-—
+- - -
 
 A fiscal happy new year to you! I still don't really understand how fiscal years work, but in addition to a lunar new year, Snorri and I celebrated the beginning of FY21, and the 6th anniversary of my employer this weekend. Thrills and chills. 
 

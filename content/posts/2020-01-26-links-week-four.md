@@ -1,11 +1,11 @@
-—
+- — -
 title: links week four
 date: 2020-01-26
 description: weekly links
 tags: 
     - newsletter
 type: posts
-—
+- - -
 
 ## redesigns and long reads. 
 
