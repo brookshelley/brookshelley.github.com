@@ -2,7 +2,7 @@
 title: links week two
 date: 2020-01-12
 description: weekly links
-tag:
+tags:
   - newsletter
 type: posts
 ---
