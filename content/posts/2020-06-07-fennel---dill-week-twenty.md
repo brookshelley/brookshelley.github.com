@@ -11,7 +11,7 @@ Trying out a new name for this that isn’t just “links”. Fennel and dill ar
 
 My snacking game is strong now that I know how to make my own tortillas on demand, and endless sourdough. However, it’s been a while since I had some of these little treats, and I am officially missing tater tots:
 
-https://www.youtube.com/watch?v=Xi28pEbMdTw
+{{< youtube Xi28pEbMdTw >}}
 
 Maybe I’ll try to cook some up sometime. It seems pretty challenging though. Putting this on a list that also includes homemade lefse and ableskiver.
 
