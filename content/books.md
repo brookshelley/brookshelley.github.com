@@ -6,8 +6,6 @@ type: page
 
 ## 2020: 25 books {#2020}
 
-![death clean cover](/photos/deathclean.jpg)
-
 **The Gentle Art of Swedish Death Cleaning** — Margareta Magnusson
 
 It’s nice reading a book by an older woman who has such a clear love and appreciate for her life, but has accepted the inevitability of death. Far from being grim, this book was a delightful look at what we value and how to make sure no one else has to clean up our mess when we’re gone.
