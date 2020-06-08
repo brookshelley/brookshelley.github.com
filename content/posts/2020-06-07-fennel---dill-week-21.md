@@ -22,7 +22,7 @@ Since I’ll be indoors for a while healing-up, a lot of todays’s links are in
 
 This image is care of Joe—thanks Joe! It’s an emoji keyboard from a [Reddit on strange peripherals](https://www.reddit.com/r/retrobattlestations/comments/gph0lk/alps_kanji_keyboard_exotic_peripherals_week/).
 
-![keyboard][https://i.redd.it/3vs4r3ci8m051.jpg]
+![keyboard](https://i.redd.it/3vs4r3ci8m051.jpg)
 
 Well, that’s it for this week. I’ve spent a lot of this weekend already playing a silly war game with friends, and it’s highly likely I’ll keep that going. More bread making as well. I hope you have a chill short week, and don’t randomly set off fireworks like all my neighbors... yikes.\
 See you next week, space cowgirls~
