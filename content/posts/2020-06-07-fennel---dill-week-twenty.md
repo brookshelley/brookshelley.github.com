@@ -17,7 +17,7 @@ Maybe I’ll try to cook some up sometime. It seems pretty challenging though. P
 
 Do you _you_ like refrigerators?
 
-https://www.youtube.com/watch?v=TiC8pig6PGE
+{{< youtube TiC8pig6PGE >}}
 
 I love the [Detroiters](http://www.cc.com/shows/detroiters)-level excellence of this ad. It’s utterly brilliant to just show the man I presume owns the shop slowly walking towards the camera. This is cinema.
 
