@@ -27,7 +27,7 @@ If that wet your whistle, let’s dive in for a full link immersion.
 
 - Have you seen the very good Middleditch & Schwartz special yet? If you need more of those two funny fellows, try this video of them playing a Jackbox game:
 
-https://www.youtube.com/watch?v=32lPJ3QeIuQ
+{{< youtube 32lPJ3QeIuQ >}}
 
 - Perhaps videos aren’t your thing, and you’re more of a reading fan. Reading is my favorite thing, and one of my only consistent hobbies, so it was awesome to find [this list](https://lithub.com/26-books-from-the-last-decade-that-if-you-havent-read-you-should/) via [Robin Sloan](https://www.robinsloan.com) of excellent books you’ve likely not read, recommended by authors who are also rad.
 
