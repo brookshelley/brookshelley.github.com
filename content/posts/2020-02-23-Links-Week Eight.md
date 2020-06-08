@@ -17,7 +17,8 @@ I really love high fidelity but I can’t quite get behind the idea that Zoe kra
 
 "Daddy, I want an election!" Except Bloomberg is the daddy and the child in this situation.
 
-I love watching [Tortoise play](https://www.youtube.com/watch?v=EwJf5fw57Yo)! 
+I love watching Tortoise play! 
+{{< youtube EwJf5fw57Yo >}}
 
 Woke up like this: 
 

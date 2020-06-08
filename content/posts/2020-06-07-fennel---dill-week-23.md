@@ -16,7 +16,7 @@ With that said, I will go ahead and share some links, as usual, with a few that 
 - Here’s a book on [White Fragility](https://robindiangelo.com/publications/). Read it if you’re white, or have white folks around you or in your family. I’m picking up a copy on recommendation of some rad folks I know.
 - Here’s [an album](https://harukanakamurapianoensemble.bandcamp.com/album/hikari) I’m listening to a lot these days while I try to sit and feel things.
 
-https://www.youtube.com/watch?v=N7TkK2joi4I
+{{< youtube N7TkK2joi4I >}}
 
 - When I lived in Portland, I spent a lot of time going to a sangha with other folks where we meditated and learned about Buddhism. I can’t say that I always loved it, but it was definitely helpful. If you live in the East Bay, or just want to go to one regularly, [here’s some classes](https://eastbaymeditation.org/programs/zoom-links/) to check out.
 
