@@ -4,9 +4,17 @@ draft: false
 type: page
 ---
 
-## 2020: 21 books {#2020}
+## 2020: 25 books {#2020}
 
-**Abolish Silocon Valley** — Wendy Liu
+**The Gentle Art of Swedish Death Cleaning** — Margareta Magnusson
+
+It’s nice reading a book by an older woman who has such a clear love and appreciate for her life, but has accepted the inevitability of death. Far from being grim, this book was a delightful look at what we value and how to make sure no one else has to clean up our mess when we’re gone.
+
+**Woman in the Dunes** — Kobo Abe
+
+Abe is one of my favorite authors, and consistently makes me smile with his surreal plots and characters. Woman in the Dunes is not my favorite of his, but is a fascinating look at how our spirit can be ground down by sand and society.
+
+**Abolish Silicon Valley** — Wendy Liu
 
 > “Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
 
