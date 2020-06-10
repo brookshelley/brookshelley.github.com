@@ -6,7 +6,9 @@
     font-weight: 200;
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
-    overflow-x: hidden; } }
+    overflow-x: hidden; }
+  .site-title a {
+    color: #fff; } }
 
 @media (prefers-color-scheme: light) {
   body {
