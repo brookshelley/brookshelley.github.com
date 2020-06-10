@@ -1,6 +1,7 @@
 $sans: Founder Grotesk, sans-serif;
 $serif: Hoefler Text Regular, serif;
 $primary-color: #404040;
+$dark-color: #F3F2F3;
 $purple: #603ad0;
 $lightpurple: #8f75de;
 $light-background: #F3F2F3
@@ -10,11 +11,22 @@ $medium: 300;
 $mediumplus: 500;
 $heavy: 700;
 
+@media (prefers-color-scheme: dark)
+  body
+    background-color: $dark-background;
+    color: $dark-color;
+
+@media (prefers-color-scheme: dark)
+  body
+    color: $primary-color;
+    background-color: $light-background;
+  
+  .description 
+	color: $dark-color;
+  
 body 
   font: 100% $serif;
   font-weight: $light;
-  color: $primary-color;
-  background-color: $light-background;
   line-height: 1.2;
   font-size: clamp(16px, 1.4vw, 22px);
   overflow-x: hidden;
