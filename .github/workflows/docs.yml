@@ -9,27 +9,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v1
-      - name: Checkout
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v2
         with:
-          node-version: 10.x
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.2.1
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.58.3'
-      - name: Prepare Hugo
-        run: |
-          git submodule sync && git submodule update --init
+          hugo-version: '0.71.1'
+          # extended: true
+
       - name: Build
-        run: make docs
-      - name: add nojekyll
-        run: touch ./public/.nojekyll
+        run: hugo --minify
+        
+      - name: add no-jekyll
+        run: touch .public/.nojekyll
+      
+     
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2.4.0
-        with:
-          emptyCommits: false
+        uses: peaceiris/actions-gh-pages@v3
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           PUBLISH_BRANCH: master
