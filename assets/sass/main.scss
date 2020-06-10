@@ -24,7 +24,13 @@ $lightmd: "prefers-color-scheme: light";
     overflow-x: hidden;
     }
     .site-title a {
+    font-family: $sans;
 	color: #fff;
+	text-decoration: none;
+    font-size: 30px;
+    margin-left: 0px;
+    padding-top: 30px;
+    margin-bottom: 1px;
 	}
 }
 
@@ -37,6 +43,15 @@ $lightmd: "prefers-color-scheme: light";
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
+    }
+    .site-title a {
+    font-family: $sans;
+    color: $purple;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 0px;
+    padding-top: 30px;
+    margin-bottom: 1px;
     }
 }
 
@@ -199,16 +214,6 @@ ul.flatfoot {
 .site-title {
   line-height: 66px;
   margin-bottom: 0px;
-  
-  a {
-    font-family: $sans;
-    color: $purple;
-    text-decoration: none;
-    font-size: 30px;
-    margin-left: 0px;
-    padding-top: 30px;
-    margin-bottom: 1px;
-  }
 }
 .post title {
   margin-top: 10px;
