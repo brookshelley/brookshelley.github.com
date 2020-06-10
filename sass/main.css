@@ -2,7 +2,7 @@
   body {
     color: #F3F2F3;
     background-color: #000;
-    font: 100% Hoefler Text Regular, serif;
+    font: 100% IBM Plex Serif, serif;
     font-weight: 200;
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
@@ -12,7 +12,7 @@
   body {
     color: #404040;
     background-color: #F3F2F3;
-    font: 100% Hoefler Text Regular, serif;
+    font: 100% IBM Plex Serif, serif;
     font-weight: 200;
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
@@ -33,17 +33,17 @@ i {
   font-weight: 200; }
 
 a {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   color: #603ad0;
   text-decoration: none;
   font-weight: 500; }
 
 a:hover {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   color: #8f75de; }
 
 .active {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   color: #8f75de; }
 
 html, button, input, select, textarea {
@@ -83,18 +83,18 @@ hr, .header nav, .footer {
 
 h1, h2, h3 {
   color: #603ad0;
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 16px; }
 
 h1 {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 28px;
   font-weight: 500;
   margin-left: 25px;
   margin-bottom: 2em; }
 
 h2 {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: 1.4;
@@ -174,7 +174,7 @@ ul.flatfoot li {
   line-height: 66px;
   margin-bottom: 0px; }
   .site-title a {
-    font-family: Founder Grotesk, sans-serif;
+    font-family: Quicksand, sans-serif;
     color: #603ad0;
     text-decoration: none;
     font-size: 30px;
@@ -197,7 +197,7 @@ ul.flatfoot li {
   width: 100%; }
 
 .meta {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   color: #888;
   margin-left: 0px;
   margin-right: 0px;
@@ -208,7 +208,7 @@ ul.flatfoot li {
   display: block; }
 
 .paginate {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 16px;
   color: #888;
   margin-left: 0px;
@@ -219,7 +219,7 @@ ul.flatfoot li {
   display: block; }
 
 .archive-meta {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 14px;
   color: #888;
   margin-left: 0px;
@@ -256,18 +256,18 @@ ul.flatfoot li {
   margin: 0 auto; }
 
 .header h1 {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: clamp(20px, 1.4vw, 25px); }
 
 .header h2 {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   margin: 0;
   padding: 0;
   font-size: clamp(20px, 1.4vw, 25px);
   line-height: 1.4rem; }
 
 .header nav {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   text-align: center;
   margin-top: 5px;
   margin-left: 25px;
@@ -281,7 +281,7 @@ ul.flatfoot li {
   font-size: clamp(20px, 1.4vw, 25px); }
 
 .section .section-header {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: clamp(20px, 1.4vw, 25px);
   font-weight: 500;
   text-transform: uppercase;
@@ -290,7 +290,7 @@ ul.flatfoot li {
   letter-spacing: 1px; }
 
 .footer {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   font-size: 0.75em;
   color: #696969;
   margin-top: 5px;
@@ -299,7 +299,7 @@ ul.flatfoot li {
   width: 100%; }
 
 .page-title {
-  font-family: Founder Grotesk, sans-serif;
+  font-family: Quicksand, sans-serif;
   margin-bottom: 0px; }
 
 .pagination {
