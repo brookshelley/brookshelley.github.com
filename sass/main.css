@@ -8,7 +8,13 @@
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
-    color: #fff; } }
+    font-family: Quicksand, sans-serif;
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 0px;
+    padding-top: 30px;
+    margin-bottom: 1px; } }
 
 @media (prefers-color-scheme: light) {
   body {
@@ -18,7 +24,15 @@
     font-weight: 200;
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
-    overflow-x: hidden; } }
+    overflow-x: hidden; }
+  .site-title a {
+    font-family: Quicksand, sans-serif;
+    color: #603ad0;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 0px;
+    padding-top: 30px;
+    margin-bottom: 1px; } }
 
 .container {
   max-width: 100%; }
@@ -175,14 +189,6 @@ ul.flatfoot li {
 .site-title {
   line-height: 66px;
   margin-bottom: 0px; }
-  .site-title a {
-    font-family: Quicksand, sans-serif;
-    color: #603ad0;
-    text-decoration: none;
-    font-size: 30px;
-    margin-left: 0px;
-    padding-top: 30px;
-    margin-bottom: 1px; }
 
 .post title {
   margin-top: 10px;
