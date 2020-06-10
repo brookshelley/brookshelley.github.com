@@ -23,6 +23,9 @@ $lightmd: "prefers-color-scheme: light";
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
     }
+    .site-title a {
+	color: #fff;
+	}
 }
 
 @media ($lightmd) {
