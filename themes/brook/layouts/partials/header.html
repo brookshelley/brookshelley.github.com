@@ -31,14 +31,16 @@
 	<link
 		href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,200;0,500;0,700;1,500&display=swap&family=Quicksand:wght@500&display=swap"
 		rel="stylesheet" />
-		
-	{{ $sass := resources.Get "sass/style.scss" }}
-	{{ $style := $sass | resources.ToCSS }}
+	
+{{ $styles := resources.Get "/sass/main.scss" | toCSS }}
 
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
+	<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+
+	<!--link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
 	{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css"
-		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} />
-	{{- end }}
+		{{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)" {{ end }} /
+	{{- end }}-->
 </head>
