@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Waiting for Guffman**
+
+Ah, a classic. It’s wild seeing Fred Willard in this looking so young comparatively. I watched this obsessively in high school and it really, really holds up.
+
 **Nightmare on Elm Street**
 
 Did you know Depp was in this? I certainly didn’t! This is the second movie I’ve watched because of the podcast **The Scaredy Cats** wherein one host of Reply All tries to help the other host inure himself to horror films. With all of the cultural cachet this movie had, it was interesting to see how quickly they showed Freddy himself. Freddy also seemed shorter than I imagined. I also always find it funny when all the “high school” actors are in their twenties. Why not just set it in college?
