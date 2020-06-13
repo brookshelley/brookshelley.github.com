@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**‌式日**
+
+This was a lot of movie. When I was younger I think I had more patience for particularly slow films, but I ended-up being a little distracted during 式日. I’m glad I finally got to watch it though, as it was pretty interesting seeing Iwai on the other side of the camera. Also I really miss being in Japan now.
+
 **Waiting for Guffman**
 
 Ah, a classic. It’s wild seeing Fred Willard in this looking so young comparatively. I watched this obsessively in high school and it really, really holds up.
