@@ -30,7 +30,7 @@ type: page
 
 [Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
-## books
+## Books
 
 [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
 
@@ -41,7 +41,7 @@ type: page
 
 [The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
 
-## podcasts
+## Podcasts
 
 [I Guess We're Grownups Now](https://goodstuff.fm/grownups/)
 

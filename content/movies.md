@@ -6,6 +6,14 @@ type: page
 
 ## 2020 {#2020}
 
+**‌式日**
+
+This was a lot of movie. When I was younger I think I had more patience for particularly slow films, but I ended-up being a little distracted during 式日. I’m glad I finally got to watch it though, as it was pretty interesting seeing Iwai on the other side of the camera. Also I really miss being in Japan now.
+
+**Waiting for Guffman**
+
+Ah, a classic. It’s wild seeing Fred Willard in this looking so young comparatively. I watched this obsessively in high school and it really, really holds up.
+
 **Nightmare on Elm Street**
 
 Did you know Depp was in this? I certainly didn’t! This is the second movie I’ve watched because of the podcast **The Scaredy Cats** wherein one host of Reply All tries to help the other host inure himself to horror films. With all of the cultural cachet this movie had, it was interesting to see how quickly they showed Freddy himself. Freddy also seemed shorter than I imagined. I also always find it funny when all the “high school” actors are in their twenties. Why not just set it in college?

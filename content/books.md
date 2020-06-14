@@ -6,6 +6,10 @@ type: page
 
 ## 2020: 25 books {#2020}
 
+**The Summer Book** — Tove Jansson
+
+This was a delightfully banal book about a girl and her grandma on an island off the coat of Finland. All the small stories were a joy, and I imagine I'll return to this book often when I need a smile.
+
 **The Gentle Art of Swedish Death Cleaning** — Margareta Magnusson
 
 It’s nice reading a book by an older woman who has such a clear love and appreciate for her life, but has accepted the inevitability of death. Far from being grim, this book was a delightful look at what we value and how to make sure no one else has to clean up our mess when we’re gone.
