@@ -373,19 +373,3 @@ li {
     margin-right: 25px;
     margin-top: 10px;
 }
-
-/*@media only screen 
-    and (device-width: 375px) 
-    and (device-height: 812px) 
-    and (-webkit-device-pixel-ratio: 3) { 
-        overflow-x: hidden;
-        max-width: 375px;
-        }
-        
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { 
-overflow-x: hidden;
-        max-width: 1024px;
-        }
-*/
