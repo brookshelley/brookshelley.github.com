@@ -212,11 +212,17 @@ li {
     margin-bottom: 15px;
 }
 
-.posts .post .meta,
-.list {
+.posts .post .meta {
     font-size: 14px;
     color: #888;
     margin-left: 25px;
+    max-width: 90%;
+}
+
+.list {
+    font-size: 14px;
+    color: #888;
+    margin-left: 5px;
     max-width: 90%;
 }
 
