@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Gemini Man**
+
+I can only imagine a certain “religion” has also cloned Will Smith at some point. This was way more fun than it had a right to be, and weirdly enough the young Will CGI was pretty solid. How long until we see movies with young Cruise, or Washington? Have a bottle of wine and turn your brain off for 2 hours.
+
 **‌式日**
 
 This was a lot of movie. When I was younger I think I had more patience for particularly slow films, but I ended-up being a little distracted during 式日. I’m glad I finally got to watch it though, as it was pretty interesting seeing Iwai on the other side of the camera. Also I really miss being in Japan now.
