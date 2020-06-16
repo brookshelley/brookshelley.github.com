@@ -284,7 +284,7 @@ li {
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(18px, 1.4vw, 24px);
+    font-size: clamp(20px, 1.4vw, 24px);
     margin-left: 0px;
     margin-right: 0px;
     display: block;
@@ -293,7 +293,7 @@ li {
 }
 
 .list a {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .wrapper {
