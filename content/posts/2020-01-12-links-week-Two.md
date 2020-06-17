@@ -7,7 +7,7 @@ tags:
 type: posts
 ---
 
-We’re halfway through with the first month of 2020, and the sun has been out a lot this week in the bay. Luckily, I got some new sunglasses https://twitter.com/brookshelley/status/1215889336874332161?s=21, so I’m feeling great about the whole thing. 
+We’re halfway through with the first month of 2020, and the sun has been out a lot this week in the bay. Luckily, I got some new sunglasses so I’m feeling great about the whole thing. 
 
 Have you already mastered all of your New Year’s resolutions? Mine was the same as it is every year: “do more of what you love and less of what you hate”. So far, so good.
 
