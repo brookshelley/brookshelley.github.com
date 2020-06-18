@@ -4,7 +4,11 @@ draft: false
 type: page
 ---
 
-## 2020: 25 books {#2020}
+## 2020: 27 books {#2020}
+
+**The Glass Hotel** — Emily St John Mandel
+
+An interesting twisty novel. This reminded me a bit of how David Mitchell constructs his plots, but slightly more straightforward. I wish we’d gotten a little more Vincent.
 
 **The Summer Book** — Tove Jansson
 
