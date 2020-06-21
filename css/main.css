@@ -14,8 +14,8 @@ body {
 }
 
 .markdown {
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
     font-weight: 200;
     /*overflow-x: hidden;*/
 }
@@ -98,7 +98,7 @@ h1 {
     font-family: quicksand,sans-serif;
     font-size: 28px;
     font-weight: 500;
-    margin-left: 25px;
+    margin-left: 10px;
     margin-bottom: 2em;
 }
 
@@ -215,7 +215,7 @@ li {
 .posts .post .meta {
     font-size: 14px;
     color: #888;
-    margin-left: 25px;
+    margin-left: 10px;
     max-width: 90%;
 }
 
@@ -270,7 +270,7 @@ li {
 }
 
 .post-tags .tags a {
-    margin-left: 25px;
+    margin-left: 10px;
     color: #ddd;
 }
 
@@ -318,8 +318,8 @@ li {
     font-family: quicksand,sans-serif;
     text-align: center;
     margin-top: 5px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .header nav ul.flat li {
@@ -372,7 +372,7 @@ li {
 
 .pagination .page-prev {
     margin-right: 10px;
-    margin-left: 25px;
+    margin-left: 15px;
     padding-right: 10px;
     margin-top: 10px;
     text-align: left;
@@ -380,6 +380,6 @@ li {
 
 .pagination .page-item.page-next {
     text-align: right;
-    margin-right: 25px;
+    margin-right: 15px;
     margin-top: 10px;
 }
