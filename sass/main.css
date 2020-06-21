@@ -38,8 +38,8 @@
   max-width: 100%; }
 
 .markdown {
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
   font-weight: 200; }
 
 b, strong {
@@ -76,8 +76,8 @@ hr {
   height: 1px;
   border: 0;
   border-top: 1px solid #f4f4f4;
-  margin-left: 25px;
-  margin-right: 25px; }
+  margin-left: 15px;
+  margin-right: 15px; }
 
 img {
   margin: 10px auto;
@@ -106,7 +106,7 @@ h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 28px;
   font-weight: 500;
-  margin-left: 25px;
+  margin-left: 10px;
   margin-bottom: 2em; }
 
 h2 {
@@ -148,7 +148,7 @@ ul {
   padding: 0px; }
 
 li {
-  margin-left: 25px;
+  margin-left: 10px;
   margin-right: 0px; }
 
 ul.flat {
@@ -158,12 +158,13 @@ ul.flat {
   margin-bottom: 0px;
   padding: 0px;
   line-height: 1; }
-  ul.flat li {
-    display: inline-block;
-    font-size: 18px;
-    list-style: none;
-    margin-right: 5px;
-    margin-left: 5px; }
+
+ul.flat li {
+  display: inline-block;
+  font-size: 18px;
+  list-style: none;
+  margin-right: 5px;
+  margin-left: 5px; }
 
 ul.flatfoot li {
   font-size: 14px;
@@ -197,7 +198,7 @@ ul.flatfoot li {
 .posts .post .meta, .list {
   font-size: 14px;
   color: #888;
-  margin-left: 25px;
+  margin-left: 10px;
   max-width: 90%; }
 
 .post {
@@ -238,7 +239,7 @@ ul.flatfoot li {
   width: 100px; }
 
 .post-tags .tags a {
-  margin-left: 25px;
+  margin-left: 10px;
   color: #ddd; }
 
 .blogdate {
@@ -279,8 +280,8 @@ ul.flatfoot li {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   text-align: center;
   margin-top: 5px;
-  margin-left: 25px;
-  margin-right: 25px; }
+  margin-left: 10px;
+  margin-right: 10px; }
 
 .header nav ul.flat li {
   display: inline-grid;
@@ -317,18 +318,21 @@ ul.flatfoot li {
   text-align: left;
   display: flex;
   justify-content: space-between; }
-  .pagination li {
-    list-style: none;
-    display: inline-block;
-    margin: 0;
-    padding: 0; }
-  .pagination .page-prev {
-    margin-right: 10px;
-    margin-left: 25px;
-    padding-right: 10px;
-    margin-top: 10px;
-    text-align: left; }
-  .pagination .page-item.page-next {
-    text-align: right;
-    margin-right: 25px;
-    margin-top: 10px; }
+
+.pagination li {
+  list-style: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0; }
+
+.pagination .page-prev {
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  text-align: left; }
+
+.pagination .page-item.page-next {
+  text-align: right;
+  margin-right: 10px;
+  margin-top: 10px; }
