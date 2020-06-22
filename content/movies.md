@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Bridge of Spies**
+
+A solid Spielberg feel-good negotiation thriller. I only knew a little about the U2 bomber and our history of capturing spies until I watched this film and dove into Wikipedia. This movie made me miss Berlin, which I’ve only visited once for a few weeks, but was delightful. If you enjoy the work of Tom Hanks, he does his thing well in this movie.
+
 **Gemini Man**
 
 I can only imagine a certain “religion” has also cloned Will Smith at some point. This was way more fun than it had a right to be, and weirdly enough the young Will CGI was pretty solid. How long until we see movies with young Cruise, or Washington? Have a bottle of wine and turn your brain off for 2 hours.
