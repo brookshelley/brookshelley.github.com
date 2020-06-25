@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on dill &amp; fennel</title>
+    <link>https://www.brookshelley.com/tags/apple/</link>
+    <description>Recent content in Apple on dill &amp; fennel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.brookshelley.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WWDC Thoughts</title>
+      <link>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</guid>
+      <description>Like most of the folks who marginally to maximally care about Apple stuff, I watched WWDC today from my house on my TV. Our work chat was going wild throughout, especially during the bits about the ARM transition over the next few years. Overall, I felt like this was an excellent set of announcements, handled in a fun and entertaining way despite the remote nature. Also shout out to Craig&#39;s bold chest-hair revealing sartorial choice.</description>
+    </item>
+    
+  </channel>
+</rss>
