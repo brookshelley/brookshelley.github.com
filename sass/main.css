@@ -286,8 +286,8 @@ ul.flatfoot li {
 .header nav ul.flat li {
   display: inline-grid;
   list-style: none;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
   font-size: clamp(20px, 1.4vw, 25px); }
 
 .section .section-header {
