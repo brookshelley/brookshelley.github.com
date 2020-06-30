@@ -6,7 +6,6 @@ body {
     line-height: 1.2;
     font-size: clamp(16px, 1.4vw, 22px);
     overflow-x: hidden;
-    max-width: 100%;
 }
 
 .container {
@@ -15,8 +14,8 @@ body {
 }
 
 .markdown {
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
     font-weight: 200;
     /*overflow-x: hidden;*/
 }
@@ -99,9 +98,8 @@ h1 {
     font-family: quicksand,sans-serif;
     font-size: 28px;
     font-weight: 500;
-    margin-left: 25px;
+    margin-left: 10px;
     margin-bottom: 2em;
-    width: 100%;
 }
 
 h2 {
@@ -214,17 +212,27 @@ li {
     margin-bottom: 15px;
 }
 
-.posts .post .meta,
+.posts .post .meta {
+    font-size: 14px;
+    color: #888;
+    margin-left: 10px;
+    max-width: 90%;
+}
+
 .list {
     font-size: 14px;
     color: #888;
-    margin-left: 25px;
+    margin-left: 5px;
     max-width: 90%;
 }
 
 .post {
     float: left;
     width: 100%;
+}
+
+.post li {
+  list-style-type: disc;
 }
 
 .meta {
@@ -262,7 +270,7 @@ li {
 }
 
 .post-tags .tags a {
-    margin-left: 25px;
+    margin-left: 10px;
     color: #ddd;
 }
 
@@ -271,12 +279,12 @@ li {
     float: left;
     margin-right: 0px;
     width: 15%;
-    font-size: clamp(10px, 1.4vw, 20px);
+    font-size: clamp(12px, 1.4vw, 20px);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(16px, 1.4vw, 22px);
+    font-size: clamp(20px, 1.4vw, 24px);
     margin-left: 0px;
     margin-right: 0px;
     display: block;
@@ -285,7 +293,7 @@ li {
 }
 
 .list a {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .wrapper {
@@ -310,8 +318,8 @@ li {
     font-family: quicksand,sans-serif;
     text-align: center;
     margin-top: 5px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .header nav ul.flat li {
@@ -337,10 +345,9 @@ li {
     font-size: 0.75em;
     color: #696969;
     margin-top: 5px;
-    margin-right: 25px;
     max-height: 10px;
     float: center;
-    width: 100%;
+    width: 100%
 }
 
 .page-title {
@@ -365,7 +372,7 @@ li {
 
 .pagination .page-prev {
     margin-right: 10px;
-    margin-left: 25px;
+    margin-left: 15px;
     padding-right: 10px;
     margin-top: 10px;
     text-align: left;
@@ -373,22 +380,6 @@ li {
 
 .pagination .page-item.page-next {
     text-align: right;
-    margin-right: 25px;
+    margin-right: 15px;
     margin-top: 10px;
 }
-
-/*@media only screen 
-    and (device-width: 375px) 
-    and (device-height: 812px) 
-    and (-webkit-device-pixel-ratio: 3) { 
-        overflow-x: hidden;
-        max-width: 375px;
-        }
-        
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { 
-overflow-x: hidden;
-        max-width: 1024px;
-        }
-*/
