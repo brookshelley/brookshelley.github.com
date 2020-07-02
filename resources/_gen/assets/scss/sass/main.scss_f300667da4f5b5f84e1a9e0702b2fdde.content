@@ -11,7 +11,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #fff;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 26px;
     margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px; } }
@@ -29,7 +29,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #603ad0;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 28px;
     margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px; } }
@@ -155,13 +155,13 @@ li {
 ul.flat {
   margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
   padding: 0px;
   line-height: 1; }
 
 ul.flat li {
-  display: inline-block;
+  display: inline-grid;
   font-size: 18px;
   list-style: none;
   margin-right: 5px;
@@ -257,7 +257,7 @@ ul.flatfoot li {
   margin-right: 0px;
   display: block;
   word-wrap: normal;
-  width: 100%; }
+  *width: 100%; }
 
 .list a {
   font-size: 16px; }
@@ -279,16 +279,17 @@ ul.flatfoot li {
 
 .header nav {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  text-align: center;
-  margin-top: 5px;
+  text-align: right;
+  margin-top: 0px;
   margin-left: 10px;
-  margin-right: 10px; }
+  margin-right: 0px;
+  float: right; }
 
 .header nav ul.flat li {
-  display: inline-grid;
+  display: inline;
   list-style: none;
   margin-left: 25px;
-  margin-right: 25px;
+  margin-right: 10px;
   font-size: clamp(20px, 1.4vw, 25px); }
 
 .section .section-header {
