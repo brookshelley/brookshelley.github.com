@@ -4,7 +4,7 @@ draft: false
 type: page
 ---
 
-## 2020: 27 books {#2020}
+## 2020: 28 books {#2020}
 
 **In Praise of Shadows** — Junichiro Tanizaki
 
