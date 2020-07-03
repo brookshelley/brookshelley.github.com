@@ -28,7 +28,7 @@ Abe is one of my favorite authors, and consistently makes me smile with his surr
 
 **Abolish Silicon Valley** — Wendy Liu
 
-> “Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
+>“Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
 
 As someone who is somewhat begrudgingly started working in Silicon Valley￼ after studying literature mostly as a way to make ends-meat, this book resonated strongly. The front half establishes Liu’s history, but the back half is the juicy bit. I love reading a hopeful vision of how we might reconfigure society to support humans, and not capital.
 
