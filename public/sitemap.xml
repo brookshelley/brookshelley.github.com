@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.brookshelley.com/tags/apple/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <loc>https://www.brookshelley.com/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.brookshelley.com/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <loc>https://www.brookshelley.com/posts/2020-06-30-fennel-dill-26/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/newsletter/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.brookshelley.com/posts/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.brookshelley.com/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brookshelley.com/tags/apple/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +44,6 @@
   
   <url>
     <loc>https://www.brookshelley.com/posts/2020-06-21-dill-fennel-25/</loc>
-    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.brookshelley.com/tags/newsletter/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   

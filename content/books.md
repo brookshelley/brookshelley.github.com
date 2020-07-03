@@ -4,7 +4,11 @@ draft: false
 type: page
 ---
 
-## 2020: 27 books {#2020}
+## 2020: 28 books {#2020}
+
+**In Praise of Shadows** — Junichiro Tanizaki
+
+A lot of this book (or possibly long essay) really holds up. I love all the bits about soft lighting and over-illumination killing mystery and beauty, but the parts of skin color and race are definitely not of-the-times. Tanizaki was a strange fellow, but I'm glad I read this seminal work.
 
 **The Glass Hotel** — Emily St John Mandel
 
