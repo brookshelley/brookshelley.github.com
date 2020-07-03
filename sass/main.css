@@ -1,3 +1,9 @@
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 200;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma"); }
+
 @media (prefers-color-scheme: dark) {
   body {
     color: #F3F2F3;
@@ -8,7 +14,7 @@
     font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: system;
     color: #fff;
     text-decoration: none;
     font-size: 26px;
@@ -26,7 +32,7 @@
     font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: system;
     color: #603ad0;
     text-decoration: none;
     font-size: 28px;
