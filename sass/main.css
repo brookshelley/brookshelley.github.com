@@ -126,6 +126,7 @@ h3 {
 .archive {
   margin-top: 10px;
   text-align: center;
+  float: left;
   width: 100%; }
 
 .archive-post a, li {
