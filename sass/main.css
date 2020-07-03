@@ -5,7 +5,7 @@
     font: 100% Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 1.2;
-    font-size: clamp(16px, 1.4vw, 22px);
+    font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -23,7 +23,7 @@
     font: 100% Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 1.2;
-    font-size: clamp(16px, 1.4vw, 22px);
+    font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -249,11 +249,11 @@ ul.flatfoot li {
   float: left;
   margin-right: 0px;
   width: 15%;
-  font-size: clamp(10px, 1.4vw, 20px); }
+  font-size: clamp(12px, 1.4vw, 20px); }
 
 .blogtitle {
   font-weight: 300;
-  font-size: clamp(16px, 1.4vw, 22px);
+  font-size: clamp(18px, 1.4vw, 22px);
   margin-left: 0px;
   margin-right: 0px;
   display: block;
@@ -269,13 +269,13 @@ ul.flatfoot li {
 
 .header h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 25px); }
+  font-size: clamp(20px, 1.4vw, 22px); }
 
 .header h2 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin: 0;
   padding: 0;
-  font-size: clamp(20px, 1.4vw, 25px);
+  font-size: clamp(20px, 1.4vw, 22px);
   line-height: 1.4rem; }
 
 .header nav {
@@ -291,11 +291,11 @@ ul.flatfoot li {
   list-style: none;
   margin-left: 25px;
   margin-right: 10px;
-  font-size: clamp(20px, 1.4vw, 25px); }
+  font-size: clamp(20px, 1.4vw, 22px); }
 
 .section .section-header {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 25px);
+  font-size: clamp(20px, 1.4vw, 22px);
   font-weight: 500;
   text-transform: uppercase;
   color: #999;
