@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Fennel & Dill: Week 22"
+title: "Fennel & Dill 22"
 date: 2020-05-31
 description: 
 tags:

@@ -2,16 +2,16 @@
   body {
     color: #F3F2F3;
     background-color: #000;
-    font: 100% Georgia, Times, Times New Roman, serif;
+    font: 100% Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 1.2;
-    font-size: clamp(16px, 1.4vw, 22px);
+    font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #fff;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 26px;
     margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px; } }
@@ -20,16 +20,16 @@
   body {
     color: #404040;
     background-color: #F3F2F3;
-    font: 100% Georgia, Times, Times New Roman, serif;
+    font: 100% Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 1.2;
-    font-size: clamp(16px, 1.4vw, 22px);
+    font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #603ad0;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 28px;
     margin-left: 0px;
     padding-top: 30px;
     margin-bottom: 1px; } }
@@ -76,8 +76,8 @@ hr {
   height: 1px;
   border: 0;
   border-top: 1px solid #f4f4f4;
-  margin-left: 15px;
-  margin-right: 15px; }
+  margin-left: 10px;
+  margin-right: 10px; }
 
 img {
   margin: 10px auto;
@@ -104,14 +104,15 @@ h1, h2, h3 {
 
 h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 28px;
+  font-size: 22px;
   font-weight: 500;
   margin-left: 10px;
-  margin-bottom: 2em; }
+  margin-top: 1.5em;
+  margin-bottom: 2.5em; }
 
 h2 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.4;
   margin-bottom: 1em;
@@ -125,6 +126,7 @@ h3 {
 .archive {
   margin-top: 10px;
   text-align: center;
+  float: left;
   width: 100%; }
 
 .archive-post a, li {
@@ -143,23 +145,23 @@ h3 {
   margin-bottom: 25px; }
 
 ul {
-  list-style: none;
-  margin: 0px auto;
-  padding: 0px; }
+  list-style: disc;
+  margin: 1px auto; }
 
 li {
-  margin-left: 10px;
-  margin-right: 0px; }
+  margin-left: 5px;
+  margin-right: 0px;
+  margin-bottom: 5px; }
 
 ul.flat {
   margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
   padding: 0px;
   line-height: 1; }
   ul.flat li {
-    display: inline-block;
+    display: inline-grid;
     font-size: 18px;
     list-style: none;
     margin-right: 5px;
@@ -246,16 +248,16 @@ ul.flatfoot li {
   float: left;
   margin-right: 0px;
   width: 15%;
-  font-size: clamp(10px, 1.4vw, 20px); }
+  font-size: clamp(12px, 1.4vw, 20px); }
 
 .blogtitle {
   font-weight: 300;
-  font-size: clamp(16px, 1.4vw, 22px);
+  font-size: clamp(18px, 1.4vw, 22px);
   margin-left: 0px;
   margin-right: 0px;
   display: block;
   word-wrap: normal;
-  width: 100%; }
+  *width: 100%; }
 
 .list a {
   font-size: 16px; }
@@ -266,32 +268,33 @@ ul.flatfoot li {
 
 .header h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 25px); }
+  font-size: clamp(20px, 1.4vw, 22px); }
 
 .header h2 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   margin: 0;
   padding: 0;
-  font-size: clamp(20px, 1.4vw, 25px);
+  font-size: clamp(20px, 1.4vw, 22px);
   line-height: 1.4rem; }
 
 .header nav {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  text-align: center;
-  margin-top: 5px;
+  text-align: right;
+  margin-top: 0px;
   margin-left: 10px;
-  margin-right: 10px; }
+  margin-right: 0px; 
+  float: right; }
 
 .header nav ul.flat li {
-  display: inline-grid;
+  display: inline;
   list-style: none;
-  margin-left: 20px;
-  margin-right: 20px;
-  font-size: clamp(20px, 1.4vw, 25px); }
+  margin-left: 25px;
+  margin-right: 10px;
+  font-size: clamp(20px, 1.4vw, 22px); }
 
 .section .section-header {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 25px);
+  font-size: clamp(20px, 1.4vw, 22px);
   font-weight: 500;
   text-transform: uppercase;
   color: #999;

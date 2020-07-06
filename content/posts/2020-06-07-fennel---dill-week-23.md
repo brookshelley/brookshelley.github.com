@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "Fennel & Dill—Week 23"
+title: "Fennel & Dill 23"
 date: 2020-06-07
 description: 
 tags:

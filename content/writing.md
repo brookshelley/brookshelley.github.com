@@ -38,8 +38,7 @@ type: page
 
 [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
-
-[The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _Note: You'll need to print this out and fold it yourself_
+[The Most Important Zine of the Day: on Breakfast](https://www.dropbox.com/s/voh2uoxdcizl86a/BreakfastZine-3.pdf?dl=0) _print and fold_
 
 ## Podcasts
 

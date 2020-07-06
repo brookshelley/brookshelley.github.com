@@ -15,13 +15,15 @@
 					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
 					</div>
 					{{ end }}
-				</div><div class="paginate">
+				</div>
+					</div>
+				<div class="paginate">
 						{{ template "partials/paginator.html" . }}</div>
 			<div><h2 class="archive"><a href="/posts">archive</a></h2></div>
 {{ partialCached "footer.html" . }}
 			</div>
 
 
-		</div>
+	
 </body>
 </html>

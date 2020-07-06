@@ -4,7 +4,15 @@ draft: false
 type: page
 ---
 
-## 2020: 27 books {#2020}
+## 2020: 29 books {#2020}
+
+**A Memory Called Empire** — Arcady Martine
+
+I have to admit I heard this author read at an event and her style was such I didn’t want to read this book for some time. However, I’m glad I got over that and dove into this fantastical world. Martine deftly wove together the foundation for a really neat space opera, with compelling characters, and a lot of meaty world-building. There was intrigue plenty, and I’m excited for the next book in September.
+
+**In Praise of Shadows** — Junichiro Tanizaki
+
+A lot of this book (or possibly long essay) really holds up. I love all the bits about soft lighting and over-illumination killing mystery and beauty, but the parts of skin color and race are definitely not of-the-times. Tanizaki was a strange fellow, but I'm glad I read this seminal work.
 
 **The Glass Hotel** — Emily St John Mandel
 
@@ -24,7 +32,7 @@ Abe is one of my favorite authors, and consistently makes me smile with his surr
 
 **Abolish Silicon Valley** — Wendy Liu
 
-> “Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
+>“Capitalism Is a disease in the venality of Silicon Valley is a morbid symptom, the fingers turning ashen￼”
 
 As someone who is somewhat begrudgingly started working in Silicon Valley￼ after studying literature mostly as a way to make ends-meat, this book resonated strongly. The front half establishes Liu’s history, but the back half is the juicy bit. I love reading a hopeful vision of how we might reconfigure society to support humans, and not capital.
 
