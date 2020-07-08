@@ -6,6 +6,10 @@ type: page
 
 ## 2020: 29 books {#2020}
 
+**The Tourist** — Olen Steinhauer
+
+A fun spy novel with plenty of twists and a good take on "the spy that tried to get out" trope.
+
 **A Memory Called Empire** — Arcady Martine
 
 I have to admit I heard this author read at an event and her style was such I didn’t want to read this book for some time. However, I’m glad I got over that and dove into this fantastical world. Martine deftly wove together the foundation for a really neat space opera, with compelling characters, and a lot of meaty world-building. There was intrigue plenty, and I’m excited for the next book in September.
