@@ -214,7 +214,7 @@ ul.flatfoot li {
   margin-left: 0px;
   margin-right: 0px;
   padding-right: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
   float: left;
   width: 100%;
   display: block; }
@@ -248,7 +248,7 @@ ul.flatfoot li {
   display: block;
   float: left;
   margin-right: 0px;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   width: 15%;
   font-size: clamp(12px, 1.4vw, 20px); }
 
@@ -263,7 +263,7 @@ ul.flatfoot li {
 
 .description {
   font-size: clamp(12px, 1.4vw, 20px);
-  margin-left: 0px;
+  margin-left: 20px;
   margin-right: 5px;
   display: block;
   float: left; }
@@ -316,7 +316,7 @@ ul.flatfoot li {
   color: #696969;
   margin-top: 5px;
   max-height: 10px;
-  float: left;
+  float: center;
   width: 100%; }
 
 .page-title {

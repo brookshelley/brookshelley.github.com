@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-{{ partialCached "header.html" . }}
+{{ partialCached "head.html" . }}
 
 <body>
 	<div class="container wrapper">
-		{{ partial "head.html" . }}
+		{{ partial "header.html" . }}
 		<h1>blog</h1>
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
