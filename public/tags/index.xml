@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>newsletter</title>
       <link>https://www.brookshelley.com/tags/newsletter/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediadiet</title>
+      <link>https://www.brookshelley.com/tags/mediadiet/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
       <description></description>
     </item>
     
@@ -40,7 +49,7 @@
     </item>
     
     <item>
-      <title>tv</title>
+      <title>TV</title>
       <link>https://www.brookshelley.com/tags/tv/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -72,15 +81,6 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/sourdough/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mediadiet</title>
-      <link>https://www.brookshelley.com/tags/mediadiet/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
       <description></description>
     </item>
     

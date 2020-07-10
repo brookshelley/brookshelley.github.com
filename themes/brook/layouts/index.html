@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-{{ partialCached "header.html" . }}
+{{ partialCached "head.html" . }}
 
 <body>
 	<div class="container wrapper">
-		{{ partial "head.html" . }}
+		{{ partial "header.html" . }}
 		<h1>blog</h1>
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
@@ -13,6 +13,7 @@
 				<div class="post">
 					<div class="meta"><div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
 					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
+					<!--p class="description">{{.Description}}</p-->
 					</div>
 					{{ end }}
 				</div>

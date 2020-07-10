@@ -213,7 +213,7 @@ ul.flatfoot li {
   margin-left: 0px;
   margin-right: 0px;
   padding-right: 0px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   float: left;
   width: 100%;
   display: block; }
@@ -247,6 +247,7 @@ ul.flatfoot li {
   display: block;
   float: left;
   margin-right: 0px;
+  margin-bottom: 25px;
   width: 15%;
   font-size: clamp(12px, 1.4vw, 20px); }
 
@@ -257,7 +258,15 @@ ul.flatfoot li {
   margin-right: 0px;
   display: block;
   word-wrap: normal;
-  *width: 100%; }
+  width: 100%; }
+  
+.description {
+  font-size: clamp(12px, 1.4vw, 20px);
+  margin-left: 0px;
+  margin-right: 5px;
+  display: block;
+  float: left;
+}
 
 .list a {
   font-size: 16px; }
@@ -307,7 +316,7 @@ ul.flatfoot li {
   color: #696969;
   margin-top: 5px;
   max-height: 10px;
-  float: center;
+  float: left;
   width: 100%; }
 
 .page-title {
