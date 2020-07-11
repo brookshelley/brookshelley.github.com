@@ -4,7 +4,11 @@ draft: false
 type: page
 ---
 
-## 2020: 29 books {#2020}
+## 2020: 31 books {#2020}
+
+**My Soul to Keep** — Yrsa Sigurdadóttir
+
+Another cozy mystery with the lawyer Thora. This went on a little long, but was still twisty enough to be interesting. In a world of Nordic noir, it’s kinda fun to read something where the protagonist isn’t a cop.
 
 **The Tourist** — Olen Steinhauer
 
