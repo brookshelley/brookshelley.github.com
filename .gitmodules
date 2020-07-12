@@ -1,0 +1,3 @@
+[submodule "/Users/brookshelley/brookshelley.github.com/public/micropub"]
+	path = /Users/brookshelley/brookshelley.github.com/public/micropub
+	url = https://github.com/skpy/micropub
