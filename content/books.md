@@ -6,6 +6,10 @@ type: page
 
 ## 2020: 31 books {#2020}
 
+**Buddhism Without Beliefs** — Stephen Bachelor
+
+A few years ago I started going to a sangha regularly and meditating a lot. While I haven’t kept up with the practice regularly, mediation is a pretty awesome part of my life when I’m able to do it, and I’ve enjoyed the lessons of the four noble truths and eightfold path. The bits of capital B Buddhism I wasn’t so amped on were the religious bits, so it’s interesting to read about an agnostic buddhism. 
+
 **My Soul to Keep** — Yrsa Sigurdadóttir
 
 Another cozy mystery with the lawyer Thora. This went on a little long, but was still twisty enough to be interesting. In a world of Nordic noir, it’s kinda fun to read something where the protagonist isn’t a cop.
