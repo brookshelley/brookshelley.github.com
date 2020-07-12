@@ -1,3 +1,0 @@
-[submodule "static/static/micropub"]
-	path = static/static/micropub
-	url = https://github.com/skpy/micropub
