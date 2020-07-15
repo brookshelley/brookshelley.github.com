@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Greyhound**
+
+Tom Hanks has a fantastic presence, but they don’t really develop many other folks in this tense battle movie. Which, hey, that makes sense, since the whole movie they’re just depth charging the shit out of the sea.
+
 **Bridge of Spies**
 
 A solid Spielberg feel-good negotiation thriller. I only knew a little about the U2 bomber and our history of capturing spies until I watched this film and dove into Wikipedia. This movie made me miss Berlin, which I’ve only visited once for a few weeks, but was delightful. If you enjoy the work of Tom Hanks, he does his thing well in this movie.
