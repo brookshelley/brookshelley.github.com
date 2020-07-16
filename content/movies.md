@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**The Old Guard** 
+
+Fun but ultimately thin action flick. Solid action near the end, but so much of it felt emotionless in a way that was just not super entertaining.
+
 **Greyhound**
 
 Tom Hanks has a fantastic presence, but they don’t really develop many other folks in this tense battle movie. Which, hey, that makes sense, since the whole movie they’re just depth charging the shit out of the sea.
