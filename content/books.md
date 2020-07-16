@@ -4,7 +4,11 @@ draft: false
 type: page
 ---
 
-## 2020: 31 books {#2020}
+## 2020: 32 books {#2020}
+
+**The Nearest Exit** — Olen Steinhauer
+
+Apparently I read this book before in 2010, but I've definitely slept since then because most of it was still a surprise to me. The saga of Milo Weaver gets even more twisty in this volume as he tries to quit his job and fix his family. Definitely wishing I could do some traveling of my own after these two spy novels.
 
 **Buddhism Without Beliefs** — Stephen Bachelor
 
