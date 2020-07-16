@@ -95,6 +95,7 @@ img {
 
 hr, .header nav, .footer {
   max-width: 760px;
+  margin-bottom: 10px;
   text-align: center; }
 
 h1, h2, h3 {
@@ -146,7 +147,7 @@ h3 {
 
 ul {
   list-style: disc;
-  margin: 1px auto; }
+  margin: 0px auto; }
 
 li {
   margin-left: 5px;
@@ -172,8 +173,8 @@ ul.flatfoot li {
   font-size: 14px;
   text-align: center;
   margin-top: 10px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 5px;
+  margin-right: 5px;
   background-color: #222; }
 
 .flatfoot-about {

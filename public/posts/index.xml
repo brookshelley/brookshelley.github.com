@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 08:01:36 +0000</lastBuildDate>
     
 	<atom:link href="https://www.brookshelley.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microposting</title>
+      <link>https://www.brookshelley.com/posts/microposting/</link>
+      <pubDate>Thu, 16 Jul 2020 08:01:36 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/microposting/</guid>
+      <description>After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!
+With the beta of iOS 14 I’ve had to heavily modify my publishing shortcuts, and while they’re pretty great, publishing directly through Micropub with the “publish” button in iAWriter seems even more convenient.
+If you’re using Hugo or Jekyll, this is a good starting place, and only needs minor tweaks to exposed config values to work with most setups of either static backend.</description>
+    </item>
+    
+    <item>
+      <title>Fennel &amp; Dill 28</title>
+      <link>https://www.brookshelley.com/posts/2020-07-12-fennel-dill-28/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-07-12-fennel-dill-28/</guid>
+      <description>Another week, and another Formula One race in Austria. For the first time in the over 70 year history of this race series two races occurred at the same track. The first race included loads of suspension and tire issues due to curbs, and this weekend included with a veritable lake on the track. If you’ve never watched car racing, I recommend Netflix’s excellent behind-the-scenes series. Outside of high speed racing, my week was a bit of a let-down, as I found out I didn’t get a position at work I’d interviewed for on Wednesday.</description>
+    </item>
     
     <item>
       <title>Fennel &amp; Dill 27</title>

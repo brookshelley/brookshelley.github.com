@@ -5,26 +5,30 @@
 <body>
 	<div class="container wrapper">
 		{{ partial "header.html" . }}
-		<h1>blog</h1>
-			<div class="posts">
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
-				<div class="post">
-					<div class="meta"><div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
+		<div class="posts">
+			<h1>blog</h1>
+			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+			{{ range $paginator.Pages }}
+			<div class="post">
+				<div class="meta">
+					<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
 					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
 					<!--p class="description">{{.Description}}</p-->
-					</div>
-					{{ end }}
 				</div>
-					</div>
-				<div class="paginate">
-						{{ template "partials/paginator.html" . }}</div>
-			<div><h2 class="archive"><a href="/posts">archive</a></h2></div>
-{{ partialCached "footer.html" . }}
+				{{ end }}
 			</div>
+		</div>
+		<div class="paginate">
+			{{ template "partials/paginator.html" . }}</div>
+		<div>
+			<h2 class="archive"><a href="/posts">archive</a></h2>
+		</div>
+		{{ partialCached "footer.html" . }}
+	</div>
 
 
-	
+
 </body>
+
 </html>
