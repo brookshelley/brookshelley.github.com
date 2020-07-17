@@ -295,12 +295,12 @@ ul.flatfoot li {
 
 .header nav {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  text-align: right;
+  text-align: left;
   margin-top: 0px;
-  margin-left: 10px;
+  margin-left: 66px;
   margin-right: 0px;
   margin-bottom: 15px;
-  float: right; }
+  float: left; }
 
 .header nav ul.flat li {
   display: inline;
