@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Time to Hunt**
+
+Outstanding thriller that kept building and moving throughout. I saw this on a sci-fi list, but for the most part this felt like a slightly alternate reality, vs something in the future. Very fun.
+
 **Bad Boys for Life**
 
 This series is epically ridiculous, and fun throughout. Everyone seems to be having fun, and there’s a lot of wild action and even a surprise third act trip out of the country.
