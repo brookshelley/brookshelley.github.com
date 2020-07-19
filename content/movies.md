@@ -6,6 +6,10 @@ type: page
 
 ## 2020 {#2020}
 
+**Extraction**
+
+Thor trades his hammer for guns in this exciting action film without much behind the action. Sometimes you need to watch stuff get blown-up without much plot.
+
 **Time to Hunt**
 
 Outstanding thriller that kept building and moving throughout. I saw this on a sci-fi list, but for the most part this felt like a slightly alternate reality, vs something in the future. Very fun.
