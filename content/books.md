@@ -4,7 +4,15 @@ draft: false
 type: page
 ---
 
-## 2020: 32 books {#2020}
+## 2020: 34 books {#2020}
+
+**Because Internet: Gretchen McCulloch**
+
+A delightful linguistic investigation into the history and present of internet culture, memes, and language. This felt somewhat similar to Lurking insofar as they cover a bit of the same territory, but I think this deeper dive into the language and communication styles that came from Old Internet People is a nice companion to that book. If you're online in any capacity, this is something important to read.
+
+**An American Spy** — Olen Steinhauer
+
+Ah, I finally got to a volume I haven't read before—I loved the switch in perspective to the spymaster Zhu. I am pretty curious to see what happens in the final Milo Weaver book, especially with a few years separating it from this hopeful book. Generally, this series felt light enough to get through quickly, but fun, and meaty enough to really sink into during that time.
 
 **The Nearest Exit** — Olen Steinhauer
 
