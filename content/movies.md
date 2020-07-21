@@ -89,6 +89,7 @@ Just a good time. Everyone seemed like they were having a great time, and it hop
 **Hustlers**
 
 I love a good grift. I’m still low-key mad this wasn’t about a lesbian romance between J Lo and Constance Wu though.
+
 **The Commuter**
 
 A perfectly serviceable train thriller. Pretty fun.
@@ -201,7 +202,7 @@ Yow. That was... a lot of movie. Isabelle Huppert was fantastic, but I don't kno
 
 Another lady assassin movie. It was a helluva ride and I enjoyed it. I don’t think it added anything huge to the genre, but I’m just glad to have more cool movies about tough women. That said, I wish Anna had been able to just be with her girlfriend instead of randomly fucking spymasters.
 
-**Gennocidal Organ**
+**Genocidal Organ**
 
 I read the book this movie is based on last year, and it’s a truly brutal story of linguistics and massive unrest. This movie is grim in a way that feels a little too prescient. Definitely one of the better anime thrillers I’ve seen in a while though.
 
