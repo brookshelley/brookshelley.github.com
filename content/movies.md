@@ -6,6 +6,14 @@ type: page
 
 ## 2020 {#2020}
 
+**Money Plane**
+
+A true piece of crap. Everyone in this film seemed like they mostly work on Cinemax soft core films.
+
+**Spectre**
+
+A delightful rewatch.
+
 **6 Underground**
 
 Continuing my tradition of watching mediocre Netflix thrillers, I think I’m almost done with the current set. Ryan Reynolds is doing his sarcastic guy thing, and there’s tons of fast cuts and action stuff. The first action scene felt exciting for a bit, but by the twelfth hat-on-a-hat and shitty rock song I was hoping for relief. Fortunately it got better later, but I wish this’d been modeled more on Fast & Furious and less on xXx. I wonder if Bezos watched this and thought “I’ve trained for this!”?

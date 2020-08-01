@@ -6,6 +6,14 @@ type: page
 
 ## 2020: 34 books {#2020}
 
+**Infomacracy** — Malka Older
+
+A very good re-read. In the lead up to the election, this feels appropriate.
+
+**Buddhism for Beginners**
+
+A pretty solid introduction formatted as an extended Q&A that covers most ground related to how Buddhist teachings apply to our present time. I think I prefer the other book I read recently, but it was nice to have clarity on a few things I’d heard in teachings at sanghas.
+
 **Because Internet: Gretchen McCulloch**
 
 A delightful linguistic investigation into the history and present of internet culture, memes, and language. This felt somewhat similar to Lurking insofar as they cover a bit of the same territory, but I think this deeper dive into the language and communication styles that came from Old Internet People is a nice companion to that book. If you're online in any capacity, this is something important to read.
