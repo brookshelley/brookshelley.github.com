@@ -4,7 +4,7 @@ draft: false
 type: page
 ---
 
-## 2020: 36 books {#2020}
+## 2020: 37 books {#2020}
 
 **Infomacracy** — Malka Older
 
