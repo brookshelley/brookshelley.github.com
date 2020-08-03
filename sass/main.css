@@ -4,7 +4,7 @@
     background-color: #000;
     font: 100% Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
-    line-height: 1.2;
+    line-height: 1.6;
     font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
@@ -22,7 +22,7 @@
     background-color: #F3F2F3;
     font: 100% Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
-    line-height: 1.2;
+    line-height: 1.6;
     font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
@@ -116,7 +116,7 @@ h2 {
   font-size: 20px;
   color: #F3F2F3;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.6;
   margin-bottom: 1em;
   margin-top: .5em; }
 
@@ -161,7 +161,7 @@ ul.flat {
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 0px;
-  line-height: 1; }
+  line-height: 1.2; }
 
 ul.flat li {
   display: inline-grid;
