@@ -13,5 +13,4 @@ Now that I’ve got a new camera, I wanted to start doing more photo walks. I ge
 ![snorri and book](/photos/bored.jpg) 
 ![blue sky](/photos/fence.jpg) 
 ![vinewall](/photos/vinewall.jpg) 
-
-![](/photos/Smallphone.jpg)
+![smallphone](/photos/Smallphone.jpg)
