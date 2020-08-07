@@ -55,19 +55,19 @@ The video, as many other reviewers have stated, isn't very good, but if I want t
 
 ## The specs
 
-| Name | Spec      |
-|-—————|——————|
-| **Resolution**     |   6000 x 4000   |
-| **MP**             |   24               |
-| **Sensor**         |   APS-C            |
-| **Focal length**   |   28mm             |
-| **Aperture**       |   F2.8–16          |
-| **Screen size**    |  3”               |
-| **Max speed**     |   1/4000 sec       |
-| **Weight**          |   257 g            |
-| **Dimensions**     |  109 x 62 x 33 mm |
-| **Connectors**     |   USB C & hot shoe |
-| **Battery life**.   | Approx. 200 images |
+| Name | Spec |
+|- - - - |- - - -|
+| **Resolution** | 6000 x 4000 |
+| **MP** | 24 |
+| **Sensor** | APS-C |
+| **Focal length**  | 28mm |
+| **Aperture** | F2.8–16 |
+| **Screen size** | 3” |
+| **Max speed** | 1/4000 sec |
+| **Weight** | 257 g |
+| **Dimensions** | 109 x 62 x 33 mm |
+| **Connectors** | USB C & hot shoe |
+| **Battery life** | Approx. 200 images |
 
 [If you want more *specs*](http://www.ricoh-imaging.co.jp/english/products/gr-3/spec/index.html).
 
