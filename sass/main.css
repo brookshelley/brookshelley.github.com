@@ -314,8 +314,9 @@ ul.flatfoot li {
 .header nav ul.flat li {
   display: inline;
   list-style: none;
-  margin-left: 20px;
+  margin-left: 25px;
   margin-right: 10px;
+  max-width: 100%;
   font-size: clamp(20px, 1.4vw, 22px); }
 
 .section .section-header {
