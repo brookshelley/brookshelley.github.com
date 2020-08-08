@@ -94,7 +94,7 @@ img {
   float: left; }
 
 hr, .header nav, .footer {
-  max-width: 760px;
+  max-width: 800px;
   margin-bottom: 10px;
   text-align: center; }
 
@@ -173,7 +173,7 @@ ul.flat li {
 ul.flatfoot li {
   font-size: 14px;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
   background-color: #222; }
@@ -306,7 +306,7 @@ ul.flatfoot li {
 .header nav ul.flat li {
   display: inline;
   list-style: none;
-  margin-left: 25px;
+  margin-left: 20px;
   margin-right: 10px;
   font-size: clamp(20px, 1.4vw, 22px); }
 
