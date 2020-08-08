@@ -6,6 +6,7 @@
     font-weight: 200;
     line-height: 1.5;
     font-size: clamp(18px, 1.4vw, 22px);
+    max-width: 100%;
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -23,6 +24,7 @@
     font: 100% Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 1.5;
+    max-width: 100%;
     font-size: clamp(18px, 1.4vw, 22px);
     overflow-x: hidden; }
   .site-title a {
@@ -35,13 +37,13 @@
     margin-bottom: 1px; } }
 
 .container {
-  max-width: 100%; 
-  overflow-x: hidden; }
+  max-width: 100%; }
 
 .markdown {
   margin-left: 10px;
   margin-right: 10px;
-  font-weight: 200; }
+  font-weight: 200; 
+  max-width: 100%; }
 
 b, strong {
   font-weight: heavy; }
