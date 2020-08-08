@@ -102,7 +102,8 @@ img {
 hr, .header nav, .footer {
   max-width: 100%;
   margin-bottom: 5px;
-  text-align: center; }
+  margin-left: 10px;
+  text-align: left; }
 
 h1, h2, h3 {
   color: #603ad0;
@@ -133,13 +134,15 @@ h3 {
 
 .archive {
   margin-top: 0px;
-  text-align: center;
+  margin-left: 10px;
+  text-align: left;
   line-height: 1;
   width: 100%; }
 
 .archive-post a, li {
   text-align: left;
-  font-size: 14px;
+  font-size: clamp(18px, 1.4vw, 22px);
+  font-weight: 300;
   margin-left: 0px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -244,13 +247,13 @@ ul.flatfoot li {
 
 .archive-meta {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 14px;
+  font-size: clamp(12px, 1.4vw, 20px);
   color: #888;
-  margin-left: 0px;
+  margin-left: 10px;
   margin-right: 0px;
   padding-right: 0px;
   float: left;
-  width: 100px; }
+  width: 15%;; }
 
 .post-tags .tags a {
   margin-left: 10px;
