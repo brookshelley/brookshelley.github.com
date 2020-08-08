@@ -264,7 +264,7 @@ ul.flatfoot li {
   float: left;
   margin-right: 0px;
   margin-bottom: 25px;
-  width: 15%;
+  max-width: 15%;
   font-size: clamp(10px, 1.4vw, 20px); }
 
 .blogtitle {
@@ -274,7 +274,7 @@ ul.flatfoot li {
   margin-right: 0px;
   display: block;
   word-wrap: normal;
-  width: 100%; }
+  max-width: 85%; }
 
 .description {
   font-size: clamp(12px, 1.4vw, 20px);
