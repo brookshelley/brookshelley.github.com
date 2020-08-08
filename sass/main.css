@@ -36,6 +36,10 @@
     padding-top: 30px;
     margin-bottom: 1px; } }
 
+html {
+  max-width: 100%;
+  overflow-x: hidden; }
+
 .container {
   max-width: 100%; }
 
