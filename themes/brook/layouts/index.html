@@ -14,15 +14,11 @@
 				<div class="meta">
 					<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
 					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
-					<!--p class="description">{{.Description}}</p-->
 				</div>
 				{{ end }}
 			</div>
 		</div>
-		<!--div class="paginate">
-			{{ template "partials/paginator.html" . }}</div>
-		<div-->
-			<h2 class="archive"><a href="/posts">archive</a></h2>
+	    <h2><a href="/posts">archive</a></h2>
 		</div>
 		{{ partialCached "footer.html" . }}
 	</div>
