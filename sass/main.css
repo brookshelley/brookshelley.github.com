@@ -6,7 +6,8 @@
     font-weight: 200;
     line-height: 1.5;
     font-size: clamp(18px, 1.4vw, 22px);
-    max-width: 100%; }
+    max-width: 100%;
+    overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #fff;
@@ -36,8 +37,7 @@
     margin-bottom: 1px; } }
 
 html {
-  max-width: 100%;
-  overflow-x: hidden; }
+  max-width: 100%; }
 
 .container {
   max-width: 100%; }
@@ -137,7 +137,7 @@ h3 {
   margin-left: 10px;
   text-align: left;
   line-height: 1;
-  width: 100%; }
+  max-width: 100%; }
 
 .archive-post a, li {
   text-align: left;
@@ -220,7 +220,7 @@ ul.flatfoot li {
 
 .post {
   float: left;
-  width: 100%; }
+  max-width: 100%; }
 
 .meta {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -231,29 +231,8 @@ ul.flatfoot li {
   padding-right: 0px;
   margin-bottom: 0px;
   float: left;
-  width: 100%;
+  max-width: 100%;
   display: block; }
-
-.paginate {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px;
-  color: #888;
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-right: 0px;
-  float: left;
-  width: 100%;
-  display: block; }
-
-.archive-meta {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(12px, 1.4vw, 20px);
-  color: #888;
-  margin-left: 10px;
-  margin-right: 0px;
-  padding-right: 0px;
-  float: left;
-  width: 15%; }
 
 .post-tags .tags a {
   margin-left: 10px;
@@ -336,7 +315,7 @@ ul.flatfoot li {
   color: #696969;
   margin-top: 0px;
   max-height: 10px;
-  width: 100%; }
+  max-width: 100%; }
 
 .page-title {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
