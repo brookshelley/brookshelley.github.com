@@ -127,7 +127,7 @@ h3 {
   color: #603ad0; }
 
 .archive {
-  margin-top: 1px;
+  margin-top: 0px;
   text-align: center;
   line-height: 1;
   float: left;
@@ -135,7 +135,7 @@ h3 {
 
 .archive-post a, li {
   text-align: left;
-  font-size: 16px;
+  font-size: 14px;
   margin-left: 0px;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -145,7 +145,7 @@ h3 {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
-  column-gap: 5px;
+  column-gap: 10px;
   margin-bottom: 10px; }
 
 ul {
@@ -175,6 +175,7 @@ ul.flatfoot li {
   font-size: 14px;
   text-align: center;
   margin-top: 0px;
+  margin-bottom: 0px;
   margin-left: 5px;
   margin-right: 5px;
   background-color: #222; }
