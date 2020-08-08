@@ -1,10 +1,10 @@
 ---
 layout: micropubpost
 date: '2020-08-07T23:03:37.113Z'
-title: A few weeks with a GR III
+title: A GR III review
 mf-post-status:
   - draft
-slug: a-few-weeks-with-a
+slug: 
 lang: en
 ---
 ## A street photography camera for empty streets
