@@ -17,7 +17,7 @@
 			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 			{{- else -}}
 			<div class="archive-post">
-					<span class="archive-meta">{{ dateFormat "02 Jan 06" .Date }}</span><a href="{{ .RelPermalink }}">{{.Title}}</a>
+					<div class="archive-meta">{{ dateFormat "02 Jan 06" .Date }}</div><a href="{{ .RelPermalink }}">{{.Title}}</a>
 			</div>
 			{{- end -}}
 			{{- end -}}
