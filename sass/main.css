@@ -35,7 +35,8 @@
     margin-bottom: 1px; } }
 
 .container {
-  max-width: 100%; }
+  max-width: 100%;
+  overflow-x: hidden; }
 
 .markdown {
   margin-left: 10px;
