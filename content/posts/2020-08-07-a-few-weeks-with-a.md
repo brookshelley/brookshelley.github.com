@@ -62,7 +62,7 @@ The video, as many other reviewers have stated, isn't very good, but if I want t
 ## The specs
 
 | Name | Spec |
-|:--- |:--- |
+|:--- | --- :|
 | **Resolution** | 6000 x 4000 |
 | **MP** | 24 |
 | **Sensor** | APS-C |
