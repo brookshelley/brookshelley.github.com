@@ -12,16 +12,16 @@
 		<h1>archive</h1>
 		{{ end }}
 
-		<ul class="archive-columns">
+		<div class="posts">
 			{{- range .Pages -}}
 			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
 			{{- else -}}
-			<li class="archive-post">
-					<span class="archive-meta">{{ dateFormat "02 Jan 06" .Date }}</span><br /><a href="{{ .RelPermalink }}">{{.Title}}</a>
-			</li>
+			<div class="archive-post">
+					<span class="archive-meta">{{ dateFormat "02 Jan 06" .Date }}</span><a href="{{ .RelPermalink }}">{{.Title}}</a>
+			</div>
 			{{- end -}}
 			{{- end -}}
-		</ul>
+		</div>
 			{{ partialCached "footer.html" . }}
 	</div>
 
