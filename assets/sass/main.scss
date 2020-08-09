@@ -253,13 +253,8 @@ color: $dark; }
 .blogdate {
 display: block;
 float: left;
-<<<<<<< HEAD
-margin-right: 0px;
 margin-bottom: 15px;
-=======
-margin-right: 2px;
-margin-bottom: 20px;
->>>>>>> 750f3724174e881d9741e0af024e603d7a77cbb4
+margin-right: 5px;
 width: 15%;
 font-size: $font-s; }
 
@@ -282,10 +277,7 @@ float: left; }
 font-size: $font-default; }
 
 .wrapper {
-<<<<<<< HEAD
 max-width: $spacing-max-width;
-=======
->>>>>>> 750f3724174e881d9741e0af024e603d7a77cbb4
 margin: 0 auto; }
 
 .header h1 {
