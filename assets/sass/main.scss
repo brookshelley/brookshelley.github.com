@@ -115,9 +115,11 @@ margin-left: 10px;
 margin-right: 10px; }
 
 img {
-margin: 10px auto;
+margin: 0px auto;
+margin-top: 10px
+margin-bottom: 10px;
 display: block;
-max-width: 95%;
+max-width: 100%;
 height: auto; }
 
 .logo {
