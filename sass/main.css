@@ -50,7 +50,7 @@
 
 /*elements*/
 .container {
-  max-width: 100%; }
+  max-width: 800px; }
 
 .markdown {
   margin-left: 10px;
@@ -125,8 +125,8 @@ h1 {
   font-size: 22px;
   font-weight: 500;
   margin-left: 10px;
-  margin-top: 2.5em;
-  margin-bottom: 2em; }
+  margin-top: 2em;
+  margin-bottom: 1.5em; }
 
 h2 {
   font-size: 18px;
@@ -232,8 +232,7 @@ ul.flat {
   margin-left: 5px;
   margin-right: 0px;
   display: block;
-  word-wrap: normal;
-  width: 100%; }
+  word-wrap: normal; }
 
 .description {
   font-size: 16px;
@@ -246,7 +245,6 @@ ul.flat {
   font-size: 18px; }
 
 .wrapper {
-  max-width: 800px;
   margin: 0 auto; }
 
 .header h1 {
