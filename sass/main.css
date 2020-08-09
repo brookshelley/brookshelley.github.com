@@ -278,7 +278,7 @@ ul.flat {
 nav ul.flat li {
   display: inline;
   list-style: none;
-  margin-left: 5px;
+  margin-left: 10px;
   margin-right: 15px;
   max-width: 100%;
   font-size: 22px; }
