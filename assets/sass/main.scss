@@ -3,7 +3,7 @@
  --------*/
  
  /*fonts*/
-$spacing-max-width: 49rem;
+$spacing-max-width: 700;
 $font-body: Garamond, Georgia, Times, Times New Roman, serif;
 $font-title: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $font-default: 18px;
@@ -67,6 +67,14 @@ $selection: #8f75de;
       margin-bottom: 1px; } 
     h2 {
       color: $accent; }}
+      
+@media (min-width: 800px){
+  $font-default: 16px;
+  $font-s: 14px;
+  $font-l: 20px;
+  $font-xl: 35px;
+  $font-line-height: 22px;
+}
       
 /*elements*/
 
@@ -247,7 +255,7 @@ color: $dark; }
 display: block;
 float: left;
 margin-right: 0px;
-margin-bottom: 25px;
+margin-bottom: 15px;
 width: 15%;
 font-size: $font-s; }
 
@@ -271,7 +279,7 @@ float: left; }
 font-size: $font-default; }
 
 .wrapper {
-max-width: 800px;
+max-width: $spacing-max-width;
 margin: 0 auto; }
 
 .header h1 {
