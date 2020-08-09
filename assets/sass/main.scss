@@ -3,7 +3,7 @@
  --------*/
  
  /*fonts*/
-$spacing-max-width: 700;
+$spacing-max-width: 40;
 $font-body: Garamond, Georgia, Times, Times New Roman, serif;
 $font-title: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $font-default: 18px;
@@ -74,8 +74,9 @@ $selection: #8f75de;
   $font-l: 20px;
   $font-xl: 35px;
   $font-line-height: 22px;
+  $spacing-max-width: 17;
 }
-      
+
 /*elements*/
   
 .container {
