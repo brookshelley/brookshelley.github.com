@@ -94,9 +94,11 @@ hr {
   margin-right: 10px; }
 
 img {
-  margin: 10px auto;
+  margin: 0px auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
   display: block;
-  max-width: 95%;
+  max-width: 100%;
   height: auto; }
 
 .logo {
@@ -196,7 +198,7 @@ ul.flat {
   max-width: 100%; }
 
 .posts .list {
-  margin-top: 2.5em; }
+  margin-top: 2em; }
 
 .post {
   float: left;
@@ -221,8 +223,8 @@ ul.flat {
 .blogdate {
   display: block;
   float: left;
-  margin-right: 0px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
+  margin-right: 5px;
   width: 15%;
   font-size: 16px; }
 
@@ -245,6 +247,7 @@ ul.flat {
   font-size: 18px; }
 
 .wrapper {
+  max-width: 700;
   margin: 0 auto; }
 
 .header h1 {
