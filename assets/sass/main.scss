@@ -1,81 +1,99 @@
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #F3F2F3;
-    background-color: #000;
-    font: 100% Garamond, Georgia, Times, Times New Roman, serif;
-    font-weight: 200;
-    line-height: 1.5;
-    font-size: clamp(18px, 1.4vw, 22px);
-    max-width: 100%;
-    overflow-x: hidden; }
-  .site-title a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    color: #fff;
-    text-decoration: none;
-    font-size: 26px;
-    margin-left: 0px;
-    padding-top: 30px;
-    margin-bottom: 1px; } }
-
-@media (prefers-color-scheme: light) {
-  body {
-    color: #404040;
-    background-color: #F3F2F3;
-    font: 100% Garamond, Georgia, Times, Times New Roman, serif;
-    font-weight: 200;
-    line-height: 1.5;
-    max-width: 100%;
-    font-size: clamp(18px, 1.4vw, 22px);
-    overflow-x: hidden; }
-  .site-title a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    color: #603ad0;
-    text-decoration: none;
-    font-size: 28px;
-    margin-left: 0px;
-    padding-top: 30px;
-    margin-bottom: 1px; } }
+/*--------
+ Variables 
+ --------*/
+ 
+:root {
+  --spacing-max-width: 49rem;
+  --font-body: Garamond, Georgia, Times, Times New Roman, serif;
+  --font-title: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+ 
+ /* Colors */
 
 html {
-  max-width: 100%; }
+  --color-base: #404040;
+  --color-bg: snow;
+  --color-accent: #603ad0;
+  --color-selection: #8f75de;
+}
 
+/* Dark Mode Colors */
+@media screen and (prefers-color-scheme: dark) {
+  html {
+    --color-base: snow;
+    --color-bg: #000;
+    --color-accent: #603ad0;
+  }
+}
+
+:root {
+    --font-default: 18px;
+    --font-s: 16px;
+    --font-l: 20px;
+    --font-line-height: 28px;
+}
+
+@media (min-width: 1400px) {
+  :root {
+    --font-default: 19px;
+    --font-s: 17px;
+    --font-l: 24px;
+    --font-line-height: 30px;
+  }
+}
+
+html {
+  font-family: var(--font-body);
+  font-weight: 200;
+  line-height: 1.5;
+}
+
+  body {
+    color: var(--color-base);
+    background-color: var(--color-base);
+    font-size: var(--font-default);
+    max-width: max-width: var(--spacing-max-width);
+    overflow-x: hidden; }
+  .site-title a {
+    font-family: var(--font-title)
+    color: var(--color-accent);
+    text-decoration: none;
+    font-size: var(--font-l);
+    margin-left: 0px;
+    padding-top: 30px;
+    margin-bottom: 1px; } }
+    
 .container {
   max-width: 100%; }
 
 .markdown {
   margin-left: 10px;
   margin-right: 10px;
-  font-weight: 200; 
-  max-width: 100%; }
+  font-weight: 200; }
 
 b, strong {
   font-weight: heavy; }
 
-i {
-  font-weight: 200; }
-
 a {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #603ad0;
+  font-family: var(font-title);
+  color: var(--color-accent);
   text-decoration: none;
   font-weight: 500; }
 
 a:hover {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #8f75de; }
+  color: var(--color-selection); }
 
 .active {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #8f75de; }
+  color: var(--color-selection); }
 
 html, button, input, select, textarea {
-  color: #8f75de; }
+  color: var(--color-selection); }
 
 ::-moz-selection {
-  color: #8f75de; }
+  color: var(--color-selection); }
 
 ::selection {
-  color: #8f75de; }
+  color: var(--color-selection); }
 
 hr {
   display: block;
@@ -106,31 +124,26 @@ hr, .header nav, .footer {
   text-align: left; }
 
 h1, h2, h3 {
-  color: #603ad0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px; }
+  color: var(--color-accent);
+  font-family: var(--font-title);
+  font-size: var(--font-default); }
 
 h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 22px;
+  font-size: var(--font-l);
   font-weight: 500;
   margin-left: 10px;
   margin-top: 2.7em;
   margin-bottom: 2.5em; }
 
-h2 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 20px;
-  color: #F3F2F3;
+h2, h3{
+  font-size: var(--font-default);
   font-weight: 500;
   line-height: 1.5;
   margin-bottom: 1em;
   margin-top: .5em; }
 
 h3 {
-  margin-bottom: 5px;
-  font-weight: 500;
-  color: #603ad0; }
+  margin-bottom: 5px; }
 
 .archive {
   margin-top: 0px;
@@ -141,19 +154,12 @@ h3 {
 
 .archive-post a, li {
   text-align: left;
-  font-size: clamp(18px, 1.4vw, 22px);
+  font-size: var(--font-default);
   font-weight: 300;
   margin-left: 0px;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-weight: 300px; }
-
-.archive-columns {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-  column-gap: 10px;
-  margin-bottom: 10px; }
+  font-weight: 300; }
 
 ul {
   list-style: disc;
@@ -173,13 +179,13 @@ ul.flat {
   line-height: 1.2; }
   ul.flat li {
     display: inline-grid;
-    font-size: 18px;
+    font-size: var(--font-default);
     list-style: none;
     margin-right: 5px;
     margin-left: 5px; }
 
 ul.flatfoot li {
-  font-size: 14px;
+  font-size: var(--font-s);
   text-align: center;
   margin-top: 0px;
   margin-bottom: 0px;
