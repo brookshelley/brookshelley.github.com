@@ -12,7 +12,7 @@
     font-weight: 200;
     line-height: 24px;
     font-size: 18px;
-    max-width: 100%;
+    max-width: 95%;
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -34,7 +34,7 @@
     font: Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 24px;
-    max-width: 100%;
+    max-width: 95%;
     font-size: 18px;
     overflow-x: hidden; }
   .site-title a {
@@ -222,10 +222,9 @@ ul.flat {
 
 .blogdate {
   display: block;
+  min-width: 80px;
   float: left;
   margin-bottom: 15px;
-  margin-right: 5px;
-  width: 15%;
   font-size: 16px; }
 
 .blogtitle {
