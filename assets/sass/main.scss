@@ -11,6 +11,7 @@ $font-s: 16px;
 $font-l: 22px;
 $font-xl: 37px;
 $font-line-height: 24px;
+$date-width: 15%;
 
 /*colors*/
 $dark-bg: #000;
@@ -69,12 +70,15 @@ $selection: #8f75de;
       color: $accent; }}
       
 @media (min-width: 400px){
+  body {
   $font-default: 16px;
   $font-s: 14px;
   $font-l: 20px;
   $font-xl: 35px;
   $font-line-height: 22px;
   $spacing-max-width: 17;
+  $date-width: 20%;
+  }
 }
 
 /*elements*/
@@ -256,7 +260,7 @@ display: block;
 float: left;
 margin-bottom: 15px;
 margin-right: 5px;
-width: 20%;
+width: $date-width;
 font-size: $font-s; }
 
 .blogtitle {
