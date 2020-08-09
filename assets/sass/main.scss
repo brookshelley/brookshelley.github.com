@@ -68,7 +68,14 @@ $selection: #8f75de;
       margin-bottom: 1px; } 
     h2 {
       color: $accent; }}
-      
+    
+    
+@media (min-width: 1400px){
+  body {
+    $date-width: 10%;
+  }
+}      
+
 @media (min-width: 400px){
   body {
   $font-default: 16px;
