@@ -69,9 +69,6 @@ $selection: #8f75de;
       color: $accent; }}
       
 /*elements*/
-
-html {
-  max-width: 100%; }
   
 .container {
 max-width: 100%; }
@@ -168,7 +165,7 @@ margin-left: 10px;
 text-align: left;
 line-height: $font-line-height;
 float: left;
-width: 100%; }
+max-width: 100%; }
 
 .archive-post a, li {
 text-align: left;
