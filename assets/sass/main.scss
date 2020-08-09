@@ -11,7 +11,6 @@ $font-s: 16px;
 $font-l: 22px;
 $font-xl: 37px;
 $font-line-height: 24px;
-$date-width: 15%;
 
 /*colors*/
 $dark-bg: #000;
@@ -31,7 +30,7 @@ $selection: #8f75de;
     font-weight: 200;
     line-height: $font-line-height;
     font-size: $font-default;
-    max-width: 100%;
+    max-width: 95%;
     overflow-x: hidden; }
     .site-title a {
       font-family: $font-title;
@@ -55,7 +54,7 @@ $selection: #8f75de;
     font: $font-body;
     font-weight: 200;
     line-height: $font-line-height;
-    max-width: 100%;
+    max-width: 95%;
     font-size: $font-default;
     overflow-x: hidden; }
     .site-title a {
@@ -69,24 +68,15 @@ $selection: #8f75de;
     h2 {
       color: $accent; }}
     
-    
-@media (min-width: 1400px){
-  body {
-    $date-width: 10%;
-  }
-}      
 
-@media (min-width: 400px){
-  body {
+@media (min-width: 300px){
+  :root {
   $font-default: 16px;
   $font-s: 14px;
   $font-l: 20px;
   $font-xl: 35px;
   $font-line-height: 22px;
-  $spacing-max-width: 17;
-  $date-width: 20%;
-  }
-}
+  $spacing-max-width: 17; }}
 
 /*elements*/
   
@@ -264,10 +254,9 @@ color: $dark; }
 
 .blogdate {
 display: block;
+min-width: 80px;
 float: left;
 margin-bottom: 15px;
-margin-right: 5px;
-width: $date-width;
 font-size: $font-s; }
 
 .blogtitle {

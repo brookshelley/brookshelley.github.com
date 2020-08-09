@@ -12,7 +12,7 @@
     font-weight: 200;
     line-height: 24px;
     font-size: 18px;
-    max-width: 100%;
+    max-width: 95%;
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -34,7 +34,7 @@
     font: Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 24px;
-    max-width: 100%;
+    max-width: 95%;
     font-size: 18px;
     overflow-x: hidden; }
   .site-title a {
@@ -49,11 +49,8 @@
     color: #603ad0; } }
 
 /*elements*/
-html {
-  max-width: 100%; }
-
 .container {
-  max-width: 100%; }
+  max-width: 800px; }
 
 .markdown {
   margin-left: 10px;
@@ -97,9 +94,11 @@ hr {
   margin-right: 10px; }
 
 img {
-  margin: 15px auto;
+  margin: 0px auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
   display: block;
-  max-width: 95%;
+  max-width: 100%;
   height: auto; }
 
 .logo {
@@ -128,8 +127,8 @@ h1 {
   font-size: 22px;
   font-weight: 500;
   margin-left: 10px;
-  margin-top: 2.7em;
-  margin-bottom: 2.5em; }
+  margin-top: 2em;
+  margin-bottom: 1.5em; }
 
 h2 {
   font-size: 18px;
@@ -147,7 +146,7 @@ h3 {
   text-align: left;
   line-height: 24px;
   float: left;
-  width: 100%; }
+  max-width: 100%; }
 
 .archive-post a, li {
   text-align: left;
@@ -163,7 +162,7 @@ ul {
   margin: 0px auto; }
 
 li {
-  margin-left: 2px;
+  margin-left: 5px;
   margin-right: 0px;
   margin-bottom: 5px; }
 
@@ -199,7 +198,7 @@ ul.flat {
   max-width: 100%; }
 
 .posts .list {
-  margin-top: 2.5em; }
+  margin-top: 2em; }
 
 .post {
   float: left;
@@ -223,20 +222,18 @@ ul.flat {
 
 .blogdate {
   display: block;
+  min-width: 80px;
   float: left;
-  margin-right: 0px;
-  margin-bottom: 25px;
-  width: 15%;
+  margin-bottom: 15px;
   font-size: 16px; }
 
 .blogtitle {
   font-weight: 300;
   font-size: 18px;
-  margin-left: 0px;
+  margin-left: 5px;
   margin-right: 0px;
   display: block;
-  word-wrap: normal;
-  width: 100%; }
+  word-wrap: normal; }
 
 .description {
   font-size: 16px;
@@ -249,7 +246,7 @@ ul.flat {
   font-size: 18px; }
 
 .wrapper {
-  max-width: 800px;
+  max-width: 40;
   margin: 0 auto; }
 
 .header h1 {
@@ -278,8 +275,8 @@ ul.flat {
 nav ul.flat li {
   display: inline;
   list-style: none;
-  margin-left: 25px;
-  margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 15px;
   max-width: 100%;
   font-size: 22px; }
 
