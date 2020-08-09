@@ -71,7 +71,7 @@ $selection: #8f75de;
 /*elements*/
   
 .container {
-max-width: 100%; }
+max-width: 800px; }
 
 .markdown {
   margin-left: 10px;
@@ -146,8 +146,8 @@ color: $accent;
 font-size: $font-l;
 font-weight: 500;
 margin-left: 10px;
-margin-top: 2.5em;
-margin-bottom: 2em; }
+margin-top: 2em;
+margin-bottom: 1.5em; }
 
 h2 {
 font-size: $font-default;
@@ -254,8 +254,7 @@ font-size: $font-default;
 margin-left: 5px;
 margin-right: 0px;
 display: block;
-word-wrap: normal;
-width: 100%; }
+word-wrap: normal;}
 
 .description {
 font-size: $font-s;
@@ -268,7 +267,6 @@ float: left; }
 font-size: $font-default; }
 
 .wrapper {
-max-width: 800px;
 margin: 0 auto; }
 
 .header h1 {
