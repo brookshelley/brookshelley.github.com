@@ -12,7 +12,7 @@
 		<h1>archive</h1>
 		{{ end }}
 		<div class="posts">
-		<div class="post">
+		  <div class="post">
 			{{- range .Pages -}}
 			<div class="meta">
 				<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
@@ -21,7 +21,7 @@
 			</div>
 
 			{{- end -}}
-		</div>
+		  </div>
 		</div>
 			{{ partialCached "footer.html" . }}
 	</div>

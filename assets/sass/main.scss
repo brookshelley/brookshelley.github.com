@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*--------
  Variables 
  --------*/
@@ -150,6 +151,7 @@ h3 {
   margin-left: 10px;
   text-align: left;
   line-height: 1;
+  float: left;
   width: 100%; }
 
 .archive-post a, li {
@@ -225,8 +227,7 @@ ul.flatfoot li {
 }
 
 .post {
-  float: left;
-  width: 100%; }
+  float: left; }  
 
 .meta {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -240,27 +241,6 @@ ul.flatfoot li {
   width: 100%;
   display: block; }
 
-.paginate {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px;
-  color: #888;
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-right: 0px;
-  float: left;
-  width: 100%;
-  display: block; }
-
-.archive-meta {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(12px, 1.4vw, 20px);
-  color: #888;
-  margin-left: 10px;
-  margin-right: 0px;
-  padding-right: 0px;
-  float: left;
-  width: 15%;; }
-
 .post-tags .tags a {
   margin-left: 10px;
   color: #ddd; }
@@ -271,11 +251,11 @@ ul.flatfoot li {
   margin-right: 0px;
   margin-bottom: 25px;
   width: 15%;
-  font-size: clamp(12px, 1.4vw, 20px); }
+  font-size: var(font-s); }
 
 .blogtitle {
   font-weight: 300;
-  font-size: clamp(18px, 1.4vw, 22px);
+  font-size: var(--font-default);
   margin-left: 0px;
   margin-right: 0px;
   display: block;
@@ -283,7 +263,7 @@ ul.flatfoot li {
   width: 100%; }
   
 .description {
-  font-size: clamp(12px, 1.4vw, 20px);
+  font-size: var(--font-s);
   margin-left: 0px;
   margin-right: 5px;
   display: block;
@@ -298,21 +278,21 @@ ul.flatfoot li {
   margin: 0 auto; }
 
 .header h1 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 22px); 
+  font-family: var(--font-title);
+  font-size: var(--font-l); 
   margin-right: 0px;
   margin-bottom: -1em;
   margin-top: 1.5em;}
 
 .header h2 {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-title);
+  font-size: var(--font-default);
   margin: 0;
   padding: 0;
-  font-size: clamp(20px, 1.4vw, 22px);
   line-height: 1.4rem; }
 
 .header nav {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-title);
   text-align: left;
   margin-top: 0px;
   margin-left: 62px;
@@ -325,12 +305,11 @@ ul.flatfoot li {
   list-style: none;
   margin-left: 25px;
   margin-right: 10px;
-  max-width: 100%;
-  font-size: clamp(20px, 1.4vw, 22px); }
+  font-size: var(--font-l); }
 
 .section .section-header {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: clamp(20px, 1.4vw, 22px);
+  font-family: var(--font-title);
+  font-size: var(--font-l);
   font-weight: 500;
   text-transform: uppercase;
   color: #999;
@@ -338,35 +317,14 @@ ul.flatfoot li {
   letter-spacing: 1px; }
 
 .footer {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-title);
   font-size: 0.75em;
   color: #696969;
   margin-top: 0px;
   max-height: 10px;
-  width: 100%; }
+  width: 100%;
+  float: left; }
 
 .page-title {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-title);
   margin-bottom: 0px; }
-
-.pagination {
-  margin: 0;
-  padding: 0;
-  text-align: left;
-  display: flex;
-  justify-content: space-between; }
-  .pagination li {
-    list-style: none;
-    display: inline-block;
-    margin: 0;
-    padding: 0; }
-  .pagination .page-prev {
-    margin-right: 10px;
-    margin-left: 15px;
-    padding-right: 10px;
-    margin-top: 10px;
-    text-align: left; }
-  .pagination .page-item.page-next {
-    text-align: right;
-    margin-right: 15px;
-    margin-top: 10px; }
