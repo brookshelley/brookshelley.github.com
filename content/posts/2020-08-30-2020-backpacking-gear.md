@@ -17,12 +17,12 @@ Thus began my list:
 
 ## Shelter
 ![nemo](/photos/nemo.jpg) 
-nemo
+
 * 1275.72g [Nemo Dragonfly](https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/nemo-dragonfly-2)
     
     This is a new addition to my list, but so far it seems neat, albeit very small. If I needed to spend extended time in a tent, I’d probably want something larger, but for a spot to sleep I think this will do just fine. I replaced the stakes with 60g of [MSR groundhog stakes](https://www.msrgear.com/tents/tent-accessories/groundhog-tent-stakes/05807.html).
-![nemopacked](/photos/nemopacked) 
-nemopacked
+![nemopacked](/photos/nemopacked.jpg) 
+
 * 60g [MSR Groundhog tent stakes](https://www.msrgear.com/tents/tent-accessories/groundhog-tent-stakes/05807.html)
     
     Dependable light stakes. I’ve bent one of these only once when applying my full body weight through my foot into hard ground. In most cases this is very chill. I’ll probably dig a hole in the future, or possibly not even use stakes depending on the setup.
@@ -37,12 +37,12 @@ nemopacked
     
     This is a big comfort upgrade over my Z-Packs folding mat, even though it’s definitely more annoying to blow up and deflate. I sleep on my side often, so I like knowing I can adjust this a bit to facilitate that instead of basically sleeping on a thin foam cover over bits of rock. I might try bringing the inflation sack to save my lungs, and maybe I’ll store clothes in it or something in the meantime.
 ![inside Nemo](/photos/nemoinside.jpg) 
-inside Nemo
+
 ### Weight: 2130.73
 
 ## Bag
 ![hyperlite](/photos/hyperlitebag.jpg) 
-hyperlite
+
 * 904g [Hyperlite Mountain Gear Junction 2400](https://www.hyperlitemountaingear.com/products/2400-junction)
     
     This bag is outstanding. It’s so, so light, while still being incredibly tough, and roomy. It’s rated at 40L, but seems absolutely to be an endless bag of holding. I love that it has waist pockets for snacks, and a few webbing loops on the shoulder straps for a water bottle or a phone or camera.
@@ -51,7 +51,7 @@ hyperlite
 
 ## Food
 ![cooking system](/photos/cookingsystem.jpg) 
-cooking system
+
 * 72g [Toaks titanium pot](https://www.toaksoutdoor.com/collections/frontpage/products/pot-550-l)
     
     Another new addition. Up until now I used the terra system that came with my crux lite, but never used both pots. I can’t fit my fuel and my stove inside with the lid, but that’s totally fine. I love that I can easily use this as a mug too.
@@ -74,7 +74,7 @@ cooking system
 
 ## Electronics
 ![tech gear and other accessories](/photos/assortedcamp.jpg) 
-tech gear and other accessories
+
 * 188g [Kindle Oasis](https://bookriot.com/amazon-kindle-oasis-review/)
     
     My entire library can camp with me without adding bulk or weight. Plus, it’s waterproof!
@@ -101,7 +101,7 @@ tech gear and other accessories
     
     A recent trip was my first time using this cloth, and largely it ruled! My one big mistake was getting a little too much camp soap on it, and having to wash it for a while to remove the soap. I think I can probably safely avoid soap for a couple days, and just wash it off with water.
 ![befree bag](/photos/befree.jpg) 
-befree bag
+
 * 70g [Katadyn BeFree bottle with filter](https://www.katadyn.com/us/us/14946-8019639-katadyn-beefree-0.6L_usa)
     
     This water filter sack is outstanding. The flow rate is super fast and the entire setup is light AF. I also picked-up a 3L version of the same setup for group camping or if I think I’ll be away from water sources for longer.
