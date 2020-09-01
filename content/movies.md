@@ -6,6 +6,53 @@ type: page
 
 ## 2020 {#2020}
 
+## Movies
+
+**Violent Cop**
+
+This is a rewatch, but I think it’s been at least 15 years since this first time I saw it. Beat Takeshi is a treasure. This movie is delightfully filmed. I kinda love the 80s Japanese film look, which is more reminiscent of TV than film. A classic
+
+**An Evening with Beverly Luff Linn**
+
+I hope folks had fun making this movie... it felt like everyone was trying a little to hard. This felt like an extended Tim & Eric skit. Everything was just off.
+
+**Sputnik**
+
+I thought this would take place in space, but it’s mostly a fairly tight alien captive story. Enjoyable but not too wild or original.
+
+**The Rental**
+
+Ok, I’m glad I don’t have to stay in any Airbnbs soon after seeing this creepy movie. Whether it’s spycams, or the slow dawning realization that someone is watching, the way the vacation unfolds in this film is super scary.
+
+**Alien: Covenant**
+
+Ah, I love this ridiculous sequel to Prometheus. I think it captures the creeping horror of Alien and Aliens quite well, and is chock full of cool actors. I hope Scott keeps making solid Alien films for a while to come.
+
+**Contact**
+
+Still liked this movie, but the weird romance plot was uncomfortable AF. 
+Also the way religion tied into it was hamfisted.
+
+**2:22**
+
+Watched this so I can enjoy this week’s How Did This Get Made. It wasn’t great, and tried a little too hard to be clever without actually being entertaining.
+
+**John Wick 1-3**
+
+Rewatched all the John Wick movies out of a desire for action and style, and they delivered. This series isn’t super substantive, but it’s an action movie smorgasbord.
+
+**Prometheus**
+
+A deeply satisfying addition to the Alien canon. I’ve watched this move a number of times, and it continues to thrill me. 
+
+**Barista**
+
+I don’t watch a lot of documentaries, but this was pretty fun if a little telegraphed. The only downside to this film is now I want coffee, but it’s 1130pm.
+
+**Ride Your Wave**
+
+The creator of Devilman Crybaby and The Tatami Galaxy made a really delightful anime about adulthood and love. It was gorgeous and pretty touching, even if it made me really wish I could fly somewhere again. There’s also a weird parallel between this show and every season of Terrace House: namely there’s surfing, and firefighters.
+
 **Money Plane**
 
 A true piece of crap. Everyone in this film seemed like they mostly work on Cinemax soft core films.

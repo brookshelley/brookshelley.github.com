@@ -4,7 +4,33 @@ draft: false
 type: page
 ---
 
-## 2020: 37 books {#2020}
+## 2020: 43 books {#2020}
+
+## Books
+
+**Hard Boiled Wonderland and the End of the World** — Haruki Murakami
+
+An excellent reread, though Murakami is pretty bad at talking about women.
+
+**Goldilocks** — Laura Lam
+
+A little too real at times, this pairs well with Emergency Skin. I think my only complaint was the flashbacks went on a little too long, which slowed down the tension of the present-day story. Mostly I really dug this though.
+
+**Harrow the Ninth** — Tamsyn Muir
+
+For a book that was maddeningly confusing for almost its length, I loved it. I literally could not put it down and read the whole thing largely in one go. Beautiful, bizarre, and baffling. I cannot wait for the third book. More. lesbian. necromancers. in. space. please. Oh and for everyone complaining there wasn't enough Sci-fi in Gideon, this book has malevolent planets AND space stations. So.
+
+**The Ten Thousand Doors of January** — Alix E. Harrow
+
+A fun portal fantasy set in the early 1900s. This was decidedly a YA book, but moved along quickly and had enough fun world building to make me hope for a sequel. I also appreciated the use of alternate worlds to talk a bit more about race, gender, and sexuality, but hoped that would translate a little more into the main characters desires. As always, my throne for more lesbian protagonists. 
+
+**How to be Bored** — Eva Hoffman
+
+I've read a lot of books _kind of_ like over the last few years, and this is one of the better-stated and brief ones out there. If you would like to read a book about attention and enjoyment, this is solid. It's high-minded and well-cited without coming off pompous either.
+
+**The Sorcerer of the Wildeeps** — Kai Ashante Wilson
+
+Ah, I wish there were more good gay fantasy novels. This was brutal, heart-warming, and confusing at various turns. I loved that the language of the book was an AAVE, along with other patois. My hope is that Wilson writes more set in this world of magic and godlike alien technology. 
 
 **Infomacracy** — Malka Older
 
