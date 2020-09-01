@@ -16,6 +16,7 @@ Thus began my list:
 ### Total weight: 3.37kg or 7.44lbs
 
 ## Shelter
+
 ![nemo](/photos/nemo.jpg) 
 
 * 1275.72g [Nemo Dragonfly](https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/nemo-dragonfly-2)
@@ -26,8 +27,9 @@ Thus began my list:
 * 60g [MSR Groundhog tent stakes](https://www.msrgear.com/tents/tent-accessories/groundhog-tent-stakes/05807.html)
     
     Dependable light stakes. I’ve bent one of these only once when applying my full body weight through my foot into hard ground. In most cases this is very chill. I’ll probably dig a hole in the future, or possibly not even use stakes depending on the setup.
-    ![sleep system](/photos/sleepsystem.jpg) 
-    sleep system
+    
+![sleep system](/photos/sleepsystem.jpg) 
+
 
 * 455.01 [Enlightened Equipment Revelation](https://enlightenedequipment.com/revelation-stock/)
     
@@ -41,6 +43,7 @@ Thus began my list:
 ### Weight: 2130.73
 
 ## Bag
+
 ![hyperlite](/photos/hyperlitebag.jpg) 
 
 * 904g [Hyperlite Mountain Gear Junction 2400](https://www.hyperlitemountaingear.com/products/2400-junction)
@@ -50,6 +53,7 @@ Thus began my list:
 ### Weight: 904g
 
 ## Food
+
 ![cooking system](/photos/cookingsystem.jpg) 
 
 * 72g [Toaks titanium pot](https://www.toaksoutdoor.com/collections/frontpage/products/pot-550-l)
@@ -73,6 +77,7 @@ Thus began my list:
 ### Weight: 270g (Terra stoves 471g)
 
 ## Electronics
+
 ![tech gear and other accessories](/photos/assortedcamp.jpg) 
 
 * 188g [Kindle Oasis](https://bookriot.com/amazon-kindle-oasis-review/)
@@ -145,6 +150,12 @@ There’s a straw with the ability to bite to get water, which makes this easy f
 * Merino buff
     
     Works as a hat, a scarf, a temp face cover, and even as a wrap for my improvised pillow that is a bit softer. Love it. I’d resisted getting a buff for years, but frankly, I was a fool.
+    
+![on shoes](/photos/onshoes.jpg)    
+    
+* [On Cloudventure Peak](https://www.on-running.com/en-us/products/cloudventure-peak) shoes
+
+    I’ve never worn hiking shoes or boots on backpacking trips or even to hike—I’ve never even owned any! I picked these up to help mitigate my slippiness on loose terrain, as the last time I went hiking I kept falling down. Hopefully these are comfy and grippy.
 
 * 311g [Teva sandals camp shoes](https://www.teva.com/women-sandals/original-universal/1003987.html?dwvar_1003987_color=CYR#start=3&cgid=women-sandals)
     
