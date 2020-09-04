@@ -7,7 +7,6 @@ mf-post-status:
 slug: hugo-and-i-a-writer
 lang: en
 ---
-# Publishing with Hugo and iA Writer
 
 When I started [writing my blog in earnest again](https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/), I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn&#39;t want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.
 
@@ -15,7 +14,7 @@ When I started [writing my blog in earnest again](https://www.brookshelley.com/p
 
 Originally, I was using Jekyll, as it&#39;s the basic GitHub Pages static site generator, but I fell for the speed and weird Go templating of Hugo. I&#39;ve tested Eleventy and Gatsby as well, but Hugo remains my top pick. I built a custom theme for my site, along with a SASS file that hopefully is organized enough I could do some easy switching around if I get itchy for a redesign.
 
-In order to build my site fast, and ensure it loads super quickly, I moved to system fonts which meant I&#39;ve achieved a delightful 1.0s full-content load time. No matter where or how someone accesses my site, they&#39;re sure to need limited bandwidth and data to read it. 
+In order to build my site fast, and ensure it loads super quickly, I moved to system fonts which meant I&#39;ve achieved a delightful 1.0s full-content load time. No matter where or how someone accesses my site, they&#39;re sure to need limited bandwidth and data to read it.
 
 If you want to read more about Hugo, [their website](https://gohugo.io) is pretty great. You&#39;re also welcome to [creep my repo](https://github.com/brookshelley/brookshelley.github.com), and even fork it to get started yourself. My theme is very basic, but there are a [ton of them](https://themes.gohugo.io) out there to suit most tastes.
 
@@ -78,10 +77,8 @@ I previously covered this with [another post](https://www.brookshelley.com/posts
 
 ## iOS Shortcuts
 
-[My iOS Shortcut flow](https://www.icloud.com/shortcuts/fcea1fc7792a4be7952e9d4ac6e34018) is pretty straightforward, and I snagged a lot of it from other examples online. The only semi-fancy bits are the text-parsing I use to title and build metadata. iOS Shortcuts are kind of a pain-in-the-ass, but once you get used to the weird way of building them semi-visually, they&#39;re pretty powerful. 
+[My iOS Shortcut flow](https://www.icloud.com/shortcuts/fcea1fc7792a4be7952e9d4ac6e34018) is pretty straightforward, and I snagged a lot of it from other examples online. The only semi-fancy bits are the text-parsing I use to title and build metadata. iOS Shortcuts are kind of a pain-in-the-ass, but once you get used to the weird way of building them semi-visually, they&#39;re pretty powerful.
 
 ## Wrap-up
 
 My site has come a long way from when I [started it up again](https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/) three years ago, while leaving [Medium](https://medium.com/@brookshelley) as a platform. Hell, Medium has changed focuses four or five times in that period as well, now going back towards a [customizable blogging place](https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd). I&#39;m pretty happy I set up my own little world of blogging and archiving content, and hopefully with the information above you can do the same if you want.
-
-
