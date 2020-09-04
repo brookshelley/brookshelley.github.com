@@ -1,4 +1,11 @@
-# A Markdown Book Blog
+---
+type: posts
+title: A Markdown Book Blog
+date: 2017-08-01
+tag:
+description: why i made a static book blog 
+categories: blog
+---
 
 ![atom](atom.jpg)
 
