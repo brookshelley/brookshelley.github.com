@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.brookshelley.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 30 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mediadiet</title>
       <link>https://www.brookshelley.com/categories/mediadiet/</link>
@@ -19,6 +15,7 @@
       
       <guid>https://www.brookshelley.com/categories/mediadiet/</guid>
       <description></description>
+      <content:encoded></content:encoded>
     </item>
     
     <item>
@@ -28,6 +25,7 @@
       
       <guid>https://www.brookshelley.com/categories/blog/</guid>
       <description></description>
+      <content:encoded></content:encoded>
     </item>
     
   </channel>

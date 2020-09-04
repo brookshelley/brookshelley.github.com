@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.brookshelley.com/tags/microblog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/microblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home with the boy</title>
       <link>https://www.brookshelley.com/posts/2020-03-25-home-with-the-boy/</link>
@@ -19,6 +15,9 @@
       
       <guid>https://www.brookshelley.com/posts/2020-03-25-home-with-the-boy/</guid>
       <description>Made it home safely and started my California quarantine </description>
+      <content:encoded><p>Made it home safely and started my California quarantine
+<img src="https://www.brookshelley.com/photos/home1.jpg" alt="snorri at home"></p>
+</content:encoded>
     </item>
     
     <item>
@@ -28,6 +27,9 @@
       
       <guid>https://www.brookshelley.com/posts/2020-03-15-space-it-s-the-place-to-be/</guid>
       <description>Welp, time to blast off into self-quarantine.</description>
+      <content:encoded><p>Welp, time to blast off into self-quarantine.</p>
+<p><img src="https://www.brookshelley.com/photos/nasa.jpg" alt="nasa"></p>
+</content:encoded>
     </item>
     
     <item>
@@ -37,6 +39,9 @@
       
       <guid>https://www.brookshelley.com/posts/2020-03-12-micropost-2/</guid>
       <description>That big momo energy</description>
+      <content:encoded><p>That big momo energy</p>
+<p><img src="https://www.brookshelley.com/photos/momo.jpg" alt="momo chuhai"></p>
+</content:encoded>
     </item>
     
     <item>
@@ -47,6 +52,11 @@
       <guid>https://www.brookshelley.com/posts/2020-03-05-micropost-1/</guid>
       <description>This book is great so far! Robin Sloan has posted about it as well.
 Unrelated but holy crap, Devs is very, very good.</description>
+      <content:encoded><p>This book is great so far!
+Robin Sloan has posted about it as well.</p>
+<p><img src="https://www.brookshelley.com/photos/lurkingbook.jpg" alt=""></p>
+<p>Unrelated but holy crap, Devs is very, very good.</p>
+</content:encoded>
     </item>
     
   </channel>
