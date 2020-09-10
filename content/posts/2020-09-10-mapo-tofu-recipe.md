@@ -8,18 +8,18 @@ slug: mapo-tofu-recipe
 lang: en
 ---
 ## Ingredients
-1 lb Pork (or lamb)
-1 package of soft tofu (I like [Mori-Nu](https://www.amazon.com/Mori-Nu-Silken-Tofu-Soft-Ounce/dp/B000LKZ84W/ref=sr_1_2_a_it?ie=UTF8&amp;qid=1490135388&amp;sr=8-2&amp;keywords=silken+tofu)
-20 or so freshly-ground Szechuan peppercorns (packaged is ok)
-Half a cup of red chili &amp; garlic paste
-2 slices of ginger
-2 tablespoons of black bean garlic paste
-2 green onions
-1 package of dashi (or one cup of chicken/fish stock)
-1 tablespoon of soy sauce or tamari
-1 cup of water
-2 tablespoons of rice flour/potato starch
-2 tablespoons of chili oil (any cooking oil will do though)
+- 1 lb Pork (or lamb)
+- 1 package of soft tofu (I like [Mori-Nu](https://www.amazon.com/Mori-Nu-Silken-Tofu-Soft-Ounce/dp/B000LKZ84W/ref=sr_1_2_a_it?ie=UTF8&amp;qid=1490135388&amp;sr=8-2&amp;keywords=silken+tofu)
+- 20 or so freshly-ground Szechuan peppercorns (packaged is ok)
+- Half a cup of red chili &amp; garlic paste
+- 2 slices of ginger (or more)
+- 2 tablespoons of black bean garlic paste
+- 2 green onions
+- 2 tablespoons of dashi powder (or one cup of chicken/fish stock)
+- 1 tablespoon of soy sauce or tamari
+- 1 cup of water
+- 2 tablespoons of rice flour/potato starch
+- 2 tablespoons of chili oil (any cooking oil will do though)
 
 ## The story
 
