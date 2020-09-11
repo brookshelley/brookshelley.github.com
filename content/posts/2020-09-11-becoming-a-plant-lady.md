@@ -19,11 +19,11 @@ What happened?
 
 One year for Christmas, my roommate in Portland gave me a book and a single plant, and once I figured out how not to kill it, I got addicted to greenery.
 
-![](/Photos/firstplant.jpg)
+![](/photos/firstplant.jpg)
 
 I think it was the combination of cloudy skies, and an appreciation of the outdoors that Portland granted me which helped me change. I’d seen Laurel grow a few house plants, and reading [the book she gave me](https://www.hardiegrant.com/au/publishing/bookfinder/book/living-with-plants-by-sophie-lee/9781784880965), it seemed like a thing I could do too.
 
-![](/Photos/plantbook.jpg)
+![](/photos/plantbook.jpg)
 
 From the pothos I started with, I quickly expanded to a stag horn fern, and a few birds of paradise. I killed more than a few plants by overwatering the first few months of trying to understand how to plant though.
 
@@ -31,13 +31,13 @@ From the pothos I started with, I quickly expanded to a stag horn fern, and a fe
 
 When I moved to Oakland, I realized I wouldn’t be able to bring my plants with me. The thought of staring over with plants was daunting, but I found [Cactus Jungle](https://cactusjungle.com) on the recommendation of a friend, and quickly set about picking up a few snake plants and pothos. Every time I visit that shop, I pick up a new plant, pot, or little gift for a friend. It’s a delightful place, with helpful staff and usually a bit of available street parking. A few of my plants even came from my pals Wonja and Dan as a very special and thoughtful housewarming gift.
 
-![snorri and plant](/Photos/snorriandplant.jpg)
+![snorri and plant](/photos/snorriandplant.jpg)
 
 ## Cats
 
 My main worry once I sorted out how to keep plants alive was whether or not Snorri would eat any of them and get sick. Not knowing a ton about plants, I was constantly googling and reading about non-toxic plants, often opting for &#39;this might make your cat throw up&#39; when I couldn&#39;t find &quot;chow down&quot;. Luckily, outside of a few very small snake plants (sansevieria trifasciata), he&#39;s largely uninterested in my plants. As long as I keep the ones he like to gnaw or bat at higher than he can reach, my plants and my cat seem to peacefully coexist. 
 
-![new plant pots](/Photos/newpots.jpg)
+![new plant pots](/photos/newpots.jpg)
 
 ## Re-potting
 
@@ -53,7 +53,7 @@ Sometimes during this phase of plant life, I also split my plants up, propagatin
 
 With the COVID quarantine, there are days where it’s too challenging or stressful for me to go outside, but I learned when Laurel first introduced me to house plants that they really help make a house feel good. Now, even though I may be stuck inside due to smoke or disease, I can look around at a veritable forest of gorgeous plants. [Studies](https://www.psychologytoday.com/us/blog/urban-mindfulness/200903/plants-make-you-feel-better) suggest that this plants are generally very positive for your mental and physical health. I still love when I can go to an actual forest, but when it’s not possible, I try to breathe and run my fingers over the leaves of my green pals.
 
-![outside plants](/Photos/outsideplants.jpg)
+![outside plants](/photos/outsideplants.jpg)
 
 ## Future Plan(t)s
 
