@@ -48,7 +48,7 @@ Imagine my surprise, a week after getting a new Ergodox when ZSA announced a [ne
 The clack of the keyboard tells me I’m back at work, and at my desk again for the next 4 days.
 
 ## Week nine
-![](/photos/moonslander.jpg)
+![](/photos/moonlander.jpg)
 After quite a few weeks with my Ergodox, my Moonlander arrived. I immediately set it up, then forgot what the default layout was. Eventually I got Wally launched and loaded my layout, only to tweak it a bit to make some of the keys more usable. The big red keys are a little challenging to hit, but my main issue was finding a good command layout for doing cmd+k in Slack constantly. It’s funny how the keyboard shortcuts that are so common become so integral to how your keyboard is laid out. Perhaps I’ll make single key macros at some point too.
 
 By the time my Moonlander arrived at the end of September, I’d become pretty accustomed to my Ergodox, and been through a dozen or so tweaked layouts. My typing speed is around 85wpm again, but the most important part is my wrists and hands feel way better￼. I went with Brown switches for both of these keyboards, and even though they’re not very clunky I feel pretty happy with the sound. Surprisingly, typing on the iPad Magic Keyboard still feels nice￼ too. When I first started using these new keyboards I worried that the cognitive load of hopping between them and a regular layout would be too much, but so far, it’s easy. I don’t relish the idea of doing a Dvorak setup though.￼
