@@ -40,7 +40,7 @@ I quickly learned after ordering my keyboard that there are myriad custom option
 A word of warning: many awesome keysets are group buys with long lead-times, so it’s best to think of ordering a few and then forget about them and have the package as a surprise later.
 
 ## Moonlander
-![](photos/moonlanderlayout.jpg)
+![](/photos/moonlanderlayout.jpg)
 Imagine my surprise, a week after getting a new Ergodox when ZSA announced a [new keyboard](https://www.zsa.io/moonlander/) just as I settled into using mine. I couldn’t resist the siren song of “next-generation ergonomics” or the idea that this keyboard would be more portable, so I picked my second ZSA keyboard in black and waited for it to arrive from Taiwan.
 
 ## Week three
