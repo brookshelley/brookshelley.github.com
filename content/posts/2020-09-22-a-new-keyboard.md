@@ -18,7 +18,7 @@ For years I’ve written primarily on a MacBook or iPad keyboard, which is prett
 A number of friends are huge mechanical keyboard enthusiasts, and I’d seen them around work pretty constantly, but I never really wanted one. For me, a woman who enjoys the MacBook 2015-2018 keyboard, and the iPad Smart and Magic keyboards, I didn’t think I would enjoy the force required to activate the keys, or the longer travel. I also worried that in an effort to move to a more ergonomic keyboard, I might ruin my ability to type on a regular one. I still don’t know what made me take the plunge, but I bought an [Ergodox ](https://ergodox-ez.com) to get going.
 
 ## First impressions
-![](/photos/ergodox.jog)
+![](/photos/ergodox.jpg)
 Plugging in my Ergodox, my first thought was, “this is so utterly weird!” I quickly realized I’d need to program my keyboard to more closely match what I’m accustomed to on a Magic keyboard, which meant I spent quite some time on Oryx (their graphical configuration tool). After a few missteps and missing keys (turns out not having a `= +` key can be an problem, who knew?!), I settled on this:
 ![](/photos/ergodoxlayout.jpg)
 Loading the configuration was super simple, and blazingly fast, which encouraged me to experiment and play around with new buttons. I gave myself quick keys for Alfred and Spotlight, as well as some easy copy and pastes.
