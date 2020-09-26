@@ -5,14 +5,13 @@ description: writing on minimalism
 type: posts
 ---
 
-
-## The Future
+## The Futures
 
 Most films that show our future are full of glitz and glamour, a fantastical land of flying vehicles. People live in clean, modern homes, and have their lives radically improved through technology, and want for nothing. Families and workers seamlessly keep in touch, and share parts of their lives with their friends and companions, and generally embrace the technology all around them.
 
 If there is any enemy or ill feeling in the protagonist, it is usually an overlord or corporation that is taking over or slowly consuming their society. What Sci-fi films lack is the ennui-ridden, laconic hipster Luddite who eschews the tech of the day for practices hundreds of years old. And yet, this is the future we live in.
 
-## The Fetish
+## The Fetishs
 
 For people like myself, the daily exposure to an always on connection can lead to dreaming of or even fetishizing disconnection. Tumblrs, Instagrams, and blogs all about country living, hand-made crafts, and wilderness exploration; where once we dreamed of hoverboards, HUDs, and instant content availability, we now dream of forests, shacks, and thick wool. In a very literal "grass is always greener" sense, many technologists and Internet workers I know dream of giving it all up for yurts, hikes, and leatherwork. Why fight with buzzing and demanding screens and sounds, when you can return to nature and regain a sense of humanity.
 
