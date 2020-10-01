@@ -8,6 +8,83 @@ type: page
 
 ## Movies
 
+**Evangelion 1.11 & 2.22**
+
+A friend watched Evangelion for the first time recently, and I was reminded I never got around to watching these remakes/retellings. Really, really weird, but in a new ways. I kind of like that they cut out many of the extraneous slice-of-life stuff.
+
+**Ava**
+
+I love an assassin film, but this one managed to make everything feel a bit smaller and more banal. Pretty forgettable with the stakes of a lifetime drama but the fight scenes of an action film.
+
+**Wall E**
+
+Super cute and dystopic. I love this movie so much.
+
+**Mr. Jones**
+
+This was nothing like that Counting Crows song, but it was excellent. I didn’t know this story before watching the film, but fuck. I wish Vanessa Kirby had more to do, but I suppose that’s the issue with historical fiction.
+
+**The Long Dumb Road**
+
+A great buddy road movie. Planes, Trains, and Automobiles is one of my all-time favorite movies and this channels the delightful failures and wonderful moments of the genre perfectly. I should’ve watched this a while ago.
+
+**Blade Runner: 2046**
+
+This held up though I wanted more McKenzie Davis scenes. Also! I forgot Ana de Armas was in this. Neat.
+
+**Mission Impossible 6**
+
+Outstanding! After a little bit of a slump in 5, six was back to the wild heights of 4. The HALO jump was nuts, especially after looking into how they filmed it. I can’t stand Alec Baldwin, but everyone else in this is dope. A+ helicopter scenes as well. There’s car, and motorcycle chases, and even some outstanding Tom Cruise runs.
+
+**The Da Vinci Code**
+
+A real stinker, but silly enough to watch over a phone call with a pal. Ian McKellan was the best part of this film, with a close second being Bettany’s ability to look tortured and have sexual tension with literally everyone in every scene.
+
+**Mission Impossible 5**
+
+A fifth movie and a fifth director. Renne is back, which I’d forgotten, and also this movie brings some truly wild times. This is the first time the IMF goes up against the Syndicate, and has a kinda fun Opera battle. There’s no huge building this time, but there was a big swimming scene.
+
+**Mission Impossible 4**
+
+Benji, you fucking did it—you’re out in the field. I’m pretty glad Simon Pegg became a series regular, and especially glad that barely anyone else from earlier in the series didn’t. I do wish Keri Russell would come back though, bc she’s cool. Also this one has Stellar Skateboard.
+
+**Mission Impossible 3**
+
+Aw, yea... JJ Abrams is here with Felicity and that guy that’s in everything he makes! This was a really fun time at the movies. So many printable face masks! Phillip Seymour Hoffman! Tom Cruise running! A terrible love story! Also, who can forget the ridiculous [Nokia phones](https://www.firstpost.com/tech/news-analysis/mission-impossible-3-on-nokia-n93-3549677.html) they used in this.
+
+**Mission Impossible 2**
+
+Definitely not as good as the first. John Woo is great, but some of his signature shots and slo-no effects just come off kinda silly in this.
+
+**Mission Impossible**
+
+What a blast from the past. The special effects were largely practical, which means they aged well, but the computer interfaces are delightfully 90s. I can’t believe how much this series has upped itself every incarnation, but this first one is still just a nice small-scale spy film.
+
+**The Trip**
+
+I’ve enjoyed Coogan since the Day Today sketches he did with Chris Morris, so it’s fascinating to see him age and keep doing odd versions of himself on film. Rob Brydon is excellent in this, and I’m reminded I should rewatch the entirety of Gavin & Stacey. If you want to see two middle-aged men making very stupid (but funny) jokes and impressions while sampling haute cuisine in the north of England, this is your chance.
+
+**Class Action Park**
+
+I don’t know how I survived the 80s and 90s. I did a lot of really, really stupid and dangerous shit, even if I never got to go to Action Park. We had Schiltterbahn where I grew up, which was way less wild, but still pretty dangerous at times. This film does a good job of showing the teen thrills of incredibly shady theme parks.
+
+**Boys State**
+
+I can’t stand the little conservative assholes. Steven Garcia was chill though. Also, it’s surreal to see how far right everyone went out of an assumption that other kids would be conservative, despite that being somewhat untrue. I went to UT as well, and it was pretty nostalgic to see Clark Field and other spots I spent a lot of time on film.
+
+**Jack Reacher**
+
+Not the best of the Tom Cruise action franchises, but fun enough. Light on action till the end.
+
+**Genocidal Organ**
+
+I watched this a while ago before I read the book. It’s kind of a fascinating, if quite gory, look into what we do for “security” and how our definitions of other are constructed.
+
+**Nightcrawler**
+
+Despite a lack of blue skin or a tail, Gyllenhaal embodied a character just as bizarre and rigidly pursuant of his beliefs. Deeply strange film.
+
+
 **Violent Cop**
 
 This is a rewatch, but I think it’s been at least 15 years since this first time I saw it. Beat Takeshi is a treasure. This movie is delightfully filmed. I kinda love the 80s Japanese film look, which is more reminiscent of TV than film. A classic

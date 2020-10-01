@@ -4,9 +4,41 @@ draft: false
 type: page
 ---
 
-## 2020: 43 books {#2020}
+## 2020: 51 books {#2020}
 
 ## Books
+
+**Axiom’s End** — Lindsey Ellis
+
+This read like a fun alien movie. Definitely good for a first novel, but there was a lot of rushed action in the 3rd act after a bit of running around. If this series continues, I hope we get to go off-planet a bit as well. I still can’t quite picture the aliens in this book either, fwiw.
+
+**Children of Dune** — Frank Herbert
+
+The wildest line in this book is near the end: “There was an adult beefswelling in his loins and he felt his mouth open, holding, clinging to the girder-shape of ecstasy”. This is probably the worst line of sexual prose I’ve ever read. Other than that, fun book! The end really picked-up the action after a lot of early intrigue
+
+**How to Be Alone** — Sara Maitland
+
+A very pleasing slim tome on being alone that tackles the challenges and the pleasures of this pursuit. As a woman who lives alone and loves it, I liked seeing my lifestyle discussed here, as well as the gentle encouragements to try camping or traveling alone. I’ve personally found flying to other places by myself to be immensely fulfilling. If you feel as if you can’t survive without constant social input, this book might convince you to dabble in solitude.
+
+**Dune: Messiah** — Frank Herbert
+
+Definitely a “kill your heroes” sort of book. After the wild, messianic build-up of Dune, it’s interesting to skip past the jihad of Mua’dib into a world where the dullness and frustrations of being a ruler and a deified person lurk. I think I’d previously tried to read this, but wasn’t able to finish, so I’m glad I made it through this try. This book is definitely heavier and slower than Dune, despite being shorter, but I’ve heard the third and fourth books are more interesting, and I think this is a necessary antidote to the high highs of Dune.
+
+**The Lightness** — Emily Temple
+
+Ah, a Buddhist summer camp for bad girls! I enjoyed this tale of friendship and want quite a bit. I’ve enjoyed Buddhist meditation for a few years now so had heard some of the stories at margins of this book, but really it’s more about family and belonging. A great first novel.
+
+**The Luminous Dead** — Caitlin Starling
+
+If you enjoy claustrophobic cave diving movies, this book will be up your alley. I love that Starling hinted at a very large galaxy of space exploration, but confined the reader to a single, wild cave. This was the kind of page-turner that kept me up till 4am to find out what happened. Very fun.
+
+**The Relentless Moon** — Mary Robinette Kowal
+
+This series is super fun. It feels like cool lady space stuff is in the air lately, as For All Mankind feels a bit similar. I don’t know how I feel about us using resources to go to space vs. trying to preserve the planet, but I’d *way* rather us go to space than bomb places, so.
+
+**A Peculiar Peril** — Jeff Vandermeer
+
+This was a bit of a slog. I generally enjoy the creeping horror and all-around bizarre confusion of a Vandermeer, but I think in his effort to build a YA novel, he may have lost the power of brevity. This book skips around between characters a little too much to build any real connections to any of them. I managed to finish it, but I can’t say I liked it that much. If Volume 2 is shorter, I could be tempted to dive in, simply out of sunk-cost.
 
 **Hard Boiled Wonderland and the End of the World** — Haruki Murakami
 
