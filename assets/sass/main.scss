@@ -160,6 +160,13 @@ font-size: $font-l;
 font-weight: 500;
 margin-top: 2em;
 margin-bottom: 1.5em; }
+  .title {
+  color: $accent;
+  font-size: $font-l;
+  font-weight: 500;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  margin-left: 10px; }
 
 h2 {
 font-size: $font-default;
