@@ -8,6 +8,8 @@ slug: hugo-and-i-a-writer
 lang: en
 ---
 
+# Hugo and iAWriter
+
 When I started [writing my blog in earnest again](https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/), I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn&#39;t want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.
 
 ## Static site

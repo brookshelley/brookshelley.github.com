@@ -7,6 +7,9 @@ mf-post-status:
 slug: 
 lang: en
 ---
+
+# A GRIII Review
+
 ## A street photography camera for empty streets
 
 ![ricoh grIII](/photos/gr3f.jpg) 

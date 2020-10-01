@@ -7,6 +7,9 @@ mf-post-status:
 slug: 2020-backpacking-gear
 lang: en
 ---
+
+# Backpacking gear
+
 With flying out of the question, especially to other countries, I decided to do a bit of local adventuring. With the encouragement and planning of some Slack pals, I began to plan for a few days of backpacking, and more importantly, a few days of gear. Anyone who’s read my blog for a bit knows I’m a nerd about backpacks, technical clothing, and having the absolute minimum amount of stuff with me on trips. At home, I live pretty comfortably, but when I’m out of the house, I love the deep thrill of having exactly what I need.
 
 The last camping trip I went on was during the eclipse 3 years ago in Dallas, Oregon. We drove there, and barely had to hike to put down our gear, so I brought a blow-up couch, a Nintendo switch, and medium-weight backpacking gear. I had an old REI sleeping bag that I’ve used for years, a [Mountain Hardware Optic 2.5 tent](https://www.rei.com/product/864138/mountain-hardwear-optic-25-tent), and a few jugs of water. All my gear, with 2 gallons of water hanging outside my pack as I was used to desert camping in Texas, weighed a bit over 25lbs, without food. This is pretty great for a car camping or one night camping situation, butI love going further and not having nearly as much on my back, plus I needed to bring food in my bag because I wouldn’t have a cooler with me on this upcoming trip.

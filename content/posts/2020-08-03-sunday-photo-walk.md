@@ -8,6 +8,8 @@ slug: sunday-photo-walk
 lang: en
 ---
 
+# Sunday photo walk
+
 Now that I’ve got a new camera, I wanted to start doing more photo walks. I get a little more sun, a little more exercise, and a lot of cool photos. I can’t wait till I can do these in Europe or Asia again, but for now, wandering around Oakland will have to do.
 ![greenfence](/photos/greenfence.jpg) 
 ![snorri and book](/photos/bored.jpg) 

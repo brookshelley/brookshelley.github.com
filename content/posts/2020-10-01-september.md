@@ -8,6 +8,8 @@ slug: september
 lang: en
 ---
 
+# September
+
 It’s been a wild month here in the Bay Area, with wildfires, smoke, and record-breaking heat. Because I didn’t have much else to do, I read and watched a lot of things. On the TV front, you should check out Ted Lasso for a kind-hearted, and joyful show. Lovecraft Country is not great on trans or queer issues, but *is* generally pretty awesome, and the Great British Bake-Off is back and quarantining *together* to prevent filming stoppage.
 
 I’ve also begun to [use Letterboxd](https://boxd.it/1cX0X) if you’re a fan of that site.

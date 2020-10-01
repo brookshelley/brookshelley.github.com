@@ -7,6 +7,9 @@ mf-post-status:
 slug: mapo-tofu-recipe
 lang: en
 ---
+
+# Mapo Tofu Recipe 
+
 ## Ingredients
 - 1 lb Pork (or lamb)
 - 1 package of soft tofu (I like [Mori-Nu](https://www.amazon.com/Mori-Nu-Silken-Tofu-Soft-Ounce/dp/B000LKZ84W/ref=sr_1_2_a_it?ie=UTF8&amp;qid=1490135388&amp;sr=8-2&amp;keywords=silken+tofu)

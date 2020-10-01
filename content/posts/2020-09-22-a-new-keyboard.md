@@ -7,6 +7,9 @@ mf-post-status:
 slug: a-new-keyboard
 lang: en
 ---
+
+# A new keyboard
+
 Or, how I reprogrammed my brain to understand an ortholinear keyboard.
 
 During my work from home, I’ve slowly upgraded my computing setup to keep me from constant soreness. First, it was a real deal office chair and desk, then a monitor. Finally this week, I added a split keyboard to alleviate wrist issues.

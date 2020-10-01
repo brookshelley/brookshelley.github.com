@@ -7,7 +7,8 @@ mf-post-status:
 slug: becoming-a-plant-lady
 lang: en
 ---
-Becoming a plant lady
+
+# Becoming a plant lady
 
 Ten years ago, I saw indoor plants as inconvenient, unwieldy, and dirty. Now, my house looks like this:
 
