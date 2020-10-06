@@ -9,9 +9,23 @@ lang: en
 ---
 # Fennel and carrot soup
 
+This soup is _fall as fuck_. Happy October!
+
 ## Ingredients
 
-One or two bulbs of fennel A few (6-10) carrots 3-4 bell peppers 2-4 sliced tomatoes Half an apple Salt and Pepper to taste Rosemary Fennel bits (?) what are the leaves/green things called? Shio koji A little bit of miso 3-a lot of garlic cloves 1-3 chopped green onions
+(You can obviously customize this a bit, so I encourage experimentation) 
+
+- One or two bulbs of fennel 
+-A few (6-10) carrots 
+- 3-4 bell peppers 2-4 sliced tomatoes 
+- Half an apple 
+- Salt and Pepper to taste 
+- a bit of Rosemary 
+- some fennel bits (?) what are the leaves/green things called? 
+- 1 tablespoon of Shio koji 
+- a tablespoon of miso 
+- 3-a lot of garlic cloves 
+- 1-3 chopped green onions
 
 ## Directions
 
