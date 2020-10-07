@@ -7,6 +7,8 @@ body {
     font-size: clamp(18px, 1.4vw, 20px);
     overflow-x: hidden;
     height: 600px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .container {
@@ -15,8 +17,6 @@ body {
 }
 
 .markdown {
-    margin-left: 10px;
-    margin-right: 10px;
     font-weight: 200;
     /*overflow-x: hidden;*/
 }
@@ -296,11 +296,11 @@ li {
 }
 
 .wrapper {
-    display: grid;
+    //*display: grid;
     grid-template-columns:
       min(0ch, 5%)
       min(65ch, 100%)
-      1fr;
+      1fr;*//
     width: 100%;
 }
 
