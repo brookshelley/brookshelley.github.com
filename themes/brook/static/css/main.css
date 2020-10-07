@@ -187,6 +187,7 @@ li {
 
 .page-title {
     margin-left: 0px;
+    margin-top: 10px;
     margin-bottom: 0px;
     font-size: clamp(20px, 1.4vw, 22px);
     font-weight: 500;
