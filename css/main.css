@@ -11,11 +11,11 @@ body {
 
 .container {
     max-width: 100%;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 .markdown {
-    //margin-left: 10px;
+    margin-left: 10px;
     margin-right: 10px;
     font-weight: 200;
     /*overflow-x: hidden;*/
