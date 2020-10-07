@@ -298,8 +298,8 @@ li {
 .wrapper {
     display: grid;
     grid-template-columns:
-      min(70ch, 20%)
-      min(65ch, 95%)
+      min(35ch, 10%)
+      min(65ch, 85%)
       1fr;
 }
 
@@ -307,9 +307,13 @@ li {
   grid-column: 2;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 750px) {
   .wrapper {
-    width: 100%;
+    width: 95%;
+  }
+  .body{
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .header {
     grid-column: 1;
