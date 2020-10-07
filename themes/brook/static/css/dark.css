@@ -23,7 +23,6 @@ h1,h2,h3 {
 }
 
 .meta {
-	font-size: 16px;
 	color: #888;
 }
 
@@ -32,22 +31,12 @@ h1,h2,h3 {
 }
 
 .post-tags .tags a {
-	margin-left: 25px;
 	color: #ddd;
 }
 
 .site-title a {
 	color: #fff;
 	text-decoration: none !important;
-}
-
-hr, .header nav,
-.footer {
-	border-color: #333;
-	color: #888;
-	max-width: 760px;
-	text-align: center;
-	background-color: #000;
 }
 
 .highlight {
