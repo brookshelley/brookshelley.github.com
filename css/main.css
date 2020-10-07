@@ -309,6 +309,7 @@ li {
 
 @media screen and (min-width: 750px) {
   .wrapper {
+    display: grid;
     grid-template-columns:
       min(33ch, 100%)
       min(65ch, 100%)
