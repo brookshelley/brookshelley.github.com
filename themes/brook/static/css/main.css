@@ -296,11 +296,11 @@ li {
 }
 
 .wrapper {
-    display: grid;
+    //*display: grid;
     grid-template-columns:
       min(0ch, 5%)
       min(65ch, 100%)
-      1fr;
+      1fr;*//
     width: 100%;
 }
 
