@@ -301,6 +301,7 @@ li {
       min(0ch, 5%)
       min(65ch, 100%)
       1fr;
+    width: 100%;
 }
 
 .wrapper > * {
@@ -313,7 +314,6 @@ li {
       min(33ch, 100%)
       min(65ch, 100%)
       1fr;
-    width: 100;
   }
   .body{
     margin-left: 10px;
