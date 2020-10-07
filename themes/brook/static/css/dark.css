@@ -13,8 +13,12 @@ body {
     text-shadow: none
 }
 
-h1,h2,h3 {
+h1 {
 	color: #603ad0;
+}
+
+h2,h3 {
+	color: snow;
 }
 
 .posts .post .meta,
