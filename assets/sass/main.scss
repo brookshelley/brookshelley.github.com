@@ -30,7 +30,7 @@ $selection: #8f75de;
     font-weight: 200;
     line-height: $font-line-height;
     font-size: $font-default;
-    max-width: 95%;
+    //max-width: 95%;
     overflow-x: hidden; }
     .site-title a {
       font-family: $font-title;
@@ -54,7 +54,7 @@ $selection: #8f75de;
     font: $font-body;
     font-weight: 200;
     line-height: $font-line-height;
-    max-width: 95%;
+    //max-width: 95%;
     font-size: $font-default;
     overflow-x: hidden; }
     .site-title a {
@@ -69,14 +69,14 @@ $selection: #8f75de;
       color: $accent; }}
     
 
-@media (min-width: 300px){
-  :root {
-  $font-default: 16px;
-  $font-s: 14px;
-  $font-l: 20px;
-  $font-xl: 35px;
-  $font-line-height: 22px;
-  $spacing-max-width: 17; }}
+//@media (min-width: 300px){
+  //:root {
+  //$font-default: 16px;
+  //$font-s: 14px;
+  //$font-l: 20px;
+  //$font-xl: 35px;
+  //$font-line-height: 22px;
+  //$spacing-max-width: 17; }}
 
 /*elements*/
   
@@ -285,8 +285,23 @@ float: left; }
 font-size: $font-default; }
 
 .wrapper {
-max-width: $spacing-max-width;
-margin: 0 auto; }
+  display: grid;
+  grid-template-columns:
+    1fr
+    min(700px, 900px)
+    1fr;
+}
+//max-width: $spacing-max-width;
+//margin: 0 auto; 
+
+.wrapper > * {
+  grid-column: 2;
+}
+
+.full-bleed {
+  width: 100%;
+  grid-column: 1 / 4;
+}
 
 .header h1 {
 font-family: $font-title;

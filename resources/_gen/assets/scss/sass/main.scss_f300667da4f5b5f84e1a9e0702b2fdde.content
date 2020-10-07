@@ -12,7 +12,6 @@
     font-weight: 200;
     line-height: 24px;
     font-size: 18px;
-    max-width: 95%;
     overflow-x: hidden; }
   .site-title a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -34,7 +33,6 @@
     font: Garamond, Georgia, Times, Times New Roman, serif;
     font-weight: 200;
     line-height: 24px;
-    max-width: 95%;
     font-size: 18px;
     overflow-x: hidden; }
   .site-title a {
@@ -50,7 +48,7 @@
 
 /*elements*/
 .container {
-  max-width: 800px; }
+  max-width: 70ch; }
 
 .markdown {
   margin-left: 10px;
@@ -254,8 +252,15 @@ ul.flat {
   font-size: 18px; }
 
 .wrapper {
-  max-width: 40;
-  margin: 0 auto; }
+  display: grid;
+  grid-template-columns: 1fr 700px 1fr; }
+
+.wrapper > * {
+  grid-column: 2; }
+
+.full-bleed {
+  width: 100%;
+  grid-column: 1 / 4; }
 
 .header h1 {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
