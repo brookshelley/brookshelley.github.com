@@ -299,7 +299,7 @@ li {
     display: grid;
     grid-template-columns:
       1fr
-      min(65ch, 85%)
+      min(65ch, 100%)
       1fr;
 }
 
