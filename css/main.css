@@ -4,7 +4,7 @@ body {
     color: #404040;
     background-color: #F3F2F3;
     line-height: 24px;
-    font-size: clamp(18px, 1.4vw, 20px);
+    font-size: clamp(16px, 1.4vw, 20px);
     overflow-x: hidden;
     height: 600px;
     margin-left: 10px;
@@ -278,7 +278,7 @@ li {
     float: left;
     margin-right: 0px;
     width: 15%;
-    font-size: 18;
+    font-size: clamp(16px, 1.4vw, 18px);
 }
 
 .blogtitle {
@@ -316,6 +316,8 @@ li {
       min(33ch, 100%)
       min(65ch, 100%)
       1fr;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .body{
     margin-top: 10px;
