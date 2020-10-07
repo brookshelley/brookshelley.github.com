@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Invisible One Mini backpack review
+title: Invisible One review
 date: 2018-05-17
 description: review of a new backpack for euro travel
 categories: blog
