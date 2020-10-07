@@ -277,7 +277,7 @@ li {
     display: block;
     float: left;
     margin-right: 0px;
-    width: 15%;
+    min-width: 80px;
     font-size: clamp(16px, 1.4vw, 18px);
 }
 
