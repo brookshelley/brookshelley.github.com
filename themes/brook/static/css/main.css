@@ -4,7 +4,7 @@ body {
     color: #404040;
     background-color: #F3F2F3;
     line-height: 24px;
-    font-size: clamp(16px, 1.4vw, 20px);
+    font-size: clamp(18px, 1.4vw, 20px);
     overflow-x: hidden;
     height: 600px;
 }
