@@ -316,6 +316,8 @@ li {
       min(33ch, 100%)
       min(65ch, 100%)
       1fr;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .body{
     margin-top: 10px;
