@@ -5,6 +5,7 @@ title: September
 mf-post-status:
   - draft
 slug: september
+description: smoked-out and reading
 lang: en
 ---
 

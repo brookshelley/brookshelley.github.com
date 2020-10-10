@@ -5,6 +5,7 @@ title: A new keyboard
 mf-post-status:
   - draft
 slug: a-new-keyboard
+description: clickety-clack goes the Moonlander
 lang: en
 ---
 

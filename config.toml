@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 paginate = 6
+summaryLength = 20
 
 [params]
 	mainSections = ["posts"]
