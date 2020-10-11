@@ -156,6 +156,7 @@ h3 {
 
 ul {
     list-style-type: katakana;
+    list-style-position: inside;
     padding: 0px;
 }
 
