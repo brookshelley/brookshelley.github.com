@@ -4,9 +4,50 @@ draft: false
 type: page
 ---
 
-## 2020: 51 books {#2020}
+## 2020: 61 books {#2020}
 
 ## Books
+
+**Self-Knowledge**
+
+Another School of Life book, this time on life and self-knowing. I enjoyed it quite a bit, with its brisk tour of much of what I’ve covered in therapy over the years.
+
+**Earthlings** — Sayaka Murata
+
+Wow, this was initially pretty straightforward, and then went deep into the weird zone. Murata is so good at writing. Between this and the Convenience Store Woman, I think she’s one of the best surrealist fiction authors working. Very highly recommended, and hard to put down.
+
+**The City We Became** — NK Jemison
+
+Hell yea! A new trilogy from NK Jemison set in our world. I love the idea of cities as sentient beings. I think there’s some really interesting stuff that gets explored here, and I’m excited to see where the next one goes. Other than Wu Tang, fuck Staten Island though.
+
+**Can’t Even** — Anne Helen Petersen
+
+Why is burnout such a thing, and how does it effect millennials? What the hell were boomers thinking? All these questions and more are answered thoroughly in this well-researched and often funny book about modern life.
+
+**How to Overcome your Childhood**
+
+A brisk read on how our childhoods fucked us up, and what to do about it. Food for my therapist and I for sure.
+
+**Kissa by Kissa** — Craig Mod
+
+I’ve had a few occasions to sit and chat with Craig over coffee, and this book feels like an extension of those hangouts. This is a delightful travelogue and philosophical essay on exploring the nooks of Japan as they age into a softly-lit Showa patina. This book breathes a countryside stroll in and exhales a perfumes of coffee and toast. A joy.
+
+**The Pleasures and Sorrows of Work** — Alain de Botton
+
+At various points de Botton is curiously horned-up, but this is largely an interesting outsider look at various industries. From the drudgeries of accountancy, to the mysteries of flight, there are quite a few strange details in this slim tome.
+
+**The Lamb Will Slaughter the Lion** — Margaret Killjoy
+
+A great novella about anarchist punks who summon a demon. This felt like something that could’ve lived in Meanwhile, Elsewhere in the best way. I really loved seeing various trans pinkest in a magical story, and hope the Danielle Cain series keeps going. 
+
+**The Disaster Tourist** — Yun Ko-eun
+
+A fun look at the nightmarish world of trips and tours. Disaster tours feel like the next evolution of the sex tour—a titillating view of poverty and suffering. There was just enough left out to create a nice bit of mystery, and Yona was a good guide through the complexity of complicity.r 
+
+**The Overstory** — Richard Powers
+
+This book started-off well, with some vignettes of various characters, then lost me for a while in a very slow build. By page 300 or so, I couldn’t put it down, and didn’t get to sleep until 5am. A delight.
+
 
 **Axiom’s End** — Lindsey Ellis
 
