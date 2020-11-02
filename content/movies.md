@@ -8,6 +8,55 @@ type: page
 
 ## Movies
 
+**The Phantom Menace**
+
+Dammit Blank Check why did I do this to myself in order to listen to your commentary track. Seriously though, the 10 episodes about the only entry in Star Wars that was ever made were excellent. Thank you for the bonkers good time.
+
+**Train to Busan Presents: Peninsula**
+
+There’s no train in this one, despite the title that I think was used to make sure us goofy Americans realize it’ related to the previous film. I loved the taxi lady. This film had more of a Mad Max vibe than the original which was fun.
+
+**Train to Busan**
+
+Continuing the zombie movie rewatches, I threw this on in order to remind myself what it was like before watching the sequel that just came out. It’s just as good as I remember it, though I fundamentally don’t like “fast” zombies. Zombies should shamble. The wild melee of this film is a very different kind of fear than the slow horror of inexorable zombie overrunning of your position.
+
+**World War Z**
+
+A more intense pandemic movie. I’ve watched this three or four times, and it still manages to be one of the more interesting and compelling zombie action films. By throwing out the creeping dread for a much more agoraphobic zombie fear, this movie makes me glad I stay inside.
+
+**Blackhat**
+
+This movie dares to ask the bold question: “can a himbo code?”
+I don’t understand why most of the terrible coding examples are windows INF or registry files, but hey, it’s fun and stupid. I think this was also the first film I saw where it was obvious that US action films are now mostly funded by Chinese financiers.  
+
+**Collateral**
+
+I think I’ve seen this before, but didn’t remember much. I love the extremely tight shots inside the cab, and the real LA traffic vibe. This is the same LA time period as the L Word.
+
+**Borat Subsequent**
+
+A hoot. This wasn’t nearly as salacious as the build-up implied, but there were some big laughs, and a surprisingly endearing lock-in with some Q Anon weirdos. I wish they’d gotten more Pence action.
+
+**Save Yourselves!**
+
+The initial cast was a reprise of the friends from Search Party, so one could almost imagine this was an alternate reality retelling. Fortunately, this movie morphs into a cute and weird duo alien invasion story pretty quick instead.
+
+**The Trip to Italy** 
+
+Unlike the first Trip film I’ve never seen this one before. I like how Coogan’s character has changed it up a bit, and generally this film felt friendlier. I’m excited for the next two.
+
+**Jennifer’s body**
+
+The entire movie I just kept thinking, “what! They’re in this too?!” I missed this movie back in the day and I think it was largely maligned, but it’s a near weird little horror film. It only takes around 15 minutes to get creepy, and then it goes off the rails in the most weird ways. Even JK Simmons was in this! Amy Sedaris! The lesson here is: don’t trust scene kids, just stick with your best friend. The men in this film are the real monsters, obviously.
+
+**Vampires vs The Bronx**
+
+A fun horror film about gentrification with a great cameos from folks like Zoe Saladaña and The Kid Mero. Truly a great time.
+
+**The Assistant**
+
+I didn’t know much about this going in, only that it was well-regarded. Julia Garner is outstanding in an incredibly brutal film about a sexually abusive and horrible movie producer that definitely *wink wink* isn’t based on anyone who is currently serving 23 years in prison.
+
 **Evangelion 1.11 & 2.22**
 
 A friend watched Evangelion for the first time recently, and I was reminded I never got around to watching these remakes/retellings. Really, really weird, but in a new ways. I kind of like that they cut out many of the extraneous slice-of-life stuff.
