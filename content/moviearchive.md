@@ -586,7 +586,7 @@ the best movies I saw this year.
 
 **The Equalizer: 2**
 
-This is apparent the first sequel Denzel has ever made. I’ve loved the genre of
+This is apparently the first sequel Denzel has ever made. I’ve loved the genre of
 Denzel as an ultraviolent avenging angel ever since I saw Man on Fire. Some
 folks may prefer John Wick, and granted, those movies have a great style, but
 damn, the Equalizer is a series I hope to see more of in the future.
@@ -606,7 +606,7 @@ effort.
 A few friends hadn’t watched this before, so we drank a bit, and had a
 rip-roaring good time seeing this again. Everyone is decked-out in the most late
 90s gear, the camera work is bonkers, and the cars are cool, but painted like
-awful hot wheels. I _love_ this series.h
+awful hot wheels. I _love_ this series.
 
 **Hereditary**
 
@@ -900,9 +900,7 @@ devil-may-care overalls, and Cate Blanchett's Carol-as-a-Timelord character.
 
 **xx**
 
-Terrible title unless everyone involved had to get a karyotype test to be
-involved. Most of the horror was related to having kids, which meant this movie
-hit me hard, because kids are the worst and deeply frightening on the best days.
+Terrible title unless everyone involved had to get a karyotype test to be involved. Most of the horror was related to having kids, which meant this movie hit me hard, because kids are the worst and deeply frightening on the best days.
 
 **Unlocked**
 
