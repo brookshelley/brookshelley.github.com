@@ -2,9 +2,8 @@
 layout: micropubpost
 date: '2020-10-06T04:27:54.677Z'
 title: Fennel and carrot soup
-mf-post-status:
-  - draft
-slug: fennel-and-carrot-soup 
+tags:
+  - recipe
 description: a soup for the fall
 lang: en
 ---
