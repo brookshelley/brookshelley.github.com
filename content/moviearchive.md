@@ -767,8 +767,7 @@ Fuck the ocean, I’m sticking to the rivers and the lakes that I’m used to.
 
 **Mary and the Witch's Flower**
 
-A cute anime about a young girl who stumbles into the world of witchcraft. Very
-reminiscent of Howl's Moving Castle, but with a less encompassing world.
+A cute anime about a young girl who stumbles into the world of witchcraft. Very reminiscent of Howl's Moving Castle, but with a less encompassing world.
 
 **Den of Thieves**
 
@@ -787,10 +786,10 @@ physical comedy.
 
 **Book Club**
 
-Watched this on a whim with a couple friends, and it was kinda great? I love
-Candace Bergen from the Murphy Brown days, and hope I look as good as Diane
-Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it
-wasn't available to rent.
+	Watched this on a whim with a couple friends, and it was kinda great? I love
+	Candace Bergen from the Murphy Brown days, and hope I look as good as Diane
+	Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it
+	wasn't available to rent.
 
 **The Meg**
 
