@@ -5,6 +5,12 @@
 <body>
 	<div class="container wrapper tags">
 		{{ partial "header.html" . }}
+		
+		<ul>
+    {{ range (.GetTerms "tags") }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+   {{ end }}
+</ul>
 
 		<h1 class="page-title">All tags</h1>
 		{{ partial "footer.html" . }}
