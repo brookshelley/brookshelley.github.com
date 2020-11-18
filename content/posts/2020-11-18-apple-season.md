@@ -1,10 +1,9 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-11-18T06:37:30.892Z'
 title: Apple season
-mf-post-status:
-  - draft
 slug: apple-season
+description: the fast one
 lang: en
 ---
 # Apple season
