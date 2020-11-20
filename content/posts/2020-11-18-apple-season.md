@@ -7,6 +7,8 @@ description: the fast one
 lang: en
 ---
 
+![](/photos/macbookm1.jpg)
+
 Every fall brings a plethora of shiny new Apple devices, but I don't always partake. For the past few years I've been content to keep my MacBook 12" and iPad Pro 11" as my computers. Each year I bought a new phone, but with a subsidy from work and trade-in value, they were essentially free upgrades.
 
 This year something changed.
