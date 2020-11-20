@@ -316,20 +316,20 @@ li {
       min(0ch, 5%)
       min(65ch, 100%)
       1fr;*//
-    width: 760px;
-    margin: 0 auto;
+    width: 700px;
+    margin: 10 auto;
 }
 
 .wrapper > * {
   grid-column: 2;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 900px) {
   .wrapper {
     display: grid;
     grid-template-columns:
       min(33ch, 100%)
-      min(65ch, 100%)
+      min(55ch, 100%)
       1fr;
     margin-left: 10px;
     margin-right: 10px;
