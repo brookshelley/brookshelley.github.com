@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="Description" content="a bunch of stuff brook reads, writes, and watches. also a blog."><title>The Allure of the minimal - dill &amp; fennel</title><link rel="icon" type="image/png" href=/favicon.ico /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#603ad0">
+	<meta name="msapplication-TileColor" content="#000000">
+	<meta name="theme-color" content="#603ad0">
+	<link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+	<link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+	<link rel="micropub" href="https://brook-micropub.herokuapp.com/micropub/main" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.brookshelley.com/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.brookshelley.com/css/main.css" /><link rel="stylesheet" type="text/css" href="https://www.brookshelley.com/css/dark.css"
+		media="(prefers-color-scheme: dark)"  />
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	<h1 class="site-title">
+		<a href="https://www.brookshelley.com/"> <img class="logo" src=/666.png alt="thanks helen" height="66"
+				width="66" />
+			dill &amp; fennel</a></h1>
+	
+	<nav class="nav">
+		
+		<ul class="flat">
+			
+			<li class="flat">
+				
+				
+				
+				
+				<a href="/books" class="">read</a>
+			</li>
+			
+			<li class="flat">
+				
+				
+				
+				
+				<a href="/movies" class="">watched</a>
+			</li>
+			
+			<li class="flat">
+				
+				
+				
+				
+				<a href="/writing" class="">wrote</a>
+			</li>
+			
+		</ul>
+	</nav>
+	
+</div>
+
+		
+
+		<div class="markdown">
+			<h1 class="title">Apple season</h1>
+			<p><img src="/photos/macbookm1.jpg" alt=""></p>
+<p>Every fall brings a plethora of shiny new Apple devices, but I don&rsquo;t always partake. For the past few years I&rsquo;ve been content to keep my MacBook 12&quot; and iPad Pro 11&quot; as my computers. Each year I bought a new phone, but with a subsidy from work and trade-in value, they were essentially free upgrades.</p>
+<p>This year something changed.</p>
+<h2 id="enter-the-m1">Enter the M1</h2>
+<p>Apple&rsquo;s home grown silicon M1 meant finally a Mac could be as fast as an iPhone and iPad without being an ultra-powerful desktop or a battery hog.</p>
+<p>My favorite home computer is my iPad Pro for many reasons: it&rsquo;s small, light, and faster than my laptop. The new MacBook Air and Pro aren&rsquo;t lighter than my iPad, but they are faster, and the battery lasts even longer, so I was sold on the idea of moving over to a new ARM Mac.</p>
+<h2 id="macbook-air">MacBook Air</h2>
+<p>I thought for all of a few hours before pressing &ldquo;buy&rdquo; on the Air instead of the Pro, as I have always loved the smaller form factor, and rarely need &ldquo;pro&rdquo; features on my computer. This is doubly true now that I&rsquo;m a manager that tinkers with build systems—a process I&rsquo;ve streamlined for iOS, so it&rsquo;ll definitely stretch out and luxuriate on the Mac.</p>
+<p>I got the 8gb version with 256gb of storage mostly because it shipped faster and I&rsquo;m impatient, but also because my MacBook 12&quot; also only had 8gb of ram and the limiting factor was rarely memory.</p>
+<p>This computer is FAST. It&rsquo;s hard to emphasize just how quick everything feels. You want to open an app? You click it, and boom. Want to put it to sleep, then remember <em>one more thing</em>? Boom, open and on. Want to do literally any encoding or complex stuff? Fast as lightning.</p>
+<h2 id="my-use-cases">My use cases</h2>
+<p>Chrome users take heed: I&rsquo;m a big Safari proponent, and the only Electron app I use outside of work is Slack. I&rsquo;ve occasionally played with <a href="https://code.visualstudio.com">VSCode</a> or <a href="https://atom.io">Atom</a>, but with <a href="https://nova.app">Nova</a> being one of Gruber&rsquo;s &ldquo;<a href="https://daringfireball.net/linked/2020/09/24/nova">Mac-assed Mac apps</a>&rdquo; I&rsquo;ve moved over. Nova is fast, it supports Apple Silicon, and it&rsquo;s pretty AF.</p>
+<p>The only software I wish worked but doesn&rsquo;t quite yet is <a href="https://brew.sh">Homebrew</a>, Go, and <a href="https://gohugo.io">Hugo</a>. I figure these will all be working within the month or by the end of the year worst-case. Guessing this might be an issue, I moved my site from Github Sites to <a href="https://www.netlify.com">Netlify</a>, simply to have test builds without doing local ones. This also means I can do some neat stuff on my iPad when I don&rsquo;t use my Mac. Not being able to use these tools is way less of an issue than it would&rsquo;ve been previously.</p>
+<p>My other most-used apps are iAWriter, Tot, Fantastical. Deliveries, and ImageOptim. The first three are already ported, and I imagine the latter two will follow suit shortly. Honestly though, I only notice that they aren&rsquo;t ported when I open Activity Monitor, since everything is <em>so fast</em> and doesn&rsquo;t look any different even in Rosetta 2.</p>
+<p>Without Shortcuts, I don&rsquo;t have a great way to immediately publish new blogposts. What is so nice about sharing into a Hugo workflow on my iPad means I&rsquo;ll either need to reproduce my work in some scripting language, or go through the rigamarole of dropping my text into Nova, and commit and push it. Another alternative is to use MicroPub, but I&rsquo;ve been a little too lazy to <a href="https://github.com/voxpelli/node-format-microformat/issues/5">customize the repo</a> I used to ensure the ensuing file is formatted how I like it. Perhaps in the future someone will update this, or I&rsquo;ll decide to dive deep into creating something.</p>
+<h2 id="battery">Battery</h2>
+<p>I&rsquo;m still testing this out, but so far I couldn&rsquo;t get the battery to drop much more than 15% during initial setup, Spotlight index, Photo analysis, and downloading and configuring software for 4 hours. More on this in an update in the future.</p>
+<h2 id="no-cellular">No Cellular</h2>
+<p>There were a lot of rumors hoping that the new Mac portables would include cellular functionality that put it on par with iPads. Unfortunately, there&rsquo;s no such luck this year, which means my iPad will still be my travel computer if we ever get to fly or drive anywhere again. Immediate access to the internet from a device with a keyboard is too delightful to pass up. I could see myself bringing this Mac to a coffee shop or somewhere with known-good wifi though because typing on it is a delight so far compared to my previous MacBook 12&quot;, and comparable with my iPad Pro, albeit with more room for my long fingers.</p>
+<h2 id="other-bits">Other bits</h2>
+<p>This thing is <em>big</em> to me. I never, ever carry my work laptop (2018 MacBook Pro 13&quot;), and have only used an iPad or the MacBook when away from my desk for a few years now, so the 13&quot; MacBook Air feels like a honker. I think I&rsquo;ll get used to it, but it&rsquo;s still quite the change.</p>
+<p>This computer is 0% hot so far, ever. It&rsquo;s also super quiet, since there&rsquo;s no fan, similar to my MacBook. I haven&rsquo;t had much reason to plug things into the ports yet, but I guess having two instead of one is good? Maybe I&rsquo;ll plug it in to charge while also connecting an SD card.</p>
+<p>The screen is nice? I don&rsquo;t think it&rsquo;s much different than my MacBook, and I don&rsquo;t think it has the 120hz refresh of the iPad.</p>
+<p>The camera is still terrible, which gives a solid leg-up to the iPad for on-the-go video chats. When I&rsquo;m at home I use <a href="https://reincubate.com/camo/">Camo</a> to employ my very good iPhone camera for video.</p>
+<p>I like the new keyboard keys, like Spotlight, language-input switching (but not that <em>plus</em> emoji, which is annoying), and dictation. The key travel is improved a bit from the old new portable switches, and satan-willing will be more durable too. No stuck keys yet! <em>knocks on wood super loudly</em></p>
+<p>I&rsquo;ll update this post if I think of anything else in the next few days or weeks. If you&rsquo;re on the fence about moving to an M1 Mac and wanna ask me questions, feel free to <a href="mailto:newmac@brookshelley.com">message me</a> or Tweet @brookshelley. This is seriously the fastest, best computer I&rsquo;ve owned in a long time.</p>
+
+		</div>
+
+		<div class="post-tags">
+			
+			
+			
+		</div>
+			<div class="footer">
+	<ul class="flat">
+		<li>
+			<a href="/index.xml" title="rss"><img src="/rss.svg" alt="rss icon" height="20" width="20" /></a>
+		</li>
+		<li>
+			<a href="https://twitter.com/brookshelley" title="tweet" rel="me"><img src="/twitter.svg" alt="twitter icon"
+					height="20" width="20" /></a>
+		</li>
+		<li>
+			<a href="https://buttondown.email/brookshelley" title="newsletter"><img src="/mail.svg" alt="rss icon"
+					height="20" width="20" /></a>
+		</li>
+		<li>
+			<a href="https://github.com/brookshelley" title="github" rel="me"><img src="/github.svg" alt="github icon"
+					height="20" width="20" /></a>
+		</li>
+		<li>
+			<a href="/about" title="about"><img src="/info.svg" alt="info icon" height="20" width="20" /></a>
+		</li>
+	</ul>
+	© 2020 by brook shelley
+</div>
+	</div>
+</body>
+
+</html>

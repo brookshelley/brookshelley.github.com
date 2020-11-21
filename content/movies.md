@@ -6,8 +6,6 @@ type: page
 
 ## 2020 {#2020}
 
-## Movies
-
 **The Phantom Menace**
 
 Dammit Blank Check why did I do this to myself in order to listen to your commentary track. Seriously though, the 10 episodes about the only entry in Star Wars that was ever made were excellent. Thank you for the bonkers good time.

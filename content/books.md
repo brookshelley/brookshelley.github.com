@@ -6,8 +6,6 @@ type: page
 
 ## 2020: 61 books {#2020}
 
-## Books
-
 **Self-Knowledge**
 
 Another School of Life book, this time on life and self-knowing. I enjoyed it quite a bit, with its brisk tour of much of what I’ve covered in therapy over the years.
