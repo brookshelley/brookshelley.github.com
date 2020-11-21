@@ -13,7 +13,7 @@
 				{{ $active = or $active (eq .Name $current.Title) }}
 				{{ $active = or $active (and (eq .Name "archive") (eq $current.Section "posts")) }}
 				{{ $active = or $active (and (eq .Name "media diet") (eq $current.Section "mediadiet")) }}
-				<a href="{{ .URL }}" class="{{ if $active }}active{{ end }}">{{.Name }}</a>
+				<a href="{{ .URL }}" class="{{ if $active }}active{{ end }}">{{.Name}}</a>
 			</li>
 			{{ end }}
 		</ul>
