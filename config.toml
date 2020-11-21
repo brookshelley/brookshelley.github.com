@@ -21,7 +21,7 @@ summaryLength = 20
   featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
-	mode = "auto" # "dark", "auto", "light"
+	mode = "dark" # "dark", "auto", "light"
 
 	[[params.social]]
 	name = "RSS"
