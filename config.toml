@@ -39,14 +39,14 @@ summaryLength = 20
 	url = "https://twitter.com/brookshelley"
 
 	[[params.social]]
-    name = "newsletter"
-    icon = "mail"
-    url = "https://buttondown.email/brookshelley"
+  name = "newsletter"
+  icon = "mail"
+  url = "https://buttondown.email/brookshelley"
 
-    [[params.social]]
-    name = "about"
-    icon = "info"
-    url = "/about"
+  [[params.social]]
+  name = "about"
+  icon = "info"
+  url = "/about"
 
 [menu]
 

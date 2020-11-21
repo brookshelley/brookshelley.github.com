@@ -1,7 +1,7 @@
 ---
 title: "tv"
 draft: false
-type: page
+type: media
 ---
 
 # tv list

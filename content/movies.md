@@ -1,7 +1,7 @@
 ---
 title: "seen"
 draft: false
-type: page
+type: media
 ---
 
 ## 2020 {#2020}

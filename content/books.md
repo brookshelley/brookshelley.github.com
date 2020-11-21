@@ -1,7 +1,7 @@
 ---
 title: "read"
 draft: false
-type: page
+type: media
 ---
 
 ## 2020: 61 books {#2020}
