@@ -151,7 +151,7 @@ ul {
 }
 
 ul.flat {
-  margin-left: 10px;
+  margin-left: 0px;
   margin-right: 0px;
   margin-top: 10px;
   margin-bottom: 0px;
@@ -172,7 +172,7 @@ ul.flat2 li {
   font-size: 18px;
   list-style: none;
   margin-right: 10px;
-  margin-left: 0px;
+  margin-left: -5px;
   margin-top: 0px;
 }
 
