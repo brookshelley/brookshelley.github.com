@@ -13,11 +13,7 @@
 		<div class="markdown">
 			<h1 class="title">{{ .Title }}</h1>
 			{{ .Content }}
-		</div>
-
-		<div class="post-tags">
-			{{ if ne .Type "page" }}
-			{{ if gt .Params.tags 0 }}
+			
 			<nav class="nav tags">
 				<ul class="flat">
 					{{ range .Params.tags }}
@@ -25,10 +21,9 @@
 					{{ end }}
 				</ul>
 			</nav>
-			{{ end }}
-			{{ end }}
+
 		</div>
-			{{ partialCached "footer.html" . }}
+		{{ partialCached "footer.html" . }}
 	</div>
 </body>
 
