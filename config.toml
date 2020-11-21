@@ -62,7 +62,7 @@ summaryLength = 20
     weight = 1
 
   [[menu.main]]
-    name = "watched"
+    name = "seen"
     url = "/movies"
     weight = 2
 

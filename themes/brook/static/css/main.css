@@ -6,21 +6,21 @@
 }
 
 body {
-    font-family: var(--font-body);
-    font-weight: 200;
-    color: #404040;
-    background-color: #CECDD0;
-    line-height: 24px;
-    font-size: var(--font-small);
-    overflow-x: hidden;
-    padding: 0.5em 1.2em;
-    height: 600px;
+  font-family: var(--font-body);
+  font-weight: 200;
+  color: #404040;
+  background-color: #CECDD0;
+  line-height: 24px;
+  font-size: var(--font-small);
+  overflow-x: hidden;
+  padding: 0.5em 1.2em;
+  height: 600px;
 }
 
 .markdown {
-    margin-left: .5em;
-    margin-right: .5em;
-    margin-bottom: 1.6em;
+  margin-left: .5em;
+  margin-right: .5em;
+  margin-bottom: 1.6em;
 }
 
 b, strong {
@@ -28,7 +28,7 @@ b, strong {
 }
 
 i {
-    font-weight: 200;
+  font-weight: 200;
 }
 
 .description {
@@ -36,15 +36,15 @@ i {
   margin-top: 10px;
 }
 a {
-    font-family: var(--font-head);
-    color: #603ad0;
-    text-decoration: none;
-    font-weight: 500;
+  font-family: var(--font-head);
+  color: #603ad0;
+  text-decoration: none;
+  font-weight: 500;
 }
 
 a:hover {
-    font-family: var(--font-head);
-    color: #8f75de;
+  font-family: var(--font-head);
+  color: #8f75de;
 }
 
 .active {
@@ -57,20 +57,20 @@ html,button,input,select,textarea {
 }
 
 ::-moz-selection {
-    color: #8f75de;
+  color: #8f75de;
 }
 
 ::selection {
-    color: #8f75de;
+  color: #8f75de;
 }
 
 hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #f4f4f4;
-    margin-left: 25px;
-    margin-right: 25px;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #f4f4f4;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 img {
@@ -79,12 +79,12 @@ img {
 }
 
 .logo {
-    margin-top: 5px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 10px;
-    max-width: 66px;
-    float: left;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 10px;
+  max-width: 66px;
+  float: left;
 }
 
 hr, .footer {
@@ -109,8 +109,18 @@ h1 {
 h1.title {
   font-size: 28px;
   font-weight: 500;
-  margin-top: 30px;
+  margin-top: 0px;
   margin-bottom: 1em;
+  margin-left: .3em;
+  margin-right: .5em;
+}
+
+h1.title2 {
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 1em;
+  margin-right: .5em;
 }
 
 h2 {
@@ -151,35 +161,36 @@ ul {
 }
 
 ul.flat {
+  display: flex;
   margin-left: 0px;
   margin-right: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
   padding: 0px;
-  line-height: 24px;
+  line-height: 20px;
+  width: 100%;
 }
 
 ul.flat li {
-  display: inline-block;
   font-size: 18px;
   list-style: none;
-  margin-right: 5px;
-  margin-left: 0px;
+  text-align: left;
+  justify-content: space-evenly;
 }
 
 ul.flat2 li {
-  display: inline-block;
+  display: inline-flex;
   font-size: 18px;
   list-style: none;
   margin-right: 10px;
-  margin-left: -5px;
+  margin-left: 0px;
   margin-top: 0px;
 }
 
 ul.flatfoot li {
   font-size: 14px;
   text-align: left;
-  margin-top:10px;
+  margin-top: 10px;
   margin-left: 0px;
   margin-right: 0px;
   background-color: #222;
@@ -187,6 +198,9 @@ ul.flatfoot li {
 
 li {
   margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   margin-right: 0px;
 }
 
@@ -230,18 +244,14 @@ li {
 .posts .post .meta {
   font-size: 18px;
   color: #888;
-  margin-left: 0px;
-  margin-top: 0px;
+  margin-left: .5em;
+  margin-top: .2em;
 }
 
 .list {
   font-size: 14px;
   color: #888;
   margin-left: 0px;
-}
-
-.post {
-  width: 100%;
 }
 
 .post li {
@@ -254,7 +264,7 @@ li {
   margin-left: 0px;
   margin-right: 0px;
   padding-right: 0px;
-  margin-bottom: 3px;
+  margin-bottom: 0px;
   float: left;
   width: 100%;
   display: block;
@@ -328,7 +338,7 @@ li {
   .wrapper {
     display: grid;
     grid-template-columns:
-      19em      
+      18em      
       45em
       1fr;
     margin-left: auto;
@@ -346,22 +356,20 @@ li {
     float: top;
     position: relative;
   }
-  .flat {
-    margin-top: 100px;
+  h1.title{
+    margin-top: 30px;
   }
 }
 
 .header {
   grid-column: 1;
-  display: flex;
+  display: inline;
   flex-direction: column;
-  border-bottom-color: #404040;
 }
 
 .nav img {
   max-height: 20px;
   display: inline;
-  max-width: 20px;
 }
 
 .full-bleed {
@@ -387,14 +395,11 @@ li {
   text-align: left;
   font-size: var(--font-large);
   margin: 0 0 0 0;
-  flex: 1;
 }
 
 nav ul.flat li {
-  display: inline;
   list-style: none;
-  margin-left: 0px;
-  max-width: 100%;
+  width: 100%;
   font-size: var(--font-large); 
 }
 
