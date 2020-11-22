@@ -1,7 +1,7 @@
 ---
 title: "movie archive"
 draft: false
-type: page
+type: media
 ---
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_

@@ -1,12 +1,10 @@
 ---
 title: "seen"
 draft: false
-type: page
+type: media
 ---
 
 ## 2020 {#2020}
-
-## Movies
 
 **The Phantom Menace**
 

@@ -7,23 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>newsletter</title>
+      <link>https://www.brookshelley.com/tags/newsletter/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/newsletter/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>https://www.brookshelley.com/tags/work/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/work/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>Media diet</title>
+      <link>https://www.brookshelley.com/tags/media-diet/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/media-diet/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>recipe</title>
+      <link>https://www.brookshelley.com/tags/recipe/</link>
+      <pubDate>Tue, 06 Oct 2020 04:27:54 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/recipe/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
     <item>
       <title>mediadiet</title>
       <link>https://www.brookshelley.com/tags/mediadiet/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-    </item>
-    
-    <item>
-      <title>newsletter</title>
-      <link>https://www.brookshelley.com/tags/newsletter/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brookshelley.com/tags/newsletter/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>
@@ -164,16 +194,6 @@
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/backpacks/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-    </item>
-    
-    <item>
-      <title>Media diet</title>
-      <link>https://www.brookshelley.com/tags/media-diet/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brookshelley.com/tags/media-diet/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>

@@ -6,7 +6,7 @@
 	<div class="container wrapper">
 		{{ partial "header.html" . }}
 		<div class="posts">
-			<h1 class="title">blog</h1>
+			<!--h1 class="title">blog</h1-->
 			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 			{{ range $paginator.Pages }}
@@ -18,8 +18,8 @@
 					  {{ .Description }}
 					</p>
 				</div>
-				{{ end }}
 			</div>
+			{{ end }}
 		</div>
 		<!--div class="paginate">
 			{{ template "partials/paginator.html" . }}</div>

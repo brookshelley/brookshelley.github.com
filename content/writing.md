@@ -1,7 +1,7 @@
 ---
 title: "wrote"
 draft: false
-type: page
+type: media
 ---
 
 ## Ninth Letter
