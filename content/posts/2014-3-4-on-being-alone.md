@@ -3,6 +3,9 @@ type: posts
 date: 2014-03-04
 title: On being alone
 description: post-divorce thoughts
+tags: 
+ - queer
+ - thoughts
 ---
 
 A bit about this last few months.

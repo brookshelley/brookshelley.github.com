@@ -2,9 +2,8 @@
 layout: micropubpost
 date: '2020-10-01T23:30:16.265Z'
 title: September
-mf-post-status:
-  - draft
-slug: september
+tags:
+  - mediadiet
 description: smoked-out and reading
 lang: en
 ---

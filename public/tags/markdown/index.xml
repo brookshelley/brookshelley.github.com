@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on dill &amp; fennel</title>
+    <link>https://www.brookshelley.com/tags/markdown/</link>
+    <description>Recent content in markdown on dill &amp; fennel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Fri, 04 Sep 2020 22:31:49 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo and iA Writer</title>
+      <link>https://www.brookshelley.com/posts/2020-09-04-hugo-and-i-a-writer/</link>
+      <pubDate>Fri, 04 Sep 2020 22:31:49 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-09-04-hugo-and-i-a-writer/</guid>
+      <description>Hugo and iAWriter When I started writing my blog in earnest again, I wanted to find a workflow I could use on both iOS and Mac with ease.</description>
+      <content:encoded><h1 id="hugo-and-iawriter">Hugo and iAWriter</h1>
+<p>When I started <a href="https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/">writing my blog in earnest again</a>, I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn't want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.</p>
+<h2 id="static-site">Static site</h2>
+<p>Originally, I was using Jekyll, as it's the basic GitHub Pages static site generator, but I fell for the speed and weird Go templating of Hugo. I've tested Eleventy and Gatsby as well, but Hugo remains my top pick. I built a custom theme for my site, along with a SASS file that hopefully is organized enough I could do some easy switching around if I get itchy for a redesign.</p>
+<p>In order to build my site fast, and ensure it loads super quickly, I moved to system fonts which meant I've achieved a delightful 1.0s full-content load time. No matter where or how someone accesses my site, they're sure to need limited bandwidth and data to read it.</p>
+<p>If you want to read more about Hugo, <a href="https://gohugo.io">their website</a> is pretty great. You're also welcome to <a href="https://github.com/brookshelley/brookshelley.github.com">creep my repo</a>, and even fork it to get started yourself. My theme is very basic, but there are a <a href="https://themes.gohugo.io">ton of them</a> out there to suit most tastes.</p>
+<h2 id="build-pipeline">Build pipeline</h2>
+<p>Once GitHub launched their Actions feature I was pretty sure I could go without a separate CI app or something like Netlify (though Netlify in specific is pretty awesome and has a really good DNS feature I still use). There are a bunch of cool Actions out there for building and launching static sites, but I use <code>[actions-hugo](https://github.com/peaceiris/actions-hugo)</code> from Shohei Ueda.</p>
+<p>It's super simple, and here's the yaml:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-YAML" data-lang="YAML"><span style="color:#f92672">name</span>: <span style="color:#ae81ff">github pages</span>
+
+<span style="color:#f92672">on</span>:
+  <span style="color:#f92672">push</span>:
+    <span style="color:#f92672">branches</span>:
+      - <span style="color:#ae81ff">main </span> <span style="color:#75715e"># Set a branch to deploy</span>
+
+<span style="color:#f92672">jobs</span>:
+  <span style="color:#f92672">deploy</span>:
+    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-18.04</span>
+    <span style="color:#f92672">steps</span>:
+      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/checkout@v2</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">submodules</span>: <span style="color:#66d9ef">true</span> 
+          <span style="color:#f92672">fetch-depth</span>: <span style="color:#ae81ff">0</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Setup Hugo</span>
+        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">peaceiris/actions-hugo@v2</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">hugo-version</span>: <span style="color:#ae81ff">‘0.71.1’</span>
+            <span style="color:#f92672">extended</span>: <span style="color:#66d9ef">true</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Build</span>
+        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">hugo --minify</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Deploy</span>
+        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">peaceiris/actions-gh-pages@v3</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">github_token</span>: <span style="color:#ae81ff">${{ secrets.GITHUB_TOKEN }}</span>
+          <span style="color:#f92672">publish_dir</span>: <span style="color:#ae81ff">./public</span>
+</code></pre></div><p>Essentially, you set your public branch, and Github actions for pulling Hugo, building your site, and the deploying it to the public directory run in order. The whole process takes around 30 seconds with the <code>hugo --minify</code> build step completing in 400ms. Kicking off the whole build only takes pushing an update to the source branch I use. Other than that push, there's no real manual input required.</p>
+<h2 id="ia-writer">iA Writer</h2>
+<p><img src="/photos/iawriter.jpg" alt="iawriter"></p>
+<p>My love for iA Writer continues to grow every year. It's not just a fantastic place to write, but increasingly it's a solid platform to publish to the indie web from. With one-click flows for Micro.Blog, Micropub, Wordpress, and other sites, it's super easy to write and get something online. My only wish is that somehow it could support photo upload in the same manner. I also love the Quattro font the team at iA Writer created as a slightly variable monospaced font. Their support of iOS, Mac, and the iPad is excellent, not to mention very good keyboard shortcuts for all of them. Simply put, iA Writer is my favorite place to write and create.</p>
+<h2 id="testing">Testing</h2>
+<p>The only part of this whole process I haven't sorted out is testing builds from my iPad or iPhone. I may need to use Netlify again to do so, because while I have the ability to run things on another server, I'm a bit lazy when it comes to setting up rules around port forwarding. Most of the time if I'm doing active development of my site, I try to use a Mac or just very lazily roll changes out at night, reverting or fixing forward if there's an issue. Luckily a broken build never deploys, so worst case I might just put a post up that's missing photos, or have some odd spacing.</p>
+<p>I would never recommend doing this for something that super matters, but my website is a fun little project, so it doesn't need five 9s of uptime.</p>
+<h2 id="publishing-with-micropub">Publishing with Micropub</h2>
+<p>I previously covered this with <a href="https://www.brookshelley.com/posts/microposting/">another post</a>. I didn’t do much customization to the GitHub code I linked to in that post, so your mileage may vary, but using Heroku for free, I’m able to tap publish on iA Writer for a nice, easy update to this blog. Previously I used the iOS Shortcut linked below, which was also fine, but during the beta period became a bit unwieldy in addition to not being available on my Mac. I briefly considered an Automator action to replicate the same features, but hopefully at some point shortcuts will come to the Mac￼ instead. I might update my Micropub server at some point to remove some of the weird stuff I don't really use from it, but that's a project for another vacation.</p>
+<h2 id="ios-shortcuts">iOS Shortcuts</h2>
+<p><a href="https://www.icloud.com/shortcuts/fcea1fc7792a4be7952e9d4ac6e34018">My iOS Shortcut flow</a> is pretty straightforward, and I snagged a lot of it from other examples online. The only semi-fancy bits are the text-parsing I use to title and build metadata. iOS Shortcuts are kind of a pain-in-the-ass, but once you get used to the weird way of building them semi-visually, they're pretty powerful.</p>
+<h2 id="wrap-up">Wrap-up</h2>
+<p>My site has come a long way from when I <a href="https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/">started it up again</a> three years ago, while leaving <a href="https://medium.com/@brookshelley">Medium</a> as a platform. Hell, Medium has changed focuses four or five times in that period as well, now going back towards a <a href="https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd">customizable blogging place</a>. I'm pretty happy I set up my own little world of blogging and archiving content, and hopefully with the information above you can do the same if you want.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Microposting</title>
+      <link>https://www.brookshelley.com/posts/2020-07-16-microposting/</link>
+      <pubDate>Thu, 16 Jul 2020 08:01:36 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-07-16-microposting/</guid>
+      <description>Microposting After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter.</description>
+      <content:encoded><h1 id="microposting">Microposting</h1>
+<p>After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!</p>
+<p>With the beta of iOS 14 I’ve had to heavily modify my publishing shortcuts, and while they’re pretty great, publishing directly through Micropub with the “publish” button in iAWriter seems even more convenient.</p>
+<p>If you’re using Hugo or Jekyll, <a href="https://github.com/am1t/webpage-micropub-to-github">this is a good starting place</a>, and only needs minor tweaks to exposed config values to work with most setups of either static backend.</p>
+<p>With the wild social hacking incident on Twitter today, now more than ever it’s cool to own and control your own content. Outside of the cost of my editor, and my domain registration, I think I pay a grand total of $0 to Netlify for DNS, GitHub for hosting, or another web host for a few random services. Static sites are tiny, and IMO the only real cost is a few days to figure out some of the small caveats and customize your theme.</p>
+<p>If you’re a pal, and stoked on implementing any of this, I’m <a href="mailto:brookshelley@gmail.com">happy to chat</a></p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Blog Redesign</title>
+      <link>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</guid>
+      <description>My personal site started off as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites.</description>
+      <content:encoded><p>My personal site <a href="https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163">started off</a> as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites. I’ve lost lots of data in the past, and ultimately it’s just much easier to keep text portable and backed-up when it’s a <code>.txt</code> or <code>.md</code></p>
+<p>In the ensuing years, I’ve written a few blog posts, and listed tons of books and movies but I hadn’t done much with my site’s structure or design besides moving my static site generator from <a href="https://jekyllrb.com">Jekyll</a> to <a href="https://gohugo.io">Hugo</a> on a whim last year. I can’t say that I like Go templating any better than Ruby, but I can struggle through both of them. With a site publishing workflow that automatically builds and deploys from Github using Github Actions, I’m set on the backend front, and decided to give my front end skills a dusting-off from my days in CSS 1.0 land.</p>
+<h2 id="a-start-at-design">A start at design</h2>
+<p>My initial foray into the design of the site was just to use an off-the-shelf theme called <a href="https://themes.gohugo.io/ezhil/">Ezhil</a>, which worked pretty well for a while. Sure, there were creaky bits, and a lot of extraneous things I didn’t care for, but it was easy to install, and use, so I went for it. Hugo and Jekyll, and even <a href="https://www.11ty.dev">Eleventy</a> (if you’re a JS person) have dozens of fantastic themes and templates from folks far more talented at CSS than myself, but I’ve found my site doesn’t feel like it’s mine until I’ve done some under the hood tinkering.</p>
+<h2 id="a-long-week">A long week</h2>
+<p>With a three day work week, I got the jones for change. I’d tweaked the initial theme a bit to iron out features I didn’t like, but ultimately I think I made a bit of a mess of the site until now. Inspired by <a href="https://frankchimero.com/blog/2020/redesign-wrapping-up/">Frank Chimero’s long redesign process</a> I decided to radically simplify my site, and try to get a total load time of under two seconds. I accomplished both of my goals, but I have a way to go before I’m fully happy with the type and margins. Fortunately, I learned a lot o CSS tricks along the way, and even dipped my toes into CSS Grid in <a href="https://github.com/brookshelley/brookshelley">another repo</a>.</p>
+<h2 id="fonts--hierarchy">Fonts &amp; hierarchy</h2>
+<p>For this 2020 version of my site, I moved to <a href="https://fonts.adobe.com/fonts/quicksand">Quicksand</a> as my sans-serif, and decided to add <a href="https://fonts.adobe.com/fonts/source-serif">Source Serif Pro</a> to make reading longer content like this much easier. As someone who is very much <em>not</em> a designer, I <em>think</em> the two go together ok, but hopefully my actual designer friends will give me feedback at some point to save me from any <em>fauxnt pas</em>.</p>
+<p>For header elements, I tried to let them breathe with a big top and bottom margin. I couldn’t stomach the full 4em that Frank Chimero uses on his site, but 2em felt nice enough, especially on my iPhone. Since I was regularly testing this site on light and dark modes, on my iPad, MacBook, and iPhone, I was able to work out a lot of responsive kinks along the way.</p>
+<p>Honestly, I’m happy I figured out most of the margins and centering CSS amongst the tangle of elements. While I was dealing with my site’s code, a friend reminded me “hell is other people’s CSS,” and that will ring in my head until I inevitably replace all of the elements and classes in <code>main.css</code>. It’s frustrating not always knowing what changes will actually be reflected in the browser due to confusing nested values. More on this in the future along with potential font changes.</p>
+<h2 id="simpler-menus">Simpler menus</h2>
+<p>In his redesign blog, Frank talked about removing his reading and music lists by relocating them to <a href="https://www.notion.so/Reading-Log-3341e831fc744130bf536a54cd79ec56">Notion</a>. This isn’t a terrible idea, and I definitely like the added simplicity of his menus because of it, but my priority remains holding onto plain text versions of my lists, so that’s out for me. I thought about ways of auto-populating them when I write my media diets, but outside of a few ideas around templating I have stuck to manually copying over items for those posts. Perhaps there isn’t a need for media diets and exhaustive lists to exist? For now, I’ll keep the two lists in my top level nav, with secondary links in the media diet section.</p>
+<h2 id="light-is-fast">Light is fast</h2>
+<p>To hit my goal of an under two second load time, I gutted a few javascript files, before realizing I didn’t need them at all. Instead of <code>feather.min.js</code>, I just inlined the few SVG icons I wanted, and threw them in my footer partial. Bingo bango.</p>
+<p>I dug into my CSS file and tried to remove everything that’s not necessary, and during the aforementioned margin struggle that meant dozens of lines of code. I also managed to bring down the total site size by 10s of Mb by using <a href="https://imageoptim.com/mac">Image Optim</a> to do what it says on the tin. <a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/">This post</a> is a really great read if you want to dig further into image optimization, or learn just how bloated your site might actually be.</p>
+<p>At the end of all of my optimizing and spring-cleaning, I hit 1.9s of load time, with a responsive design that works in light or dark mode (though light mode doesn’t get SVG icons yet because I got sleepy). I’m pretty proud of the <a href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fwww.brookshelley.com">results I got on web.dev</a> at the end of all my hard work, but I still need to sort out a more efficient caching strategy for a few odds and ends.</p>
+<h2 id="what-i-learned">What I learned</h2>
+<p>Ultimately, I re-learned that in the year 2020, the fastest way to build a website is still to use mostly static HTML and CSS, and ditch the JavaScript completely. Web fonts are still weird, though it turns out doing <a href="https://csswizardry.com/2020/05/the-fastest-google-fonts/">preloading</a> can help a bit with speed. Hopefully I’ll figure out a few more things about margins, padding, and site hierarchy as I keep tweaking this design, but I’m pretty happy with how it looks so far.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>One year of newsletter</title>
+      <link>https://www.brookshelley.com/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/</guid>
+      <description>Way back in February of 2019, I sent my first newsletter—a repost of a blog post about learning Japanese, then petered out for a bit.</description>
+      <content:encoded><p>Way back in February of 2019, I sent my first newsletter—a repost of a <a href="https://dillandfennel.substack.com/p/learning-japanese-again">blog post about learning Japanese</a>, then petered out for a bit. In July, I began sending <a href="https://dillandfennel.substack.com/p/weekly-links">weekly link emails</a>, which I managed to keep up through the end of the year. It&rsquo;s been quite a fun Sunday activity, so I thought I&rsquo;d chat a bit about what the experience of weekly link writing was like.</p>
+<h2 id="why-links">Why links?</h2>
+<p>This year I got really stoked about Robin Sloan&rsquo;s <a href="https://desert.glass">Year of the Meteor</a> newsletter, which was full of incredible links that led me to read quite a bit, and even <a href="https://underarmbalm.com">change my deodorant brand</a>. Robin consistently finds interesting and strange things all over the web, and I thought, perhaps I could do the same. I struggle to find writing topics at times, but I still journal daily, and try to keep up a writing practice during the fallow uninspired periods. A weekly newsletter seemed like an excellent idea, but I tend to write less, and not more.</p>
+<h3 id="a-brief-digression">A brief digression</h3>
+<p>I&rsquo;ve found that writers are usually in one of two camps: the underwriters, and the overwriters. As a member of the former camp, I can crank out 1-2000 words in no time, but asking me to go beyond that is a torture, whereas my overwriting friends tend to need an editor to get down to 2000. Because of this the idea of writing a novel, or even a longish short story is really hard to consider—but short creative nonfiction? Hell yes.</p>
+<h2 id="ok-back-to-the-links">Ok, back to the links</h2>
+<p>Having realized I wasn&rsquo;t able to creatively write every week without a good prompt, I settled on looking around the web through the week, and sending my baubles to you, the reader, on Sundays. I settled on Sunday because it felt like a good time to have coffee and enjoy a little surfing around. Perhaps you do this reading on another day, but for me, Sundays are for coffee and words.</p>
+<h2 id="finding-links">Finding links</h2>
+<p>The links I share come from all over the place. Sometimes I reshare things I found in another newsletter, like <a href="https://www.densediscovery.com">Dense Discovery</a>, and other times, they come from my <a href="https://feedbin.com">long list of RSS feeds</a> (feel free to request my OPML file). I read quite a bit every day, both on and offline, so it really isn&rsquo;t hard to find a few tidbits to share.</p>
+<h2 id="the-satisfaction-of-analytics">The satisfaction of analytics</h2>
+<p>I don&rsquo;t spend a lot of time thinking about how many readers I&rsquo;ve amassed (spoiler, not many), but I do love that I can see that folks generally <em>are</em> reading the emails I send out. There&rsquo;s a small sense of accomplishment when I know that someone has found something neat because I shared it. I really do love a recommendation, and it seems like some of you do as well.</p>
+<h2 id="platforms">Platforms</h2>
+<p>This year began on <a href="https://substack.com">Substack</a>, which seems like a decent platform, and has attracted <a href="https://www.shatnerchatner.com">more than</a> a <a href="https://grace.substack.com">few friends</a> as users. As someone who isn&rsquo;t really planning to  find success or payment via a newsletter, my main goals were something easy to use, and ideally something I could send content to directly from <a href="https://ia.net/writer">iAWriter</a>, my markdown editor of choice.</p>
+<p>With that in mind, I was eager to switch to <a href="https://buttondown.email">ButtonDown</a> after reading about it via Robin Sloan. I love how both the <a href="https://www.notion.so/639bdb37786e489a960d4810ee6ce351?v=58ef759254094357bdb04d715e9c518b">roadmap</a> and <a href="https://buttondown.email/running-costs">costs</a> are fully public, and the developer responds really quickly via email. This small, sustainable app is something I&rsquo;m really keen on supporting, as I love sustainable apps much more than venture-funded privacy-less hockey-stick comapnies. Plus using Working Copy and Shortcuts, I managed to build on top of their really <a href="https://api.buttondown.email/v1/schema">easy to use API</a>, and now have a one-button send draft to ButtonDown</p>
+<h2 id="next-year">Next year</h2>
+<p>My plan currently is to just <em>keep on keeping on</em> with this weekly links newsletter, and aspire to continuing monthly blog posts about longer topics. If you have things you&rsquo;d love to see, or things you want to chat about, you know <a href="mailto:brookshelley+blog@gmail.com">how to reach me</a>.</p>
+<p>Have a fantastic new year, and I&rsquo;ll see you next Sunday!</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>A Weekly Link Newsletter</title>
+      <link>https://www.brookshelley.com/posts/2019-07-21-newsletter/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-07-21-newsletter/</guid>
+      <description>Update 2020 I am now writing a newsletter on buttondown and reposting them here.
+I never really jived with Substack or their general model, especially now that they&amp;rsquo;re paying real goons to write there.</description>
+      <content:encoded><p><em>Update 2020</em> I am now writing a newsletter on <a href="https://buttondown.email/brookshelley">buttondown</a> and reposting them <a href="http://localhost:1313/tags/newsletter/">here</a>.</p>
+<p>I never really jived with Substack or their general model, especially now that they&rsquo;re paying real goons to write there.</p>
+<hr>
+<p>It’s official: I’ve joined the newsletter trend in earnest. I’ve had <a href="https://dillandfennel.substack.com">a newsletter</a> for a few months now, but I wasn’t sure what to really <em>do</em> with it. Fortunately, I realized what I love to see the most from some of my <a href="https://craigmod.com/roden/">favorite</a> <a href="https://desert.glass">newsletters</a> is links to what these authors are reading this week—little jewels from internet wanderings.</p>
+<p>My re-launched Dill and Fennel newsletter will have links to some of the more interesting or funny things I’ve seen in the previous week. Sometimes these may be links to books, or tweets with a little color commentary. If you read this site, you might enjoy <a href="https://dillandfennel.substack.com/subscribe?utm_source=menu&amp;simple=true&amp;next=https%3A%2F%2Fdillandfennel.substack.com%2F">subscribing</a>.</p>
+<h2 id="this-site">This site</h2>
+<p>I’ll still write here as often as I can, but I found myself wanting a quicker way to write weekly, without needing a <em>big</em> thing to blog about, or something to review. My monthly media diets will still be posted to brookshelley.com as well. It’s been fun to do tiny reviews of books and movies, even if it’s mostly for my own memory of what I consumed in a year. Not using Letterboxed or Goodreads for this was a very conscious decision—I want to own and control my own data. If you keep track of this kind of stuff yourself, or run your own little slice of the internet, I’d love to <a href="mailto:brookshelley@gmail.com">hear about it</a>!</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>On notes and todos</title>
+      <link>https://www.brookshelley.com/posts/2019-05-02-on-notes-and-todos/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-05-02-on-notes-and-todos/</guid>
+      <description>The latest episode of Supercomputer inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand.</description>
+      <content:encoded><p><img src="/photos/iAWriter.png" alt="iawriter"></p>
+<p>The <a href="https://supercomputer.transistor.fm/#">latest episode of Supercomputer</a> inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand. Over the years, I&rsquo;ve used <a href="https://brettterpstra.com/projects/nvalt/">NVAlt</a>, 1Writer, Bear, Evernote, Notes, and more to keep track of my thoughts, posts, and notes. Brett Terpstra keeps a <a href="https://brettterpstra.com/ios-text-editors/"><em>very good list</em></a> of all iOS text editors that includes information about their cross-platform functionality. These days, since I mostly use my iPad and iPhone when I&rsquo;m not at <a href="https://slack.com/">work</a>, it&rsquo;s vital that my notes and todo apps live happily on Mac, and iOS.</p>
+<h2 id="notes-and-posts">Notes and posts</h2>
+<p>Ever since I moved most of my personal computer work to an <a href="http://www.brookshelley.com/blog/2018/11/07/new-ipad-review.html">iPad Pro</a>, I&rsquo;ve wanted to make sure my notes and writing were easily accessible from wherever I happened to compute. I also wanted to post that writing to my <a href="https://www.brookshelley.com">blog</a> which hilariously I first talked about on my now abandoned <a href="https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163">Medium</a>. Since I post things via Github pages, which is a near-as-makes-no-difference Jekyll instance, I need the ability to push markdown to Github. With <a href="https://workingcopyapp.com/">Working Copy</a>, this is super simple, and if I need to, I can write entire posts in the pretty nice editor that app contains. But, I want more!</p>
+<p>To have a great writing experience, with delightful fonts, a pleasing design, and speedy sync, I use <a href="https://ia.net/writer">iAWriter</a>. It&rsquo;s <em>fantastic</em> for notes, long form writing, and even markdown previewing work docs. In the years since the first version of iAWriter launched, it&rsquo;s become an amazing piece of software. I couldn&rsquo;t find the earliest versions, but <a href="https://www.macworld.com/article/2985482/ia-writer-3-0-1-review-mac-app-gets-back-to-basics-for-focused-writing.html">here&rsquo;s the 2015 version 3</a>. Nowadays, iAWriter can talk to the Files app on iOS natively, which means you can open files from Working Copy, which is registered as a Files location, so you can open files from Github repos in iAWriter. Whether I&rsquo;m drafting a blog post, or updating my list of <a href="http://www.brookshelley.com/books">books</a> that I&rsquo;ve read, I open iAWriter first, after pulling the latest version of my repo in Working Copy. For writing and notes I don&rsquo;t plan to store in my repo, iAWriter keeps them on iCloud as <code>.md</code> files so I don&rsquo;t have to worry about portability or missing files. Because these files live in iCloud, they&rsquo;re searchable using Spotlight on both my iOS and Mac devices—no more depending on launching an app to search. It&rsquo;s wild how good this app combination is, and how fast I&rsquo;m able to find and edit things using iAWriter&rsquo;s native Apple integrations.</p>
+<p>When I&rsquo;m at meetings at work, I also tend to take notes with a <a href="https://www.lamy.com/en/lamy-safari/">pen</a> and a <a href="https://www.1101.com/store/techo/en/2019/all_about/weeks/">notebook</a> because it <a href="https://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away">helps retention</a> and looks quite a bit less rude to my coworkers or partners. If something needs to be shared, I type it up in Slack or put it in a Readme on a repo.</p>
+<p>But what about my todos?!</p>
+<h2 id="todos">Todos</h2>
+<p>I work at a company in San Francisco who&rsquo;s goal is to &ldquo;make work life simpler, more pleasant and more productive.&rdquo; I think we&rsquo;re good at it, but I&rsquo;ve found that I need a separate place to keep track of my work tasks, my life tasks, and all the random junk I need quick access to when I&rsquo;m going through my week. <a href="https://culturedcode.com/things/">Things</a> is that app for me. I made a Project for everything I work on, and Areas for things like &ldquo;stuff to buy&rdquo; or &ldquo;stuff to watch&rdquo;.</p>
+<p><img src="/photos/projects.png" alt="projects"></p>
+<p>My main view is Today, where tasks I need to finish by bedtime live. When the workday ends, anything I haven&rsquo;t accomplished gets moved to tomorrow—this is a conscious choice over having those tasks follow me home. That means that I don&rsquo;t have the psychic dread of &ldquo;more work&rdquo;, but can still look at Things for things like the code to my therapist&rsquo;s office, or a reminder to scoop the cat litter. I love it. Things is the perfect example of just heavy enough feature-wise to handle power-users while only exposing simple features for everyone else. The search is amazing, especially on Mac, where all you need to do is <em>start typing</em>. Sure, there&rsquo;s no location-based reminders, but honestly at a certain point, <em>in my opinion</em> you&rsquo;re just faffing around and avoiding work by adding so many layers to your todo process. Get shit done instead of doing loads of metalwork.</p>
+<h2 id="keeping-track-of-all-of-the-things">Keeping track of all of the things</h2>
+<p>For me, writing and notes goes in iAWriter, and anything I need to <em>do</em> goes into Things. Sometimes my tasks include a link to a relevant Slack conversation, or email in Spark, or website—and other times it&rsquo;s just a note to take some medicine or drop mail off in the mailbox. My projects groupings mean I know historically what I&rsquo;ve accomplished in various areas or work things, and I don&rsquo;t stress too much planning months in the future. Planning, at least at work, is often a team effort, and there&rsquo;s a calendar or a roadmap that I don&rsquo;t need to duplicate in Things. I note what my responsibilities are, and set due dates or targets for those, and leave the rest to where my work actually lives—Slack. If you want to dive more into GTD or w/e, I recommend <a href="http://web.archive.org/web/20190401160435/http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done">43 Folders</a>, which is possibly now disavowed by Merlin, but is still a very smart look at productivity. Generally, simple systems work well for me, and if I look at something, I should either store it, trash it, or use it.</p>
+<p>My systems are super helpful for <em>me</em>, but might not work, or work differently for you. That&rsquo;s totally ok! Hopefully something here was helpful or interesting, and if not, feel free to browse away, and forget~ Work will always be here for you, like a strange nightmare, and how you choose to tackle it is a personal decision.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Slower reading</title>
+      <link>https://www.brookshelley.com/posts/2019-02-10-slower-reading/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-02-10-slower-reading/</guid>
+      <description>With the death of Google Reader in 2013 it seems like many folks gave up on RSS. Fortunately, not only is RSS still alive, but it&amp;rsquo;s thriving.</description>
+      <content:encoded><p>With the death of <a href="https://lifehacker.com/google-reader-is-shutting-down-here-are-the-best-alter-5990456">Google Reader in 2013</a> it seems like many folks gave up on RSS. Fortunately, not only is RSS still alive, but it&rsquo;s thriving. Between Newsletters and a return to blogging by many writers, thinkers, and web folks, RSS is an excellent way to find news and joy. While Twitter and other networks flounder, open standards provide a simple way to read. RSS means no trolls and no reply gifs. It’s you, and the content.</p>
+<h2 id="my-rss-history">My RSS history</h2>
+<p>As a long time nerd and tech news reader, I’ve used RSS steadily since the early 2000s, when MacOS RSS programs like <a href="https://nnw.ranchero.com">NetNewsWire</a> and <a href="https://github.com/ViennaRSS/vienna-rss">Vienna</a> were fresh. I used RSS on Nokia phones, but the iPhone was revelatory. <a href="https://techcrunch.com/2010/11/14/reeder-for-mac/">Version 2.0 of Reeder</a> ensured a unified experience of RSS on my iPhone, my iPad, and my Mac—at the time I predominantly used a MacBook Air and an iPhone 4—which meant that by popping in the URLs of various sites, I could stay up to date at my desk or on the go. I continued to use Reeder until recently, when in preparation for Reeder 4.0 the app’s creator made it free, but stopped regular updates. Throughout this time, my RSS feed list changed, but usually had <a href="https://daringfireball.net">Daring Fireball</a>, whatever <a href="https://desert.glass">Robin Sloan was working on</a>, <a href="https://www.theverge.com">tech news</a>, <a href="https://www.waxy.org">creative</a> <a href="https://roadrunnertwice.dreamwidth.org/566524.html">friends</a>, and writing on productivity and <a href="https://www.carryology.com">bags</a>. Some sites <a href="https://Kottke.org">stayed around</a>, and some died down, <a href="https://a.wholelottanothing.org">only to return</a>. It’s always been relaxing to know that my news feed would appear every morning, and update throughout the day, which no social buttons or comments. This was the modern newspaper we were promised. It worked in many apps, tons of them were free, and you could save them until you were ready. Folks have worried about information <a href="https://www.wired.com/2003/08/aggregators-attack-info-overload/">overload since the beginning</a> of RSS, and really, since <a href="https://en.m.wikipedia.org/wiki/Information_overload">the early 1900s</a>, but I find RSS to be a simple way to store, view, and save stories.</p>
+<h2 id="rss-today">RSS today</h2>
+<p>Almost 20 years into using RSS, I’ve settled into <a href="https://feedbin.com">Feedbin</a> for the backend (and yes, I pay for it), with its excellent web client on my work MacBook Pro. It’s lovingly developed, and has a <a href="https://feedbin.com/blog/2018/09/11/private-by-default/">strong stance on user privacy</a> which I feel like folks rarely do these days. On my iPad and iPhone, I’ve enjoyed <a href="http://cocoacake.net/apps/fiery/">Fiery Feeds</a>, which is independently developed, and even has a <a href="http://blog.cocoacake.net/archives/1205">public feature roadmap</a>. Both of these readers have good dark mode support, keyboard shortcuts, and the ability to sync across platforms.</p>
+<p>I subscribe to newsletters with <a href="https://www.kill-the-newsletter.com">Kill the Newsletter</a>, which lets me see emails as RSS feeds, and gives me less reason to feel beholden to my Inbox. It’s nice. <a href="https://www.shatnerchatner.com">Lots</a> of <a href="https://tinyletter.com/5it">folks</a> have <a href="https://dillandfennel.substack.com">newsletters</a> these days. It’s easy to subscribe and unsubscribe, and it’s even possible to make a decent living <a href="https://craigmod.com/essays/newsletters/">writing emails to hundreds of people</a>. Knowing that on Sundays I’ll have a few new missives in my inbox or RSS feed makes me happy. These writers aren’t hoping for more clicks for a truck or razor brand; posts are either free, or supported through a simple monthly donation. Single authors don’t need hypergrowth, just some loyal readers with a few hundred at $5 a month leading to a decent annual salary. This could be naive, but it feels like most of these Newsletter writers do halfway out of a compulsion to share, and halfway out of the joy of writing.</p>
+<p>Usually when I’m interested in reading something, but don’t have time, I save it to <a href="https://support.apple.com/en-us/HT200294">Safari’s Reading List</a>, which not only saves the site’s URL for later, but saves the page offline, so you can catch up on reading while under the water, or in the air commuting. In the past I liked Instapaper, but found that having a bespoke read-it-later app meant I was too likely to collect old articles that I rarely read. Using Safari means all my saved posts are just a shortcut away when I have Safari open. Sometimes I star something instead—mostly because Feedbin’s site doesn’t have a good Safari Reading List shortcut. Either way, once my feed is marked as read, at some point that day I’ll read the stories and articles I saved.</p>
+<p>In the morning, while I’m getting ready, I usually listen to a podcast or music, and scan through my RSS feed. Even on a heavy news day, I have under 80 articles listed around 8am, and most of them get scrolled-by with nary a glance. This means I can parse what’s happening very quickly while I <a href="https://crema.co/guides/hario-v60-pour-over">pour hot water on bean crumbs</a> and head to the bus stop. Much like reading email, I try to only visit my RSS reader a few times a day, but unlike a social media site, there aren’t features designed to entice me to tap the “more” button like <a href="https://en.m.wikipedia.org/wiki/Brain_stimulation_reward">a rat in a cage</a>. It’s pleasant. It’s slow. It has the people and things I choose in it.</p>
+<h2 id="the-future-of-social-reading">The future of social reading</h2>
+<p>I still use Twitter, but find myself typically talking about and sharing stories and interesting things in private Slack instances with people I care about or work with. This means I get to have a pleasant chat about a <a href="https://www.brookshelley.com/books">new book</a> without seeing twenty posts about the world ending. I still see news, but with much less repetition and FUD. If a feed doesn’t <em>spark joy</em>, I let it go. SMTP and RSS may be old, but theirs’ is a lasting peace, and I hope if you haven’t delved into them recently, you revisit these tools. This year I am trying to slow down, take joy in rest, and find kindness for myself. I want a better world, and to fight for it, I need time away from the firehose. In RSS, I’ve found a serene pond.</p>
+</content:encoded>
+    </item>
+    
+  </channel>
+</rss>

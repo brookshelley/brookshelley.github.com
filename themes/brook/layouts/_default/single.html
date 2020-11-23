@@ -14,8 +14,9 @@
 			<h1 class="title2">{{ .Title }}</h1>
 			{{ .Content }}
 			
-			<nav class="nav tags">
+			<nav class="tags">
 				<ul class="flat">
+					<li>tags</li>
 					{{ range .Params.tags }}
 					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
 					{{ end }}

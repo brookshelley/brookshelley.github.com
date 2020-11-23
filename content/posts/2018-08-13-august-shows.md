@@ -4,6 +4,8 @@ title: August shows
 date: 2018-08-13
 description: hop along & deafheaven shows
 categories: blog
+tags:
+ - music
 ---
 
 A few years ago, after moving to Portland, I discovered a secret: you can do

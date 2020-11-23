@@ -4,6 +4,7 @@ title: A review of the Merry Spinster
 date: 2018-03-13
 tag:
   - review
+  - queer
 description: a review of the debut short-story collection by Danny Ortberg
 categories: blog
 ---

@@ -4,6 +4,7 @@ title: Smoke gets in your eyes
 date: 2018-08-20
 tags:
   - thoughts
+  - climate
 description: don't burn down the whole ding dang forest
 categories: blog
 ---

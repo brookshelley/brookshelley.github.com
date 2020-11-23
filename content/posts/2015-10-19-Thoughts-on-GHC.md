@@ -1,13 +1,12 @@
 ---
 type: posts
-tags:
-  - thoughts
 date  : 2015-10-19
 title: Thoughts on GHC
 description: a review of my only grace hopper
 categories: blog
 tags:
-  - thoughts
+  - conference
+  - work
 ---
 
 Arrival

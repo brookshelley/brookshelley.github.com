@@ -6,6 +6,14 @@ description: a few links and thoughts in your inbox
 categories: blog
 tags:
   - process
+  - tech
+  - markdown
+---
+
+*Update 2020* I am now writing a newsletter on [buttondown](https://buttondown.email/brookshelley) and reposting them [here](http://localhost:1313/tags/newsletter/).
+
+I never really jived with Substack or their general model, especially now that they're paying real goons to write there.
+
 ---
 
 It’s official: I’ve joined the newsletter trend in earnest. I’ve had [a newsletter](https://dillandfennel.substack.com) for a few months now, but I wasn’t sure what to really _do_ with it. Fortunately, I realized what I love to see the most from some of my [favorite](https://craigmod.com/roden/) [newsletters](https://desert.glass) is links to what these authors are reading this week—little jewels from internet wanderings.

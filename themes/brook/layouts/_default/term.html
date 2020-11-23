@@ -5,24 +5,19 @@
 <body>
 	<div class="container wrapper">
 		{{ partial "header.html" . }}
-		<div>
-		{{ $taxo := "tags" }}
-<ul class="{{ $taxo }}">
-    {{ with ($.Site.GetPage (printf "/%s" $taxo)) }}
-        {{ range .Pages }}
-            <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
-        {{ end }}
-    {{ end }}
-</ul>
-</div>
-
-		<h2 class="page-title">All tags</h2>
+	
+	<div class="taglist">
+		<h2 class="title2">{{ .Title }}</h2>
 		<ul>
-    {{ range (.GetTerms "tags") }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-   {{ end }}
-</ul>
-		
+			{{ $t := .Site.GetPage "/tags" }}
+			{{ range .Pages }}
+				<a href={{ .Permalink  }}>{{ .Title }}&nbsp;&nbsp;
+			{{ end }}
+			</ul>
+	  </div>
+
+		<a href=/tags>all tags</a>
+
 		{{ partial "footer.html" . }}
 
 	</div>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference on dill &amp; fennel</title>
+    <link>https://www.brookshelley.com/tags/conference/</link>
+    <description>Recent content in conference on dill &amp; fennel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWDC Thoughts</title>
+      <link>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</guid>
+      <description>Like most of the folks who marginally to maximally care about Apple stuff, I watched WWDC today from my house on my TV.</description>
+      <content:encoded><p>Like most of the folks who marginally to maximally care about Apple stuff, I watched WWDC today from my house on my TV. Our work chat was going wild throughout, especially during the bits about the ARM transition over the next few years. Overall, I felt like this was an excellent set of announcements, handled in a fun and entertaining way despite the remote nature. Also shout out to Craig&rsquo;s bold chest-hair revealing sartorial choice.</p>
+<h2 id="ios-and-ipad-os">iOS and iPad OS</h2>
+<p>The biggest UI update in a while brings homescreen widgets. I&rsquo;m excited to see what third-party developers do with this feature, as right now it&rsquo;s mostly just Stocks or Music on my screen. Also the delightful App Library means I can finally remove most of my homescreen apps, though for whatever reason it&rsquo;s not possible to remove Fitness or Watch.</p>
+<p>Global search feels faster, and more consistent, with a nice non-fullscreen view on iPad that makes cmd+space feel like the best bits of Alfred. As far as I can tell, there aren&rsquo;t any major changes to apps like Mail though, and unfortunately the announced ability to change default apps isn&rsquo;t in the first beta.</p>
+<h2 id="mac-os-11">Mac OS 11</h2>
+<p>They finally did it! We have progressed past 10.xx.xx to the wonderful world of 11. I worried we&rsquo;d just keep going endlessly in Mac OS 10, so I&rsquo;m thrilled they moved forward. The visual differences between 10 and 11 thus far feel significant enough to warrant an entire number shift, with cool transparency and just a general <em>modern</em> vibe to the whole OS.</p>
+<p>Gone is the strange slide-over menu that had notifications and widgets, and in it&rsquo;s place is a widget-only view that has stock Apple apps currently. There&rsquo;s also a control center similar to iPad or iPhone that makes it possible to dismiss Bluetooth and Wifi, as well as battery icons, Airplay, and brightness, making for a more streamlined menu bar.</p>
+<p>Default error and trash sounds all changed, which is interesting. It&rsquo;s initially confusing, as someone who&rsquo;s used the Mac since the start of OS X, but I think I like the new sounds a bit better. I&rsquo;ll keep my audio unmuted for a few weeks and report back.</p>
+<p>In the &ldquo;I dunno about this&rdquo; column: all of the icons for widgets as well as apps got awkwardly skeuomorphic again. I&rsquo;m curious to see if the design of these apps and icons changes at all before this fall.</p>
+<h2 id="arm">ARM</h2>
+<p>It&rsquo;s hard to say how the ARM transition will shake out, since it&rsquo;s largely going to take place over the course of the next two years, but personally, I can&rsquo;t wait to buy an ARM MacBook or MacBook Pro. I&rsquo;m typing this on my 2018 MacBook 12&quot; that I dearly love, and I don&rsquo;t plan to replace my personal Mac until I can also ditch Intel outside of work. I think transitions like these are cool opportunities for smaller developers to really shake things up, so I sincerely hope that Indies do a great job of unseating some of the incumbent software makers. The idea of running iPad software on my Mac is kind of exciting, especially for things like Overcast, where it makes little to no sense for a single developer to make an app for 3 platforms. I remain optimistic, but skeptical.</p>
+<h2 id="wrap-up">Wrap-up</h2>
+<p>I think today&rsquo;s event checked all the boxes I had for &ldquo;fun stuff&rdquo;, and even surprised me with a few little bits and pieces. The next big event should be in the fall, and that&rsquo;s likely when Mr. Cook and company get a lot of my money for their shiny new hardware. It was also pretty neat to watch this virtually with a bunch of folks from work—it almost felt like we were in the same place again for an hour and a half.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>XOXO 2019</title>
+      <link>https://www.brookshelley.com/posts/2019-09-10-xoxo-2019/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-09-10-xoxo-2019/</guid>
+      <description>A return to form This year marked my 4th XOXO, and my 3rd at Revolution Hall. Last year was big, which meant it was even harder to wave at, or spend time with the other amazing attendees I knew.</description>
+      <content:encoded><h2 id="a-return-to-form">A return to form</h2>
+<p>This year marked my 4th XOXO, and my 3rd at Revolution Hall. Last year was <em>big</em>, which meant it was even harder to wave at, or spend time with the other amazing attendees I knew. This year, it felt just right. I still waved at too many folks, and wished I had time to have a number of small dinners over the next year instead of so many “hey, I see you, sorry I’ve gotta run!” However, I got to spend time with a smallish group of friends, see all the talks I wanted, and even play some <a href="http://www.killerqueenblack.com">amazing</a> <a href="https://www.youtube.com/watch?v=IJ_I8SSVKto">new</a> <a href="https://play.date">games</a>.
+If you’ve never been to XOXO, and you make things on the internet, and enjoy building relationships, this is a great place for you.</p>
+<h2 id="day-one">Day one</h2>
+<p>As usually, the first day of the conference was a social one—with Glitch doing an <a href="https://glitch.com/~appy-hour">Appy Hour</a>, and Panic showing off the <a href="https://play.date">Playdate</a>. It was super cool seeing all the strange community games and creations of Glitch users, along with a few presentations, and the Playdate is something I can’t wait to own. Topped-off with a dinner at Kachka, a lot of upcoming games, and one of the <a href="https://www.polygon.com/videos/2019/9/9/20849172/unraveled-how-to-calculate-pet-hp-hit-points">most hilarious videos</a> I’ve seen in a while, wherein Brian Gilbert attempts to calculate his pet’s HP, Friday was a delight. The weather held, the <a href="https://twitter.com/brookshelley/status/1171647388001406976?s=21">toilets were uniquely chill</a>, and the layout of the festival ensure I could wander and find neat things.</p>
+<h2 id="day-two">Day two</h2>
+<p>One of the first pieces of advice I’d give anyone going to a multi-day festival is “don’t drink too much on the first night”. I didn’t take my own advice. I wasn’t ill, but a combination of 3 glasses of wine and too little sleep meant 10am felt <em>very</em> early. Thankfully my hotel had Proud Mary coffee, and XOXO had Deadstock. A breakfast sandwich from Fried Egg I’m in Love completed my resurrection.</p>
+<p>Day two felt a little longer, as I sat through every talk, alternately crying and laughing. A definite emotional rollercoaster. Helen and Hrishikesh were excellent hosts, and seeing their banter develop over the weekend makes me hope they host again next year. I missed the Andy’s camaraderie at times, but I hope <em>only</em> being responsible for the whole festival was a nice change from also MCing.</p>
+<p>Lunch was Basilisk. Unbeatable fried chicken I eat every time I visit Portland. Yes, even when I’m there for hours.</p>
+<p>Favorite talks from Saturday: Harry Brewis (very funny guy who I didn’t know anything about beforehand), Hundred Rabbits (delightful French Canadian vegan sailors), and Soleil Ho (what happens when you become the representation?!).</p>
+<p>After a quick dinner, I sat down for a night of unforgettable podcasts. I watched a man interview a chainsaw, and was utterly destroyed by Demi and Miel with special guests Neil and Mike doing Ray Parker Jr’s Ghostbuster song. The number of folks I heard singing “bustin’ makes me feel good” after this podcast taping tells me I wasn’t alone.</p>
+<h2 id="day-3-closing-time">Day 3 (Closing time)</h2>
+<p>Coffee. Sandwich. Almost there. I was wiped at this point, but the talks were delightful. Mikki Kendall, Jenny Odell, and Rhea Butcher were my favorites from Sunday. A great mix of comedy and art. Food highlights were Navarre (another favorite), and dinner at Sardine Head. OMG Sardine Head. Oxidated white wine. Salt-cured anchovy. Dang.</p>
+<p>The karaoke list was full by the time my friends and I got back from dinner, and a cab ride that included an episode of <a href="https://twitter.com/brookshelley/status/1170902500083322880?s=21">King of the Hill</a>. It was fun watching various speakers and friends sing Pavement, Lizzo, and of course, the Ghostbuster’s theme. I ended my night with my friends Jenny and Joe, drinking on the balcony at my hotel. Our friend André’s room was right by the balcony, and he wandered out mid-way through. That moment of kismet was generally how the whole conference felt—friends wandering by, saying hi, and going on adventures.</p>
+<h2 id="a-great-year">A great year</h2>
+<p>XOXO at its best feels like what I imagine a community <em>should</em> feel like. It’s full of new people, old people, dear friends, and acquaintances. If XOXO was every day, I would lose my mind, but once a year, it feels incredible to be surrounded by so many people I care about, as we’re inspired together by talks, art, and each other. I’m so glad I got to go to Portland, for the first time as a non-resident, for XOXO. I can’t wait for another year of this magical festival, and hope many of the same folks will get to attend. My only regret is that I can’t somehow bring Snorri with me too. He’d hate it.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Post XOXO thoughts</title>
+      <link>https://www.brookshelley.com/posts/2018-09-10-xoxo-thoughts/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2018-09-10-xoxo-thoughts/</guid>
+      <description>In my previous post, I talked about anticipating XOXO 2018, which ended last night. Today, I am tired, happy, and trying to remember what to do for work when I&amp;rsquo;m not awkwardly wandering around a stadium full of 2000+ people.</description>
+      <content:encoded><p>In my <a href="https://www.brookshelley.com/blog/2018/09/05/3rd-xoxo-and-anniversary.html">previous post</a>, I talked about anticipating XOXO 2018, which ended last night. Today, I am tired, happy, and trying to remember what to do for work when I&rsquo;m not awkwardly wandering around a stadium full of 2000+ people.</p>
+<h2 id="so-many-people">So. Many. People.</h2>
+<p>This year I was overwhelmed by the size of XOXO in ways I hadn&rsquo;t been in the past. To be fair, two years ago I was only a year into working from home, whereas now I&rsquo;m 3 years a hermit, but still, 2000 people is a <em>lot</em>. It felt like 100-200 people were folks I either knew from Twitter, friends, or Slack, and the &ldquo;should I wave or say hi?&rdquo; feeling that keeps me from going to parties was <em>hugely</em> amplified here. Fortunately, there were good talks, and things that weren&rsquo;t socially awkward to attend. Also, as always, having a friend or two around is a good salve fo my anxiety, and leaving the venue often to eat was vital.</p>
+<h2 id="cool-stuff">Cool stuff.</h2>
+<p>The games were neat. I only played Plunge, but watching Neo Cab, and untitled goose game was fun. Also, Laura Hall&rsquo;s very good ARG was silly good, with a chill payoff at the end. I felt lucky to do it early, before the 60+ person line after the Andys announced its existence on stage. Open Mike Eagle, Demi, and Janelle Shane gave particularly fun talks. I often felt like the bird in a psychological experiment that dies between two equidistant food bowls, but often just gave-in and stayed at the same thing for a while to avoid zipping to-and-fro.</p>
+<p>The friends I caught up with were a huge highlight, especially folks I got to eat with and wander around with. It&rsquo;s really helpful to have a small crew that are a known quantity, so when I was out of energy, I knew what to expect. I hosted two friends this time as well, and coming home with them was like returning home with some family. I made the choice more than once to eschew an activity for some time with a few people, and that felt very rewarding.</p>
+<h2 id="next-year">Next year</h2>
+<ul>
+<li>
+<p>I hope the size of XOXO goes down again next year.
+If this means more sponsorship, community funding, and other methods for a quarter -&gt; half of the attendees to not pay for a ticket.</p>
+</li>
+<li>
+<p>I also hope that there is a little less parallel programming that isn&rsquo;t recorded.
+Needing to use the restroom, take a break, or eat food often felt like a frustrating trade-off with wanting to see a friend talk or perform.</p>
+</li>
+<li>
+<p>Karaoke was good, but the very talented musicians who performed drastically altered the room.
+Next year, more than one karaoke room could be rad.</p>
+</li>
+<li>
+<p>I loved the free soda, but paid alcohol system, especially because it discouraged heavy drinking, I think.</p>
+</li>
+<li>
+<p>The bathrooms were about what I expected for a stadium, but I hope next year they&rsquo;re a little less brutalist/low-ceilinged.</p>
+</li>
+<li>
+<p>I don&rsquo;t know if Revolution Hall is a better venue, but I definitely missed the outside yard area, because grass fields are nicer than concrete pavilions.</p>
+</li>
+</ul>
+<p>Ultimately, I don&rsquo;t envy the Andys any of the planning, listening, or responding they&rsquo;ve spent years doing, and think they&rsquo;ve put together an extremely good, complicated event. I will probably try to attend again in 2019, circumstances permitting. Community is hard. I think it&rsquo;s worth it.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>3rd XOXO &amp; 1 Year Later</title>
+      <link>https://www.brookshelley.com/posts/2018-09-05-3rd-xoxo-and-anniversary/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2018-09-05-3rd-xoxo-and-anniversary/</guid>
+      <description>My 3rd XOXO Thinking about the next few days in Portland, I&amp;rsquo;m thrilled beyond measure. So many new and old friends will be in my city, wandering around, making and showing art, and eating tons of food.</description>
+      <content:encoded><h2 id="my-3rd-xoxo">My 3rd XOXO</h2>
+<p>Thinking about the next few days in Portland, I&rsquo;m thrilled beyond measure. So many new and old friends will be in my city, wandering around, making and showing art, and eating tons of food. When I <a href="https://medium.com/xoxo/xoxo-2b353d686df9">first attended XOXO in 2015</a> I had no idea what to expect. I&rsquo;d been to SXSW for years, growing-up in Austin, but never before had I felt so surrounded by rad, like-minded people. The talks were incredible, the social hangouts were silly fun, and the love at the festival was palatable. At the risk of being too sincerely stoked, XOXO is one of the best things I&rsquo;ve ever attended. In the year after my first XOXO, I was lucky to join the XOXO Outpost, which later became <a href="https://enthusiasmcollective.com">The Enthusiasm Collective</a>, and my office away from home. The calibre of people I&rsquo;ve gotten to know through XOXO, not least of all, <a href="https://waxy.org">Andy Baio</a> &amp; <a href="http://goodonpaper.com">Andy McMillan</a>, is absurd.</p>
+<p>Three years later, I&rsquo;m gearing-up to host <a href="https://usesthis.com/interviews/haley.rose.smith/">two</a> <a href="https://usesthis.com/interviews/helen.shewolfe.tseng/">friends</a>, and see dozens more. Thursday means registration and my first chance to see Cameron Esposito live. Friday, I&rsquo;ll be with Haley &amp; Andy at table 13 of [Level Eater&rsquo;s] special XOXO edition, and then seeing Darth, Helen, and Jenn present Art + Code. Saturday means <a href="https://itunes.apple.com/us/podcast/friendshipping/id971362201?mt=2">Jenn &amp; Trinn</a> performing Friendshipping (not that <a href="http://www.mrm.org/friendshipping">Friendshipping</a>), and <a href="https://neocabgame.com">Neo Cab</a>. Sunday promises amazing tales from <a href="http://www.demiadejuyig.be">Demi</a> and Claire (<a href="https://clairelevans.com">https://clairelevans.com</a>). Finally there&rsquo;ll be a closing party with a surprise musical guest, and I can&rsquo;t wait.</p>
+<h2 id="one-year-later">One Year Later</h2>
+<p>Today marks the one year anniversary of my <a href="https://medium.com/@brookshelley/one-month-in-279323105fba">coolest body mod</a>. I don&rsquo;t have much to say beyond this being an extremely vital part of many folks lives, and a procedure that <em>absolutely</em> should be covered by medical insurance (single-payer national insurance, obviously). My quality of life has grown immensely since last September, and not being weighed-down by parts of my body have led me to deeply enjoying <a href="https://www.brookshelley.com/blog/2018/08/14/powerlifting.html">powerlifting</a>, and getting naked in semi-public places—shout-out to hot springs &amp; weird parties. Major shout-out to my employer, <a href="https://www.turbinelabs.io">Turbine Labs</a> for being badasses who fought to ensure I&rsquo;d have this coverage, and gave me a month off from work to heal. I couldn&rsquo;t have done it without their support.</p>
+<h2 id="this-fall">This Fall</h2>
+<p>If you see me at XOXO, wave and say hi. I&rsquo;ll also be in San Francisco a couple times in September, including at <a href="https://chaosconf.splashthat.com">Chaos Conf</a>, and later in the year at <a href="https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/attend/">KubeCon &amp; Envoy Conf</a> which promises to be better than the last Seattle KubeCon, during which a terrible man was elected to the presidency. I look forward to not sobbing uncontrollably in the Modern Art Museum and then smoking too many cigarettes this year. I don&rsquo;t know what else might happen before 2018 closes out, but I&rsquo;m excited and have a great feeling about this Fall.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Thoughts on GHC</title>
+      <link>https://www.brookshelley.com/posts/2015-10-19-thoughts-on-ghc/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2015-10-19-thoughts-on-ghc/</guid>
+      <description>Arrival
+“This conference is GIGANTIC!” was my first thought upon arriving at Grace Hopper. This year’s attendance was around 10,000 folks, mostly women, and the largest conference besides SXSW that I’ve attended.</description>
+      <content:encoded><p>Arrival</p>
+<p>“This conference is GIGANTIC!” was my first thought upon arriving at Grace Hopper. This year’s attendance was around 10,000 folks, mostly women, and the largest conference besides SXSW that I’ve attended. Like many tech conferences, GHC had an invaluable app that showed a stream of comments from attendees as well as a schedule and other information. Once I signed in, I spent a lot of time networking and finding folks from out of town as my chosen track “Open-Source” was largely bereft of personally relevant content. Like most of the tracks, the content was focused around introductory ideas and concepts more suited to students just entering the tech world. GHC also boasted a huge job fair, and walking around was pleasantly surreal as it was comprised of 99% women, unlike just about any large room I’ve been in.</p>
+<h3 id="panel">Panel</h3>
+<p>My panel was very well received. It took place in an 500 person auditorium (super daunting), but our attendence was closer to 150. I spoke with my book’s editor Elissa Shevinsky, Ellen Spertus from Mills College (late of Google), and Dom DeGuzman from Twilio. Our topic was how to work with and around HR when you are in an oppressed or marginalized group, and despite the rather somber subject, there were laughs and later tears as our attendees came to talk to us and thank us. I was able to discuss the very important role of intersectionality when doing feminist work, and participating in diversity/inclusion discussions. I also brought to light some practical ways to include and help trans folks.</p>
+<h3 id="highlights">Highlights?</h3>
+<p>Two particular highlights in meeting people were Isis Anchalee, who started #ilooklikeanengineer, and Megan Smith, the CTO of America. There was also an LGBT (though I’m not sure why the G existed for a women’s conference) meetup at the convention center, and the turnout of around 80 women was heartening.</p>
+<h3 id="the-future">The future</h3>
+<p>Due to the nature of speaking and my suspicion that the conference content wouldn’t be incredibly applicable, I only attended one day of it. From talking to my friends, it sounds like I didn’t miss anything too great. I think Grace Hopper could still become a wonderful conference, but for now it is primarily centered on hiring and introductory talks for white and asian-american cisgender heterosexual women. It’s unfortunate that both the size, and leadership of the conference preclude many sessions that would be beneficial, or smaller talks that could be more intimate and informative. I filled out feedback forms with honest content, and I hope that GHC and Anita Borg take note, and that next year is marginally better.</p>
+<p>I’ll end with a quote from a woman who spoke to me tearfully after my talk: “I was so happy to be here at a conference with women, but I’m realizing just how many of us it still leaves out and doesn’t help or include.”</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>LWT NYC Summit</title>
+      <link>https://www.brookshelley.com/posts/2015-10-05-lesbians-who-tech-nyc-summit/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2015-10-05-lesbians-who-tech-nyc-summit/</guid>
+      <description>Due to stress, the talk I am about to give usually overshadows the talks before mine. Fortunately, LWT was such a jam-packed speaker event that I was able to tune into the talks and not get eaten by nerves.</description>
+      <content:encoded><p>Due to stress, the talk I am about to give usually overshadows the talks before mine. Fortunately, LWT was such a jam-packed speaker event that I was able to tune into the talks and not get eaten by nerves. There were a neat mix of 5 minute ignite talks about things like tackling systemic oppression, government tech work, and imposter syndrome. Some of these talks were similar to others I’ve heard, and the audience was so different than what I usually experience at a conference that I was a little sad we didn’t get past some of the 101 talks.</p>
+<p>It’s certainly possible that many of the women and other folks there were hearing about imposter syndrome or trans-inclusiveness for the first time, but I’d love to have more talks that dig into the meat of intersectional feminism in tech.</p>
+<h3 id="a-few-talks">A few talks</h3>
+<p>In the morning of Friday, there was a neat presentation by Diane Feinberg of Pixar on how they handle lighting and building a scene into something more than just 3D renderings.
+The interview right before I spoke was with a senior Amazon employee concerning the NYTimes story, and she was able to add color and detail to both how the story turned out against the actual quotes and information given to the reporter, as well as what she’s changed since then.</p>
+<p>After my talk, Edith Windsor was a particular delight, and had more than a few of us tearing up at her description of being a closeted gay woman at IBM in the 60s.</p>
+<h3 id="generally">Generally</h3>
+<p>I generally enjoyed the conference, but wish the compressed Friday schedule spread more evenly over Saturday and Sunday, instead of making them largely social/hackathon. I was also a little saddened to see banks so heavily represented in the recruiting area, but this is also my first NYC conference, so perhaps that is typical.</p>
+<h3 id="tldr">TL;DR</h3>
+<p>Overall, I think this is a worthwhile conference, and I am going to try to attend the SF summit as well in February.
+Feel free to hit me up with any particular questions you have. They recorded the talks during a live-stream, and you can watch any them at <a href="https://www.youtube.com/watch?v=vD-nwKUZ3LI">this link</a></p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>XOXO 2015</title>
+      <link>https://www.brookshelley.com/posts/2015-09-14-xoxo/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2015-09-14-xoxo/</guid>
+      <description>XOXO Fest recap
+This is my first XOXO, and as with many festivals or conferences where I know I might be overwhelmed, I was a little apprehensive.</description>
+      <content:encoded><p>XOXO Fest recap</p>
+<p>This is my first XOXO, and as with many festivals or conferences where I know I might be overwhelmed, I was a little apprehensive. It helped so much that we had Slack setup for XOXO months in advance. I met tons of rad people in and around the tech industry while I was online, and then when the XOXO started, I was prepared with a group of new and old friends.</p>
+<h2 id="the-talks">The Talks</h2>
+<p>The festival’s talks focussed on unlikely success, and sometimes success that required perseverance against odds or antagonism. From Spike’s talk about running a comic business when everyone told her that her background wasn’t good enough to do so, to Rami Ismail bemoaning the lack of time spent ensuring that the Arabic on buildings in games and media was accurate (after teaching us how to read Arabic in 10 minutes), we were taken on a journey of positive encouragement and shared joy. Other highlights were the You Look Nice Today podcast’s live recording, and the talks by Mallory Ortberg about death and running a successful website for queer librarians and female bodybuilders (I kid), and Amit Gupta’s talk about priorities and work.</p>
+<h2 id="everything-else">Everything Else</h2>
+<p>The event was super well-planned and supported, and at any given time, there were a few activities possible, plus food and drinks. There were two longer daily breaks for dinner and lunch, and meeting and eating with new friends was strongly encouraged. The vetting process for attendees and the 1000 person limit ensured that almost anyone you chatted with was someone interesting. There were also many “lower-case f” famous people in attendance, such as John Gruber from Daring Fireball, Kathy Sierra, and Ashe Dryden.</p>
+<p>The availability of tabletop games, as well as an Electric Objects art gallery, an arcade, and Instrument, and Panic’s parties kept folks moving through the city to great effect. I heard more than one person express newfound love for Portland, and my only hope is that they don’t move here and buy a house. (Confidential to some of you, please move here).</p>
+<h2 id="in-closing">In Closing</h2>
+<p>XOXO came off as a labor of love from the Andys, as well as a glorious way for those of us in tech, and adjacent, to learn new things about ourselves, and make positive connections to make the world just a little bit better. I feel incredibly lucky and happy to have attended, and I hope that next year I can return.</p>
+</content:encoded>
+    </item>
+    
+  </channel>
+</rss>

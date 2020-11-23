@@ -5,6 +5,7 @@ date: 2018-11-21
 description: from portland to oakland
 tags:
   - thoughts
+  - travel
 ---
 
 ## Queers and Steers

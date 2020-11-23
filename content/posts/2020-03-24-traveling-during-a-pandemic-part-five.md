@@ -6,6 +6,7 @@ description: flying back
 tags:
   - japan
   - travel
+  - covid
 ---
 
 *Before it was clear we were headed for a pandemic, I booked a “treat yourself” trip to Japan. After a great first year at Slack, I wanted a nice non-work trip to really relax and refresh before going back into 2020 with a renewed sense of vigor. Previously, I wrote about my time in Asakusa.*

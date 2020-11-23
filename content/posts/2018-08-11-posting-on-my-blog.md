@@ -3,6 +3,7 @@ type: posts
 title: The old is new again
 tags:
   - process
+  - writing
 date: 2018-08-11
 description: posting on my blog
 categories: blog

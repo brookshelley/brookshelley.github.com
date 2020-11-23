@@ -6,6 +6,7 @@ description: one character at a time
 categories: blog
 tags:
   - thoughts
+  - japanese
 ---
 
 ![kanji](/photos/kanji.jpg)

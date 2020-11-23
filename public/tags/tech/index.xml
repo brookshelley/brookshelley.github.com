@@ -7,7 +7,246 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2020 23:23:14 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new keyboard</title>
+      <link>https://www.brookshelley.com/posts/2020-09-22-a-new-keyboard/</link>
+      <pubDate>Tue, 22 Sep 2020 23:23:14 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-09-22-a-new-keyboard/</guid>
+      <description>A new keyboard Or, how I reprogrammed my brain to understand an ortholinear keyboard.
+During my work from home, I’ve slowly upgraded my computing setup to keep me from constant soreness.</description>
+      <content:encoded><h1 id="a-new-keyboard">A new keyboard</h1>
+<p>Or, how I reprogrammed my brain to understand an ortholinear keyboard.</p>
+<p>During my work from home, I’ve slowly upgraded my computing setup to keep me from constant soreness. First, it was a real deal office chair and desk, then a monitor. Finally this week, I added a split keyboard to alleviate wrist issues.</p>
+<h2 id="a-history-of-keyboards">A history of keyboards</h2>
+<p><img src="/photos/keyboardhistory.jpg" alt="">
+For years I’ve written primarily on a MacBook or iPad keyboard, which is pretty cramped and ensures my trainer tells me to do more ITY stretches all the time. In the office I tried using a Microsoft Sculpt for some time, but I hated their weird wireless dongle. Not only was it frustrating to put a nubbin in a USB-A port, but it seemed to interfere with other ports or wireless signals.</p>
+<p>A number of friends are huge mechanical keyboard enthusiasts, and I’d seen them around work pretty constantly, but I never really wanted one. For me, a woman who enjoys the MacBook 2015-2018 keyboard, and the iPad Smart and Magic keyboards, I didn’t think I would enjoy the force required to activate the keys, or the longer travel. I also worried that in an effort to move to a more ergonomic keyboard, I might ruin my ability to type on a regular one. I still don’t know what made me take the plunge, but I bought an <a href="https://ergodox-ez.com">Ergodox </a> to get going.</p>
+<h2 id="first-impressions">First impressions</h2>
+<p><img src="/photos/ergodox.jpg" alt="">
+Plugging in my Ergodox, my first thought was, “this is so utterly weird!” I quickly realized I’d need to program my keyboard to more closely match what I’m accustomed to on a Magic keyboard, which meant I spent quite some time on Oryx (their graphical configuration tool). After a few missteps and missing keys (turns out not having a <code>= +</code> key can be an problem, who knew?!), I settled on this:
+<img src="/photos/ergodoxlayout.jpg" alt="">
+Loading the configuration was super simple, and blazingly fast, which encouraged me to experiment and play around with new buttons. I gave myself quick keys for Alfred and Spotlight, as well as some easy copy and pastes.</p>
+<p>I quickly learned I had some issues with overreaching various keys, like the <code>b</code>, and I would need quite a bit of practice before I stopped saying “damn, damn, damn,” and frantically backspacing. My coworkers this week have seen a huge increase in accidental messages, until I figured out a better place for my enter key than “exactly where my quote key was before”.</p>
+<h2 id="week-two">Week two</h2>
+<p>I’m slowly finding a rhythm with typing alphabetical characters, but I think it will be quite some time until I’m able to quickly choose random characters. I’m trying to learn which characters I use most often, to ensure they live somewhere on my first layer, and my second layer is dedicated to the rarely used characters that I don’t mind looking down to find. Without keycaps that reflect the layers I will definitely run into the issue of not being able to look down to remind myself of where things are, so maybe I’ll pin a screenshot indefinitely on my desktop.</p>
+<p>A few friends who’ve used these keyboards assured me I wouldn’t be ruined for regular layouts by using the Ergodox, but I’ve already found myself trying to backspace on the left side of the keyboard or hit the area around the spacebar to press enter. I think I should be able to type on two different keyboard layouts in turn eventually, but for now it’s still confusing.</p>
+<p>My WPM went from an abysmal 50 to ~65 after the first week of use, and my hope is that it keeps climbing back up to my more usual 85+. It’s still too early after two weeks to tell if the Ergodox is helping my wrist and shoulder issues, but they at least aren’t exacerbated.</p>
+<h3 id="fun-with-keys">Fun with keys</h3>
+<p>I quickly learned after ordering my keyboard that there are myriad custom options from keys to cables, not to mention different switches that you can replace. I ordered a few keys and a few cables to play around with the aesthetics, but other than a shorter TRRS cable, I don’t think any change has really effected my use much. I put purple keys into the spots for alt, ctrl, and command mostly to help hone in on those modifier keys whenever I get lost.</p>
+<p>A word of warning: many awesome keysets are group buys with long lead-times, so it’s best to think of ordering a few and then forget about them and have the package as a surprise later.</p>
+<h2 id="moonlander">Moonlander</h2>
+<p><img src="/photos/moonlanderlayout.jpg" alt="">
+Imagine my surprise, a week after getting a new Ergodox when ZSA announced a <a href="https://www.zsa.io/moonlander/">new keyboard</a> just as I settled into using mine. I couldn’t resist the siren song of “next-generation ergonomics” or the idea that this keyboard would be more portable, so I picked my second ZSA keyboard in black and waited for it to arrive from Taiwan.</p>
+<h2 id="week-three">Week three</h2>
+<p>The clack of the keyboard tells me I’m back at work, and at my desk again for the next 4 days.</p>
+<h2 id="week-nine">Week nine</h2>
+<p><img src="/photos/moonlander.jpg" alt="">
+After quite a few weeks with my Ergodox, my Moonlander arrived. I immediately set it up, then forgot what the default layout was. Eventually I got Wally launched and loaded my layout, only to tweak it a bit to make some of the keys more usable. The big red keys are a little challenging to hit, but my main issue was finding a good command layout for doing cmd+k in Slack constantly. It’s funny how the keyboard shortcuts that are so common become so integral to how your keyboard is laid out. Perhaps I’ll make single key macros at some point too.</p>
+<p>By the time my Moonlander arrived at the end of September, I’d become pretty accustomed to my Ergodox, and been through a dozen or so tweaked layouts. My typing speed is around 85wpm again, but the most important part is my wrists and hands feel way better￼. I went with Brown switches for both of these keyboards, and even though they’re not very clunky I feel pretty happy with the sound. Surprisingly, typing on the iPad Magic Keyboard still feels nice￼ too. When I first started using these new keyboards I worried that the cognitive load of hopping between them and a regular layout would be too much, but so far, it’s easy. I don’t relish the idea of doing a Dvorak setup though.￼</p>
+<h2 id="overall">Overall</h2>
+<p>Switching from a standard keyboard to an ortholinear mechanical keyboard is no mean feat. I definitely struggled the past few weeks with various issues typing rare, but important keys, as well as remapping my brain to remember where I’d put everything. Overall though, for the comfort and feel, I think it’s worth it to try one. We’re stuck at home in the states for at least 6 more months, so why not take up a weird keyboard hobby in the meantime.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Hugo and iA Writer</title>
+      <link>https://www.brookshelley.com/posts/2020-09-04-hugo-and-i-a-writer/</link>
+      <pubDate>Fri, 04 Sep 2020 22:31:49 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-09-04-hugo-and-i-a-writer/</guid>
+      <description>Hugo and iAWriter When I started writing my blog in earnest again, I wanted to find a workflow I could use on both iOS and Mac with ease.</description>
+      <content:encoded><h1 id="hugo-and-iawriter">Hugo and iAWriter</h1>
+<p>When I started <a href="https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/">writing my blog in earnest again</a>, I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn't want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.</p>
+<h2 id="static-site">Static site</h2>
+<p>Originally, I was using Jekyll, as it's the basic GitHub Pages static site generator, but I fell for the speed and weird Go templating of Hugo. I've tested Eleventy and Gatsby as well, but Hugo remains my top pick. I built a custom theme for my site, along with a SASS file that hopefully is organized enough I could do some easy switching around if I get itchy for a redesign.</p>
+<p>In order to build my site fast, and ensure it loads super quickly, I moved to system fonts which meant I've achieved a delightful 1.0s full-content load time. No matter where or how someone accesses my site, they're sure to need limited bandwidth and data to read it.</p>
+<p>If you want to read more about Hugo, <a href="https://gohugo.io">their website</a> is pretty great. You're also welcome to <a href="https://github.com/brookshelley/brookshelley.github.com">creep my repo</a>, and even fork it to get started yourself. My theme is very basic, but there are a <a href="https://themes.gohugo.io">ton of them</a> out there to suit most tastes.</p>
+<h2 id="build-pipeline">Build pipeline</h2>
+<p>Once GitHub launched their Actions feature I was pretty sure I could go without a separate CI app or something like Netlify (though Netlify in specific is pretty awesome and has a really good DNS feature I still use). There are a bunch of cool Actions out there for building and launching static sites, but I use <code>[actions-hugo](https://github.com/peaceiris/actions-hugo)</code> from Shohei Ueda.</p>
+<p>It's super simple, and here's the yaml:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-YAML" data-lang="YAML"><span style="color:#f92672">name</span>: <span style="color:#ae81ff">github pages</span>
+
+<span style="color:#f92672">on</span>:
+  <span style="color:#f92672">push</span>:
+    <span style="color:#f92672">branches</span>:
+      - <span style="color:#ae81ff">main </span> <span style="color:#75715e"># Set a branch to deploy</span>
+
+<span style="color:#f92672">jobs</span>:
+  <span style="color:#f92672">deploy</span>:
+    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-18.04</span>
+    <span style="color:#f92672">steps</span>:
+      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/checkout@v2</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">submodules</span>: <span style="color:#66d9ef">true</span> 
+          <span style="color:#f92672">fetch-depth</span>: <span style="color:#ae81ff">0</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Setup Hugo</span>
+        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">peaceiris/actions-hugo@v2</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">hugo-version</span>: <span style="color:#ae81ff">‘0.71.1’</span>
+            <span style="color:#f92672">extended</span>: <span style="color:#66d9ef">true</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Build</span>
+        <span style="color:#f92672">run</span>: <span style="color:#ae81ff">hugo --minify</span>
+
+      - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Deploy</span>
+        <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">peaceiris/actions-gh-pages@v3</span>
+        <span style="color:#f92672">with</span>:
+          <span style="color:#f92672">github_token</span>: <span style="color:#ae81ff">${{ secrets.GITHUB_TOKEN }}</span>
+          <span style="color:#f92672">publish_dir</span>: <span style="color:#ae81ff">./public</span>
+</code></pre></div><p>Essentially, you set your public branch, and Github actions for pulling Hugo, building your site, and the deploying it to the public directory run in order. The whole process takes around 30 seconds with the <code>hugo --minify</code> build step completing in 400ms. Kicking off the whole build only takes pushing an update to the source branch I use. Other than that push, there's no real manual input required.</p>
+<h2 id="ia-writer">iA Writer</h2>
+<p><img src="/photos/iawriter.jpg" alt="iawriter"></p>
+<p>My love for iA Writer continues to grow every year. It's not just a fantastic place to write, but increasingly it's a solid platform to publish to the indie web from. With one-click flows for Micro.Blog, Micropub, Wordpress, and other sites, it's super easy to write and get something online. My only wish is that somehow it could support photo upload in the same manner. I also love the Quattro font the team at iA Writer created as a slightly variable monospaced font. Their support of iOS, Mac, and the iPad is excellent, not to mention very good keyboard shortcuts for all of them. Simply put, iA Writer is my favorite place to write and create.</p>
+<h2 id="testing">Testing</h2>
+<p>The only part of this whole process I haven't sorted out is testing builds from my iPad or iPhone. I may need to use Netlify again to do so, because while I have the ability to run things on another server, I'm a bit lazy when it comes to setting up rules around port forwarding. Most of the time if I'm doing active development of my site, I try to use a Mac or just very lazily roll changes out at night, reverting or fixing forward if there's an issue. Luckily a broken build never deploys, so worst case I might just put a post up that's missing photos, or have some odd spacing.</p>
+<p>I would never recommend doing this for something that super matters, but my website is a fun little project, so it doesn't need five 9s of uptime.</p>
+<h2 id="publishing-with-micropub">Publishing with Micropub</h2>
+<p>I previously covered this with <a href="https://www.brookshelley.com/posts/microposting/">another post</a>. I didn’t do much customization to the GitHub code I linked to in that post, so your mileage may vary, but using Heroku for free, I’m able to tap publish on iA Writer for a nice, easy update to this blog. Previously I used the iOS Shortcut linked below, which was also fine, but during the beta period became a bit unwieldy in addition to not being available on my Mac. I briefly considered an Automator action to replicate the same features, but hopefully at some point shortcuts will come to the Mac￼ instead. I might update my Micropub server at some point to remove some of the weird stuff I don't really use from it, but that's a project for another vacation.</p>
+<h2 id="ios-shortcuts">iOS Shortcuts</h2>
+<p><a href="https://www.icloud.com/shortcuts/fcea1fc7792a4be7952e9d4ac6e34018">My iOS Shortcut flow</a> is pretty straightforward, and I snagged a lot of it from other examples online. The only semi-fancy bits are the text-parsing I use to title and build metadata. iOS Shortcuts are kind of a pain-in-the-ass, but once you get used to the weird way of building them semi-visually, they're pretty powerful.</p>
+<h2 id="wrap-up">Wrap-up</h2>
+<p>My site has come a long way from when I <a href="https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/">started it up again</a> three years ago, while leaving <a href="https://medium.com/@brookshelley">Medium</a> as a platform. Hell, Medium has changed focuses four or five times in that period as well, now going back towards a <a href="https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd">customizable blogging place</a>. I'm pretty happy I set up my own little world of blogging and archiving content, and hopefully with the information above you can do the same if you want.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>https://www.brookshelley.com/posts/2020-09-03-hiking/</link>
+      <pubDate>Thu, 03 Sep 2020 03:00:23 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-09-03-hiking/</guid>
+      <description>Hiking Thanks to my friend Lena, I got to test out my new hiking shoes today at Redwood Regional Park.</description>
+      <content:encoded><h1 id="hiking">Hiking</h1>
+<p>Thanks to my friend Lena, I got to test out my new hiking shoes today at Redwood Regional Park.</p>
+<p><img src="/photos/onshoes.jpg" alt="On shoes"></p>
+<p>We did a very chill 5 mile hike with 1500’ climb and a total descent of 1000’.</p>
+<p><img src="/photos/redwoodhiking.jpg" alt="redwood hiking path"></p>
+<p>I think my workout program is really helping because while it wasn’t always easy to hike this trail, it was super doable and really fun. I ended-up with only a couple small blisters I chalk up to brand new shoes.</p>
+<p>The thought of crowded trails during COVID was stressful, but the reality of hiking during the day (since I’m on vacation this week) was incredibly relaxing. I think we saw a total of 10 people over the course of 2 hours, and everyone was masked. We also saw a bunch of lizards, and cute dogs.</p>
+<p><img src="/photos/forest.jpg" alt="forest"></p>
+<p>The forest paths were naturally very cool, and relaxing, and even the sunny bits were around 20C/68F which meant we didn’t need to constantly stop to hydrate.  I haven’t hiked a lot since I lived in Texas, so I’m looking forward to trying to do more hiking even without flying anywhere. Lena and I talked about how much walking we both enjoy doing when traveling, but how we’re less likely to do so in our hometown. Hopefully I can do a bit more and actually embrace traveling close to home.</p>
+<p><img src="/photos/me_hiking.jpg" alt="me"></p>
+<p>Thanks again Lena for encouraging me to get out and walk!</p>
+<p><img src="/photos/lena.jpg" alt="lena"></p>
+<p>(I didn’t really edit these photos—all straight out of the JPEG processor of my <a href="https://www.brookshelley.com/posts/2020-08-07-a-few-weeks-with-a/">new Ricoh GRIII</a>.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>A GR III review</title>
+      <link>https://www.brookshelley.com/posts/2020-08-07-a-few-weeks-with-a/</link>
+      <pubDate>Fri, 07 Aug 2020 23:03:37 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-08-07-a-few-weeks-with-a/</guid>
+      <description>A GRIII Review A street photography camera for empty streets In the before times, I travelled a lot. On average I flew 25 times a year, and left the country on 2-4 of those trips.</description>
+      <content:encoded><h1 id="a-griii-review">A GRIII Review</h1>
+<h2 id="a-street-photography-camera-for-empty-streets">A street photography camera for empty streets</h2>
+<p><img src="/photos/gr3f.jpg" alt="ricoh grIII"></p>
+<p>In the before times, I travelled a lot. On average I flew 25 times a year, and left the country on 2-4 of those trips. I&rsquo;ve written a <em>lot</em> about traveling light, so it won&rsquo;t surprise you that I usually bring my iPhone as my sole camera. A few years ago, I picked-up a Canon G9X Mark II to take with me to Singapore and Reykjavik.</p>
+<p><img src="/photos/singapore.jpg" alt="singapore"> <img src="/photos/reykjavik.jpg" alt="reykjavik"></p>
+<p>While I enjoyed the size of the camera, and the high-quality shots, at the end of those trips, I largely stopped taking it with me because the trade-off in packing wasn&rsquo;t worth the gain. It was a little too frustrating to carry <em>one more thing</em> with me while hiking or wandering the city too.</p>
+<p><img src="/photos/gr3b.jpg" alt="ricoh grIII back"></p>
+<p>With that said, it likely seems strange that I just bought a Ricoh GRIII, especially during a pandemic when it&rsquo;s unlikely I&rsquo;ll be going much of anywhere. What convinced me to try the second camera thing again was both a lingering desire for a GR that I&rsquo;d acquired when friends had film Ricohs in college, and a little bit of wanting to focus on shooting photos and not immediately sharing them with the world. It also doesn&rsquo;t hurt to have a new hobby that encourages me to walk and ride my bike around.</p>
+<h2 id="carrying-it-around">Carrying it around</h2>
+<p>In the short time since my trips to Iceland and Singpore, sling bags became very trendy, and with them, the easy way to bring a camera and nod much else along for an adventure. With nothing more than my phone, a usb to lightning cable, and my GRIII I can take photos, transfer them quickly, and edit them using <a href="https://darkroom.co">Darkroom</a> or <a href="https://www.polarr.com">Polarr</a>. When it&rsquo;s chilly, or I&rsquo;m on a bike ride, I can either stuff this into my jacket or a <a href="https://www.orucase.com/collections/accessories/products/the-smuggler-handlebar-bag?variant=32785756815499">bike bag</a>, and my hands are unburdened. I also picked-up a <a href="https://www.dsptch.com/products/type-17-camera-sling-strap">strap from DSPTCH</a> so I can wear my camera when biking or walking. I&rsquo;ve found in the past that it&rsquo;s pretty helpful to have a stabilizer strap as well, so I added one to my kit.</p>
+<p><img src="/photos/grstrap.jpg" alt="dsptchstrap"></p>
+<p>With a bag or a strap like this, I&rsquo;ve found that sans-flying, just carrying the camera around is very easy, especially if I shoot regularly during my walk. It&rsquo;s pretty easy to bring a spare battery in a pocket too. When I had my Canon with me on trips, I made the mistake of not having a sling pack or a strap for it, so there was a lot of hassle that I&rsquo;ve now solved.</p>
+<h2 id="battery-life">Battery life</h2>
+<p>In the last section, I mentioned bringing a spare battery. Usually digital cameras shoot for 250-400 shots between charges, but the GRIII seems to be on the low end of that scale. I&rsquo;ve only gone through one charge so far over a few shooting sessions, but the copious warnings online about the battery life meant I immediately ordered a spare and keep it with me <em>just in case</em>. I got two Wasabi spares with a charger for cheaper than a first-party battery, and so far they seem to not cause issues. An incredibly convenient feature on the GRIII is that I can plug the camera body into a USB-C battery or my iPad to charge it up pretty quickly even if I&rsquo;m not near a spare or a wall socket.</p>
+<h2 id="connectivity">Connectivity</h2>
+<p><img src="/photos/grcables.jpg" alt="cables"></p>
+<p>Whereas my Canon camera used micro USB like my damn Kindle (c&rsquo;mon Amazon, put a USB-C port in the Kindle already), the GRIII uses a USB-C port like my computer and iPad, which means I only need to bring a single cable to charge any of those devices. I bought a USB-C to SD card reader as well, because it&rsquo;s pretty nice to take out the SD card, and plug it into my iPad after shooting, especially if I want to go somewhere else to edit photos without my camera. Ricoh also offers an iOS app to do remote shooting, or transfers, but the speed seems to be a little slow, so I would likely only use this feature in an emergency. Part of the appeal of a camera that <em>isn&rsquo;t</em> a phone is thoughtfulness and not rushing to get a photo onto my site or micro.blog, so having a little barrier there is relaxing.</p>
+<p>Previously, I would&rsquo;ve scoffed at this, but then the pandemic happened, and I reevaluated my relationship with Twitter after leaving Instagram a few years ago. Plus, my iPhone is totally fine still for joke photos if I some reactji on Slack.</p>
+<h2 id="menus">Menus</h2>
+<p><img src="/photos/menus.jpg" alt="menu"></p>
+<p>There are a bunch of nicely resistant buttons on the GRIII, as well as a surprisingly-good touchscreen for the rest of the selections. I&rsquo;m not sure what kind of processor is in this camera, but it&rsquo;s fast and responsive when I&rsquo;m deleting, zooming, or changing settings. Additionally, it&rsquo;s as easy as thumbing the DISP button to cycle through screen options while shooting, including turning the screen off. I haven&rsquo;t used a ton of digital cameras, but this is easily my favorite menu system and settings selection.</p>
+<h2 id="shooting">Shooting</h2>
+<p>What&rsquo;s it like to actually shoot photos with the Ricoh?</p>
+<p>In a word, fantastic.</p>
+<p><img src="/photos/grflowers.jpg" alt="ricohphoto"></p>
+<p>Between the incredibly quick startup, fast burst, and great lens, every time I want to shoot a photo I can do so easily. I don&rsquo;t mind walking to zoom, and am pretty used to it with my iPhone, so the 28mm lens is a delight. Even without a tilting screen, it&rsquo;s pretty simple to know what I&rsquo;m shooting, and capture the image even without looking at the screen, especially with the snap focus option which lets me choose an automatic focus range for a full-press of the shutter button. I&rsquo;d heard a little bit about focus hunting, but I&rsquo;ve found that generally the GRIII finds faces and objects with ease. I also love mode selection ring with a lock, to ensure I don&rsquo;t accidentally revert to P or M when I wanted my own user setting—oh and there&rsquo;s 3 of those.</p>
+<p>The video, as many other reviewers have stated, isn&rsquo;t very good, but if I want to shoot video (which is rare), my iPhone is just fine.</p>
+<h2 id="the-specs">The specs</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">Spec</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>Resolution</strong></td>
+<td style="text-align:left">6000 x 4000</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>MP</strong></td>
+<td style="text-align:left">24</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Sensor</strong></td>
+<td style="text-align:left">APS-C</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Focal length</strong></td>
+<td style="text-align:left">28mm</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Aperture</strong></td>
+<td style="text-align:left">F2.8–16</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Screen size</strong></td>
+<td style="text-align:left">3”</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Max speed</strong></td>
+<td style="text-align:left">1/4000 sec</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Weight</strong></td>
+<td style="text-align:left">257 g</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Dimensions</strong></td>
+<td style="text-align:left">109 x 62 x 33 mm</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Connectors</strong></td>
+<td style="text-align:left">USB C &amp; hot shoe</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Battery life</strong></td>
+<td style="text-align:left">Approx. 200 images</td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://www.ricoh-imaging.co.jp/english/products/gr-3/spec/index.html">If you want more <em>specs</em></a>.</p>
+<h2 id="the-verdict">The verdict</h2>
+<p><img src="/photos/coolcat.jpg" alt="coolcat"></p>
+<p>I love this camera. Between the quality of the photos, the feel of it in my hand and the generally indefinable <em>coolness</em> the Ricoh GRIII is with me pretty much any time I leave the house now. I can&rsquo;t wait to travel with it to Japan again, or even take it with me backpacking in the near future. If you like shooting street photography, or like me, just want to take photos of your cat and surroundings without notifications interrupting your walk, pick one of these up.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Microposting</title>
+      <link>https://www.brookshelley.com/posts/2020-07-16-microposting/</link>
+      <pubDate>Thu, 16 Jul 2020 08:01:36 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-07-16-microposting/</guid>
+      <description>Microposting After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter.</description>
+      <content:encoded><h1 id="microposting">Microposting</h1>
+<p>After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!</p>
+<p>With the beta of iOS 14 I’ve had to heavily modify my publishing shortcuts, and while they’re pretty great, publishing directly through Micropub with the “publish” button in iAWriter seems even more convenient.</p>
+<p>If you’re using Hugo or Jekyll, <a href="https://github.com/am1t/webpage-micropub-to-github">this is a good starting place</a>, and only needs minor tweaks to exposed config values to work with most setups of either static backend.</p>
+<p>With the wild social hacking incident on Twitter today, now more than ever it’s cool to own and control your own content. Outside of the cost of my editor, and my domain registration, I think I pay a grand total of $0 to Netlify for DNS, GitHub for hosting, or another web host for a few random services. Static sites are tiny, and IMO the only real cost is a few days to figure out some of the small caveats and customize your theme.</p>
+<p>If you’re a pal, and stoked on implementing any of this, I’m <a href="mailto:brookshelley@gmail.com">happy to chat</a></p>
+</content:encoded>
+    </item>
+    
     <item>
       <title>WWDC Thoughts</title>
       <link>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</link>
@@ -28,6 +267,356 @@
 <p>It&rsquo;s hard to say how the ARM transition will shake out, since it&rsquo;s largely going to take place over the course of the next two years, but personally, I can&rsquo;t wait to buy an ARM MacBook or MacBook Pro. I&rsquo;m typing this on my 2018 MacBook 12&quot; that I dearly love, and I don&rsquo;t plan to replace my personal Mac until I can also ditch Intel outside of work. I think transitions like these are cool opportunities for smaller developers to really shake things up, so I sincerely hope that Indies do a great job of unseating some of the incumbent software makers. The idea of running iPad software on my Mac is kind of exciting, especially for things like Overcast, where it makes little to no sense for a single developer to make an app for 3 platforms. I remain optimistic, but skeptical.</p>
 <h2 id="wrap-up">Wrap-up</h2>
 <p>I think today&rsquo;s event checked all the boxes I had for &ldquo;fun stuff&rdquo;, and even surprised me with a few little bits and pieces. The next big event should be in the fall, and that&rsquo;s likely when Mr. Cook and company get a lot of my money for their shiny new hardware. It was also pretty neat to watch this virtually with a bunch of folks from work—it almost felt like we were in the same place again for an hour and a half.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Blog Redesign</title>
+      <link>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-05-30-blog-redesign/</guid>
+      <description>My personal site started off as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites.</description>
+      <content:encoded><p>My personal site <a href="https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163">started off</a> as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites. I’ve lost lots of data in the past, and ultimately it’s just much easier to keep text portable and backed-up when it’s a <code>.txt</code> or <code>.md</code></p>
+<p>In the ensuing years, I’ve written a few blog posts, and listed tons of books and movies but I hadn’t done much with my site’s structure or design besides moving my static site generator from <a href="https://jekyllrb.com">Jekyll</a> to <a href="https://gohugo.io">Hugo</a> on a whim last year. I can’t say that I like Go templating any better than Ruby, but I can struggle through both of them. With a site publishing workflow that automatically builds and deploys from Github using Github Actions, I’m set on the backend front, and decided to give my front end skills a dusting-off from my days in CSS 1.0 land.</p>
+<h2 id="a-start-at-design">A start at design</h2>
+<p>My initial foray into the design of the site was just to use an off-the-shelf theme called <a href="https://themes.gohugo.io/ezhil/">Ezhil</a>, which worked pretty well for a while. Sure, there were creaky bits, and a lot of extraneous things I didn’t care for, but it was easy to install, and use, so I went for it. Hugo and Jekyll, and even <a href="https://www.11ty.dev">Eleventy</a> (if you’re a JS person) have dozens of fantastic themes and templates from folks far more talented at CSS than myself, but I’ve found my site doesn’t feel like it’s mine until I’ve done some under the hood tinkering.</p>
+<h2 id="a-long-week">A long week</h2>
+<p>With a three day work week, I got the jones for change. I’d tweaked the initial theme a bit to iron out features I didn’t like, but ultimately I think I made a bit of a mess of the site until now. Inspired by <a href="https://frankchimero.com/blog/2020/redesign-wrapping-up/">Frank Chimero’s long redesign process</a> I decided to radically simplify my site, and try to get a total load time of under two seconds. I accomplished both of my goals, but I have a way to go before I’m fully happy with the type and margins. Fortunately, I learned a lot o CSS tricks along the way, and even dipped my toes into CSS Grid in <a href="https://github.com/brookshelley/brookshelley">another repo</a>.</p>
+<h2 id="fonts--hierarchy">Fonts &amp; hierarchy</h2>
+<p>For this 2020 version of my site, I moved to <a href="https://fonts.adobe.com/fonts/quicksand">Quicksand</a> as my sans-serif, and decided to add <a href="https://fonts.adobe.com/fonts/source-serif">Source Serif Pro</a> to make reading longer content like this much easier. As someone who is very much <em>not</em> a designer, I <em>think</em> the two go together ok, but hopefully my actual designer friends will give me feedback at some point to save me from any <em>fauxnt pas</em>.</p>
+<p>For header elements, I tried to let them breathe with a big top and bottom margin. I couldn’t stomach the full 4em that Frank Chimero uses on his site, but 2em felt nice enough, especially on my iPhone. Since I was regularly testing this site on light and dark modes, on my iPad, MacBook, and iPhone, I was able to work out a lot of responsive kinks along the way.</p>
+<p>Honestly, I’m happy I figured out most of the margins and centering CSS amongst the tangle of elements. While I was dealing with my site’s code, a friend reminded me “hell is other people’s CSS,” and that will ring in my head until I inevitably replace all of the elements and classes in <code>main.css</code>. It’s frustrating not always knowing what changes will actually be reflected in the browser due to confusing nested values. More on this in the future along with potential font changes.</p>
+<h2 id="simpler-menus">Simpler menus</h2>
+<p>In his redesign blog, Frank talked about removing his reading and music lists by relocating them to <a href="https://www.notion.so/Reading-Log-3341e831fc744130bf536a54cd79ec56">Notion</a>. This isn’t a terrible idea, and I definitely like the added simplicity of his menus because of it, but my priority remains holding onto plain text versions of my lists, so that’s out for me. I thought about ways of auto-populating them when I write my media diets, but outside of a few ideas around templating I have stuck to manually copying over items for those posts. Perhaps there isn’t a need for media diets and exhaustive lists to exist? For now, I’ll keep the two lists in my top level nav, with secondary links in the media diet section.</p>
+<h2 id="light-is-fast">Light is fast</h2>
+<p>To hit my goal of an under two second load time, I gutted a few javascript files, before realizing I didn’t need them at all. Instead of <code>feather.min.js</code>, I just inlined the few SVG icons I wanted, and threw them in my footer partial. Bingo bango.</p>
+<p>I dug into my CSS file and tried to remove everything that’s not necessary, and during the aforementioned margin struggle that meant dozens of lines of code. I also managed to bring down the total site size by 10s of Mb by using <a href="https://imageoptim.com/mac">Image Optim</a> to do what it says on the tin. <a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/">This post</a> is a really great read if you want to dig further into image optimization, or learn just how bloated your site might actually be.</p>
+<p>At the end of all of my optimizing and spring-cleaning, I hit 1.9s of load time, with a responsive design that works in light or dark mode (though light mode doesn’t get SVG icons yet because I got sleepy). I’m pretty proud of the <a href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fwww.brookshelley.com">results I got on web.dev</a> at the end of all my hard work, but I still need to sort out a more efficient caching strategy for a few odds and ends.</p>
+<h2 id="what-i-learned">What I learned</h2>
+<p>Ultimately, I re-learned that in the year 2020, the fastest way to build a website is still to use mostly static HTML and CSS, and ditch the JavaScript completely. Web fonts are still weird, though it turns out doing <a href="https://csswizardry.com/2020/05/the-fastest-google-fonts/">preloading</a> can help a bit with speed. Hopefully I’ll figure out a few more things about margins, padding, and site hierarchy as I keep tweaking this design, but I’m pretty happy with how it looks so far.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>iPad Magic Keyboard Review</title>
+      <link>https://www.brookshelley.com/posts/2020-04-24-ipad-magic-keyboard-review/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-04-24-ipad-magic-keyboard-review/</guid>
+      <description>Watching friends and reviewers get their new Magic Keyboards in the mail all week was brutal, because every word I read about them, and video I watched just made me want to touch one more.</description>
+      <content:encoded><p><img src="/photos/magickeyboard.jpg" alt="iPad and Magic Keyboard"></p>
+<p>Watching friends and reviewers get their new Magic Keyboards in the mail all week was brutal, because every word I read about them, and video I watched just made me want to touch one more. In the time of quarantine, there’s no store to visit to try new products out, so instead we’re left waiting for delivery, and hoping everything lives up to our dreams.</p>
+<p>In a sentence: this is my new favorite keyboard.</p>
+<h2 id="heavy">Heavy</h2>
+<p>My first thought when I took the Magic Keyboard package out of the mailbox was, “yow, this <em>is</em> heavy.” After taking the keyboard out of its packaging, the heft remained, but once I attached my iPad to it and started typing, I forgot all about the weight. Sure, this will be a bit heavier for travel, but the modularity is worth it for me. I can’t wait to type on this while traveling, then pull the iPad off the keyboard to carry around for reading in a park, or watching a tv show. It makes me wish it were possible to pull the screen off of my work computer and walk around with it too!</p>
+<h2 id="modular">Modular</h2>
+<p>Ever since getting the Smart Keyboard, my iPad basically never left it. I carried my iPad around daily, fingers pressed into the keys awkwardly on the back of the screen. The previous keyboard for the iPad was also super strange in its own way, but looking back, having a primary iPad case expose you to the keyboard buttons constantly when all you want to do is read is so silly. This new Magic Keyboard makes no concessions to using it while <em>not</em> typing. The ease of removing the iPad from the keyboard (I’m almost tempted to call it a dock) is such that I don’t even think about taking my iPad with me to another room, sans keyboard. This mode-changing makes the iPad feel even more futuristic than it did before, especially because my hands are only now becoming accustomed to the thin, metallic body of the iPad, instead of the strange rubber skin of the keyboard case its lived in up until now.</p>
+<h2 id="thunk">Thunk</h2>
+<p>So, what’s the keyboard actually like to type on?</p>
+<p>Fantastic.</p>
+<p>Unlike most folks, I really enjoyed both the butterfly keyboard in my MacBook, and the cloth-covered one on the Smart Keyboard. I enjoyed the short-travel, and the weird texture, but the feel and thunk of this new keyboard is even better. I don’t really care about the backlighting, and I’m a little bit more concerned about the gaps that invite in stray drops of water, but as I mentioned above, I don’t plan to carry this with me all the time, so it’s more likely I’ll have a glass of wine sans non-waterproof keyboard, and keep drinks away when I plan to <em>type</em>.</p>
+<p>I typed this review on the new keyboard, and the experience was absolutely fantastic. The new trackpad <em>is</em> small, but the ability to quickly laser-target my edits is a delight. No longer do I have to tap, stab, tap tap, arrow, arrow, arrow. I can just point, and click, and voila. When I’m not at work, I more or less <em>only</em> use my iPad, and this new keyboard means the typing I do will be faster, feel better, and even sound more pleasingly thunky.</p>
+<h2 id="should-you-buy-it">Should you buy it?</h2>
+<p>Do you type on your iPad? Do you want to? Have you been tempted to plug your iPad into a monitor and use a Bluetooth trackpad? Do you love writing on the go?</p>
+<p>If so, then this is probably the right keyboard for you. If you only occasionally reach for your iPad to watch YouTube videos, or are the kind of person who thinks traveling with an iPad <strong>and</strong> a MacBook is totally acceptable, then save your $300. In the same way that I’ve never purchased an Apple Pencil, many iPad users will never purchase this keyboard, and I think that’s totally fine. But the folks that do buy one, and get to experience the entirely wonderful experience of typing and editing will be incredibly satisfied, I think.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>One year of newsletter</title>
+      <link>https://www.brookshelley.com/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/</guid>
+      <description>Way back in February of 2019, I sent my first newsletter—a repost of a blog post about learning Japanese, then petered out for a bit.</description>
+      <content:encoded><p>Way back in February of 2019, I sent my first newsletter—a repost of a <a href="https://dillandfennel.substack.com/p/learning-japanese-again">blog post about learning Japanese</a>, then petered out for a bit. In July, I began sending <a href="https://dillandfennel.substack.com/p/weekly-links">weekly link emails</a>, which I managed to keep up through the end of the year. It&rsquo;s been quite a fun Sunday activity, so I thought I&rsquo;d chat a bit about what the experience of weekly link writing was like.</p>
+<h2 id="why-links">Why links?</h2>
+<p>This year I got really stoked about Robin Sloan&rsquo;s <a href="https://desert.glass">Year of the Meteor</a> newsletter, which was full of incredible links that led me to read quite a bit, and even <a href="https://underarmbalm.com">change my deodorant brand</a>. Robin consistently finds interesting and strange things all over the web, and I thought, perhaps I could do the same. I struggle to find writing topics at times, but I still journal daily, and try to keep up a writing practice during the fallow uninspired periods. A weekly newsletter seemed like an excellent idea, but I tend to write less, and not more.</p>
+<h3 id="a-brief-digression">A brief digression</h3>
+<p>I&rsquo;ve found that writers are usually in one of two camps: the underwriters, and the overwriters. As a member of the former camp, I can crank out 1-2000 words in no time, but asking me to go beyond that is a torture, whereas my overwriting friends tend to need an editor to get down to 2000. Because of this the idea of writing a novel, or even a longish short story is really hard to consider—but short creative nonfiction? Hell yes.</p>
+<h2 id="ok-back-to-the-links">Ok, back to the links</h2>
+<p>Having realized I wasn&rsquo;t able to creatively write every week without a good prompt, I settled on looking around the web through the week, and sending my baubles to you, the reader, on Sundays. I settled on Sunday because it felt like a good time to have coffee and enjoy a little surfing around. Perhaps you do this reading on another day, but for me, Sundays are for coffee and words.</p>
+<h2 id="finding-links">Finding links</h2>
+<p>The links I share come from all over the place. Sometimes I reshare things I found in another newsletter, like <a href="https://www.densediscovery.com">Dense Discovery</a>, and other times, they come from my <a href="https://feedbin.com">long list of RSS feeds</a> (feel free to request my OPML file). I read quite a bit every day, both on and offline, so it really isn&rsquo;t hard to find a few tidbits to share.</p>
+<h2 id="the-satisfaction-of-analytics">The satisfaction of analytics</h2>
+<p>I don&rsquo;t spend a lot of time thinking about how many readers I&rsquo;ve amassed (spoiler, not many), but I do love that I can see that folks generally <em>are</em> reading the emails I send out. There&rsquo;s a small sense of accomplishment when I know that someone has found something neat because I shared it. I really do love a recommendation, and it seems like some of you do as well.</p>
+<h2 id="platforms">Platforms</h2>
+<p>This year began on <a href="https://substack.com">Substack</a>, which seems like a decent platform, and has attracted <a href="https://www.shatnerchatner.com">more than</a> a <a href="https://grace.substack.com">few friends</a> as users. As someone who isn&rsquo;t really planning to  find success or payment via a newsletter, my main goals were something easy to use, and ideally something I could send content to directly from <a href="https://ia.net/writer">iAWriter</a>, my markdown editor of choice.</p>
+<p>With that in mind, I was eager to switch to <a href="https://buttondown.email">ButtonDown</a> after reading about it via Robin Sloan. I love how both the <a href="https://www.notion.so/639bdb37786e489a960d4810ee6ce351?v=58ef759254094357bdb04d715e9c518b">roadmap</a> and <a href="https://buttondown.email/running-costs">costs</a> are fully public, and the developer responds really quickly via email. This small, sustainable app is something I&rsquo;m really keen on supporting, as I love sustainable apps much more than venture-funded privacy-less hockey-stick comapnies. Plus using Working Copy and Shortcuts, I managed to build on top of their really <a href="https://api.buttondown.email/v1/schema">easy to use API</a>, and now have a one-button send draft to ButtonDown</p>
+<h2 id="next-year">Next year</h2>
+<p>My plan currently is to just <em>keep on keeping on</em> with this weekly links newsletter, and aspire to continuing monthly blog posts about longer topics. If you have things you&rsquo;d love to see, or things you want to chat about, you know <a href="mailto:brookshelley+blog@gmail.com">how to reach me</a>.</p>
+<p>Have a fantastic new year, and I&rsquo;ll see you next Sunday!</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>DevRel Tour Packing List</title>
+      <link>https://www.brookshelley.com/posts/2019-11-06-devreltour-packing-list/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-11-06-devreltour-packing-list/</guid>
+      <description>As usual, when I go on a DevRel tour, I like to write about what I&amp;rsquo;ve packed. This trip was a 3 week journey from Tokyo, through Kyoto, to Osaka, and back.</description>
+      <content:encoded><p>As usual, when I go on a DevRel tour, I like to write about what I&rsquo;ve packed. This trip was a 3 week journey from Tokyo, through Kyoto, to Osaka, and back. As I write this, halfway through the trip, I feel very good about the amount of stuff I brought.</p>
+<h2 id="bags">Bags</h2>
+<ul>
+<li>RYU Quick Pack 18L</li>
+<li>Topo Designs Trip Pack</li>
+</ul>
+<p><img src="/photos/ryubag2019.jpeg" alt="bags"></p>
+<p><img src="/photos/travelbag2019.jpeg" alt="bag2"></p>
+<p>Last time I went to Japan, I brought the DSPTCH Waist Bag as my day bag, and my shoulders immediately regretted it. I think my days or a one-shoulder bag with a computer are pretty much over. This time I returned to my tried and true setup. I’ve reviewed or written about both of these bags previously.</p>
+<p><img src="/photos/drybags2019.jpeg" alt="drybags"></p>
+<ul>
+<li>Two Sea-to-summit dry bags</li>
+</ul>
+<p>These are great for clothes and toiletries, and additionally ensure that even in a downpour I can keep a few things dry.</p>
+<ul>
+<li>One Topo Designs accessory bag</li>
+</ul>
+<p><img src="/photos/drybagsinside.jpeg" alt="drybagsinsidebigbag"></p>
+<p>This time around, I loaded my toothbrush and some other non-leaky toiletries into this bag because I noticed the metal tip of my electric toothbrush kept <em>almost</em> poking through my dry bag.</p>
+<h2 id="clothes">Clothes</h2>
+<p><img src="/photos/clothes.jpeg" alt="clothes"></p>
+<h3 id="jackets">Jackets</h3>
+<ul>
+<li>Mission Workshop Torre Windshell</li>
+</ul>
+<p>My daily jacket. I’ve got two of these and they’re awesome. Not quite waterproof, but warm enough, and water-resistant enough for a drizzle and temperatures between 7-20C (mid-40s to mid-60s F).</p>
+<ul>
+<li>Arcteryx Cordetta</li>
+</ul>
+<p>If it rains, I’m covered.</p>
+<h3 id="shirts">Shirts</h3>
+<ul>
+<li>Wool t-shirts from Ryu and Icebreaker</li>
+</ul>
+<p>A great way to stay dry and warm or cool. These wash easily and are comfy for all-day-travel.</p>
+<h3 id="pants">Pants</h3>
+<ul>
+<li>Two pairs of Outdoor Voices RecTrek pants</li>
+</ul>
+<p>I wear these to work daily, and they’re pretty ideal. Comfy, flexible, and a bit water-resistant. The pockets are also <em>huge</em> which means my phone fits easily in a front pocket.</p>
+<h3 id="shoes-and-socks">Shoes and socks</h3>
+<ul>
+<li>Blundstones</li>
+<li>Bombas no-show</li>
+</ul>
+<p>These shoes go on and off pretty easily, and look nice enough for business meetings while still feeling good for longer walks. Half of this trip was a vacation, where I wandered around all day, including hiking. I almost went with my new KOIO shoes, but at the last minute, opted for slip-one with a <em>lot</em> of grip.</p>
+<h3 id="underwear">Underwear</h3>
+<ul>
+<li>Wool stuff from Icebreaker</li>
+</ul>
+<p>Wool is the way to go. I’ve tried other solutions and they were nice enough, but ultimately, wool holds up the best and wicks super well.</p>
+<h2 id="tech-gear">Tech gear</h2>
+<p><img src="/photos/electronics2019.jpeg" alt="electronics"></p>
+<ul>
+<li>Kindle Oasis</li>
+<li>Battery</li>
+<li>USB-C -&gt; C, and Lightning: iPad and iPhone</li>
+<li>USB-A -&gt; Watch</li>
+<li>USB-A -&gt; Micro: Kindle</li>
+<li>iPad Pro 10.5 w/ Smart Keyboard</li>
+</ul>
+<p>At some point, maybe I can travel with only USB-C cables, but that world doesn’t exist yet. Fortunately my external battery has a USB-C port and a USB-A port, so I use those two to charge my phone and watch at night. On the plane my USB-C to USB-C cable means I can top-up my iPad if I play too many games or get low mid-season of a tv show. It completely boggles the mind why the Kindle isn’t a USB-C device yet. Seriously. It’s 2019.</p>
+<h2 id="other-stuff">Other stuff</h2>
+<p><img src="/photos/weeks2019.jpeg" alt="weeks"></p>
+<ul>
+<li>Toiletries</li>
+<li>Hobonichi Weeks &amp; Kaweco Al EF fountain pen</li>
+<li>お土産</li>
+</ul>
+<p>The usual assortment of unguents, potions, and a toothbrush, along with my trusty new pen and notebook. I <em>love</em> this Kaweco pen, which is both completely blacked-out, and compact. I also brought some small gifts for 東京と大阪の同僚。</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>A Weekly Link Newsletter</title>
+      <link>https://www.brookshelley.com/posts/2019-07-21-newsletter/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-07-21-newsletter/</guid>
+      <description>Update 2020 I am now writing a newsletter on buttondown and reposting them here.
+I never really jived with Substack or their general model, especially now that they&amp;rsquo;re paying real goons to write there.</description>
+      <content:encoded><p><em>Update 2020</em> I am now writing a newsletter on <a href="https://buttondown.email/brookshelley">buttondown</a> and reposting them <a href="http://localhost:1313/tags/newsletter/">here</a>.</p>
+<p>I never really jived with Substack or their general model, especially now that they&rsquo;re paying real goons to write there.</p>
+<hr>
+<p>It’s official: I’ve joined the newsletter trend in earnest. I’ve had <a href="https://dillandfennel.substack.com">a newsletter</a> for a few months now, but I wasn’t sure what to really <em>do</em> with it. Fortunately, I realized what I love to see the most from some of my <a href="https://craigmod.com/roden/">favorite</a> <a href="https://desert.glass">newsletters</a> is links to what these authors are reading this week—little jewels from internet wanderings.</p>
+<p>My re-launched Dill and Fennel newsletter will have links to some of the more interesting or funny things I’ve seen in the previous week. Sometimes these may be links to books, or tweets with a little color commentary. If you read this site, you might enjoy <a href="https://dillandfennel.substack.com/subscribe?utm_source=menu&amp;simple=true&amp;next=https%3A%2F%2Fdillandfennel.substack.com%2F">subscribing</a>.</p>
+<h2 id="this-site">This site</h2>
+<p>I’ll still write here as often as I can, but I found myself wanting a quicker way to write weekly, without needing a <em>big</em> thing to blog about, or something to review. My monthly media diets will still be posted to brookshelley.com as well. It’s been fun to do tiny reviews of books and movies, even if it’s mostly for my own memory of what I consumed in a year. Not using Letterboxed or Goodreads for this was a very conscious decision—I want to own and control my own data. If you keep track of this kind of stuff yourself, or run your own little slice of the internet, I’d love to <a href="mailto:brookshelley@gmail.com">hear about it</a>!</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>iPadOS</title>
+      <link>https://www.brookshelley.com/posts/2019-06-09-ios13/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-06-09-ios13/</guid>
+      <description>It’s probably clear by now that I love my iPad Pro. I travel with it, write on it, and practice Japanese on it.</description>
+      <content:encoded><p>It’s probably clear by now that I <em>love</em> my iPad Pro. I <a href="https://www.brookshelley.com/blog/2019/03/13/travel-kit-update.html">travel</a> with it, <a href="https://www.brookshelley.com/blog/2019/05/02/On-Notes-and-ToDos.html">write on it</a>, and <a href="https://www.brookshelley.com/blog/2019/01/27/learning-kanji-again.html">practice Japanese</a> on it. When Apple announced <a href="https://www.apple.com/ipados/ipados-preview/">iPadOS</a>, it suddenly seemed liked my dream of only using my iPad had come true.</p>
+<h2 id="major-updates">Major updates</h2>
+<h3 id="new-home-screen">New home screen</h3>
+<p>With a glance at the home screen, <img src="/photos/ipadhome.jpg" alt="photo of home screen with slide-over widgets"> it’s clear that this isn’t iOS 12. Onscreen widgets isn’t exactly revolutionary, but it saves me a slide-over every time I want to check the weather, or which meeting I’m headed to next. It’s pretty cool, and even though it’s in some ways a catch-up to what other platforms have had for a while, I dig it.</p>
+<h3 id="copy--paste--select">Copy &amp; paste &amp; select</h3>
+<p>Copy and pasting also get a refresh in iPadOS, with three-finger gestures copying, cutting, and pasting. I’m not sure how <a href="https://www.theverge.com/2019/6/6/18654314/apple-ipad-os-ipados-wwdc-first-look-windows-usb-user-interface-new-features">intuitive it is</a>, but for power-users at least, it should work quite well. I’ve gotten somewhat used to the gestures already. Multiple taps allow for some cool selection specificity, though occasionally this feels more frustrating as I struggle to remember how many taps to select a word. I think this will get better with practice</p>
+<h3 id="swipe-to-type">Swipe to type</h3>
+<p>Ever since I started practicing kanji for an hour or two every day, I noticed I was getting repetitive strain on my thumb and hand. I’m not sure how much this new swipe-to-type will help, but I’m enjoying the faster typing it enables.</p>
+<h3 id="desktop-safari">Desktop Safari</h3>
+<p>This single change is the reason iPadOS is a massive update for so many of us. Desktop versions of websites mean I can finally use Google Docs, or Notion, or Figma without pulling out my MacBook Pro at work. In testing, it seems like it <a href="https://www.theverge.com/2019/6/4/18652163/google-docs-ipad-ipados-safari-apple-wwdc-2019">really works</a>, which rules. The first version of the OS just launched, so I’d expect we might see even better support between now and the launch of the OS in the fall.</p>
+<h3 id="sign-in-with-apple">Sign-in with Apple</h3>
+<p>This sign-in upgrade will come to iPad and iPhone, and is an amazing privacy boost for everyone using an iOS device. By removing the need to give your email address to every service I use, Apple is potentially saving me hundreds of unsubscribes and delete from inbox actions, not to mention all the scraping and ad targeting. I’m very stoked.</p>
+<h2 id="minor-changes">Minor changes</h2>
+<h3 id="dark-mode">Dark mode</h3>
+<p>I love dark mode, don’t get me wrong, but this update is a small change compared to the rest of the amazing stuff packed into iPadOS.</p>
+<h3 id="files-updates">Files updates</h3>
+<p>Column view, quick actions, more metadata, and a downloads folder all mean better file management without a desktop. Apple also added the ability to use thumb drives and hard drives in the USB-C drive, which isn’t really something I need, but seems to be a big deal to a lot of folks.</p>
+<h3 id="the-rest">The rest</h3>
+<p><a href="https://www.apple.com/ipados/ipados-preview/features/">The list goes on and on</a></p>
+<h2 id="what-it-means-for-me">What it means for me</h2>
+<p>With iPad OS, I can’t think of a single thing I do on my Mac that I can’t do on my iPad with the exception of working with a very large Github repo (just try downloading and updating a 6gb repo over WiFi, yow). With the addition of Catalyst apps on Mac, I hope that even more developers will devote energy to making powerful and fun iPad apps in the future. This fall will likely bring device updates with minor spec bumps, and likely this time I’ll snag a Cellular version so I can take advantage of <a href="https://support.google.com/fi/answer/6330195?hl=en">Google Fi’s data sim</a>. Until now I’ve always been fine with tethering my iPad to my phone, but international travel makes that impossible due to Google’s restrictions, and since it’s essentially a free add-on, it seems like a no-brainer.</p>
+<p>As of this year, I carry my iPad to most meetings, and almost always bring it instead of my Mac on trips—even for work. This new OS ensures that this will keep being the case. Macs will keep being a great option for my desk at work, but more and more, the iPad and the iPhone are where I prefer to do my computing.</p>
+<p>If you haven’t checked out an iPad in a while, this fall will be a really good time to do so. You might not love it as much as I do, but it might surprise you.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>On the perfect thing</title>
+      <link>https://www.brookshelley.com/posts/2019-05-27-on-the-perfect-thing/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-05-27-on-the-perfect-thing/</guid>
+      <description>The search for the best, most optimized, beautiful, light, and pleasing things.
+Why do we search? Scrolling through my RSS feeds, I’m reminded daily that so much stuff exists.</description>
+      <content:encoded><p>The search for the best, most optimized, beautiful, light, and pleasing things.</p>
+<h2 id="why-do-we-search">Why do we search?</h2>
+<p>Scrolling through my RSS feeds, I’m reminded daily that so much <em>stuff</em> exists. I subscribe to newsletters for fashion, backpacks, apps, and general tech, and every single one has an endless march through the days of new things. This <a href="https://www.macstories.net/reviews/ulysses-16-adds-powerful-split-view-editing-on-ipad-plus-ghost-publishing/">app</a> has <em>two columns</em> for editing! This <a href="https://www.carryology.com/liking/industry/best-new-gear-march-2019/">backpack</a> is “able to transition from work to play and travel.” <a href="https://www.businessinsider.com/bombas-socks-review">These</a> are the <em>best socks</em>.</p>
+<p>I could go on.</p>
+<p>The search for the best thing is best represented by the website <a href="https://thewirecutter.com">The Wirecutter</a>, with its incredibly thorough reviews of the <em>best</em> things in almost every category you can imagine. Started by <a href="https://en.m.wikipedia.org/wiki/Brian_Lam">a guy</a> and his friends to get out of the grind of tech reporting, they began to painstakingly investigate categories of tech, gear, and housewares to recommend one thing you could buy. My friend’s homes are filled with these <em>best</em> things. Hell, mine is too. They’re right most of the time, save for when taste or niche need intervenes. But why do we care?</p>
+<p>Supposedly, <a href="https://www.fastcompany.com/3043858/the-science-of-why-you-should-spend-your-money-on-experiences-not-thing">experiences make us happier than stuff</a>, but we still buy a good amount of stuff. Talking with friends, it seems like most of us like to think we’re getting a deal—by buying the <em>best</em> thing, we’re ensuring that our dollar goes furthest. The single thing we’re buying is categorically superior, and knowing that means we can stop looking, secure in the knowledge that we’ve made the <em>right decision</em>. And yet, I still browse these sites.</p>
+<p>There’s a sense, at least for me, that something could be better. A new thing might suit my needs, or a specific complaint better. Yes, I have a raincoat, but do I have one I can wear near a campfire? Actually, <a href="https://www.brookshelley.com/blog/2019/04/08/minimal-travel-clothing.html#jacket">yes, yes I do</a>. In an effort to be minimal in my ownership of things, I’ve also bought quite a few of them. The irony is not lost on me.</p>
+<h2 id="the-happiness-factor">The happiness factor</h2>
+<p>Honestly, I own three backpacks, and three raincoats, because each of them is the <em>best</em> at some aspect of making me smile. There’s no way to quantify this that I’m aware of, but everyone has a thing, or things that are so neat or personal that every use or interaction with them is a small joy. And we all want to <a href="https://konmari.com/products/spark-joy">spark joy</a>, right? As hokey as I’m sure many of you think Konmari’s Shinto-sequel philosophy of things is, it has certainly helped me in pinpointing why I own them. I pared back my clothing, and donated bags of tech detritus. And yet, I still look for new joys.</p>
+<p>Whether it’s a new iOS text editor, or a new pair of lightweight shoes, I browse through my RSS feeds with a delight in seeing fresh things. And fortunately, the delight of looking is relatively free. This daily routine of mine is akin to the window-shopping of old. I’m fascinated by the portrayal of the new things—the praises of their qualities. The search itself makes me happy.</p>
+<h2 id="hobby-hunting">Hobby hunting</h2>
+<p>I’ve found it’s useful to check in every so often on why I do things. Do my habits make me happy? Do I find joy in studying 漢字 every day? Lifting weights? Lightweight packing? Is my search fo the best things also a way to hunt for new hobbies? The answer, for me, to all of those questions is a yes. And frankly I don’t think there’s anything particularly wrong with this search. I do wish that this curiosity could be de-coupled from capitalism, but the world we live in doesn’t seem to wish for the same thing. I think the best we can do is keep on searching if it makes us happy, and share the things we find and the things we own with each other—sharing the joy as well.</p>
+<p>We might all search for our own reasons, but curiosity and interest is a one of the best things of all. When we find satisfaction, the key, I think, is recognizing it, and enjoying it. Until then, happy hunting.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>On notes and todos</title>
+      <link>https://www.brookshelley.com/posts/2019-05-02-on-notes-and-todos/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-05-02-on-notes-and-todos/</guid>
+      <description>The latest episode of Supercomputer inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand.</description>
+      <content:encoded><p><img src="/photos/iAWriter.png" alt="iawriter"></p>
+<p>The <a href="https://supercomputer.transistor.fm/#">latest episode of Supercomputer</a> inspired me to write about how I work with notes, todos, and reminders every day. Part of the episode was centered on their mutual dissatisfaction with various notes apps, which I totally understand. Over the years, I&rsquo;ve used <a href="https://brettterpstra.com/projects/nvalt/">NVAlt</a>, 1Writer, Bear, Evernote, Notes, and more to keep track of my thoughts, posts, and notes. Brett Terpstra keeps a <a href="https://brettterpstra.com/ios-text-editors/"><em>very good list</em></a> of all iOS text editors that includes information about their cross-platform functionality. These days, since I mostly use my iPad and iPhone when I&rsquo;m not at <a href="https://slack.com/">work</a>, it&rsquo;s vital that my notes and todo apps live happily on Mac, and iOS.</p>
+<h2 id="notes-and-posts">Notes and posts</h2>
+<p>Ever since I moved most of my personal computer work to an <a href="http://www.brookshelley.com/blog/2018/11/07/new-ipad-review.html">iPad Pro</a>, I&rsquo;ve wanted to make sure my notes and writing were easily accessible from wherever I happened to compute. I also wanted to post that writing to my <a href="https://www.brookshelley.com">blog</a> which hilariously I first talked about on my now abandoned <a href="https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163">Medium</a>. Since I post things via Github pages, which is a near-as-makes-no-difference Jekyll instance, I need the ability to push markdown to Github. With <a href="https://workingcopyapp.com/">Working Copy</a>, this is super simple, and if I need to, I can write entire posts in the pretty nice editor that app contains. But, I want more!</p>
+<p>To have a great writing experience, with delightful fonts, a pleasing design, and speedy sync, I use <a href="https://ia.net/writer">iAWriter</a>. It&rsquo;s <em>fantastic</em> for notes, long form writing, and even markdown previewing work docs. In the years since the first version of iAWriter launched, it&rsquo;s become an amazing piece of software. I couldn&rsquo;t find the earliest versions, but <a href="https://www.macworld.com/article/2985482/ia-writer-3-0-1-review-mac-app-gets-back-to-basics-for-focused-writing.html">here&rsquo;s the 2015 version 3</a>. Nowadays, iAWriter can talk to the Files app on iOS natively, which means you can open files from Working Copy, which is registered as a Files location, so you can open files from Github repos in iAWriter. Whether I&rsquo;m drafting a blog post, or updating my list of <a href="http://www.brookshelley.com/books">books</a> that I&rsquo;ve read, I open iAWriter first, after pulling the latest version of my repo in Working Copy. For writing and notes I don&rsquo;t plan to store in my repo, iAWriter keeps them on iCloud as <code>.md</code> files so I don&rsquo;t have to worry about portability or missing files. Because these files live in iCloud, they&rsquo;re searchable using Spotlight on both my iOS and Mac devices—no more depending on launching an app to search. It&rsquo;s wild how good this app combination is, and how fast I&rsquo;m able to find and edit things using iAWriter&rsquo;s native Apple integrations.</p>
+<p>When I&rsquo;m at meetings at work, I also tend to take notes with a <a href="https://www.lamy.com/en/lamy-safari/">pen</a> and a <a href="https://www.1101.com/store/techo/en/2019/all_about/weeks/">notebook</a> because it <a href="https://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away">helps retention</a> and looks quite a bit less rude to my coworkers or partners. If something needs to be shared, I type it up in Slack or put it in a Readme on a repo.</p>
+<p>But what about my todos?!</p>
+<h2 id="todos">Todos</h2>
+<p>I work at a company in San Francisco who&rsquo;s goal is to &ldquo;make work life simpler, more pleasant and more productive.&rdquo; I think we&rsquo;re good at it, but I&rsquo;ve found that I need a separate place to keep track of my work tasks, my life tasks, and all the random junk I need quick access to when I&rsquo;m going through my week. <a href="https://culturedcode.com/things/">Things</a> is that app for me. I made a Project for everything I work on, and Areas for things like &ldquo;stuff to buy&rdquo; or &ldquo;stuff to watch&rdquo;.</p>
+<p><img src="/photos/projects.png" alt="projects"></p>
+<p>My main view is Today, where tasks I need to finish by bedtime live. When the workday ends, anything I haven&rsquo;t accomplished gets moved to tomorrow—this is a conscious choice over having those tasks follow me home. That means that I don&rsquo;t have the psychic dread of &ldquo;more work&rdquo;, but can still look at Things for things like the code to my therapist&rsquo;s office, or a reminder to scoop the cat litter. I love it. Things is the perfect example of just heavy enough feature-wise to handle power-users while only exposing simple features for everyone else. The search is amazing, especially on Mac, where all you need to do is <em>start typing</em>. Sure, there&rsquo;s no location-based reminders, but honestly at a certain point, <em>in my opinion</em> you&rsquo;re just faffing around and avoiding work by adding so many layers to your todo process. Get shit done instead of doing loads of metalwork.</p>
+<h2 id="keeping-track-of-all-of-the-things">Keeping track of all of the things</h2>
+<p>For me, writing and notes goes in iAWriter, and anything I need to <em>do</em> goes into Things. Sometimes my tasks include a link to a relevant Slack conversation, or email in Spark, or website—and other times it&rsquo;s just a note to take some medicine or drop mail off in the mailbox. My projects groupings mean I know historically what I&rsquo;ve accomplished in various areas or work things, and I don&rsquo;t stress too much planning months in the future. Planning, at least at work, is often a team effort, and there&rsquo;s a calendar or a roadmap that I don&rsquo;t need to duplicate in Things. I note what my responsibilities are, and set due dates or targets for those, and leave the rest to where my work actually lives—Slack. If you want to dive more into GTD or w/e, I recommend <a href="http://web.archive.org/web/20190401160435/http://www.43folders.com/2004/09/08/getting-started-with-getting-things-done">43 Folders</a>, which is possibly now disavowed by Merlin, but is still a very smart look at productivity. Generally, simple systems work well for me, and if I look at something, I should either store it, trash it, or use it.</p>
+<p>My systems are super helpful for <em>me</em>, but might not work, or work differently for you. That&rsquo;s totally ok! Hopefully something here was helpful or interesting, and if not, feel free to browse away, and forget~ Work will always be here for you, like a strange nightmare, and how you choose to tackle it is a personal decision.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>Slower reading</title>
+      <link>https://www.brookshelley.com/posts/2019-02-10-slower-reading/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2019-02-10-slower-reading/</guid>
+      <description>With the death of Google Reader in 2013 it seems like many folks gave up on RSS. Fortunately, not only is RSS still alive, but it&amp;rsquo;s thriving.</description>
+      <content:encoded><p>With the death of <a href="https://lifehacker.com/google-reader-is-shutting-down-here-are-the-best-alter-5990456">Google Reader in 2013</a> it seems like many folks gave up on RSS. Fortunately, not only is RSS still alive, but it&rsquo;s thriving. Between Newsletters and a return to blogging by many writers, thinkers, and web folks, RSS is an excellent way to find news and joy. While Twitter and other networks flounder, open standards provide a simple way to read. RSS means no trolls and no reply gifs. It’s you, and the content.</p>
+<h2 id="my-rss-history">My RSS history</h2>
+<p>As a long time nerd and tech news reader, I’ve used RSS steadily since the early 2000s, when MacOS RSS programs like <a href="https://nnw.ranchero.com">NetNewsWire</a> and <a href="https://github.com/ViennaRSS/vienna-rss">Vienna</a> were fresh. I used RSS on Nokia phones, but the iPhone was revelatory. <a href="https://techcrunch.com/2010/11/14/reeder-for-mac/">Version 2.0 of Reeder</a> ensured a unified experience of RSS on my iPhone, my iPad, and my Mac—at the time I predominantly used a MacBook Air and an iPhone 4—which meant that by popping in the URLs of various sites, I could stay up to date at my desk or on the go. I continued to use Reeder until recently, when in preparation for Reeder 4.0 the app’s creator made it free, but stopped regular updates. Throughout this time, my RSS feed list changed, but usually had <a href="https://daringfireball.net">Daring Fireball</a>, whatever <a href="https://desert.glass">Robin Sloan was working on</a>, <a href="https://www.theverge.com">tech news</a>, <a href="https://www.waxy.org">creative</a> <a href="https://roadrunnertwice.dreamwidth.org/566524.html">friends</a>, and writing on productivity and <a href="https://www.carryology.com">bags</a>. Some sites <a href="https://Kottke.org">stayed around</a>, and some died down, <a href="https://a.wholelottanothing.org">only to return</a>. It’s always been relaxing to know that my news feed would appear every morning, and update throughout the day, which no social buttons or comments. This was the modern newspaper we were promised. It worked in many apps, tons of them were free, and you could save them until you were ready. Folks have worried about information <a href="https://www.wired.com/2003/08/aggregators-attack-info-overload/">overload since the beginning</a> of RSS, and really, since <a href="https://en.m.wikipedia.org/wiki/Information_overload">the early 1900s</a>, but I find RSS to be a simple way to store, view, and save stories.</p>
+<h2 id="rss-today">RSS today</h2>
+<p>Almost 20 years into using RSS, I’ve settled into <a href="https://feedbin.com">Feedbin</a> for the backend (and yes, I pay for it), with its excellent web client on my work MacBook Pro. It’s lovingly developed, and has a <a href="https://feedbin.com/blog/2018/09/11/private-by-default/">strong stance on user privacy</a> which I feel like folks rarely do these days. On my iPad and iPhone, I’ve enjoyed <a href="http://cocoacake.net/apps/fiery/">Fiery Feeds</a>, which is independently developed, and even has a <a href="http://blog.cocoacake.net/archives/1205">public feature roadmap</a>. Both of these readers have good dark mode support, keyboard shortcuts, and the ability to sync across platforms.</p>
+<p>I subscribe to newsletters with <a href="https://www.kill-the-newsletter.com">Kill the Newsletter</a>, which lets me see emails as RSS feeds, and gives me less reason to feel beholden to my Inbox. It’s nice. <a href="https://www.shatnerchatner.com">Lots</a> of <a href="https://tinyletter.com/5it">folks</a> have <a href="https://dillandfennel.substack.com">newsletters</a> these days. It’s easy to subscribe and unsubscribe, and it’s even possible to make a decent living <a href="https://craigmod.com/essays/newsletters/">writing emails to hundreds of people</a>. Knowing that on Sundays I’ll have a few new missives in my inbox or RSS feed makes me happy. These writers aren’t hoping for more clicks for a truck or razor brand; posts are either free, or supported through a simple monthly donation. Single authors don’t need hypergrowth, just some loyal readers with a few hundred at $5 a month leading to a decent annual salary. This could be naive, but it feels like most of these Newsletter writers do halfway out of a compulsion to share, and halfway out of the joy of writing.</p>
+<p>Usually when I’m interested in reading something, but don’t have time, I save it to <a href="https://support.apple.com/en-us/HT200294">Safari’s Reading List</a>, which not only saves the site’s URL for later, but saves the page offline, so you can catch up on reading while under the water, or in the air commuting. In the past I liked Instapaper, but found that having a bespoke read-it-later app meant I was too likely to collect old articles that I rarely read. Using Safari means all my saved posts are just a shortcut away when I have Safari open. Sometimes I star something instead—mostly because Feedbin’s site doesn’t have a good Safari Reading List shortcut. Either way, once my feed is marked as read, at some point that day I’ll read the stories and articles I saved.</p>
+<p>In the morning, while I’m getting ready, I usually listen to a podcast or music, and scan through my RSS feed. Even on a heavy news day, I have under 80 articles listed around 8am, and most of them get scrolled-by with nary a glance. This means I can parse what’s happening very quickly while I <a href="https://crema.co/guides/hario-v60-pour-over">pour hot water on bean crumbs</a> and head to the bus stop. Much like reading email, I try to only visit my RSS reader a few times a day, but unlike a social media site, there aren’t features designed to entice me to tap the “more” button like <a href="https://en.m.wikipedia.org/wiki/Brain_stimulation_reward">a rat in a cage</a>. It’s pleasant. It’s slow. It has the people and things I choose in it.</p>
+<h2 id="the-future-of-social-reading">The future of social reading</h2>
+<p>I still use Twitter, but find myself typically talking about and sharing stories and interesting things in private Slack instances with people I care about or work with. This means I get to have a pleasant chat about a <a href="https://www.brookshelley.com/books">new book</a> without seeing twenty posts about the world ending. I still see news, but with much less repetition and FUD. If a feed doesn’t <em>spark joy</em>, I let it go. SMTP and RSS may be old, but theirs’ is a lasting peace, and I hope if you haven’t delved into them recently, you revisit these tools. This year I am trying to slow down, take joy in rest, and find kindness for myself. I want a better world, and to fight for it, I need time away from the firehose. In RSS, I’ve found a serene pond.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>2018 iPhone Homescreen</title>
+      <link>https://www.brookshelley.com/posts/2018-12-14-2018-iphone-homescreen-update/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2018-12-14-2018-iphone-homescreen-update/</guid>
+      <description>Back to a single screen.
+It’s been a year and change since I posted about my iPhone apps and homescreen. I tend to try out new apps pretty often, but now that I use an iPad and an Apple Watch every day, I generally stick with things that support all 3 of my screens well.</description>
+      <content:encoded><p>Back to a single screen.</p>
+<p><img src="/photos/iphone2018.jpeg" alt="iphone"></p>
+<p>It’s been a year and change since I posted about my <a href="https://medium.com/@brookshelley/2017-homescreen-ac92817eae60">iPhone apps and homescreen</a>. I tend to try out new apps pretty often, but now that I use an iPad and an Apple Watch every day, I generally stick with things that support all 3 of my screens well. Some apps have stuck around, but many have been replaced by better (for me) choices. Trying to settle into apps that I use for a long stretch is challenging as businesses fail, or apps stagnate, so here we are.</p>
+<h2 id="old-apps">Old apps</h2>
+<p><strong>Timepage</strong>—without support for the new style of WatchOS complications, I switched to Fantastical again. I don’t <em>love</em> it, but I want to use the same app in both places.</p>
+<p><strong>Casts</strong>—replaced with <strong>Overcast</strong>.</p>
+<p><strong>Maps</strong>—replaced with <strong>Google Maps</strong>.</p>
+<p><strong>Airmail</strong>—replaced with <strong>Spark</strong>.</p>
+<p><strong>Twitter</strong>—replaced with <strong>Tweetbot</strong>.</p>
+<p><strong>Spotify</strong>—replaced with <strong>Apple Music</strong>.</p>
+<p><strong>Instagram</strong>—I quit Instagram around the start of 2018 in a dual-effort to rid myself of FB-owned apps, and to stop using an increasingly user-antagonistic app that really bummed me out more than it made me happy.</p>
+<p><strong>Todoist</strong>—replaced with <strong>Things</strong>.</p>
+<p><strong>Google Photos</strong>—replaced with <strong>Apple Photos</strong>.</p>
+<p><strong>iCloud Drive</strong>—this became <strong>Files</strong>.</p>
+<p><strong>Tons of folders</strong>—this felt overwhelming, and eventually I decided against it, and went back to titles instead of emoji, and now whittled my apps down to a single folder.</p>
+<h2 id="new-apps">New apps</h2>
+<p><strong>Fantastical</strong>—this is an <em>ok</em> calendaring app. I don&rsquo;t love the visual style, or the colors, but compared to my other options this is what I have available. Timepage doesn&rsquo;t have new watch complications. Google Calendar doesn&rsquo;t even have a watch app. iOS Calendar is ok, but doesn&rsquo;t do NLP well, or handle meetings/etc well. This is definitely the app I am most interested in replacing.</p>
+<p><strong>Fiery Feeds</strong>—Reeder 4 is perpetually <em>coming soon</em>, so my allegiance to it is on pause until the 4th iteration brings support for my new iPad, and other nice things like full-text display. Fiery Feeds, despite an icon that I vaguely loathe, is a great app with a solid dark mode, and a bunch of cool options. It&rsquo;s very customizable, and can adapt a bit to your style of RSS. I wish it had a Mac app, but AFAIK the only great RSS reader that works everywhere is Reeder.</p>
+<p><strong>Spark</strong>—I don&rsquo;t use email as often anymore now that I work at a company that doesn&rsquo;t use email (we really don&rsquo;t). But, when I do, Spark is great. Solid watch app. Solid Mac and iPad support, including keyboard shortcuts. I still hope for iOS dark mode support in the future, because on Mac the style is awesome. The calendar in this app is <em>almost</em> good enough to have me ditch my actual calendar, but unfortunately there&rsquo;s no way for Spark to show its calendar on my watch.</p>
+<p><strong>Tweetbot</strong>—<a href="http://apps-of-a-feather.com">RIP third-party Twitter apps</a>. I use this app in defiance of Twitter&rsquo;s bad policy, and honestly the lack of likes and notifications is kind of a feature for me at this point. DMs are vaguely useless, but most of those conversations have moved to my favorite place to chat: Slack.</p>
+<p><strong>Google Maps</strong>—I used Apple Maps pretty happily for a while, but eventually I wanted more recommendations and ratings, and I refuse to use Yelp for that. If Apple Maps connected to Foursquare, or supported commute scheduling, I&rsquo;d be back in a heartbeat. Also somehow Google Maps understands that SF trans-bay busses pick up at a temporary terminal, and Apple things they don&rsquo;t exist because the Salesforce garden of hubris is closed.</p>
+<p><strong>Things</strong>—I love Things. Years ago when I worked for a certain fruit company, many of my coworkers used Things. I didn&rsquo;t really get it at the time, but also I didn&rsquo;t really get having things _to do_. Things helps me be an adult, and get things done. I run my life out of here, largely, and dump anything from chores to tv show recommendations in here. The new iOS dark mode support is spectacular. Similarly to Spark, the support of a calendar is <em>almost</em> good enough to not use a calendar app, but alas, the watch problem persists. Also the calendar is read-only, which could create an issue.</p>
+<p><strong>Apple Music</strong>—I moved over from Spotify, mostly to try it out, and to have access to my music on my watch. It&rsquo;s fine? I don&rsquo;t really know if I prefer this app to Spotify, but it does what I want, plays the music I want to play, and works well on my Sonos and in my car. Recommendations have gotten better, and while I wish it did a better job of knowing which bands I like have new albums, I usually find out. Concert notifications would also be cool, if I were making a feature request. Oh, and also dark mode. Please.</p>
+<h2 id="the-best-of-the-rest">The best of the rest</h2>
+<p><strong>Slack</strong>—My love for the Slack app is strong. My friends live here. My chosen family lives here. My work lives here. I don&rsquo;t know what I would do without Slack. Before I worked for Slack, my company depended on Slack for everything from deploys, to bugs, to developer relations. Now that I work here, I&rsquo;m so happy how much I can accomplish inside of Slack. There&rsquo;s no way to fully express how much joy I feel doing my work in Slack. Seriously. This app redefines work.</p>
+<p><strong>Bear</strong>—I really like Bear. Many notes that have actions end up in Things, but Bear is my dumping ground for workout stats, meeting notes, travel lists, and other assorted ephemera. When I wrote about Bear in 2017, I did more of my long-form writing in it, but now that has mostly moved to iAWriter. Bear always felt a little weird for long-form writing, and iAWriter&rsquo;s new duospaced font is <em>chef&rsquo;s kiss</em>. I still wish I could choose a black theme with a custom highlight color, because I hate orange and gold, but çest la vie.</p>
+<p><strong>iAWriter</strong>—this app lives in a folder, but for my iPad and my Mac, it&rsquo;s how I write. The ability to open files that life in Working Copy, that really live in a Github repo that runs this site is ideal The colors are what I would choose if I had full-control. It&rsquo;s truly a masterful writing app.</p>
+<h2 id="moving-to-a-search-first-model">Moving to a “search first” model</h2>
+<p>When I moved all of my apps to one screen, and began stuffing the majority in a single folder, I wanted to see if I would use search. On my iPad or my Mac, I almost always open apps with Spotlight, but on my iPhone, I usually would flick through screens or folders, aimlessly looking for <em>something to tap</em>, or even hunt for the app I use to book movie tickets. This felt like a waste of time, and further, became a nervous habit. Now that I mostly search for apps, I find myself doing less nervous flicking, and mostly put my phone down when I don&rsquo;t have something to <em>do</em> with it. Out of sight, out of mind seems to be effective for me—maybe that says something about my object permanence? Lol.</p>
+<h2 id="wrap-up">Wrap-up</h2>
+<p>I really want a new calendar app. I want someone to come into the calendar world and shake it up—or I want Spark or Things to have access to show their calendar on my watch. Or, I want Timepage to update their watch integration. Other than that, I&rsquo;m pretty happy with my setup at this point, and find my phone helpful, pleasant, and additive. I&rsquo;m curious to see how many of these apps I use again a year from now, but I have a feeling the list might not shift much. If you&rsquo;re a phone fidgeter, I definitely recommend putting most of your apps in one folder, and maybe even <a href="https://medium.com/@brookshelley/reclaim-your-time-with-parental-controls-9224612a6c1b"><em>reclaiming your time</em></a>. If you have apps you <em>love</em> that you want to talk about, hit me up @brookshelley on Twitter, or leave a small gift at the base of the largest tree in your town. I will know.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>2018 iPad Pro Review</title>
+      <link>https://www.brookshelley.com/posts/2018-11-07-new-ipad-review/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2018-11-07-new-ipad-review/</guid>
+      <description>Today my phone buzzed to tell me my new iPad had arrived at my office. I rushed down to the mailroom, and eagerly ripped open the packaging.</description>
+      <content:encoded><p>Today my phone buzzed to tell me my new iPad had arrived at my office. I rushed down to the mailroom, and eagerly ripped open the packaging. For a few years I’ve used an iPad Pro 9.7” as my primary travel computer when I didn’t need to work on Kubernetes/DevOps stuff, and I’ve loved it. Whether I was watching shows on Netflix or Plex that I’d downloaded before a flight, editing my website in Working Copy, or just editing photos and browsing Twitter, this was the machine I wanted to use.</p>
+<p>Now, I have 1.3” more screen, a more lap-capable keyboard, and 120hz refresh, and I couldn’t be happier.</p>
+<p><img src="/photos/ipad.jpeg" alt="iPad"></p>
+<h2 id="the-screen">The screen</h2>
+<p>This iPad might not feel like as huge of a revelation to someone who used the 10.5”, but coming from the 9.7”, this screen feels luxurious. The smooth 120hz refresh rate means opening apps, and moving around looks amazing. The color and viewing angles are still the best in the tablet world, and make my even my MacBook feel like a relic of the past. It’s responsive, bright, and a joy to watch tv on.</p>
+<h2 id="the-case">The case</h2>
+<p>My iPad is the Space Grey color, and it looks excellent. The industrial lines of the sides are reminiscent of my favorite iPhone, the 4. Overall the iPad feels thin, and around the weight of my 9.7” even with the added screen size, and when I have it out of the keyboard folio, I don’t want to put it down. This tablet feels great in my hands. I seriously hope that Apple brings this design language to the next generation of iPhones, even though I wonder if they can while still keeping the glass back for wireless charging.</p>
+<h2 id="the-keyboard-folio">The keyboard folio</h2>
+<p>My main use of the iPad is with a keyboard attached, as I use it as a laptop mostly, which sometimes becomes a handheld tablet for reading. I’m still not convinced there needed to be two viewing angles, but the stiffness and lack of weird folding means it feels pretty great in my lap or on a desk. The tablet-mode keyboard against your fingers thing is slightly odd, but it also reminds me of playing the accordion, which I find funny enough to enjoy it. The keys feel nice and responsive, and largely the same as the 9.7” keyboard. If they changed the keys, I can’t tell. I do enjoy the slightly larger size that matches the bigger device, and my mistypes are few and far-between. Clicking the iPad into the folio feels fast and easy, even if it requires slightly more lining up than previously. With the folio closed, the iPad feel grippy, and like a thin notebook in the best way. The weight and feel, in my opinion, remind you that you’re holding a high quality device. The folio adds a little thickness, but I think it only brings the device to the previous size, so I haven’t felt like it was too thick.</p>
+<h2 id="usb-c">USB-C</h2>
+<p>It’s great. I love using the same charger for this iPad and my MacBook. I already invested in USB-C to lighting cables, so bringing this iPad and no USB spare battery for my iPhone sounds great. I haven’t tried plugging anything weird into the port, but folks at the Verge did their damndest to stump the port. <em>Spoiler</em> it doesn’t work with printers.</p>
+<h2 id="battery-life">Battery life</h2>
+<p>It’s about the same as my old iPad, which is excellent.</p>
+<h2 id="speakers">Speakers</h2>
+<p>There’s four of them. They’re loud, and clear. A+</p>
+<h2 id="faceid">FaceID</h2>
+<p>Just as quick and easy as my previous iPhone X, and possibly a little slower than the XS. I can’t quite tell, but I feel a little like I’m waiting now compared to using my phone. I haven’t timed it though, but generally it’s much better and easier than the TouchID.</p>
+<h2 id="wrap-up">Wrap-up</h2>
+<p>This is the iPad to get—whether you get the 12.9” or the 11”, especially if you haven’t upgraded in a few years. I seriously feel like this is the future of Apple computing, and iOS 13 is sure to bring more advanced features that mean I might not need a Mac outside of my office.</p>
 </content:encoded>
     </item>
     

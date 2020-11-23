@@ -4,6 +4,8 @@ title: "One year of newsletter"
 date: 2019-12-30
 tags:
   - process
+  - tech
+  - markdown
 description: weekly links were pretty fun
 ---
 

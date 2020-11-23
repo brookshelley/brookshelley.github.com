@@ -5,6 +5,8 @@ title: 2018 iPad Pro Review
 tags:
   - iPad
   - review
+  - travel
+  - tech
 description: the best iPad I've ever used
 categories: blog
 ---

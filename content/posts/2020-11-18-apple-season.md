@@ -2,9 +2,11 @@
 type: posts
 date: '2020-11-18T06:37:30.892Z'
 title: Apple season
-slug: apple-season
 description: the fast one
-lang: en
+tags:
+- work
+- apple
+- mac
 ---
 
 ![](/photos/macbookm1.jpg)

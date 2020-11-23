@@ -1,25 +1,27 @@
-body {
-    font-family: Garamond, Georgia, Times, Times New Roman, serif;
-    font-weight: 200;
-    color: #404040;
-    background-color: #F3F2F3;
-    line-height: 24px;
-    font-size: clamp(16px, 1.4vw, 20px);
-    overflow-x: hidden;
-    height: 600px;
-    margin-left: 10px;
-    margin-right: 10px;
+:root{
+  --font-body: Garamond, Georgia, Times, Times New Roman, serif;
+  --font-head: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --font-small: clamp(16px, 1.4vw, 18px);
+  --font-large: clamp(20px, 1.4vw, 22px);
 }
 
-.container {
-    max-width: 100%;
-    /*overflow-x: hidden;*/
+body {
+  font-family: var(--font-body);
+  font-weight: 200;
+  color: #404040;
+  background-color: #CECDD0;
+  line-height: 24px;
+  font-size: var(--font-small);
+  overflow-x: hidden;
+  padding: 0.5em 1.2em;
+  height: 600px;
 }
 
 .markdown {
-    font-weight: 200;
-    margin-top: 20px;
-    /*overflow-x: hidden;*/
+  margin-left: .5em;
+  margin-right: .5em;
+  margin-bottom: 1.6em;
+  max-width: 65ch;
 }
 
 b, strong {
@@ -27,7 +29,7 @@ b, strong {
 }
 
 i {
-    font-weight: 200;
+  font-weight: 200;
 }
 
 .description {
@@ -35,19 +37,19 @@ i {
   margin-top: 10px;
 }
 a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    color: #603ad0;
-    text-decoration: none;
-    font-weight: 500;
+  font-family: var(--font-head);
+  color: #603ad0;
+  text-decoration: none;
+  font-weight: 500;
 }
 
 a:hover {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    color: #8f75de;
+  font-family: var(--font-head);
+  color: #8f75de;
 }
 
 .active {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-head);
   color: #8f75de;
 }
 
@@ -56,36 +58,34 @@ html,button,input,select,textarea {
 }
 
 ::-moz-selection {
-    color: #8f75de;
+  color: #8f75de;
 }
 
 ::selection {
-    color: #8f75de;
+  color: #8f75de;
 }
 
 hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #f4f4f4;
-    margin-left: 25px;
-    margin-right: 25px;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #f4f4f4;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 img {
   width: 100%;
-  grid-column: 1 / 4;
   height: auto;
 }
 
 .logo {
-    margin-top: 5px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 10px;
-    max-width: 66px;
-    display: block;
-    float: left;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 10px;
+  max-width: 66px;
+  float: left;
 }
 
 hr, .footer {
@@ -95,155 +95,164 @@ hr, .footer {
   text-align: left; }
 
 h1,h2,h3 {
-    color: #603ad0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;    
-    font-size: 16px;
+  color: #603ad0;
+  font-family: var(--font-head);
+  font-size: 16px;
 }
 
 h1 {
-    font-size: 22px;
-    font-weight: 500;
-    margin-left: 0px;
-    margin-bottom: 1em;
+  font-size: 22px;
+  font-weight: 500;
+  margin-left: 0px;
+  margin-bottom: 1em;
 }
 
 h1.title {
-color: $accent;
-font-size: 28px;
-font-weight: 500;
-margin-top: 10px;
-margin-bottom: 1em;
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 1em;
+  margin-left: .3em;
+  margin-right: .5em;
+}
+
+h1.title2 {
+  font-size: 28px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 1em;
+  margin-right: .5em;
 }
 
 h2 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.4;
-    margin-bottom: 1em;
-    margin-top: .5em;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 1em;
+  margin-top: .5em;
 }
 
 h3 {
-    margin-bottom: 5px;
-    font-weight: 500;
-    color: #603ad0;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #603ad0;
 }
 
 .archive {
-    margin-top: 0px;
-    margin-left: 0px;
-    text-align: left;
-    float: left;
-    max-width: 100%; 
+  margin-top: 0px;
+  margin-left: 0px;
+  text-align: left;
+  float: left;
+  max-width: 100%; 
+  grid-column: 2;
 }
 
 .archive-post a, li {
-    text-align: left;
-    font-size: 16px;
-    margin-left: 0px;
-    margin-top: 6px;
-    margin-bottom: 6px;
-    font-weight: 300px;
-}
-
-.archive-columns{
-    columns: 2;
-    -webkit-columns: 2;
-    -moz-columns: 2;
-    column-gap: 5px;
-    margin-bottom: 25px;
+  text-align: left;
+  font-size: 16px;
+  margin-left: 0px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  font-weight: 300px;
 }
 
 ul {
-    list-style-type: katakana;
-    list-style-position: inside;
-    padding: 0px;
+  list-style-type: katakana;
+  list-style-position: inside;
+  padding: 0px;
 }
 
 ul.flat {
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-    padding: 0px;
-    line-height: 24px;
+  display: flex;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  line-height: 20px;
+  width: 100%;
 }
 
 ul.flat li {
-    display: inline-block;
-    font-size: 18px;
-    list-style: none;
-    margin-right: 5px;
-    margin-left: 0px;
+  font-size: 18px;
+  list-style: none;
+  text-align: left;
+  justify-content: space-evenly;
+}
+
+ul.flat2 li {
+  display: inline-flex;
+  font-size: 18px;
+  list-style: none;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 0px;
 }
 
 ul.flatfoot li {
-    font-size: 14px;
-    text-align: left;
-    margin-top:10px;
-    margin-left: 0px;
-    margin-right: 0px;
-    background-color: #222;
+  font-size: 14px;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #222;
 }
 
 li {
-    margin-left: 10px;
-    margin-right: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 0px;
 }
 
 .flatfoot-about {
-    text-align: center;
-    font-size: 12px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: 5px;
+  text-align: center;
+  font-size: 12px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 5px;
 }
 
 .page-title {
-    margin-left: 0px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-    font-size: clamp(20px, 1.4vw, 22px);
-    font-weight: 500;
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: var(--font-large)
+  font-weight: 500;
 }
 
 .site-title {
-    line-height: 66px;
-    font-size: 37px;
-    margin-bottom: 0px;
+  line-height: 66px;
+  font-size: 37px;
+  margin-bottom: 0px;
 }
 
 .site-title a {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;    
-    color: #603ad0;
-    text-decoration: none;
-    font-size: 37px;
-    margin-left: 0px;
-    padding-top: 30px;
-    margin-bottom: 1px;
+  font-family: var(--font-head);    
+  color: #black;
+  text-decoration: none;
+  font-size: 37px;
+  margin-left: 0px;
+  padding-top: 30px;
+  margin-bottom: 1px;
 }
 
 .post title {
-    margin-top: 10px;
-    margin-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 
 .posts .post .meta {
-    font-size: 18px;
-    color: #888;
-    margin-left: 0px;
-    margin-top: 100px;
+  font-size: 18px;
+  color: #888;
+  margin-left: .5em;
 }
 
 .list {
-    font-size: 14px;
-    color: #888;
-    margin-left: 0px;
-}
-
-.post {
-    float: left;
-    width: 100%;
+  font-size: 14px;
+  color: #888;
+  margin-left: 0px;
 }
 
 .post li {
@@ -251,18 +260,18 @@ li {
 }
 
 .meta {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    color: #888;
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-right: 0px;
-    margin-bottom: 3px;
-    float: left;
-    width: 100%;
-    display: block;
+  font-family: var(--font-head);
+  color: #888;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-right: 0px;
+  margin-bottom: 0px;
+  float: left;
+  width: 100%;
+  display: block;
 }
 .paginate {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: var(--font-head);
     font-size: 16px;
     color: #888;
     margin-left: 0px;
@@ -274,18 +283,17 @@ li {
 }
 
 .archive-meta {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: var(--font-body);
     font-size: 18px;
     color: #888;
     margin-left: 0px;
     margin-right: 0px;
     padding-right: 0px;
-    float: left;
+    /*float: left;*/
     width: 100px;
 }
 
 .post-tags .tags a {
-    margin-left: 10px;
     color: #ddd;
 }
 
@@ -294,13 +302,12 @@ li {
     float: left;
     margin-right: 0px;
     min-width: 80px;
-    font-size: clamp(16px, 1.4vw, 18px);
+    font-size: var(--font-small);
 }
 
 .blogtitle {
     font-weight: 300;
-    font-size: clamp(20px, 1.4vw, 22px);
-    margin-left: 5px;
+    font-size: var(--font-large);
     margin-right: 0px;
     display: block;
     word-wrap: normal;
@@ -311,44 +318,64 @@ li {
     font-size: 18px;
 }
 
+/*
 .wrapper {
-    /*display: grid;
+    display: grid;
     grid-template-columns:
       min(0ch, 5%)
       min(65ch, 100%)
-      1fr;*//
-    width: 760px;
-    margin: 0 auto;
+      1fr;
+    width: 700px;
+    margin: 10 auto;
 }
+*/
 
-.wrapper > * {
+/*.wrapper > * {
   grid-column: 2;
-}
+}*/
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 65em) {
   .wrapper {
     display: grid;
     grid-template-columns:
-      min(33ch, 100%)
-      min(65ch, 100%)
+      18em      
+      40em
       1fr;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-  .body{
-    margin-top: 30px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 2em;
+    margin-right: auto;
+    grid-template-rows: auto 10em;
   }
   .header {
-    grid-column: 1;
-    float: left;
-    margin-left: 20px;
-    margin-right: 10px;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    position: relative;
+    border-bottom: none;
   }
-  .meta {
-    margin-top: 200px;
+  .footer {
+    grid-column-start: 1;
+    float: top;
+    position: relative;
   }
+  h1.title{
+    margin-top: 30px;
+  }
+  .markdown {
+    margin-top: 2em;
+  }
+  .posts {
+    margin-top: 2em;
+  }
+}
+
+.header {
+  grid-column: 1;
+  display: inline;
+  flex-direction: column;
+}
+
+.nav img {
+  max-height: 20px;
+  display: inline;
 }
 
 .full-bleed {
@@ -357,56 +384,57 @@ li {
 }
 
 .header h1 {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: clamp(20px, 1.4vw, 22px);
+  font-family: var(--font-head);
+  font-size: var(--font-large);
 }
 
 .header h2 {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    font-size: clamp(20px, 1.4vw, 22px);
-    line-height: 1.4rem;
+  font-family: var(--font-head);
+  margin: 0;
+  padding: 0;
+  font-size: var(--font-large);
+  line-height: 1.4rem;
 }
 
 .header nav {
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-text-align: left;
-font-size: clamp(22px, 1.4vw, 22px);
-margin-top: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-bottom: 15px; }
+  font-family: var(--font-head);
+  text-align: left;
+  font-size: var(--font-large);
+  margin: 0 0 0 0;
+}
 
 nav ul.flat li {
-display: inline;
-list-style: none;
-margin-left: 0px;
-margin-right: 15px;
-max-width: 100%;
-font-size: clamp(22px, 1.4vw, 22px); }
+  list-style: none;
+  width: 100%;
+  font-size: var(--font-large); 
+}
+
+nav.tags {
+  font-size: var(--font-small);
+  margin-left: 0em;
+  float: right;
+}
 
 .section .section-header {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: clamp(20px, 1.4vw, 22px);
-    font-weight: 500;
-    text-transform: uppercase;
-    color: #999;
-    margin-bottom: 1px;
-    letter-spacing: 1px;
+  font-family: var(--font-head);
+  font-size: var(--font-large);
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1px;
+  letter-spacing: 1px;
 }
 
 .footer {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 0.75em;
-    color: #696969;
-    margin-top: 0px;
-    max-height: 10px;
-    width: 100%;
-    float: left;
+  font-family: var(--font-head);
+  font-size: 0.75em;
+  color: #696969;
+  max-height: 10px;
+  width: 100%;
+  float: left;
 }
 
 .page-title {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: var(--font-head);
     margin-bottom: 0px;
 }

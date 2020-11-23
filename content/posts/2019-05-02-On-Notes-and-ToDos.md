@@ -6,6 +6,10 @@ description: how i do notes and todos
 categories: blog
 tags:
   - process
+  - tech
+  - markdown
+  - iPad
+  - iPhone
 ---
 
 ![iawriter](/photos/iAWriter.png)

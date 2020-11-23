@@ -6,6 +6,8 @@ description: on redesigning this site
 tags:
   - CSS
   - design
+  - tech
+  - markdown
 ---
 
 My personal site [started off](https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163) as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites. I’ve lost lots of data in the past, and ultimately it’s just much easier to keep text portable and backed-up when it’s a `.txt` or `.md`

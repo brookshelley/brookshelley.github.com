@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indieweb on dill &amp; fennel</title>
+    <link>https://www.brookshelley.com/tags/indieweb/</link>
+    <description>Recent content in indieweb on dill &amp; fennel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 08:01:36 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/indieweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microposting</title>
+      <link>https://www.brookshelley.com/posts/2020-07-16-microposting/</link>
+      <pubDate>Thu, 16 Jul 2020 08:01:36 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-07-16-microposting/</guid>
+      <description>Microposting After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter.</description>
+      <content:encoded><h1 id="microposting">Microposting</h1>
+<p>After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!</p>
+<p>With the beta of iOS 14 I’ve had to heavily modify my publishing shortcuts, and while they’re pretty great, publishing directly through Micropub with the “publish” button in iAWriter seems even more convenient.</p>
+<p>If you’re using Hugo or Jekyll, <a href="https://github.com/am1t/webpage-micropub-to-github">this is a good starting place</a>, and only needs minor tweaks to exposed config values to work with most setups of either static backend.</p>
+<p>With the wild social hacking incident on Twitter today, now more than ever it’s cool to own and control your own content. Outside of the cost of my editor, and my domain registration, I think I pay a grand total of $0 to Netlify for DNS, GitHub for hosting, or another web host for a few random services. Static sites are tiny, and IMO the only real cost is a few days to figure out some of the small caveats and customize your theme.</p>
+<p>If you’re a pal, and stoked on implementing any of this, I’m <a href="mailto:brookshelley@gmail.com">happy to chat</a></p>
+</content:encoded>
+    </item>
+    
+  </channel>
+</rss>

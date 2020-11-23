@@ -6,6 +6,7 @@ description: the apps I use on my iPhone
 tags:
   - iPhone
   - homescreen
+  - tech
 ---
 
 Back to a single screen.

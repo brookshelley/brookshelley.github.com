@@ -4,8 +4,9 @@ title: "WWDC Thoughts"
 date: 2020-06-22
 description: thoughts on the big announcements 
 tags:
-  - Apple
+  - apple
   - tech
+  - conference
 ---
 
 Like most of the folks who marginally to maximally care about Apple stuff, I watched WWDC today from my house on my TV. Our work chat was going wild throughout, especially during the bits about the ARM transition over the next few years. Overall, I felt like this was an excellent set of announcements, handled in a fun and entertaining way despite the remote nature. Also shout out to Craig's bold chest-hair revealing sartorial choice.

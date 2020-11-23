@@ -2,10 +2,11 @@
 layout: micropubpost
 date: '2020-08-30T20:45:41.776Z'
 title: 2020 Backpacking gear
-mf-post-status:
-  - draft
-slug: 2020-backpacking-gear
-lang: en
+tags: 
+  - backpacks
+  - review
+  - travel
+  - camping
 ---
 
 # Backpacking gear

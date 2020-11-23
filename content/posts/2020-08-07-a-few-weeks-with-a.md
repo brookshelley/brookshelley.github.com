@@ -2,10 +2,10 @@
 layout: micropubpost
 date: '2020-08-07T23:03:37.113Z'
 title: A GR III review
-mf-post-status:
-  - draft
-slug: 
-lang: en
+tags:
+  - tech
+  - review
+  - photography
 ---
 
 # A GRIII Review

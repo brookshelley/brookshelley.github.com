@@ -2,10 +2,9 @@
 layout: micropubpost
 date: '2020-08-03T02:15:38.132Z'
 title: Sunday photo walk
-mf-post-status:
-  - draft
-slug: sunday-photo-walk
 lang: en
+tags:
+  - photography
 ---
 
 # Sunday photo walk
