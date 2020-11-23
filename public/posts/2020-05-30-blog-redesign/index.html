@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="Description" content="a bunch of stuff brook reads, writes, and watches. also a blog."><title>The Allure of the minimal - dill &amp; fennel</title><link rel="icon" type="image/png" href=/favicon.ico /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<meta name="Description" content="a bunch of stuff brook reads, writes, and watches. also a blog."><title>seen - dill &amp; fennel</title><link rel="icon" type="image/png" href=/favicon.ico /><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 	<link rel="manifest" href="/site.webmanifest">
@@ -19,7 +19,7 @@
 
 	<link rel="stylesheet" type="text/css" media="screen" href="https://www.brookshelley.com/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="https://www.brookshelley.com/css/main.css" /><link rel="stylesheet" type="text/css" href="https://www.brookshelley.com/css/dark.css"
-		media="(prefers-color-scheme: dark)"  />
+		 />
 </head>
 
 <body>
@@ -47,7 +47,7 @@
 				
 				
 				
-				<a href="/movies" class="">watched</a>
+				<a href="/movies" class="">seen</a>
 			</li>
 			
 			<li class="flat">
@@ -59,6 +59,25 @@
 			</li>
 			
 		</ul>
+		<ul class="flat2">
+			<li class="flat">
+				<li>
+					<a href="/index.xml" title="rss"><img src="/rss.svg" alt="rss icon" /></a>
+				</li>
+				<li>
+					<a href="https://twitter.com/brookshelley" title="tweet" rel="me"><img src="/twitter.svg" alt="twitter icon" /></a>
+				</li>
+				<li>
+					<a href="https://buttondown.email/brookshelley" title="newsletter"><img src="/mail.svg" alt="rss icon" /></a>
+				</li>
+				<li>
+					<a href="https://github.com/brookshelley" title="github" rel="me"><img src="/github.svg" alt="github icon" /></a>
+				</li>
+				<li>
+					<a href="/about" title="about"><img src="/info.svg" alt="info icon" height /></a>
+				</li>
+			</ul>
+		</ul>
 	</nav>
 	
 </div>
@@ -66,7 +85,7 @@
 		
 
 		<div class="markdown">
-			<h1 class="title">Blog Redesign</h1>
+			<h1 class="title2">Blog Redesign</h1>
 			<p>My personal site <a href="https://medium.com/@brookshelley/why-i-built-a-markdown-book-blog-a07e1a6dd163">started off</a> as a way to keep track of books and movies I’d read and watched outside of the world of Goodreads or other ad-based sites. I’ve lost lots of data in the past, and ultimately it’s just much easier to keep text portable and backed-up when it’s a <code>.txt</code> or <code>.md</code></p>
 <p>In the ensuing years, I’ve written a few blog posts, and listed tons of books and movies but I hadn’t done much with my site’s structure or design besides moving my static site generator from <a href="https://jekyllrb.com">Jekyll</a> to <a href="https://gohugo.io">Hugo</a> on a whim last year. I can’t say that I like Go templating any better than Ruby, but I can struggle through both of them. With a site publishing workflow that automatically builds and deploys from Github using Github Actions, I’m set on the backend front, and decided to give my front end skills a dusting-off from my days in CSS 1.0 land.</p>
 <h2 id="a-start-at-design">A start at design</h2>
@@ -86,44 +105,25 @@
 <h2 id="what-i-learned">What I learned</h2>
 <p>Ultimately, I re-learned that in the year 2020, the fastest way to build a website is still to use mostly static HTML and CSS, and ditch the JavaScript completely. Web fonts are still weird, though it turns out doing <a href="https://csswizardry.com/2020/05/the-fastest-google-fonts/">preloading</a> can help a bit with speed. Hopefully I’ll figure out a few more things about margins, padding, and site hierarchy as I keep tweaking this design, but I’m pretty happy with how it looks so far.</p>
 
-		</div>
-
-		<div class="post-tags">
 			
-			
-			<nav class="nav tags">
+			<nav class="tags">
 				<ul class="flat">
+					<li>tags</li>
 					
 					<li><a href="/tags/css">CSS</a></li>
 					
 					<li><a href="/tags/design">design</a></li>
 					
+					<li><a href="/tags/tech">tech</a></li>
+					
+					<li><a href="/tags/markdown">markdown</a></li>
+					
 				</ul>
 			</nav>
-			
-			
+
 		</div>
-			<div class="footer">
-	<ul class="flat">
-		<li>
-			<a href="/index.xml" title="rss"><img src="/rss.svg" alt="rss icon" height="20" width="20" /></a>
-		</li>
-		<li>
-			<a href="https://twitter.com/brookshelley" title="tweet" rel="me"><img src="/twitter.svg" alt="twitter icon"
-					height="20" width="20" /></a>
-		</li>
-		<li>
-			<a href="https://buttondown.email/brookshelley" title="newsletter"><img src="/mail.svg" alt="rss icon"
-					height="20" width="20" /></a>
-		</li>
-		<li>
-			<a href="https://github.com/brookshelley" title="github" rel="me"><img src="/github.svg" alt="github icon"
-					height="20" width="20" /></a>
-		</li>
-		<li>
-			<a href="/about" title="about"><img src="/info.svg" alt="info icon" height="20" width="20" /></a>
-		</li>
-	</ul>
+		<div class="footer">
+	
 	© 2020 by brook shelley
 </div>
 	</div>

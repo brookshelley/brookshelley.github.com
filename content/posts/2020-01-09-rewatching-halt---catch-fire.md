@@ -5,6 +5,7 @@ description: an amazing show for the second time
 date: 2020-01-09
 tags:
   - thoughts
+  - tv
 ---
 
 ## The first time

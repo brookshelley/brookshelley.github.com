@@ -2,10 +2,10 @@
 layout: micropubpost
 date: '2020-07-16T08:01:36.143Z'
 title: Microposting
-mf-post-status:
-  - draft
-slug: microposting
-lang: en
+tags:
+  - tech
+  - markdown
+  - indieweb
 ---
 
 # Microposting

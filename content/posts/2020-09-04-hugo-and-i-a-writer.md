@@ -2,10 +2,9 @@
 layout: micropubpost
 date: '2020-09-04T22:31:49.013Z'
 title: Hugo and iA Writer
-mf-post-status:
-  - draft
-slug: hugo-and-i-a-writer
-lang: en
+tags: 
+  - tech
+  - markdown
 ---
 
 # Hugo and iAWriter

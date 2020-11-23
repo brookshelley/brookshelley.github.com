@@ -7,6 +7,8 @@ date: 2019-11-06
 tags:
   - backpacks
   - travel
+  - work
+  - tech
 ---
 
 As usual, when I go on a DevRel tour, I like to write about what I've packed. This trip was a 3 week journey from Tokyo, through Kyoto, to Osaka, and back. As I write this, halfway through the trip, I feel very good about the amount of stuff I brought.

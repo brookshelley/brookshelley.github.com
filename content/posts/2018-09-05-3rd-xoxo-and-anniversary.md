@@ -5,6 +5,7 @@ date: 2018-09-05
 description: Thinking about XOXO this weekend & healing
 tags:
   - thoughts
+  - conference
 ---
 
 ## My 3rd XOXO

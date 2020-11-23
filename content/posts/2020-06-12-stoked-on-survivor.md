@@ -4,7 +4,7 @@ title: "Stoked on Survivor"
 date: 2020-06-12
 description: how I got deep into Suvivor
 tags:
-  - TV
+  - tv
 ---
 
 After twenty years of this CBS reality show being on TV, I finally jumped on board as a fan. A few years ago, [a podcast](https://www.relay.fm/rd) I enjoy discussed a John Siricusa’s longstanding love of Survivor, and even offered a [list of his favorite seasons](https://www.relay.fm/rd/94). I dipped a toe in with one season, then promptly decided that was enough, until March brought a shelter at home.

@@ -1,13 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on dill &amp; fennel</title>
+    <title>apple on dill &amp; fennel</title>
     <link>https://www.brookshelley.com/tags/apple/</link>
-    <description>Recent content in Apple on dill &amp; fennel</description>
+    <description>Recent content in apple on dill &amp; fennel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2020 06:37:30 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple season</title>
+      <link>https://www.brookshelley.com/posts/2020-11-18-apple-season/</link>
+      <pubDate>Wed, 18 Nov 2020 06:37:30 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-11-18-apple-season/</guid>
+      <description>Every fall brings a plethora of shiny new Apple devices, but I don&amp;rsquo;t always partake. For the past few years I&amp;rsquo;ve been content to keep my MacBook 12&amp;quot; and iPad Pro 11&amp;quot; as my computers.</description>
+      <content:encoded><p><img src="/photos/macbookm1.jpg" alt=""></p>
+<p>Every fall brings a plethora of shiny new Apple devices, but I don&rsquo;t always partake. For the past few years I&rsquo;ve been content to keep my MacBook 12&quot; and iPad Pro 11&quot; as my computers. Each year I bought a new phone, but with a subsidy from work and trade-in value, they were essentially free upgrades.</p>
+<p>This year something changed.</p>
+<h2 id="enter-the-m1">Enter the M1</h2>
+<p>Apple&rsquo;s home grown silicon M1 meant finally a Mac could be as fast as an iPhone and iPad without being an ultra-powerful desktop or a battery hog.</p>
+<p>My favorite home computer is my iPad Pro for many reasons: it&rsquo;s small, light, and faster than my laptop. The new MacBook Air and Pro aren&rsquo;t lighter than my iPad, but they are faster, and the battery lasts even longer, so I was sold on the idea of moving over to a new ARM Mac.</p>
+<h2 id="macbook-air">MacBook Air</h2>
+<p>I thought for all of a few hours before pressing &ldquo;buy&rdquo; on the Air instead of the Pro, as I have always loved the smaller form factor, and rarely need &ldquo;pro&rdquo; features on my computer. This is doubly true now that I&rsquo;m a manager that tinkers with build systems—a process I&rsquo;ve streamlined for iOS, so it&rsquo;ll definitely stretch out and luxuriate on the Mac.</p>
+<p>I got the 8gb version with 256gb of storage mostly because it shipped faster and I&rsquo;m impatient, but also because my MacBook 12&quot; also only had 8gb of ram and the limiting factor was rarely memory.</p>
+<p>This computer is FAST. It&rsquo;s hard to emphasize just how quick everything feels. You want to open an app? You click it, and boom. Want to put it to sleep, then remember <em>one more thing</em>? Boom, open and on. Want to do literally any encoding or complex stuff? Fast as lightning.</p>
+<h2 id="my-use-cases">My use cases</h2>
+<p>Chrome users take heed: I&rsquo;m a big Safari proponent, and the only Electron app I use outside of work is Slack. I&rsquo;ve occasionally played with <a href="https://code.visualstudio.com">VSCode</a> or <a href="https://atom.io">Atom</a>, but with <a href="https://nova.app">Nova</a> being one of Gruber&rsquo;s &ldquo;<a href="https://daringfireball.net/linked/2020/09/24/nova">Mac-assed Mac apps</a>&rdquo; I&rsquo;ve moved over. Nova is fast, it supports Apple Silicon, and it&rsquo;s pretty AF.</p>
+<p>The only software I wish worked but doesn&rsquo;t quite yet is <a href="https://brew.sh">Homebrew</a>, Go, and <a href="https://gohugo.io">Hugo</a>. I figure these will all be working within the month or by the end of the year worst-case. Guessing this might be an issue, I moved my site from Github Sites to <a href="https://www.netlify.com">Netlify</a>, simply to have test builds without doing local ones. This also means I can do some neat stuff on my iPad when I don&rsquo;t use my Mac. Not being able to use these tools is way less of an issue than it would&rsquo;ve been previously.</p>
+<p>My other most-used apps are iAWriter, Tot, Fantastical. Deliveries, and ImageOptim. The first three are already ported, and I imagine the latter two will follow suit shortly. Honestly though, I only notice that they aren&rsquo;t ported when I open Activity Monitor, since everything is <em>so fast</em> and doesn&rsquo;t look any different even in Rosetta 2.</p>
+<p>Without Shortcuts, I don&rsquo;t have a great way to immediately publish new blogposts. What is so nice about sharing into a Hugo workflow on my iPad means I&rsquo;ll either need to reproduce my work in some scripting language, or go through the rigamarole of dropping my text into Nova, and commit and push it. Another alternative is to use MicroPub, but I&rsquo;ve been a little too lazy to <a href="https://github.com/voxpelli/node-format-microformat/issues/5">customize the repo</a> I used to ensure the ensuing file is formatted how I like it. Perhaps in the future someone will update this, or I&rsquo;ll decide to dive deep into creating something.</p>
+<h2 id="battery">Battery</h2>
+<p>I&rsquo;m still testing this out, but so far I couldn&rsquo;t get the battery to drop much more than 15% during initial setup, Spotlight index, Photo analysis, and downloading and configuring software for 4 hours. More on this in an update in the future.</p>
+<h2 id="no-cellular">No Cellular</h2>
+<p>There were a lot of rumors hoping that the new Mac portables would include cellular functionality that put it on par with iPads. Unfortunately, there&rsquo;s no such luck this year, which means my iPad will still be my travel computer if we ever get to fly or drive anywhere again. Immediate access to the internet from a device with a keyboard is too delightful to pass up. I could see myself bringing this Mac to a coffee shop or somewhere with known-good wifi though because typing on it is a delight so far compared to my previous MacBook 12&quot;, and comparable with my iPad Pro, albeit with more room for my long fingers.</p>
+<h2 id="other-bits">Other bits</h2>
+<p>This thing is <em>big</em> to me. I never, ever carry my work laptop (2018 MacBook Pro 13&quot;), and have only used an iPad or the MacBook when away from my desk for a few years now, so the 13&quot; MacBook Air feels like a honker. I think I&rsquo;ll get used to it, but it&rsquo;s still quite the change.</p>
+<p>This computer is 0% hot so far, ever. It&rsquo;s also super quiet, since there&rsquo;s no fan, similar to my MacBook. I haven&rsquo;t had much reason to plug things into the ports yet, but I guess having two instead of one is good? Maybe I&rsquo;ll plug it in to charge while also connecting an SD card.</p>
+<p>The screen is nice? I don&rsquo;t think it&rsquo;s much different than my MacBook, and I don&rsquo;t think it has the 120hz refresh of the iPad.</p>
+<p>The camera is still terrible, which gives a solid leg-up to the iPad for on-the-go video chats. When I&rsquo;m at home I use <a href="https://reincubate.com/camo/">Camo</a> to employ my very good iPhone camera for video.</p>
+<p>I like the new keyboard keys, like Spotlight, language-input switching (but not that <em>plus</em> emoji, which is annoying), and dictation. The key travel is improved a bit from the old new portable switches, and satan-willing will be more durable too. No stuck keys yet! <em>knocks on wood super loudly</em></p>
+<p>I&rsquo;ll update this post if I think of anything else in the next few days or weeks. If you&rsquo;re on the fence about moving to an M1 Mac and wanna ask me questions, feel free to <a href="mailto:newmac@brookshelley.com">message me</a> or Tweet @brookshelley. This is seriously the fastest, best computer I&rsquo;ve owned in a long time.</p>
+</content:encoded>
+    </item>
+    
+    <item>
+      <title>2020 Homescreen</title>
+      <link>https://www.brookshelley.com/posts/2020-09-26-2020-homescreen/</link>
+      <pubDate>Sat, 26 Sep 2020 06:34:55 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/posts/2020-09-26-2020-homescreen/</guid>
+      <description>2020 Homescreen This year was mostly a nightmare for all the gestures around reasons.
+However, for my 2020 homescreen on my iPad and iPhone, it was pretty wild.</description>
+      <content:encoded><h1 id="2020-homescreen">2020 Homescreen</h1>
+<p>This year was mostly a nightmare for all the <em>gestures around</em> reasons.</p>
+<p>However, for my 2020 homescreen on my iPad and iPhone, it was pretty wild. iOS 14 brought the concept of homescreen widgets to iOS after years of waiting, and they&rsquo;re pretty damn good.
+<img src="/photos/ioshome2020.jpg" alt=""></p>
+<h2 id="another-year">Another year</h2>
+<p>Every year for the <a href="https://www.brookshelley.com/posts/2019-11-28-2019-iphone-homescreen/">past</a> few <a href="https://www.brookshelley.com/posts/2018-12-14-2018-iphone-homescreen-update/">years</a> I’ve written about the apps I’m using and what appears on my iPhone Home Screen. It’s become a fun annual post to think through how the app ecosystem and iOS in general changed over the year. I still use my iPhone quite a bit in quarantine, as it remains the easiest thing to haul around my house for podcast control and random tasks.</p>
+<h2 id="more-change">More change</h2>
+<p><strong>3 app dock</strong></p>
+<p>I kept my 3 app dock from <a href="https://www.brookshelley.com/posts/2019-11-28-2019-iphone-homescreen/">last year</a>, but replaced Music with Slack. I use Slack pretty constantly for keeping in touch with my friends, and also I work there. Lately, in order to encourage myself to <em>log off</em> from work on my off-hours, I removed my work workspaces from my phone. It’s delightful.</p>
+<p>The other two apps are the same—Messages and Reeder. Both of these apps are a lifeline to loved-ones and reading respectively. I subscribed to a few friends’ Twitter feeds and a few newsletters in Reeder using Feedbin, and it’s quieter and <a href="https://www.brookshelley.com/posts/2019-02-10-slower-reading/">slower over there</a>.</p>
+<p><strong>No new app icons</strong></p>
+<p>An astute reader will see the five app icons on my homescreen and think: “wow, you’ve gotten rid of everything!” And indeed I have! iOS 14 brought the delightful App Library which enabled hiding most apps from the homescreen, relegating them to search and odd Apple-generated categories. I likely have a few <em>more</em> apps on my phone than before, but I never see them unless I need them. I love it.</p>
+<p>Overcast keeps getting better, especially with Marco focusing on stability and usability over rushing to get iOS 14 widgets or other whiz bang new things into the app. I like that Marco seems to get that so many of us depend on this app daily, and takes major changes seriously.</p>
+<p>iAWriter is where I write. Full stop. I wrote this post in iAWriter, and even wrote about <a href="https://www.brookshelley.com/posts/hugo-and-i-a-writer/"><em>how I write in it</em></a>. It’s outstanding. I would happily pay much more money just to keep this app going. A+.</p>
+<h2 id="widgets">Widgets!</h2>
+<p>The elephant on my homescreen is the two prominent widgets at the top of the device. With the addition of regularly updating, informative blocks of app, I move my calendar and my music player into this format.</p>
+<p>Fantastical is back! The widgets are great, and even though I can’t make it the <em>default app</em> in iOS this year—maybe next year? I think Fantastical still looks kinda weird on the iPad, but since I can view a smaller bit of it actively in a widget, I don’t need to open the full app nearly as often. The customization of the Fantastical widget is delightful, as <a href="https://daringfireball.net/linked/2020/09/23/fantastical-widgets-ios-14">others have written</a>.</p>
+<p>Longplay is a new app this year that focuses on reminding the listener about older, neglected albums in our collection. I think the way it changes around album art is cool looking, and I especially love that it focuses on the <em>album</em> as a coherent whole, unlike many modern music apps that are more geared towards singles and bangers.</p>
+<p>On my left screen&hellip; formerly the widget area (is this the name?) lives one app that was previously on my homescreen and another I went back to after an update.
+<img src="/photos/iOS14widgets.jpg" alt="">
+Things remains the way I get anything done in my life. I love it so much on iPhone, iPad, and Mac. The sync is fantastic, the organization is just-enough, and the keyboard shortcuts are a master class in how to do them right.</p>
+<p>Carrot Weather temporarily dethroned Hello Weather due to the addition of widgets. I still don’t love this app or how it displays data, but the widgets are delightfully minimal so I don’t need to look at the whole app often.</p>
+<p>Simple is my banking app. It’s important to always have “funny numbers” in your account as a key to appeasing the money demons that ensure a positive ROI. Top tip.</p>
+<h2 id="other-notable-apps">Other notable apps</h2>
+<p>Working Copy and Secure Shellfish aren’t on my homescreen, but they’re both pretty crucial to a few kinds of server and front-end work that I do for fun on the iPad and iPhone.</p>
+<p>Darkroom is the photo editor I moved to after some recent updates made it even better. I still wish it could resize photos on export, instead of just changing the quality of the photo or video, but hopefully later they’ll be able to. In the meantime, I made an iOS shortcut that does the resizing for me, and commits the photo to my blog’s repo.</p>
+<h2 id="missing-widgets">Missing widgets</h2>
+<p>One day soon, I hope my bank adds a widget, as well as Wealthfront, and perhaps Overcast and Sonos. Tot would also be an excellent widget for quick text entry. I don’t know if I’d keep it up all the time, but my Deliveries app also primarily functions as a read-only list, so it would be ideal for a side-screen widget.</p>
+<h2 id="future-hopes">Future hopes</h2>
+<p>I’m curious as more developers add widgets if their interest in adding more options for sizing and location. I think it’d be neat to have a single app icon widget, as well as write-capable widgets. Perhaps we’ll see this customization in iOS 15. I think now that the floodgates are open for what TikTok youth are seeing as custom themes, it’ll be hard to stem the tide of interest in actual shareable themes a-la Apple Watch. Further, I think it’d be pretty silly if iOS widgets and Apple Watch widgets didn’t end-up unifying in the future.</p>
+<p>Ultimately, I’m super glad I don’t need to keep a ton of apps on my homescreen, and instead can show the apps I use most.</p>
+</content:encoded>
+    </item>
+    
     <item>
       <title>WWDC Thoughts</title>
       <link>https://www.brookshelley.com/posts/2020-06-22-wwdc-thoughts/</link>

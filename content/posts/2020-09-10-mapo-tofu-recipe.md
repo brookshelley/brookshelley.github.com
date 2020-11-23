@@ -2,10 +2,9 @@
 layout: micropubpost
 date: '2020-09-10T01:54:50.591Z'
 title: Mapo Tofu Recipe
-mf-post-status:
-  - draft
-slug: mapo-tofu-recipe
-lang: en
+tags:
+  - food
+  - recipe
 ---
 
 # Mapo Tofu Recipe 

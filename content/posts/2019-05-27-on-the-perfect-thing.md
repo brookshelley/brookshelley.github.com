@@ -3,6 +3,7 @@ layout: posts
 title: On the perfect thing
 tags:
   - thoughts
+  - tech
 date: 2019-05-27
 description: why do we search for the best stuff?
 categories: blog

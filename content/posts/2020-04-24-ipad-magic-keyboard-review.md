@@ -7,6 +7,7 @@ tags:
   - ipad
   - travel
   - review
+  - tech
 ---
 
 ![iPad and Magic Keyboard](/photos/magickeyboard.jpg)

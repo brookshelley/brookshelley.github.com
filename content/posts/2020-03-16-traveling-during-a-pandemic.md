@@ -7,6 +7,7 @@ tags:
   - japan
   - backpacks
   - travel
+  - covid
 ---
 
 **Wow, things sure are quiet...**

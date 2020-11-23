@@ -3,16 +3,21 @@
 {{ partial "head.html" . }}
 
 <body>
-	<div class="container wrapper tags">
+	<div class="container wrapper">
 		{{ partial "header.html" . }}
-		
+	
+	<div class="taglist">
+		<h2 class="title2">{{ .Title }}</h2>
 		<ul>
-    {{ range (.GetTerms "tags") }}
-        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-   {{ end }}
-</ul>
+			{{ $t := .Site.GetPage "/tags" }}
+			{{ range .Pages }}
+				<a href={{ .Permalink  }}>{{ .Title }}&nbsp;&nbsp;
+			{{ end }}
+			</ul>
+	  </div>
 
-		<h1 class="page-title">All tags</h1>
+		<a href=/tags>all tags</a>
+
 		{{ partial "footer.html" . }}
 
 	</div>

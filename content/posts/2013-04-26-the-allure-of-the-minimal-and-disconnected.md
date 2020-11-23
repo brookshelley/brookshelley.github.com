@@ -3,6 +3,9 @@ title: The Allure of the minimal
 date: 2013-04-26
 description: writing on minimalism
 type: posts
+tags: 
+ - minimalism
+ - thoughts
 ---
 
 ## The Futures

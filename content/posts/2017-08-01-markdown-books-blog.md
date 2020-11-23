@@ -3,6 +3,8 @@ type: posts
 title: A Markdown Book Blog
 date: 2017-08-01
 tag:
+ - writing
+ - markdown
 description: why i made a static book blog
 categories: blog
 ---

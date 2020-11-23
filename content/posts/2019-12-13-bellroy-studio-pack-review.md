@@ -5,6 +5,7 @@ date: 2019-12-13
 tags:
   - backpacks
   - review
+  - travel
 description: a review of a great backpack
 ---
 

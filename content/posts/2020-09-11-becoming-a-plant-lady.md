@@ -2,10 +2,9 @@
 layout: micropubpost
 date: '2020-09-11T03:59:55.900Z'
 title: Becoming a plant lady
-mf-post-status:
-  - draft
-slug: becoming-a-plant-lady
-lang: en
+tags:
+  - home
+  - plants
 ---
 
 # Becoming a plant lady

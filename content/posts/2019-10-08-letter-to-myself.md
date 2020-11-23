@@ -4,6 +4,8 @@ title: A letter
 date: 2019-10-08
 description: writing a cathartic letter to myself
 categories: blog
+tags:
+ - queer
 ---
 
 (this is a very earnest post, and if you're here for backpacks and travel, maybe skip this one)

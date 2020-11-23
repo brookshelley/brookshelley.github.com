@@ -294,7 +294,6 @@ li {
 }
 
 .post-tags .tags a {
-    margin-left: 10px;
     color: #ddd;
 }
 
@@ -408,6 +407,17 @@ nav ul.flat li {
   list-style: none;
   width: 100%;
   font-size: var(--font-large); 
+}
+
+nav.tags {
+  font-size: var(--font-small);
+  margin-left: 0em;
+  float: right;
+}
+
+.taglist {
+ grid-column-start: 2;
+ margin-top: 1em;
 }
 
 .section .section-header {
