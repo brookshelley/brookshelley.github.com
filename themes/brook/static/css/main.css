@@ -232,7 +232,7 @@ li {
 
 .site-title a {
   font-family: var(--font-head);    
-  color: #black;
+  color: snow;
   text-decoration: none;
   font-size: 37px;
   margin-left: 0px;
@@ -291,7 +291,6 @@ li {
     margin-left: 0px;
     margin-right: 0px;
     padding-right: 0px;
-    /*float: left;*/
     width: 100px;
 }
 
