@@ -8,8 +8,8 @@
 body {
   font-family: var(--font-body);
   font-weight: 200;
-  color: #404040;
-  background-color: #CECDD0;
+  color: #F3F2F3;
+  background-color: #000;
   line-height: 24px;
   font-size: var(--font-small);
   overflow-x: hidden;
@@ -35,6 +35,7 @@ i {
 .description {
   margin-left: 80px;
   margin-top: 10px;
+  color: #F3F2F3;
 }
 a {
   font-family: var(--font-head);
@@ -130,12 +131,13 @@ h2 {
   line-height: 1.4;
   margin-bottom: 1em;
   margin-top: .5em;
+  color: snow;
 }
 
 h3 {
   margin-bottom: 5px;
   font-weight: 500;
-  color: #603ad0;
+  color: snow;
 }
 
 .archive {

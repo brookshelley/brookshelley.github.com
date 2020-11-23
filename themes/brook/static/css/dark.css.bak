@@ -13,9 +13,6 @@ body {
     text-shadow: none
 }
 
-h1 {
-	color: #603ad0;
-}
 
 h2,h3 {
 	color: snow;
