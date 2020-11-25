@@ -4,7 +4,8 @@ draft: false
 type: media
 ---
 
-## 2020: 61 books {#2020}
+## 2020: 62 
+books {#2020}
 
 **Self-Knowledge**
 
@@ -13,6 +14,10 @@ Another School of Life book, this time on life and self-knowing. I enjoyed it qu
 **Earthlings** — Sayaka Murata
 
 Wow, this was initially pretty straightforward, and then went deep into the weird zone. Murata is so good at writing. Between this and the Convenience Store Woman, I think she’s one of the best surrealist fiction authors working. Very highly recommended, and hard to put down.
+
+**God Emperor of Dune**
+
+Truly strange. The series is wilder every book.
 
 **The City We Became** — NK Jemison
 
