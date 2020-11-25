@@ -322,8 +322,8 @@
   }
   
   .footer {
-  grid-column-start:1;
-  float:top;
+  grid-column-start:2;
+  float:right;
   position:relative
   }
   
