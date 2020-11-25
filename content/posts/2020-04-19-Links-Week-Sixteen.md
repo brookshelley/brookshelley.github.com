@@ -4,7 +4,7 @@ date: 2020-04-19
 description: weekly links
 tags:
   - newsletter
-type: posts
+type: newsletter
 ---
 
 This week marked my first sourdough loaves, which were delicious and a bit flat. It turns out having a scale is crucial, and hopefully next week I will get to address that lack. I also got a few of my hobby shipments in, which meant building a tiny Porsche and beginning a small robot. Being stuck indoors all day alone is a great excuse for rediscovering things I enjoyed when I was a weird shut-in kid. I feel super lucky most of my hobbies involve being alone indoors, save for driving, which I also enjoyed this weekend in an undisclosed touge road.
