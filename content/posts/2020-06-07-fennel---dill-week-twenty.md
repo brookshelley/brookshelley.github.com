@@ -1,5 +1,5 @@
 ---
-type: posts
+type: newsletter
 title: "Fennel & Dill 20"
 date: 2020-05-17
 description: 

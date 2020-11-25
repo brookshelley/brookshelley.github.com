@@ -4,7 +4,7 @@ date: 2020-04-05
 description: weekly links
 tags:
     - newsletter
-type: posts
+type: newsletter
 ---
 
 This week I spent some time thinking about hoarding.

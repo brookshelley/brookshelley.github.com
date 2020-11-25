@@ -4,7 +4,7 @@ date: 2020-02-09
 description: weekly links
 tags:
  - newsletter
-type: posts
+type: newsletter
 ---
 
 **Shochu, CSS, and “enough”**

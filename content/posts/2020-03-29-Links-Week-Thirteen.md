@@ -4,7 +4,7 @@ date: 2020-03-29
 description: weekly links
 tags:
     - newsletter
-type: posts
+type: newsletter
 ---
 
 Ah, I’ve returned to the Americas. This week, Japan started quarantining as well, so I just missed the cutoff there and was largely able to enjoy wandering around like usual. I still tried to socially distance while I was in Tokyo and Osaka however, and I even [blogged about it](https://www.brookshelley.com/posts/2020-03-16-traveling-during-a-pandemic/) in five parts. Overall, it was a strange trip, but a fun one. I hope I get to travel back to Japan again in November after the [quarantine ends](https://www.theatlantic.com/family/archive/2020/03/coronavirus-social-distancing-over-back-to-normal/608752/).

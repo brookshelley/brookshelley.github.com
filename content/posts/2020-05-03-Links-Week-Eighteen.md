@@ -4,7 +4,7 @@ date: 2020-05-03
 description: weekly links
 tags: 
   - newsletter
-type: posts
+type: newsletter
 ---
 
 Happy May! We made it through an April that lasted conservatively one thousand years. I hope you're well, and finding new ways of living and thriving as we settle in for Summer. 

@@ -4,7 +4,7 @@ date: 2020-03-21
 description: weekly links
 tags:
     - newsletter
-type: posts
+type: newsletter
 ---
 
 Hello from a 200mph Nozomi Shinaksen train on my way to Tokyo! This train still feels like the future, and it’s especially wild that people are riding it and no one seems particularly worried.

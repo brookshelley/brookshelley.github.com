@@ -4,7 +4,7 @@ date: 2020-04-12
 description: weekly links
 tags:
     - newsletter
-type: posts
+type: newsletter
 ---
 
 Welcome to your weekly installment of “what’s Brook reading and clicking on now?” The quarantine here in the Bay Area is 4 weeks on, I think, and today I briefly saw a friend outside while dropping off groceries. It was nice. I hope you’ve had some distant human contact this month too. I’ve also been buying wine from Ordinaire, along with various tinned fishes, because this shit sucks, but wine and mackerel are delightful.

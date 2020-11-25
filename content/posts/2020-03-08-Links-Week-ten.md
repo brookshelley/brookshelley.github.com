@@ -4,7 +4,7 @@ date: 2020-03-08
 description: weekly links
 tags:
   - newsletter
-type: posts
+type: newsletter
 ---
 
 This email comes to you from a rainy port city, where I am spending time on strategy and vision for the Women’s Foundation of Oregon. Spending the weekend with a room full of amazing women from all over the state comprising our board was incredible. My heart is full, and I’m hopeful for the work we can accomplish in the coming years.

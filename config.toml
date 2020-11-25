@@ -41,7 +41,7 @@ summaryLength = 20
 	[[params.social]]
   name = "newsletter"
   icon = "mail"
-  url = "https://buttondown.email/brookshelley"
+  url = "/tags/newsletter"
 
   [[params.social]]
   name = "about"

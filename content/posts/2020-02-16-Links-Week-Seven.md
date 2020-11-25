@@ -4,7 +4,7 @@ date: 2020-02-16
 description: weekly links
 tags:
   - newsletter
-type: posts
+type: newsletter
 ---
 
 First of all, look at this DUCK!

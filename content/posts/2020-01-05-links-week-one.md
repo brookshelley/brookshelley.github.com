@@ -4,10 +4,8 @@ date: 2020-01-05
 description: weekly links
 tags:
   - newsletter
-type: posts
+type: newsletter
 ---
-
-# Links: Week One
 
 It’s 2020! Welcome to the new decade. Imagine for a moment the news hasn’t already been wild, and step into a this list of joy and edutainment instead. A lot of links this week are to older projects for folks I’ve mentioned before, because I just got back from a long holiday of reading and watching things on tv, so I rediscovered some old favorites. I also redesigned [my website](https://www.brookshelley.com), and moved it from Jekyll to Hugo, which meant some painful time with Go templating. Yikes.
 

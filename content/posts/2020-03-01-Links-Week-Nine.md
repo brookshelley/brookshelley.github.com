@@ -4,7 +4,7 @@ date: 2020-03-01
 description: weekly links
 tags:
  - newsletter
-type: posts
+type: newsletter
 ---
 
 This weekend is a bit sad, as it would have marked my countdown to a two week vacation in Japan, but due to coronavirus I had to cancel the trip. Perhaps I’ll do something else, but right now I’m just worried for my friends and coworkers abroad and at home. Keep your hands washed, your spirits up, and your days full of love. 

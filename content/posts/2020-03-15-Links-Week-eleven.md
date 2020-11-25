@@ -4,7 +4,7 @@ date: 2020-03-15
 description: weekly links
 tags: 
     - newsletter
-type: posts
+type: newsletter
 ---
 
 Welcome to a new world without toilet paper. Seriously, it’s fucking depressing seeing pictures of grocery stores post-hoarding. I hope everyone reading this cares for your fellow humans more than building a fort out of sanitizer and toilet paper. 

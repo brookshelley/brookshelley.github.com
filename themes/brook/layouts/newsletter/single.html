@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+{{ partialCached "head.html" . }}
+
+<body>
+	<div class="container wrapper">
+		{{ partial "header.html" . }}
+
+		<!--div class="post-header">
+			<h1{{ .Title }}</h1>
+		</div-->
+
+		<div class="markdown">
+			<h1 class="title2">{{ .Title }}</h1>
+			{{ .Content }}
+			
+			<nav class="tags">
+				<ul class="flat">
+					<li>tags</li>
+					{{ range .Params.tags }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</nav>
+
+		</div>
+		{{ partialCached "footer.html" . }}
+	</div>
+</body>
+
+</html>

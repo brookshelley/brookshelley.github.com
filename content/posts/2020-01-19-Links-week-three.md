@@ -4,7 +4,7 @@ date: 2020-01-19
 description: weekly links
 tags:
     - newsletter
-type: posts
+type: newsletter
 ---
 
 January is nearly over! I had a delicious meal last night of pork cartilage soup (豚軟骨汁) and dug into an [old classic sci-fi book](https://www.fantasticfiction.com/c/deborah-christian/mainline.htm) on recommendation from Robin Sloan’s newsletter. It’s weird and fun so far. I also started back at the gym last week, which left me hobbling around as my body complains about all the rowing I did. At least it’s next to my office!

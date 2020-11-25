@@ -4,7 +4,7 @@ date: 2020-01-26
 description: weekly links
 tags: 
     - newsletter
-type: posts
+type: newsletter
 ---
 
 ## redesigns and long reads. 

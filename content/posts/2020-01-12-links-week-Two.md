@@ -4,7 +4,7 @@ date: 2020-01-12
 description: weekly links
 tags:
   - newsletter
-type: posts
+type: newsletter
 ---
 
 We’re halfway through with the first month of 2020, and the sun has been out a lot this week in the bay. Luckily, I got some new sunglasses so I’m feeling great about the whole thing. 

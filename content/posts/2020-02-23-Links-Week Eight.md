@@ -4,7 +4,7 @@ date: 2020-02-23
 description: weekly links
 tags: 
     - newsletter
-type: posts
+type: newsletter
 ---
 
 This was the week I left Twitter for a while. Honestly it wasn’t so bad, once I got over the twitchy “gotta open Twitter” feeling. I’ll write more about that experience soon, with some light suggested reading and a few tips. My main takeaway so far is that I spent a lot of time opening and closing and reopening Twitter for the last 10 years.

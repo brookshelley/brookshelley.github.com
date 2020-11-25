@@ -14,7 +14,15 @@
 		<h1 class="title2">archive</h1>				
 		{{ end }}
 		  <div class="post">
-			{{- range .Pages -}}
+			{{ range ( where .Site.RegularPages "Type" "posts") }}
+			<div class="meta">
+				<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
+				<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>
+				<!--p class="description">{{.Description}}</p-->
+			</div>
+			{{ end }}
+			<h2>newsletters</h2>
+			{{ range ( where .Site.RegularPages "Type" "newsletter") }}
 			<div class="meta">
 				<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
 				<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a></p>

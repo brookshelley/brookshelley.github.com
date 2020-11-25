@@ -1,10 +1,10 @@
 ---
-type: posts
 title: "Fennel & Dill 21"
 date: 2020-05-24
 description: 
 tags:
   - newsletter
+type: newsletter
 ---
 
 Welp, first sunburn of the quarantine for this gal. I spent the afternoon in a friend’s yard (hi André and Haley) and forgot my skin has been softened by indoor lighting for months. On the upside, it was gorgeous outside, and I’m glad I got to sit in the sun.

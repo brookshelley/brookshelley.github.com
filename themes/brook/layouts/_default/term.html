@@ -11,12 +11,15 @@
 		<ul>
 			{{ $t := .Site.GetPage "/tags" }}
 			{{ range .Pages }}
+			<ul>
 				<a href={{ .Permalink  }}>{{ .Title }}&nbsp;&nbsp;
+			</ul>
 			{{ end }}
 			</ul>
-	  </div>
-
+		<a href="https://buttondown.email/brookshelley">weekly updates</a>
+		<br />
 		<a href=/tags>all tags</a>
+	  </div>
 
 		{{ partial "footer.html" . }}
 

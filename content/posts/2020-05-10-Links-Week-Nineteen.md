@@ -4,7 +4,7 @@ date: 2020-05-10
 description: weekly links
 tags:
  - newsletter
-type: posts
+type: newsletter
 ---
 
 Ten loaves of sourdough! That’s how many loaves I have made thus far during the pandemic (or pan-demic if you’ll excuse my pun). Have you found a fulfilling hobby? Gotten really good at a driving simulator? Taken up [amateur plumbing](https://www.cowaymega.com/product/coway-bidetmega-400/)? I went out last weekend for the first time, albeit just down the street to sit in a friend’s yard, far from said friend. It was pretty nice, and I keep thinking I should perhaps do a little more biking and walking, but then I see a dozen people walking around massless, and I get some combination of furious and scared all over again. 
