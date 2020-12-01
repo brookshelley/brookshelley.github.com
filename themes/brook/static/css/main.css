@@ -18,8 +18,7 @@
   }
   
   .markdown {
-  margin-left:.5em;
-  margin-right:.5em;
+  margin:0 auto;
   margin-bottom:1.6em;
   max-width:65ch
   }
@@ -77,8 +76,7 @@
   }
   
   .logo {
-  margin-right:20px;
-  max-width:66px;
+  max-width:66px; 
   float:left
   }
   
@@ -113,7 +111,6 @@
   font-weight:500;
   margin-top:0;
   margin-bottom:1em;
-  margin-right:.5em;
   }
   
   h2 {
@@ -135,7 +132,6 @@
   margin-top:0;
   margin-left:0;
   text-align:left;
-  float:left;
   max-width:100%;
   grid-column:2
   }
@@ -156,9 +152,7 @@
   }
   
   ul.flat {
-  display:flex;
-  padding:0;
-  line-height:20px;
+  display: flex;
   width:100%;
   margin:0
   }
@@ -166,17 +160,14 @@
   ul.flat li {
   font-size:18px;
   list-style:none;
-  text-align:left;
-  justify-content:space-evenly
+  margin:0 auto
   }
   
   ul.flat2 li {
   display:inline-flex;
   font-size:18px;
   list-style:none;
-  margin-right:10px;
-  margin-left:0;
-  margin-top:0
+  margin:0 auto
   }
   
   ul.flatfoot li {
@@ -186,11 +177,6 @@
   margin-left:0;
   margin-right:0;
   background-color:#222
-  }
-  
-  li {
-  margin-right:0;
-  margin:5px 10px
   }
   
   .flatfoot-about {
@@ -211,7 +197,6 @@
   
   .site-title {
   line-height:66px;
-  font-size:37px;
   margin-bottom:0
   }
   
@@ -220,8 +205,8 @@
   color:#fffafa;
   text-decoration:none;
   font-size:37px;
-  margin-left:0;
-  margin-bottom:1px
+  margin-left:10px;
+  margin-bottom:1px;
   }
   
   .post title {
@@ -232,7 +217,6 @@
   .posts .post .meta {
   font-size:18px;
   color:#888;
-  margin-left:.5em
   }
   
   .list {
@@ -248,11 +232,7 @@
   .meta {
   font-family:var(--font-head);
   color:#888;
-  margin-left:0;
-  margin-right:0;
-  padding-right:0;
-  margin-bottom:0;
-  float:left;
+  margin:0 auto;
   width:100%;
   display:block
   }
@@ -308,8 +288,6 @@
   .wrapper {
   display:grid;
   grid-template-columns:18em 40em 1fr;
-  margin-left:2em;
-  margin-right:auto;
   grid-template-rows:auto 10em
   }
   
@@ -321,10 +299,9 @@
   }
   
   .footer {
-  grid-column-start:2;
-  float:right;
-  position:relative;
-  text-align:right
+  grid-column-start:1;
+  float:top;
+  position:relative
   }
   
   h1.title {
@@ -336,7 +313,8 @@
   }
   
   .posts {
-  margin-top:2em
+  margin-top:2em;
+  padding-left:1em;
   }
   }
   
@@ -373,7 +351,7 @@
   font-family:var(--font-head);
   text-align:left;
   font-size:var(--font-large);
-  margin:0
+  max-width:18em;
   }
   
   nav ul.flat li {

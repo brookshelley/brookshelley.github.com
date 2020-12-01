@@ -18,8 +18,7 @@
   }
   
   .markdown {
-  margin-left:.5em;
-  margin-right:.5em;
+  margin:.5em auto;
   margin-bottom:1.6em;
   max-width:65ch
   }
@@ -390,6 +389,7 @@
   .taglist {
   grid-column-start:2;
   margin-top:1em;
+  margin-left:.5em
   }
   
   .section .section-header {
