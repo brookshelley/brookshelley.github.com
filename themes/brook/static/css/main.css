@@ -167,7 +167,7 @@
   display:inline-flex;
   font-size:18px;
   list-style:none;
-  margin:0 auto
+  margin-right:10px
   }
   
   ul.flatfoot li {
@@ -327,6 +327,10 @@
   .nav img {
   max-height:20px;
   display:inline
+  }
+  
+  .footer img {
+  max-height:20px;
   }
   
   .full-bleed {
