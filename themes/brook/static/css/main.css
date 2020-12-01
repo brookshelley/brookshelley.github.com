@@ -366,7 +366,7 @@
   
   nav.tags {
   font-size:var(--font-small);
-  margin-left:0;
+  margin-left:2px;
   float:right
   }
   
