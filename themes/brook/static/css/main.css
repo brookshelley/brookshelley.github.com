@@ -230,6 +230,7 @@
   .meta {
   font-family:var(--font-head);
   color:#888;
+  padding-top:5px;
   margin:0 auto;
   width:100%;
   display:block
