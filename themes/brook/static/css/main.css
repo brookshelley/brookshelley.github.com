@@ -160,7 +160,7 @@
   ul.flat li {
   font-size:18px;
   list-style:none;
-  margin-top: 0px
+  margin-top:0px
   }
   
   ul.flat2 li {
@@ -173,9 +173,7 @@
   ul.flatfoot li {
   font-size:14px;
   text-align:left;
-  margin-top:5px;
-  margin-left:0;
-  margin-right:0;
+  margin:0;
   background-color:#222
   }
   
@@ -184,7 +182,7 @@
   font-size:12px;
   margin-left:0;
   margin-right:0;
-  margin-bottom:5px
+  margin-bottom:1px
   }
   
   .page-title {
