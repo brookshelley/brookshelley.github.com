@@ -4,8 +4,11 @@ draft: false
 type: media
 ---
 
-## 2020: 62 
-books {#2020}
+## 2020: 63 {#2020}
+
+**Afterland** — Lauren Beukes
+
+The most post-apocalyptic prostate-free fun since Y the Last Man. I read through this in one sitting, as it had a great pace and a solid plot. 
 
 **Self-Knowledge**
 
