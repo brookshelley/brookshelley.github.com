@@ -154,7 +154,8 @@
   display: flex;
   width:100%;
   margin-top:5px;
-  margin-bottom:0px
+  margin-bottom:0px;
+  margin-right:5px;
   }
   
   ul.flat li {
@@ -368,6 +369,7 @@
   nav.tags {
   font-size:var(--font-small);
   margin-left:2px;
+  margin-right:5px;
   float:right
   }
   
