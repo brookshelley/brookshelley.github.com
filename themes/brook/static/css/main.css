@@ -357,7 +357,7 @@
   text-align:left;
   font-size:var(--font-large);
   max-width:18em;
-  margin-bottom:1em;
+  margin-bottom:.5em;
   }
   
   nav ul.flat li {
