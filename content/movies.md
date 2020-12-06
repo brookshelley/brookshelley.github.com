@@ -6,7 +6,6 @@ type: media
 
 ## 2020 {#2020}
 
-
 **Centigrade**
 
 After a very cold night camping, I decided to watch this movie about slowly freezing to death in your car in Norway. I’m super glad I get to watch this with some wine and a wool blanket. Being super cold sucks! For a movie completely set inside a car, this is pretty well-shot and compelling. It was based on true events, I guess, but the whole baby thing was a hat on a hat.
