@@ -11,7 +11,7 @@ tags:
 
 Another year has rushed past, and with it, another iPhone update and some changes to my phone since [last year's setup](https://www.brookshelley.com/blog/2018/12/14/2018-iphone-homescreen-update.html). My use of a single screen of apps continues, with a few major and minor changes alongside.
 
-![2019 iPhone Screen](/photos/2019iphone.png)
+![2019 iPhone Screen](/photos/2019iphone.jpg)
 
 I've posted these for the past few years, so if you want to see what apps I was using in [2017, here you go](https://medium.com/@brookshelley/2017-homescreen-ac92817eae60).
 
