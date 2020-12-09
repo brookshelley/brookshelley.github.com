@@ -7,7 +7,7 @@ tags:
   - music
 ---
 
-Listen on Apple Music(https://music.apple.com/us/playlist/favorites-of-2020/pl.u-ZPWLjTB1qLJ)
+[Listen on Apple Music](https://music.apple.com/us/playlist/favorites-of-2020/pl.u-ZPWLjTB1qLJ)
 
 **Viewing** — Stay Inside
 
