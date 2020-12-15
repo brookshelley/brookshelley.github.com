@@ -7,13 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
-    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 13:01:23 -0800</lastBuildDate><atom:link href="https://www.brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>newsletter</title>
       <link>https://www.brookshelley.com/tags/newsletter/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Dec 2020 13:01:23 -0800</pubDate>
       
       <guid>https://www.brookshelley.com/tags/newsletter/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://www.brookshelley.com/tags/music/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/music/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
+    
+    <item>
+      <title>mediadiet</title>
+      <link>https://www.brookshelley.com/tags/mediadiet/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>
@@ -44,16 +64,6 @@
       <pubDate>Wed, 18 Nov 2020 06:37:30 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/work/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-    </item>
-    
-    <item>
-      <title>mediadiet</title>
-      <link>https://www.brookshelley.com/tags/mediadiet/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brookshelley.com/tags/mediadiet/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>
@@ -354,16 +364,6 @@
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.brookshelley.com/tags/homescreen/</guid>
-      <description></description>
-      <content:encoded></content:encoded>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://www.brookshelley.com/tags/music/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brookshelley.com/tags/music/</guid>
       <description></description>
       <content:encoded></content:encoded>
     </item>

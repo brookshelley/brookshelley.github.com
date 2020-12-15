@@ -18,8 +18,8 @@
   }
   
   .markdown {
-  margin:.5em auto;
-  margin-bottom:1.6em;
+  margin:0 auto;
+  margin-bottom:1em;
   max-width:65ch
   }
   
@@ -76,8 +76,7 @@
   }
   
   .logo {
-  margin-right:20px;
-  max-width:66px;
+  max-width:33px; 
   float:left
   }
   
@@ -104,7 +103,6 @@
   h1.title {
   font-size:28px;
   font-weight:500;
-  margin:0 .5em 1em .3em
   }
   
   h1.title2 {
@@ -112,14 +110,13 @@
   font-weight:500;
   margin-top:0;
   margin-bottom:1em;
-  margin-right:.5em
   }
   
   h2 {
   font-size:20px;
   font-weight:500;
   line-height:1.4;
-  margin-bottom:1em;
+  margin-bottom:.5em;
   margin-top:.5em;
   color:#fffafa
   }
@@ -134,7 +131,6 @@
   margin-top:0;
   margin-left:0;
   text-align:left;
-  float:left;
   max-width:100%;
   grid-column:2
   }
@@ -143,8 +139,8 @@
   text-align:left;
   font-size:16px;
   margin-left:0;
-  margin-top:6px;
-  margin-bottom:6px;
+  margin-top:2px;
+  margin-bottom:2px;
   font-weight:300px
   }
   
@@ -155,41 +151,32 @@
   }
   
   ul.flat {
-  display:flex;
-  padding:0;
-  line-height:20px;
+  display: flex;
   width:100%;
-  margin:0
+  margin-top:5px;
+  margin-bottom:0px;
+  margin-right:5px;
   }
   
   ul.flat li {
   font-size:18px;
   list-style:none;
-  text-align:left;
-  justify-content:space-evenly
+  margin-top:0px
   }
   
   ul.flat2 li {
   display:inline-flex;
-  font-size:18px;
+  font-size:16px;
   list-style:none;
-  margin-right:10px;
-  margin-left:0;
-  margin-top:0
+  margin-right:7px;
+  margin-top:0px;
   }
   
   ul.flatfoot li {
   font-size:14px;
   text-align:left;
-  margin-top:10px;
-  margin-left:0;
-  margin-right:0;
+  margin:0;
   background-color:#222
-  }
-  
-  li {
-  margin-right:0;
-  margin:5px 10px
   }
   
   .flatfoot-about {
@@ -197,7 +184,7 @@
   font-size:12px;
   margin-left:0;
   margin-right:0;
-  margin-bottom:5px
+  margin-bottom:1px
   }
   
   .page-title {
@@ -209,8 +196,7 @@
   }
   
   .site-title {
-  line-height:66px;
-  font-size:37px;
+  line-height:33px;
   margin-bottom:0
   }
   
@@ -218,9 +204,9 @@
   font-family:var(--font-head);
   color:#fffafa;
   text-decoration:none;
-  font-size:37px;
-  margin-left:0;
-  margin-bottom:1px
+  font-size:33px;
+  margin-left:10px;
+  margin-bottom:1px;
   }
   
   .post title {
@@ -231,7 +217,7 @@
   .posts .post .meta {
   font-size:18px;
   color:#888;
-  margin-left:.5em
+  margin:0 auto;
   }
   
   .list {
@@ -247,11 +233,8 @@
   .meta {
   font-family:var(--font-head);
   color:#888;
-  margin-left:0;
-  margin-right:0;
-  padding-right:0;
-  margin-bottom:0;
-  float:left;
+  padding-top:10px;
+  margin:0 auto;
   width:100%;
   display:block
   }
@@ -263,7 +246,6 @@
   margin-left:0;
   margin-right:0;
   padding-right:0;
-  float:left;
   width:100%;
   display:block
   }
@@ -307,8 +289,6 @@
   .wrapper {
   display:grid;
   grid-template-columns:18em 40em 1fr;
-  margin-left:2em;
-  margin-right:auto;
   grid-template-rows:auto 10em
   }
   
@@ -334,7 +314,8 @@
   }
   
   .posts {
-  margin-top:2em
+  margin-top:2em;
+  padding-left:1em;
   }
   }
   
@@ -347,6 +328,10 @@
   .nav img {
   max-height:20px;
   display:inline
+  }
+  
+  .footer img {
+  max-height:20px;
   }
   
   .full-bleed {
@@ -371,7 +356,8 @@
   font-family:var(--font-head);
   text-align:left;
   font-size:var(--font-large);
-  margin:0
+  max-width:18em;
+  margin-bottom:.5em;
   }
   
   nav ul.flat li {
@@ -382,7 +368,8 @@
   
   nav.tags {
   font-size:var(--font-small);
-  margin-left:0;
+  margin-left:2px;
+  margin-right:5px;
   float:right
   }
   
@@ -406,7 +393,7 @@
   font-family:var(--font-head);
   font-size:.75em;
   color:#696969;
-  max-height:10px;
+  max-height:9px;
   width:100%;
   float:left
   }
