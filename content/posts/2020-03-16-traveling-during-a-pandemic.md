@@ -18,7 +18,7 @@ Unfortunately, in the following weeks COVID-19 grew at a wild rate, the cases in
 
 ## The trip begins
 
-Many travelers had clearly cancelled their flights, as the plane was largely empty. Out of caution and care for passengers, the staff of the JAL plane were all wearing masks, and taking extra measures to clean and prepare our plane as well. As I boarded and settled-in, my first thought was “I wish folks too health this seriously all the time”. 
+Many travelers had clearly cancelled their flights, as the plane was largely empty. Out of caution and care for passengers, the staff of the JAL plane were all wearing masks, and taking extra measures to clean and prepare our plane as well. As I boarded and settled-in, my first thought was “I wish folks took health this seriously all the time”. 
 
 Our flight was fairly bumpy, but I managed to sleep for a few hours, and even eat a bit before landing at HND. The usual self-service immigration booths were closed, but as one of the only visitors, I still made it through immigration and customs in minutes. As usual, the customs agent gave me an odd look for my small backpack and lack of luggage. 
 
