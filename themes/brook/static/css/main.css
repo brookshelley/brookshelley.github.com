@@ -154,7 +154,7 @@
   display: flex;
   width:100%;
   margin-top:5px;
-  margin-bottom:0px;
+  margin-bottom:0;
   margin-right:5px;
   }
   
@@ -169,7 +169,7 @@
   font-size:16px;
   list-style:none;
   margin-right:7px;
-  margin-top:0px;
+  margin-top:0;
   }
   
   ul.flatfoot li {
