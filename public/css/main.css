@@ -38,7 +38,7 @@
   }
   
   a {
-  font-family:var(--font-head);
+  font-family:var(--font-body);
   color:#603ad0;
   text-decoration:none;
   font-weight:500
@@ -311,10 +311,6 @@
   
   .markdown {
   margin-top:2em
-  }
-  
-  .markdown a {
-    margin: 2px;
   }
   
   .posts {
