@@ -313,6 +313,11 @@
   margin-top:2em
   }
   
+  .markdown a {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  
   .posts {
   margin-top:2em;
   padding-left:1em;
