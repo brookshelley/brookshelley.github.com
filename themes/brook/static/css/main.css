@@ -261,7 +261,9 @@
   }
   
   .post-tags .tags a {
-  color:#ddd
+  color:#ddd;
+  margin-left: 1px;
+  margin-right: 1px;
   }
   
   .blogdate {
@@ -274,6 +276,7 @@
   
   .blogtitle {
   font-weight:300;
+  font-family:var(--font-head);
   font-size:var(--font-large);
   margin-right:0;
   display:block;
