@@ -23,6 +23,10 @@
   max-width:65ch
   }
   
+  .p a {
+  font-family:var(--font-body);
+  }
+  
   b,strong {
   font-weight:700
   }
@@ -45,7 +49,7 @@
   }
   
   a:hover, .active {
-  font-family:var(--font-head);
+  font-family:var(--font-body);
   color:#8f75de
   }
   
