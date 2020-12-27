@@ -38,14 +38,14 @@
   }
   
   a {
-  font-family:var(--font-head);
+  font-family:var(--font-body);
   color:#603ad0;
   text-decoration:none;
   font-weight:500
   }
   
   a:hover, .active {
-  font-family:var(--font-head);
+  font-family:var(--font-body);
   color:#8f75de
   }
   
