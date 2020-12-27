@@ -41,7 +41,9 @@
   font-family:var(--font-body);
   color:#603ad0;
   text-decoration:none;
-  font-weight:500
+  font-weight:500;
+  margin-left: 2px;
+  margin-right: 2px;
   }
   
   a:hover, .active {
