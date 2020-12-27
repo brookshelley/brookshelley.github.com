@@ -229,7 +229,7 @@
   .post li {
   list-style-type:disc
   }
-  
+
   .meta {
   font-family:var(--font-head);
   color:#888;
@@ -311,6 +311,10 @@
   
   .markdown {
   margin-top:2em
+  }
+  
+  .markdown a {
+    margin-left: 1px;
   }
   
   .posts {
