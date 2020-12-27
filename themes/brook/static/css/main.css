@@ -45,7 +45,6 @@
   }
   
   a:hover, .active {
-  font-family:var(--font-body);
   color:#8f75de
   }
   
