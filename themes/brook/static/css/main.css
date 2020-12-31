@@ -38,14 +38,15 @@
   }
   
   a {
-  font-family:var(--font-body);
+  font-family:var(--font-head);
   color:#603ad0;
   text-decoration:none;
-  font-weight:500
+  font-weight:500;
+  margin-left: 2px;
+  margin-right: 2px;
   }
   
   a:hover, .active {
-  font-family:var(--font-body);
   color:#8f75de
   }
   
@@ -261,7 +262,9 @@
   }
   
   .post-tags .tags a {
-  color:#ddd
+  color:#ddd;
+  margin-left: 1px;
+  margin-right: 1px;
   }
   
   .blogdate {
@@ -274,6 +277,7 @@
   
   .blogtitle {
   font-weight:300;
+  font-family:var(--font-head);
   font-size:var(--font-large);
   margin-right:0;
   display:block;
